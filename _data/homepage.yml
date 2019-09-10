@@ -23,20 +23,20 @@ button:
 # Info Sections
 info-sections:
   - section-title: 
-    section-subtitle: Enjoy eBooks and eAudiobooks
-    section-description: With more than half a million eBooks and eAudiobooks, there’s always something to read or listen to.
-    section-more-button: Learn more
+    section-subtitle: Tropical Metropolis
+    section-description: 
+    section-more-button: Find Out More
     section-more-button-url: 
-    section-image-path:  
+    section-image-path: /images/nlb-photo-exhibition-zone-1.png 
   - section-title: 
-    section-subtitle: Read eNewspapers and eMagazines
-    section-description: Choose from more than 7,000 current, digitised issues of international newspapers and magazines.
-    section-more-button: Learn more
+    section-subtitle: Zone 2
+    section-description: 
+    section-more-button: Find Out More
     section-more-button-url: 
-    section-image-path:  
+    section-image-path: /images/nlb-photo-exhibition-zone-2.png 
   - section-title: 
-    section-subtitle: Learn New Skills
-    section-description: Learn new skills from more than 7,000 courses from LyndaLibrary (also known as LinkedIn Learning). These video tutorials cover business, technology, photography and more! 
-    section-more-button: Learn more
+    section-subtitle: Zone 3
+    section-description: 
+    section-more-button: Find Out More
     section-more-button-url: 
     section-image-path:  
