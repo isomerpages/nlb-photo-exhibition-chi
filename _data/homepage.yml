@@ -20,10 +20,8 @@ button:
   - text: START EXPLORING
     url: /who-we-are/
 
-# Programmes Section
-# To edit the programme details, go to programmes.yml
-programmes-title: Introduction
-programmes-subtitle: Explore Singapore Photo Exhibition
-programmes-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla enim augue, dapibus eu orci nec, eleifend gravida dolor. Duis feugiat bibendum lorem non aliquet. Sed mattis mi erat, nec rutrum ligula lobortis sit amet. Curabitur at cursus elit. Nulla et rhoncus diam, eu facilisis neque. Curabitur imperdiet lacus gravida ultrices consectetur. Quisque efficitur eget nulla at cursus. Sed orci libero, lacinia in ligula ut, sollicitudin scelerisque dolor. 
-programmes-more-button: More Products and Services
-programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
+# Resources
+resources-title: Resources
+resources-subtitle: Be in the know
+resources-more-button: More Resources
+resources-more-button-url: resources/
