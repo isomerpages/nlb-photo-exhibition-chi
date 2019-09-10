@@ -19,9 +19,3 @@ hero-banner: /images/nlb-photo-exhibition-main-banner.jpg
 button:
   - text: START EXPLORING
     url: /who-we-are/
-
-# Resources
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resources/
