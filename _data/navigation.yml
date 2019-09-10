@@ -6,13 +6,15 @@
 
 - title: Contact Us
   url: /contact-us/
-- title: Left Nav One
-  url: /left-nav-one/sub-page-A/
+- title: Tropical Metropolis
+  url: /tropical-metroplis/
   sub-links:
-  - title: Sub Page A
-    url: /left-nav-one/sub-page-A/
-  - title: Sub Page B
-    url: /left-nav-one/sub-page-B/
+  - title: The Earliest Thoroughfares
+    url: /tropical-metroplis/the-earliest-thoroughfares/
+  - title: High Life in the City
+    url: /tropical-metroplis/high-life-in-the-city/
+  - title: Away from the Bustle
+    url: /tropical-metroplis/away-from-the-bustle/
 - title: Left Nav Two
   url: /left-nav-two/sub-page-C/
   sub-links:
