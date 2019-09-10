@@ -20,4 +20,23 @@ button:
   - text: START EXPLORING
     url: /who-we-are/
 
-<h1>Try</h1>
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: Enjoy eBooks and eAudiobooks
+    section-description: With more than half a million eBooks and eAudiobooks, there’s always something to read or listen to.
+    section-more-button: Learn more
+    section-more-button-url: 
+    section-image-path:  
+  - section-title: 
+    section-subtitle: Read eNewspapers and eMagazines
+    section-description: Choose from more than 7,000 current, digitised issues of international newspapers and magazines.
+    section-more-button: Learn more
+    section-more-button-url: 
+    section-image-path:  
+  - section-title: 
+    section-subtitle: Learn New Skills
+    section-description: Learn new skills from more than 7,000 courses from LyndaLibrary (also known as LinkedIn Learning). These video tutorials cover business, technology, photography and more! 
+    section-more-button: Learn more
+    section-more-button-url: 
+    section-image-path:  
