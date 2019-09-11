@@ -112,3 +112,37 @@ Cleared from part of the jungle near the shore, High Street was the first street
 <p></p>
 <p></p>
 <hr>
+
+
+![North Bridge Road, 1910s](/images/Sub1-10-North-Bridge-Road.jpg)
+<div class="custom-caption">
+<div><p>Title:</p><p>North Bridge Road, 1910s</p></div>
+<div><p>Accession Number:</p><p>19980005879 - 0017</p></div>
+<div>Lim Kheng Chye Collection, Courtesy of National Archives Singapore.</div>
+</div>
+North Bridge Road was one of the earliest roads to be constructed in Singapore. It was carved out of dense jungle and constructed by convict labourers. Also known as Seoh Poh (小坡), it is featured in Chinese writer Lao She’s (老舍) Xiaopo’s birthday (《小坡的生日》), a children’s fiction featuring a pair of siblings living in Singapore and their lives at North Bridge Road. The road remains as one of Singapore's main roads today.
+<p></p>
+<p></p>
+<hr>
+
+
+![South Bridge Road, 1890s](/images/Sub1-11-Central-Police-Station-And-Police-Court.jpg)
+<div class="custom-caption">
+<div><p>Title:</p><p>South Bridge Road, 1890s</p></div>
+<div>Lee Kip Lin Collection, National Library Singapore</div>
+</div>
+South Bridge Road has been known by its name since early 1820s before a proper road was even constructed. It grew in importance as the link between the town and New Harbour, attracting wholesale and retail merchant traders, godowns, goldsmith shops and other import and export businesses to set up their businesses along this road. Being the main street of Chinatown, it was also known as Tua Poh (大坡) among the Chinese.
+<p></p>
+<p></p>
+<hr>
+
+
+![South Bridge Road, 1890s](/images/Sub1-12-North-Bridge-Road.jpg)
+<div class="custom-caption">
+<div><p>Title:</p><p>South Bridge Road, 1890s</p></div>
+<div>Lee Kip Lin Collection, National Library Singapore</div>
+</div>
+While South Bridge Road is the main street in Chinatown, it is home to places of worship for other communities, showing the multi-cultural interface of public spaces in Singapore since the early days. Seen here is the Sri Mariamman Temple in the centre, a Hindu temple which was first constructed 1827, and Jamae Mosque on the right, which began in 1826. Both of these sites of worship are now Singapore’s national monuments.
+<p></p>
+<p></p>
+<hr>
