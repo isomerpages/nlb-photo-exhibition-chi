@@ -54,3 +54,61 @@ By the 1930s, many commercial buildings along Collyer Quay had been replaced by 
 <p></p>
 <p></p>
 <hr>
+
+
+![Fullerton Building, c. 1930](/images/Sub1-5-General-Post-Office-And-Singapore-Clubfullerton.jpg)
+<div class="custom-caption">
+<div><p>Title:</p><p>Fullerton Building, c. 1930</p></div>
+<div><p>Accession Number:</p><p>19980005879 – 0109</p></div>
+<div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
+</div>
+The Fullerton Building has been a prominent landmark on the Singapore waterfront since its completion in 1928. The neoclassical façade  featuring Doric columns evokes grandeur and power. Most well remembered as the General Post Office, it also housed several government departments and had been witness to many Singapore’s nation building milestones. After major renovations between 1997 and 2000, it became The Fullerton Hotel on 1 January 2001.
+<p></p>
+<p></p>
+<hr>
+
+
+![Mouth of the Singapore River, c. 1910](/images/Sub1-6.jpg)
+<div class="custom-caption">
+<div><p>Title:</p><p>Mouth of the Singapore River, c. 1910</p></div>
+<div><p>Accession Number:</p><p>19980005494 – 0016</p></div>
+<div>Courtesy of National Archives of Singapore</div>
+</div>
+This area near the mouth the Singapore River is known as the Empress Place, where colonial era civic buildings were located. On the right are Cavenagh Bridge in the foreground and Anderson Bridge. On the left was the Empress Place Building which housed various government offices, and the Victoria Memorial Hall behind it. Further beyond is the Padang, a playing field for cricket which started in the 1820s.
+<p></p>
+<p></p>
+<hr>
+
+
+![Empress Place, 1930s](/images/Sub1-7-Town-Hall.jpg)
+<div class="custom-caption">
+<div><p>Title:</p><p>Empress Place, 1930s</p></div>
+<div><p>Accession Number:</p><p>19980005576 – 0046</p></div>
+<div>Courtesy of National Archives of Singapore</div>
+</div>
+On the left in the foreground is the Dalhousie Obelisk, Singapore’s first public statue erected in 1850. In the middle is the Victoria Theatre and Memorial Hall, which is the oldest performing arts venue in Singapore. The Theatre, constructed in 1862, was then known as the Town Hall, and the adjoining Memorial Hall was erected in 1905 in memory of Queen Victoria. The Victoria Theatre and Memorial Hall were also used for public events and political meetings, making it a historic landmark in Singapore.
+<p></p>
+<p></p>
+<hr>
+
+
+![Cavenagh Bridge, 1894](/images/Sub1-8-Cavenagh-Bridge.jpg)
+<div class="custom-caption">
+<div><p>Title:</p><p>Cavenagh Bridge, 1894</p></div>
+<div>Lee Kip Lin Collection, National Library Singapore</div>
+</div>
+Cavenagh Bridge is the oldest bridge across the Singapore River. Before it was built, one had to cross the river by ferry. Completed in 1869 to celebrate the 50th anniversary of the founding of Singapore, the bridge is named after William Orfeur Cavenagh, who was the last governor of the Straits Settlements (1859-1867) before Singapore became a crown colony. It now serves as a footbridge between the Fullerton Hotel Singapore and Empress Place.
+<p></p>
+<p></p>
+<hr>
+
+
+![High Street, 1890](/images/Sub1-9-Hotel-Del-Europe-High-Street.jpg)
+<div class="custom-caption">
+<div><p>Title:</p><p>High Street, 1890</p></div>
+<div>Lee Kip Lin Collection, National Library Singapore</div>
+</div>
+Cleared from part of the jungle near the shore, High Street was the first street in Singapore to be laid out in 1819. The street sits on high ground and is hence not prone to flooding. On the right is Hotel de l'Europe, one of the major hotels in early Singapore established in 1857. Before the 1970s, High Street was a popular shopping belt for the well-heeled residents and tourists.
+<p></p>
+<p></p>
+<hr>
