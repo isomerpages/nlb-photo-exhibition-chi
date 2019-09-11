@@ -29,14 +29,14 @@ info-sections:
     section-more-button-url: /tropical-metropolis/
     section-image-path: /images/nlb-photo-exhibition-zone-1.png 
   - section-title: 
-    section-subtitle: Zone 2
-    section-description: 
+    section-subtitle: Zone 2 Exhibition
+    section-description: Nulla augue odio, efficitur id dolor quis, feugiat porta eros. Nulla vitae nisi a purus vestibulum consectetur vel quis lorem. Nunc sit amet euismod tellus, vitae viverra ante. Fusce lobortis tempus nibh eu gravida. Nunc interdum, ligula quis ultrices tristique, lectus nisi aliquam nibh, nec sodales libero justo eu purus. Vivamus pulvinar blandit eros a porttitor. Curabitur quam nunc, congue elementum massa in, tristique lobortis nisl. Morbi vitae ullamcorper est. Curabitur ut dictum purus, in auctor massa. Proin tortor nibh, placerat ac pellentesque at, porta eu turpis. Curabitur at nunc leo
     section-more-button: Find Out More
     section-more-button-url: 
     section-image-path: /images/nlb-photo-exhibition-zone-2.png 
   - section-title: 
-    section-subtitle: Zone 3
+    section-subtitle: Zone 3 Exhibition
     section-description: 
     section-more-button: Find Out More
     section-more-button-url: 
-    section-image-path:  
+    section-image-path: /images/nlb-photo-exhibition-zone-2.png
