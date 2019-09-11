@@ -156,3 +156,18 @@ collection_name: tropical-metropolis
 	</div>
 </div>
 
+
+<div class="type-two">
+	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/tropical-metropolis/high-life-in-the-city/chinese-opera-in-new-world-1955/" class="project-link">
+				<img src="/images/thumbnail/Sub2-13-boxed.jpg" alt="Chinese Opera in New World, 1955" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Chinese Opera in New World, 1955</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
