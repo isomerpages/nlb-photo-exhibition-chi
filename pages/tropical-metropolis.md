@@ -34,7 +34,7 @@ Modern Singapore is a metropolis on all counts. However, since the early 19th ce
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean/know/brunei-a-country-profile/" class="project-link">
+			<a href="/tropical-metropolis/away-from-the-bustle" class="project-link">
 				<img src="/images/Away-from-the-Bustle-Boxed.jpg" alt="Brunei: A Country Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
