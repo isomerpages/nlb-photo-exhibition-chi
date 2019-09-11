@@ -10,3 +10,38 @@ collection_name: tropical-metropolis
 
 <p></p>
 <p></p>
+
+<div class="type-two">
+	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/tropical-metropolis/high-life-in-the-city/raffles-hotel-1900s/" class="project-link">
+				<img src="/images/asean-countries/ASEAN-main-page-banner-370x150.jpg" alt="Raffles Hotel, 1900s" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Raffles Hotel, 1900s</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/tropical-metropolis/high-life-in-the-city/raffles-hotel-ballroom-1900s/" class="project-link">
+				<img src="/images/asean-countries/Regional-Newspapers-1-370x150.jpg" alt="Raffles Hotel Ballroom, 1900s" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Raffles Hotel Ballroom, 1900s</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/tropical-metropolis/high-life-in-the-city/grand-hotel-de-l'europe-1910s" class="project-link">
+				<img src="/images/asean-countries/Brunei-Snapshot-370x150.jpg" alt="Grand Hotel de l’Europe, 1910s" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Grand Hotel de l’Europe, 1910s</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
