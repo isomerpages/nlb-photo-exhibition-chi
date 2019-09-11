@@ -15,7 +15,7 @@ collection_name: tropical-metropolis
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/tropical-metropolis/high-life-in-the-city/raffles-hotel-1900s/" class="project-link">
-				<img src="/images/Sub2-1-Raffles-Hotel.jpg" height:"500px" alt="Raffles Hotel, 1900s" class="project-image">
+				<img src="/images/Sub2-1-Raffles-Hotel.jpg" alt="Raffles Hotel, 1900s" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Raffles Hotel, 1900s</b></h5>
