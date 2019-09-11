@@ -15,7 +15,7 @@ collection_name: tropical-metropolis
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/tropical-metropolis/high-life-in-the-city/raffles-hotel-1900s/" class="project-link">
-				<img src="/images/Sub2-1-Raffles-Hotel.jpg" alt="Raffles Hotel, 1900s" class="project-image">
+				<img src="/images/thumbnail/Sub2-1-Raffles-Hotel-boxed.jpg" alt="Raffles Hotel, 1900s" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Raffles Hotel, 1900s</b></h5>
@@ -25,7 +25,7 @@ collection_name: tropical-metropolis
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/tropical-metropolis/high-life-in-the-city/raffles-hotel-ballroom-1900s/" class="project-link">
-				<img src="/images/asean-countries/Regional-Newspapers-1-370x150.jpg" alt="Raffles Hotel Ballroom, 1900s" class="project-image">
+				<img src="/images/thumbnail/Sub2-2-The-Ballroom-Set-Raffles-Hotel-boxed.jpg" alt="Raffles Hotel Ballroom, 1900s" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Raffles Hotel Ballroom, 1900s</b></h5>
@@ -35,10 +35,46 @@ collection_name: tropical-metropolis
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/tropical-metropolis/high-life-in-the-city/grand-hotel-de-l'europe-1910s" class="project-link">
-				<img src="/images/asean-countries/Brunei-Snapshot-370x150.jpg" alt="Grand Hotel de l’Europe, 1910s" class="project-image">
+				<img src="/images/thumbnail/Sub2-3-Hotel-De-Europe-boxed.jpg" alt="Grand Hotel de l’Europe, 1910s" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Grand Hotel de l’Europe, 1910s</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+
+<div class="type-two">
+	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/tropical-metropolis/high-life-in-the-city/dining-room-at-grand-hotel-de-l’Europe-1910s/" class="project-link">
+				<img src="/images/thumbnail/Sub2-4-Dining-Room-boxed.jpg" alt="Dining Room at Grand Hotel de l’Europe, 1910s" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Dining Room at Grand Hotel de l’Europe, 1910s</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/tropical-metropolis/high-life-in-the-city/shopfront-of-john-little-&-co-1890s/" class="project-link">
+				<img src="/images/thumbnail/Sub2-5-Raffles-Square-boxed.jpg" alt="Shopfront of John Little & Co., 1890s" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Shopfront of John Little & Co., 1890s</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/tropical-metropolis/high-life-in-the-city/-interior-of-john-little-1910s" class="project-link">
+				<img src="/images/thumbnail/Sub2-6-Interior-View-John-Little-and-Cos-Premises-boxed.jpg" alt="Interior of John Little, c.1910s" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Interior of John Little, c.1910s</b></h5>
 				</div>
 			</div>
 			</a>
