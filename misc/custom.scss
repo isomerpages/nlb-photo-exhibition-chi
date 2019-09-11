@@ -359,3 +359,14 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+
+//fx-custom
+
+
+type-two .project-card {
+    margin-top: -2rem !important;
+    height: auto !important;
+    text-align: center !important;
+    padding: 1rem 2rem !important;
+}
