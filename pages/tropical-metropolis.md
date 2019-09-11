@@ -14,7 +14,7 @@ Modern Singapore is a metropolis on all counts. However, since the early 19th ce
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/tropical-metropolis/the-earliest-thoroughfares/">
-				<img src="/images/The-Earliest-Thoroughfares.png" alt="Tropical Metropolis - The Earliest Thoroughfares" class="project-image">
+				<img src="/images/The-Earliest-Thoroughfares-Boxed.jpg" alt="Tropical Metropolis - The Earliest Thoroughfares" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>The Earliest Thoroughfares</b></h5>
@@ -24,7 +24,7 @@ Modern Singapore is a metropolis on all counts. However, since the early 19th ce
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/tropical-metropolis/high-life-in-the-city/" class="project-link">
-				<img src="/images/High-Life-in-the-City.png" alt="Tropical Metropolis - High Life in the City" class="project-image">
+				<img src="/images/High-Life-in-the-City-Boxed.jpg" alt="Tropical Metropolis - High Life in the City" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>High Life in the City</b></h5>
@@ -34,7 +34,7 @@ Modern Singapore is a metropolis on all counts. However, since the early 19th ce
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/asean/know/brunei-a-country-profile/" class="project-link">
-				<img src="/images/asean-countries/Brunei-Snapshot-370x150.jpg" alt="Brunei: A Country Profile" class="project-image">
+				<img src="/images/Away-from-the-Bustle-Boxed.jpg" alt="Brunei: A Country Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Brunei: A Country Profile</b></h5>
