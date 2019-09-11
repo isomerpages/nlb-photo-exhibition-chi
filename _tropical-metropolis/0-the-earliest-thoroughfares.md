@@ -16,5 +16,5 @@ Singapore’s development into a major port has been closely linked to its strat
 <div><p>Accession Number:</p><p>19980005094 - 0072</p></div>
 </div>
 Constructed in 1856, Johnston’s Pier was where most visitors first set foot on Singapore in her early days. Made of iron and wood, the pier had a 40-feet-wide platform which extended from shore into the sea. A red lamp used to hang at the end of the pier to warn ships as they entered the harbour, giving the pier its local name, ‘the red lamp’. It was demolished in 1935, replaced by nearby Clifford Pier which opened on 1933 to handle the increase in shipping traffic.
-
-
+<p></p>
+<hr>
