@@ -5,7 +5,7 @@ permalink: /tropical-metropolis/away-from-the-bustle/
 breadcrumb: Away from the Bustle
 collection_name: tropical-metropolis
 ---
-# **High Life in the City**
+# **Away from the Bustle**
 
 ![Tanjong Katong, 1920s](/images/Sub3-8-Tanjong-Katong-Singapore.jpg)
 <div class="custom-caption">
