@@ -373,7 +373,6 @@ $desktop: 960px + (2 * $gap) !default;
 
 .custom-caption > div > p:nth-child(2) {
     padding-left: 20px;
-    border-left: 1px solid #d7d7d7;
 }
 
 .custom-caption > div p {
@@ -386,8 +385,10 @@ $desktop: 960px + (2 * $gap) !default;
     align-items: center;
 }
 .custom-caption > div > p:nth-child(1) {
-    width: 25%;
+    width: 30%;
     font-weight: bold;
+    flex: 0 0 30%;
+    border-right: 1px solid #d7d7d7;
 }
 
 .custom-caption>div:nth-last-child(1) {
