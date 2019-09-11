@@ -108,7 +108,7 @@ collection_name: tropical-metropolis
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/tropical-metropolis/high-life-in-the-city/interior-of-capitol-theatre-1930/" class="project-link">
-				<img src="/images/thumbnail/Sub2-9.jpg" alt="Interior of Capitol Theatre, 1930" class="project-image">
+				<img src="/images/thumbnail/Sub2-9-boxed.jpg" alt="Interior of Capitol Theatre, 1930" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Interior of Capitol Theatre, 1930</b></h5>
