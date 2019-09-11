@@ -389,3 +389,9 @@ $desktop: 960px + (2 * $gap) !default;
     width: 30%;
     font-weight: bold;
 }
+
+.custom-caption>div:nth-last-child(1) {
+    font-weight: bold;
+    color: #e25f25;
+    margin-top: 20px;
+}
