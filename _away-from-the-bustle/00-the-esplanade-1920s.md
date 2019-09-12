@@ -7,7 +7,7 @@ collection_name: away-from-the-bustle
 ---
 
 ![The Esplanade, 1920s](/images/Sub3-1-Esplanade.jpg)
-<div class="custom-caption">
+<div class="custom-caption style-two">
 <div><p>Title:</p><p>The Esplanade, 1920s</p></div>
 <div><p>Accession Number:</p><p>19980005492 – 0064</p></div>
 <div>Courtesy of National Archives of Singapore </div>
