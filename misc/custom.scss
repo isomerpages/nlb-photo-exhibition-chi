@@ -407,3 +407,15 @@ $desktop: 960px + (2 * $gap) !default;
 .box-hov-style.type-two .col:hover img.project-image {
     top:-20px;
 }
+
+.custom-caption.style-two p {
+    color: white;
+}
+
+.custom-caption.style-two {
+    border: 3px solid #ffe2ad;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background: orange;
+    position: relative;
+}
