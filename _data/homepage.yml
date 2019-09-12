@@ -27,16 +27,16 @@ info-sections:
     section-description:  In this section, we will see what early Singapore had to offer in terms of its administrative and commercial centres, as well as its leisure and hospitality amenities. As a tropical island located at the confluence of cultures, the city exuded distinctive flavour and unique charms.
     section-more-button: Find Out More
     section-more-button-url: /tropical-metropolis/
-    section-image-path: /images/nlb-photo-exhibition-zone-1.png 
+    section-image-path: /images/nlb-photo-exhibition-zone-1a.png 
   - section-title: 
-    section-subtitle: Zone 2 Exhibition
+    section-subtitle: Theme 2
     section-description: Nulla augue odio, efficitur id dolor quis, feugiat porta eros. Nulla vitae nisi a purus vestibulum consectetur vel quis lorem. Nunc sit amet euismod tellus, vitae viverra ante. Fusce lobortis tempus nibh eu gravida. Nunc interdum, ligula quis ultrices tristique, lectus nisi aliquam nibh, nec sodales libero justo eu purus. Vivamus pulvinar blandit eros a porttitor. Curabitur quam nunc, congue elementum massa in, tristique lobortis nisl. Morbi vitae ullamcorper est.
     section-more-button: Find Out More
     section-more-button-url: 
-    section-image-path: /images/nlb-photo-exhibition-zone-2.png 
+    section-image-path: /images/nlb-photo-exhibition-zone-2a.png 
   - section-title: 
-    section-subtitle: Zone 3 Exhibition
+    section-subtitle: Theme 3
     section-description: Nulla mollis iaculis diam. Suspendisse euismod arcu vitae dictum rutrum. Duis pretium velit sed dapibus tincidunt. Suspendisse ornare orci vel justo aliquam ornare. Fusce ac est sed magna elementum semper eget in elit. Ut lacinia nec quam in lobortis. Etiam a nisi sit amet justo consectetur blandit et eu ipsum. Mauris scelerisque neque sollicitudin nunc vulputate, quis accumsan enim feugiat.
     section-more-button: Find Out More
     section-more-button-url: 
-    section-image-path: /images/nlb-photo-exhibition-zone-2.png
+    section-image-path: /images/nlb-photo-exhibition-zone-3.png
