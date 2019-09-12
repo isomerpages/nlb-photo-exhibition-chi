@@ -54,3 +54,39 @@ collection_name: tropical-metropolis
 	</div>
 </div>
 
+
+<div class="type-two">
+	<div class="row is-multiline">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/tropical-metropolis/away-from-the-bustle/entrance-of-botanical-gardens-1900s" class="project-link">
+				<img src="/images/thumbnail/Sub3-4-Entrance-Botanical-Garden-boxed.jpg" alt="Entrance of Botanical Gardens, 1900s" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Entrance of Botanical Gardens, 1900s</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/tropical-metropolis/away-from-the-bustle/impounding-reservoir-1890s/" class="project-link">
+				<img src="/images/thumbnail/Sub3-5-The-Water-Works-boxed.jpg" alt="Impounding Reservoir, 1890s" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Impounding Reservoir, 1890s</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/tropical-metropolis/away-from-the-bustle/thomson-road-reservoir-1907" class="project-link">
+				<img src="/images/thumbnail/Sub3-6-boxed.jpg" alt="Thomson Road Reservoir, 1907" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Thomson Road Reservoir, 1907</b></h5>
+				</div>
+			</div>
+			</a>
+		</div>
+	</div>
+</div>
+
