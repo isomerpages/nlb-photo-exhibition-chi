@@ -393,7 +393,6 @@ $desktop: 960px + (2 * $gap) !default;
 
 .custom-caption>div:nth-last-child(1) {
     font-weight: bold;
-    color: #e25f25;
     margin-top: 20px;
 }
 
@@ -409,20 +408,25 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .custom-caption.style-two p {
-    color: white;
+    font-size: 12pt;
+    line-height: 20pt;
 }
 
 .custom-caption.style-two {
     border: 3px solid #ffe2ad;
     padding: 10px 20px;
-    border-radius: 10px;
-    background: orange;
     position: relative;
     margin-bottom: 60px;
 }
 
 .custom-caption.style-two>div:nth-last-child(1) {
     position: absolute;
+}
+
+.custom-caption.type-two>div:nth-last-child(1) {
+    font-weight: bold;
+    color: #cacaca;
+    margin-top: 20px;
 }
 
 /*temporary*/
