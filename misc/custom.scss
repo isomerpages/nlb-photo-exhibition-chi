@@ -409,13 +409,13 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .custom-caption.style-two p {
-    font-size: 12pt;
-    line-height: 20pt;
+    font-size: 11pt;
+    line-height: 18pt;
     color:#a2a2a2;
 }
 
 .custom-caption.style-two {
-    padding: 10px 20px;
+    padding: 10px 0px;
     position: relative;
     margin-bottom: 60px;
 }
