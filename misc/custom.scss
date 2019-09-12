@@ -396,3 +396,13 @@ $desktop: 960px + (2 * $gap) !default;
     color: #e25f25;
     margin-top: 20px;
 }
+
+
+.box-hov-style.type-two img.project-image {
+    position: relative;
+    transition: 0.3s all ease;
+}
+
+.box-hov-style.type-two:hover img.project-image {
+    top:10px;
+}
