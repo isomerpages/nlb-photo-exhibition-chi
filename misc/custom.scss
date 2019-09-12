@@ -401,8 +401,9 @@ $desktop: 960px + (2 * $gap) !default;
 .box-hov-style.type-two img.project-image {
     position: relative;
     transition: 0.3s all ease;
+    top: 0px;
 }
 
 .box-hov-style.type-two .col:hover img.project-image {
-    top:10px;
+    top:-20px;
 }
