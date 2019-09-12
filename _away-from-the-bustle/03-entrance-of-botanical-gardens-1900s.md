@@ -7,7 +7,7 @@ collection_name: away-from-the-bustle
 ---
 
 ![Entrance of Botanical Gardens, 1900s](/images/Sub3-4-Entrance-Botanical-Garden.jpg)
-<div class="custom-caption">
+<div class="custom-caption style-two">
 <div><p>Title:</p><p>Entrance of Botanical Gardens, 1900s</p></div>
 <div><p>Accession Number:</p><p>20080000045 - 0006</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
