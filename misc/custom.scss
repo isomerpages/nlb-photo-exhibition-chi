@@ -403,6 +403,6 @@ $desktop: 960px + (2 * $gap) !default;
     transition: 0.3s all ease;
 }
 
-.box-hov-style.type-two:hover img.project-image {
+.box-hov-style.type-two .col:hover img.project-image {
     top:10px;
 }
