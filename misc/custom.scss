@@ -394,26 +394,27 @@ $desktop: 960px + (2 * $gap) !default;
 .custom-caption>div:nth-last-child(1) {
     font-weight: bold;
     margin-top: 20px;
+    color:#e25f25;
 }
 
 
-.box-hov-style.type-two img.project-image {
+.box-hov-style.style-two img.project-image {
     position: relative;
     transition: 0.3s all ease;
     top: 0px;
 }
 
-.box-hov-style.type-two .col:hover img.project-image {
+.box-hov-style.style-two .col:hover img.project-image {
     top:-20px;
 }
 
-.custom-caption.type-two p {
+.custom-caption.style-two p {
     font-size: 12pt;
     line-height: 20pt;
     color:#cacaca;
 }
 
-.custom-caption.type-two {
+.custom-caption.style-two {
     padding: 10px 20px;
     position: relative;
     margin-bottom: 60px;
