@@ -418,4 +418,9 @@ $desktop: 960px + (2 * $gap) !default;
     border-radius: 10px;
     background: orange;
     position: relative;
+    margin-bottom: 60px;
+}
+
+.custom-caption.style-two>div:nth-last-child(1) {
+    position: absolute;
 }
