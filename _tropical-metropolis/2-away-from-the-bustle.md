@@ -19,7 +19,7 @@ collection_name: tropical-metropolis
 <p></p>
 <p></p>
 
-<div class="type-two">
+<div class="type-two box-hov-style">
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/tropical-metropolis/away-from-the-bustle/the-esplanade-1920s" class="project-link">
@@ -55,7 +55,7 @@ collection_name: tropical-metropolis
 </div>
 
 
-<div class="type-two">
+<div class="type-two box-hov-style">
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/tropical-metropolis/away-from-the-bustle/entrance-of-botanical-gardens-1900s" class="project-link">
