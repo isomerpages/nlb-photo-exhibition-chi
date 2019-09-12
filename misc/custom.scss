@@ -393,7 +393,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .custom-caption>div:nth-last-child(1) {
     font-weight: bold;
-    margin-top: 20px;
+    margin-top: 15px;
     color:#e25f25;
 }
 
@@ -411,7 +411,7 @@ $desktop: 960px + (2 * $gap) !default;
 .custom-caption.style-two p {
     font-size: 12pt;
     line-height: 20pt;
-    color:#cacaca;
+    color:#a2a2a2;
 }
 
 .custom-caption.style-two {
