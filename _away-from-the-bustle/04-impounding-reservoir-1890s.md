@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Impounding Reservoir, 1890s
-permalink: /tropical-metropolis/away-from-the-bustle/the-esplanade-1920s/
+permalink: /tropical-metropolis/away-from-the-bustle/impounding-reservoir-1890s/
 breadcrumb: Impounding Reservoir, 1890s
 collection_name: away-from-the-bustle
 ---
