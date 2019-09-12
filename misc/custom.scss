@@ -424,3 +424,8 @@ $desktop: 960px + (2 * $gap) !default;
 .custom-caption.style-two>div:nth-last-child(1) {
     position: absolute;
 }
+
+/*temporary*/
+section.bp-section.bg-newssection:nth-last-child(1) {
+    display: none;
+}
