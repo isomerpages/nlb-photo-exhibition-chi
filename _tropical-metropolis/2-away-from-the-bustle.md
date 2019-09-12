@@ -22,31 +22,31 @@ collection_name: tropical-metropolis
 <div class="type-two">
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/tropical-metropolis/high-life-in-the-city/raffles-hotel-1900s/" class="project-link">
-				<img src="/images/thumbnail/Sub2-1-Raffles-Hotel-boxed.jpg" alt="Raffles Hotel, 1900s" class="project-image">
+			<a href="/tropical-metropolis/away-from-the-bustle/the-esplanade-1920s" class="project-link">
+				<img src="/images/thumbnail/Sub3-1-Esplanade-boxed.jpg" alt="The Esplanade, 1920s" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Raffles Hotel, 1900s</b></h5>
+					<h5><b>The Esplanade, 1920s</b></h5>
 				</div>
 			</div>
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/tropical-metropolis/high-life-in-the-city/raffles-hotel-ballroom-1900s/" class="project-link">
-				<img src="/images/thumbnail/Sub2-2-The-Ballroom-Set-Raffles-Hotel-boxed.jpg" alt="Raffles Hotel Ballroom, 1900s" class="project-image">
+			<a href="/tropical-metropolis/away-from-the-bustle/view-of-the-esplanade-from-the-sea-1920s/" class="project-link">
+				<img src="/images/thumbnail/Sub3-2-The-Esplanade-boxed.jpg" alt="View of the Esplanade from the sea, c. 1920s" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Raffles Hotel Ballroom, 1900s</b></h5>
+					<h5><b>View of the Esplanade from the sea, c. 1920s</b></h5>
 				</div>
 			</div>
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/tropical-metropolis/high-life-in-the-city/grand-hotel-de-l'europe-1910s" class="project-link">
-				<img src="/images/thumbnail/Sub2-3-Hotel-De-Europe-boxed.jpg" alt="Grand Hotel de l’Europe, 1910s" class="project-image">
+			<a href="/tropical-metropolis/away-from-the-bustle/botanical-gardens-1900s" class="project-link">
+				<img src="/images/thumbnail/Sub3-3-boxed.jpg" alt="Botanical Gardens, 1900s" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Grand Hotel de l’Europe, 1910s</b></h5>
+					<h5><b>Botanical Gardens, 1900s</b></h5>
 				</div>
 			</div>
 			</a>
