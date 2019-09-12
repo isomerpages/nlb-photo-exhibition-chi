@@ -7,7 +7,7 @@ collection_name: away-from-the-bustle
 ---
 
 ![Thomson Road Reservoir, 1907](/images/Sub3-6.jpg)
-<div class="custom-caption">
+<div class="custom-caption style-two">
 <div><p>Title:</p><p>Thomson Road Reservoir, 1907</p></div>
 <div>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</div>
 </div>
