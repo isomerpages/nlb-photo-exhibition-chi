@@ -95,7 +95,7 @@ collection_name: tropical-metropolis
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/tropical-metropolis/away-from-the-bustle/alkaff-lake-gardens-1920s" class="project-link">
-				<img src="/images/thumbnail/Sub3-7-Alkaff-Garden.jpg" alt="Alkaff Lake Gardens, 1920s" class="project-image">
+				<img src="/images/thumbnail/Sub3-7-Alkaff-Garden-boxed.jpg" alt="Alkaff Lake Gardens, 1920s" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Alkaff Lake Gardens, 1920s</b></h5>
@@ -105,7 +105,7 @@ collection_name: tropical-metropolis
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/tropical-metropolis/away-from-the-bustle/tanjong-katong-1920s/" class="project-link">
-				<img src="/images/thumbnail/Sub3-8-Tanjong-Katong-Singapore.jpg" alt="Tanjong Katong, 1920s" class="project-image">
+				<img src="/images/thumbnail/Sub3-8-Tanjong-Katong-Singapore-boxed.jpg" alt="Tanjong Katong, 1920s" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Tanjong Katong, 1920s</b></h5>
@@ -115,7 +115,7 @@ collection_name: tropical-metropolis
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/tropical-metropolis/away-from-the-bustle/beach-at-tanjong-katong-1920s" class="project-link">
-				<img src="/images/thumbnail/Sub3-9.jpg" alt="Beach at Tanjong Katong, 1920s" class="project-image">
+				<img src="/images/thumbnail/Sub3-9-boxed.jpg" alt="Beach at Tanjong Katong, 1920s" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Beach at Tanjong Katong, 1920s</b></h5>
