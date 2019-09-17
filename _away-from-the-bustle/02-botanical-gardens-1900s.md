@@ -7,7 +7,7 @@ collection_name: away-from-the-bustle
 ---
 
 ![Botanical Gardens, 1900s](/images/Sub3-3.jpg)
-<div class="custom-caption style-two">
+<div class="custom-caption">
 <div><p>Botanical Gardens, 1900s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>20080000045 – 0027</div>
