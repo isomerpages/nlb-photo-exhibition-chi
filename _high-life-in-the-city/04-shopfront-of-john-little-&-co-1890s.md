@@ -8,7 +8,7 @@ collection_name: high-life-in-the-city
 
 ![Shopfront of John Little & Co., 1890s](/images/Sub2-5-Raffles-Square.jpg)
 <div class="custom-caption">
-<div><p>Title:</p><p>Shopfront of John Little & Co., 1890s</p></div>
+<div><p>Shopfront of John Little & Co., 1890s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
 
