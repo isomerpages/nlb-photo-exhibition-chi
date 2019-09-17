@@ -18,7 +18,7 @@ Modern Singapore is a metropolis on all counts. However, since the early 19th ce
 				<img src="/images/The-Earliest-Thoroughfares-Boxed.jpg" alt="Tropical Metropolis - The Earliest Thoroughfares" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>The Earliest Thorough&shy;fares</b></h5>
+					<h5><b>The Earliest<br/>Thorough&shy;fares</b></h5>
 				</div>
 			</div>
 			</a>
@@ -28,7 +28,7 @@ Modern Singapore is a metropolis on all counts. However, since the early 19th ce
 				<img src="/images/High-Life-in-the-City-Boxed.jpg" alt="Tropical Metropolis - High Life in the City" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>High Life in the City</b></h5>
+					<h5><b>High Life<br/>in the City</b></h5>
 				</div>
 			</div>
 			</a>
@@ -38,7 +38,7 @@ Modern Singapore is a metropolis on all counts. However, since the early 19th ce
 				<img src="/images/Away-from-the-Bustle-Boxed.jpg" alt="Brunei: A Country Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Away from the Bustle</b></h5>
+					<h5><b>Away from<br/>the Bustle</b></h5>
 				</div>
 			</div>
 			</a>
