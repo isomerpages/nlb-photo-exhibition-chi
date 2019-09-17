@@ -11,7 +11,7 @@ Modern Singapore is a metropolis on all counts. However, since the early 19th ce
 
 <p>&nbsp;</p>
 
-<div class="type-two">
+<div class="type-two box-hov-style">
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/tropical-metropolis/the-earliest-thoroughfares/">
