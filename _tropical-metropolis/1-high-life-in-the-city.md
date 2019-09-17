@@ -17,7 +17,7 @@ As a port city on the major trade routes between Europe, India, Australia and Ch
 <p></p>
 <p></p>
 
-<div class="type-two">
+<div class="type-two box-hov-style">
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/tropical-metropolis/high-life-in-the-city/raffles-hotel-1900s/" class="project-link">
