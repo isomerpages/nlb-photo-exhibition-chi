@@ -397,6 +397,14 @@ $desktop: 960px + (2 * $gap) !default;
     color:#e25f25;
 }*/
 
+.custom-caption div>p {
+    color: #e25f25;
+    font-weight: 700;
+}
+.custom-caption div {
+    margin-bottom: 3px;
+    color: #b1b1b1;
+}
 
 .box-hov-style.style-two img.project-image {
     position: relative;
