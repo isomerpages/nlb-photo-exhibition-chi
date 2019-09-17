@@ -411,13 +411,13 @@ $desktop: 960px + (2 * $gap) !default;
     color: #b1b1b1;
 }
 
-.box-hov-style.style-two img.project-image {
+.style-two.box-hov-style img.project-image {
     position: relative;
     transition: 0.3s all ease;
     top: 0px;
 }
 
-.box-hov-style.style-two .col:hover img.project-image {
+.style-two.box-hov-style .col:hover img.project-image {
     top:-20px;
 }
 
