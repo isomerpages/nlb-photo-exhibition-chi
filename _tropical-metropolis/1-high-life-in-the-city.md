@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: High Life in the City
 permalink: /tropical-metropolis/high-life-in-the-city/
-breadcrumb: High Life in the City
+breadcrumb: Tropical Metropolis - High Life in the City
 collection_name: tropical-metropolis
 ---
 
