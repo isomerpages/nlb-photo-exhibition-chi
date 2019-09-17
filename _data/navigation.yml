@@ -4,32 +4,20 @@
 #                                #
 ##################################
 
-- title: Tropical Metropolis
-  url: /tropical-metropolis/
+- title: Exhibition
+  url: 
   sub-links:
-  - title: The Earliest Thoroughfares
-    url: /tropical-metropolis/the-earliest-thoroughfares/
-  - title: High Life in the City
-    url: /tropical-metropolis/high-life-in-the-city/
-  - title: Away from the Bustle
-    url: /tropical-metropolis/away-from-the-bustle/
-- title: Theme 2
-  url: /theme-2/sub-page-1/
-  sub-links:
-  - title: Sub Page 1
-    url: /theme-2/sub-page-1/
-  - title: Sub Page 2
-    url: /theme-2/sub-page-2/
-  - title: Sub Page 3
-    url: /theme-2/sub-page-3/
-- title: Theme 3
-  url: /theme-3/sub-page-1/
-  sub-links:
-  - title: Sub Page 1
-    url: /theme-3/sub-page-1/
-  - title: Sub Page 2
-    url: /theme-3/sub-page-2/
-  - title: Sub Page 3
-    url: /theme-3/sub-page-3/
+  - title: Places of Power and Worship
+    url: /places-of-power-and-worship/
+  - title: Tropical Metropolis
+    url: /tropical-metropolis/
+  - title: Centres of Commerce
+    url: /centres-of-commerce/
+  - title: All Walks of Life
+    url: /all-walks-of-life/
+  - title: Colourful Customs
+    url: /colourful-customs/
+  - title: A City in Motion
+    url: /a-city-in-motion/
 - title: Contact Us
   url: /contact-us/
