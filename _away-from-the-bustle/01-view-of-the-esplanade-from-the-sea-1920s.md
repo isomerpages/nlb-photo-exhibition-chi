@@ -7,10 +7,10 @@ collection_name: away-from-the-bustle
 ---
 
 ![View of the Esplanade from the sea, c. 1920s](/images/Sub3-2-The-Esplanade.jpg)
-<div class="custom-caption style-two">
-<div><p>Title:</p><p>View of the Esplanade from the sea, c. 1920s</p></div>
-<div><p>Accession Number:</p><p>19980005881 - 0030</p></div>
+<div class="custom-caption">
+<div><p>View of the Esplanade from the sea, c. 1920s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
+<div>19980005881 - 0030</div>
 </div>
 
 An iconic landmark, older Singaporeans remember Esplanade as a breezy recreational space and food hawkers such as Satay Club that used to be located there.
