@@ -18,7 +18,7 @@ Modern Singapore is a metropolis on all counts. However, since the early 19th ce
 				<img src="/images/The-Earliest-Thoroughfares-Boxed.jpg" alt="Tropical Metropolis - The Earliest Thoroughfares" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>The Earliest Thoroughfares</b></h5>
+					<h5><b>The Earliest Thorough&shy;fares</b></h5>
 				</div>
 			</div>
 			</a>
