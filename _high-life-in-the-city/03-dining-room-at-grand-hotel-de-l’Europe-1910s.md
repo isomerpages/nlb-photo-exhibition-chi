@@ -8,7 +8,7 @@ collection_name: high-life-in-the-city
 
 ![Dining Room at Grand Hotel de l’Europe, 1910s](/images/Sub2-4-Dining-Room.jpg)
 <div class="custom-caption">
-<div><p>Title:</p><p>Dining Room at Grand Hotel de l’Europe, 1910s</p></div>
+<div><p>Dining Room at Grand Hotel de l’Europe, 1910s</p></div>
 <div>Collection of National Library Singapore</div>
 </div>
 
