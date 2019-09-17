@@ -7,8 +7,8 @@ collection_name: away-from-the-bustle
 ---
 
 ![Impounding Reservoir, 1890s](/images/Sub3-5-The-Water-Works.jpg)
-<div class="custom-caption style-two">
-<div><p>Title:</p><p>Impounding Reservoir, 1890s</p></div>
+<div class="custom-caption">
+<div><p>Impounding Reservoir, 1890s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
 
