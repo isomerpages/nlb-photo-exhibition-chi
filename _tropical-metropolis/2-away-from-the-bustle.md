@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Away from the Bustle
 permalink: /tropical-metropolis/away-from-the-bustle/
-breadcrumb: Away from the Bustle
+breadcrumb: Tropical Metropolis - Away from the Bustle
 collection_name: tropical-metropolis
 ---
 
