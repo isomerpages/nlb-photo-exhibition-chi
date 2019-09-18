@@ -496,6 +496,44 @@ $desktop: 960px + (2 * $gap) !default;
 	position:relative;
 }
 
+img.photo-lv-3 {
+    top: 1%;
+    z-index: 1;
+    transform: rotate(-1deg);
+}
+
+img.photo-lv-1 {
+    z-index: 3;
+    position: relative;
+}
+img.photo-lv-2 {
+    top: 1%;
+    transform: rotate(3deg);
+    z-index: 2;
+}
+img.photo-lv-2, img.photo-lv-3 {
+    position: absolute;
+}
+
+.photo-stacked-wrap:hover img.photo-lv-1 {
+    z-index: 3;
+    position: relative;
+    transform: translateY(5%);
+}
+.photo-stacked-wrap:hover img.photo-lv-2 {
+    top: -5%;
+    right: -5%;
+    transform: rotate(6deg);
+    z-index: 2;
+}
+.photo-stacked-wrap:hover img.photo-lv-3 {
+    top: -5%;
+    left: -5%;
+    z-index: 1;
+    transform: rotate(-5deg);
+}
+
+
 /*temporary*/
 section.bp-section.bg-newssection:nth-last-child(1) {
     display: none;
