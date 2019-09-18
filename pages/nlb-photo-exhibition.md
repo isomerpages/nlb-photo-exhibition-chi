@@ -4,4 +4,5 @@ title: NLB Photo Exhibition
 permalink: /nlb-photo-exhibition/
 breadcrumb: NLB Photo Exhibition
 ---
-nlb-photo-exhibition-page-banner.jpg
+![NLB Photo Exhibition Banner](/images/nlb-photo-exhibition-page-banner.jpg)
+
