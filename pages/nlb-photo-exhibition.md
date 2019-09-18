@@ -29,25 +29,3 @@ Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas 
   <a class="cover" href="/nlb-photo-exhibition/centres-of-commerce/"></a>
 </div>
 
-<p>&nbsp;</p>
-<div class="photo-stacked-wrap">
-  <div class="photos">
-    <img class="photo-lv-1" src="/images/stack1-photo1.png">
-    <img class="photo-lv-2" src="/images/stack1-photo2.png">
-    <img class="photo-lv-3" src="/images/stack1-photo3.png">
-  </div>
-  <p>All Walks of Life</p>
-  <a class="cover" href="/nlb-photo-exhibition/all-walks-of-life/"></a>
-</div>
-
-<div class="photo-stacked-wrap">
-  <div class="photos">
-    <img class="photo-lv-1" src="/images/stack2-photo1.png">
-    <img class="photo-lv-2" src="/images/stack2-photo2.png">
-    <img class="photo-lv-3" src="/images/stack2-photo3.png">
-  </div>
-  <p>Colourful Customs</p>
-  <a class="cover" href="/nlb-photo-exhibition/colourful-customs/"></a>
-</div> 
-
-alternative 2 test
