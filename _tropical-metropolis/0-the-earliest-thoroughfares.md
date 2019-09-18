@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: The Earliest Thoroughfares
-permalink: /tropical-metropolis/the-earliest-thoroughfares/
+permalink: /nlb-photo-exhibition/tropical-metropolis/the-earliest-thoroughfares/
 breadcrumb: Tropical Metropolis - The Earliest Thoroughfares
 collection_name: tropical-metropolis
 ---
