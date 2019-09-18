@@ -492,8 +492,13 @@ $desktop: 960px + (2 * $gap) !default;
 	left:0;
 	position:absolute;}
 
+.photo-stacked-wrap .photos {
+	position:relative;
+}
 
 /*temporary*/
 section.bp-section.bg-newssection:nth-last-child(1) {
     display: none;
 }
+
+
