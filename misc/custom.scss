@@ -462,6 +462,7 @@ $desktop: 960px + (2 * $gap) !default;
     justify-content: center;
     transition: 0.3s all ease;
     position: relative;
+    flex-direction: column;
 }
 
 
