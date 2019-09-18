@@ -11,6 +11,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ligula leo, effi
 Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas at augue ac massa pretium posuere. Nulla pretium rutrum ante vel imperdiet. Aliquam viverra at dolor eu bibendum. Mauris a magna commodo, pretium tellus ac, tempus velit. Fusce semper consectetur finibus. Suspendisse vitae quam in tortor accumsan dapibus et nec justo. Mauris porta volutpat ante eget porta. Quisque vitae velit id velit lacinia consequat. Sed finibus commodo urna, ut ultrices mauris ultrices finibus. Ut ultricies porta est ac faucibus. Pellentesque iaculis nibh at diam molestie sagittis. Vivamus ornare mauris ut varius mollis.
 
 <p>&nbsp;</p>
+
+<div class="category-stacked-area">
 <div class="category-block-wrap">
   <p>Places of Power and Worship</p>
   <img class="cover" src="/images/sample1-button.jpg">
@@ -49,3 +51,4 @@ Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas 
   <p>Colourful Customs</p>
   <a class="cover" href="/nlb-photo-exhibition/colourful-customs/"></a>
 </div> 
+</div>
