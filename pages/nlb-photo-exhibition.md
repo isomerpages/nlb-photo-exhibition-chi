@@ -28,3 +28,12 @@ Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas 
   <img class="cover" src="/images/sample2-button.jpg">
   <a class="cover" href="/nlb-photo-exhibition/centres-of-commerce/"></a>
 </div>
+
+<p>&nbsp;</p>
+<div class="photo-stacked-wrap">
+  <div class="photos">
+    <img class="photo-lv-1" src="/images/stack1-photo1.png">
+    <img class="photo-lv-2" src="/images/stack1-photo2.png">
+    <img class="photo-lv-3" src="/images/stack1-photo3.png">
+  </div>
+</div>
