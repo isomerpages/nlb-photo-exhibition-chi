@@ -482,11 +482,14 @@ $desktop: 960px + (2 * $gap) !default;
 	position:absolute;}
 
 .photo-stacked-wrap .photos {
-	position:relative;
+     position:relative;
+     margin: 0px 8%;
 }
 
 .photo-stacked-wrap {
-	position:relative;
+    position:relative;
+    margin-bottom: 8%;
+    flex: 0 0 50%;
 }
 
 img.photo-lv-3 {
@@ -533,6 +536,17 @@ img.photo-lv-2, img.photo-lv-3 {
     left: -5%;
     z-index: 1;
     transform: rotate(-5deg);
+}
+
+.category-stacked-area {
+    display: flex;
+}
+
+.photo-stacked-wrap p {
+    font-size: 18pt;
+    font-weight: bold;
+    color: #e25f25;
+    text-align: center;
 }
 
 
