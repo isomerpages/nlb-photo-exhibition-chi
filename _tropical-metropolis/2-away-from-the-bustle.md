@@ -1,9 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Away from the Bustle
-permalink: /tropical-metropolis/away-from-the-bustle/
-breadcrumb: Tropical Metropolis - Away from the Bustle
+permalink: nlb-photo-exhibition/tropical-metropolis/away-from-the-bustle/
+breadcrumb: Away from the Bustle
 collection_name: tropical-metropolis
+second_nav_title: "Tropical Metropolis"
 ---
 
 ![Tanjong Katong, 1920s](/images/Sub3-8-Tanjong-Katong-Singapore.jpg)
