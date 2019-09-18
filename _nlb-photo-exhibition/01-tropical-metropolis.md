@@ -3,6 +3,7 @@ layout: leftnav-page-content
 title: Tropical Metropolis
 permalink: /nlb-photo-exhibition/tropical-metropolis/
 breadcrumb: Tropical Metropolis
+collection_name: nlb-photo-exhibition
 ---
 ![NLB Photo Exhibition - Collyer Quay](/images/tropical-metropolis-banner-2.jpg)
 ### **Tropical Metropolis**
