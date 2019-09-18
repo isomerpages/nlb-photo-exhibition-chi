@@ -1,5 +1,5 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Tropical Metropolis
 permalink: /nlb-photo-exhibition/tropical-metropolis/
 breadcrumb: Tropical Metropolis
