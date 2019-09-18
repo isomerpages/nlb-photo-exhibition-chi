@@ -447,6 +447,7 @@ $desktop: 960px + (2 * $gap) !default;
     transition: 0.3s all ease;
     border: 1px solid #ffffff00;
     z-index:2;
+    margin-bottom:0px !important;
 }
 
 .category-block-wrap:hover p {
