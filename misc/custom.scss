@@ -451,6 +451,7 @@ $desktop: 960px + (2 * $gap) !default;
 .category-block-wrap:hover p {
     border: 1px solid #ffffff;
     padding: 2% 5%;
+    z-index:2;
 }
 	
 	
@@ -463,12 +464,14 @@ $desktop: 960px + (2 * $gap) !default;
     transition: 0.3s all ease;
     position: relative;
     flex-direction: column;
+    overflow:hidden;
 }
 
 .category-block-wrap img {
 	object-fit:cover;
 	filter:blur(0px);
 	transition:0.3s all ease;
+	z-index:1;
 }
 
 .category-block-wrap:hover img {
