@@ -4,7 +4,6 @@ title: Away from the Bustle
 permalink: nlb-photo-exhibition/tropical-metropolis/away-from-the-bustle/
 breadcrumb: Away from the Bustle
 collection_name: nlb-photo-exhibition
-second_nav_title: "Tropical Metropolis"
 ---
 
 ![Tanjong Katong, 1920s](/images/Sub3-8-Tanjong-Katong-Singapore.jpg)
