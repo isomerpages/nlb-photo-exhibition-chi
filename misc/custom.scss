@@ -549,6 +549,9 @@ img.photo-lv-2, img.photo-lv-3 {
     text-align: center;
 }
 
+.photo-stacked-wrap a {
+    z-index:3;
+}
 
 /*temporary*/
 section.bp-section.bg-newssection:nth-last-child(1) {
