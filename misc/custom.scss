@@ -455,8 +455,11 @@ $desktop: 960px + (2 * $gap) !default;
     padding: 2% 5%;
 
 }
-	
-	
+
+.category-block-wrap a{
+    z-index:3;
+}
+
 .category-block-wrap {
     display: flex;
     background: black;
@@ -478,7 +481,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .category-block-wrap:hover img {
-	filter:blur(20px);
+	filter:blur(5px);
 }
 
 .cover {
