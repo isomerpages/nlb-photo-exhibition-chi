@@ -39,6 +39,7 @@ Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas 
   <p>All Walks of Life</p>
   <a class="cover" href="/nlb-photo-exhibition/all-walks-of-life/"></a>
 </div>
+
 <div class="photo-stacked-wrap">
   <div class="photos">
     <img class="photo-lv-1" src="/images/stack2-photo1.png">
