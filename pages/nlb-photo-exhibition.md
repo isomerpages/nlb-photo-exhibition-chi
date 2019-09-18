@@ -15,5 +15,5 @@ Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas 
 <div class="category-block-wrap">
   <p>Tropical Metropolis</p>
   <img class="cover" src="/images/tropical-metropolis-button.jpg">
-  <a class="cover" href="/nlb-photo-exhibition/tropical-metropolis/">
+  <a class="cover" href="/nlb-photo-exhibition/tropical-metropolis/"></a>
 </div>
