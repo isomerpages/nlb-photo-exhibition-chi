@@ -448,6 +448,7 @@ $desktop: 960px + (2 * $gap) !default;
     border: 1px solid #ffffff00;
     z-index:2;
     margin-bottom:0px !important;
+    text-align:center !importtant;
 }
 
 .category-block-wrap:hover p {
@@ -493,6 +494,10 @@ $desktop: 960px + (2 * $gap) !default;
 	position:absolute;}
 
 .photo-stacked-wrap .photos {
+	position:relative;
+}
+
+.photo-stacked-wrap {
 	position:relative;
 }
 
