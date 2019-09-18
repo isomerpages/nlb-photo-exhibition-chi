@@ -470,6 +470,7 @@ $desktop: 960px + (2 * $gap) !default;
     position: relative;
     flex-direction: column;
     overflow:hidden;
+    margin-bottom:5px;
 }
 
 .category-block-wrap img {
