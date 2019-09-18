@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Away from the Bustle
 permalink: nlb-photo-exhibition/tropical-metropolis/away-from-the-bustle/
 breadcrumb: Away from the Bustle
-collection_name: tropical-metropolis
+collection_name: nlb-photo-exhibition
 second_nav_title: "Tropical Metropolis"
 ---
 
