@@ -4,7 +4,6 @@ title: High Life in the City
 permalink: /nlb-photo-exhibition//tropical-metropolis/high-life-in-the-city/
 breadcrumb: High Life in the City
 collection_name: tropical-metropolis
-second_nav_title: "Tropical Metropolis"
 ---
 
 ![Dining Room at Grand Hotel de l’Europe, 1910s](/images/Sub2-4-Dining-Room.jpg)
