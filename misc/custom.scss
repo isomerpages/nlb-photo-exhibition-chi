@@ -437,6 +437,27 @@ $desktop: 960px + (2 * $gap) !default;
     position: absolute;
 }
 
+/*nlb subpages*/
+.category-block-wrap p {
+    font-size: 20pt;
+    font-weight: bold;
+    color: white;
+    text-shadow: 3px 3px 5px #0000008c;
+    padding: 7% 20%;
+    transition: 0.3s all ease;
+    border: 1px solid #ffffff00;
+}
+
+.category-block-wrap {
+    display: flex;
+    background: #c2c2c2;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s all ease;
+    position: relative;
+}
+
 
 /*temporary*/
 section.bp-section.bg-newssection:nth-last-child(1) {
