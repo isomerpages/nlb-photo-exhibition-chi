@@ -12,7 +12,7 @@ Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas 
 
 <p>&nbsp;</p>
 
-<div class="category-stacked-area">
+
 <div class="category-block-wrap">
   <p>Places of Power and Worship</p>
   <img class="cover" src="/images/sample1-button.jpg">
@@ -32,6 +32,8 @@ Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas 
 </div>
 
 <p>&nbsp;</p>
+
+<div class="category-stacked-area">
 <div class="photo-stacked-wrap">
   <div class="photos">
     <img class="photo-lv-1" src="/images/stack1-photo1.png">
