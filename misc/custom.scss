@@ -465,6 +465,23 @@ $desktop: 960px + (2 * $gap) !default;
     flex-direction: column;
 }
 
+.category-block-wrap img {
+	object-fit:cover;
+	filter:blur(0px);
+	transition:0.3s all ease;
+}
+
+.category-block-wrap:hover img {
+	filter:blur(20px);
+}
+
+.cover {
+	width: 100%;
+	height:100%;
+	top:0;
+	left:0;
+	position:absolute;}
+
 
 /*temporary*/
 section.bp-section.bg-newssection:nth-last-child(1) {
