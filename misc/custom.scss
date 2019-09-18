@@ -498,6 +498,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 img.photo-lv-3 {
     top: 1%;
+    left:0;
     z-index: 1;
     transform: rotate(-1deg);
     transition: all 0.3s ease;
@@ -510,6 +511,7 @@ img.photo-lv-1 {
 }
 img.photo-lv-2 {
     top: 1%;
+    right: 0;
     transform: rotate(3deg);
     z-index: 2;
     transition: all 0.3s ease;
