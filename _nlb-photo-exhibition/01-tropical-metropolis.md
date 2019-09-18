@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Tropical Metropolis
-permalink: nlb-photo-exhibition/tropical-metropolis/
+permalink: /nlb-photo-exhibition/tropical-metropolis/
 breadcrumb: Tropical Metropolis
 ---
 ![NLB Photo Exhibition - Collyer Quay](/images/tropical-metropolis-banner-2.jpg)
