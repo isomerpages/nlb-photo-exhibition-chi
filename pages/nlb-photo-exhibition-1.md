@@ -31,19 +31,16 @@ Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas 
   <a class="cover" href="/nlb-photo-exhibition/centres-of-commerce/"></a>
 </div>
 
-<p>&nbsp;</p>
-
-<div class="category-stacked-area">
-<div class="photo-stacked-wrap">
-  <div class="photos">
-    <img class="photo-lv-1" src="/images/stack1-photo1.png">
-    <img class="photo-lv-2" src="/images/stack1-photo2.png">
-    <img class="photo-lv-3" src="/images/stack1-photo3.png">
-  </div>
+<div class="category-block-wrap">
   <p>All Walks of Life</p>
+  <img class="cover" src="/images/sample3-button.jpg">
   <a class="cover" href="/nlb-photo-exhibition/all-walks-of-life/"></a>
 </div>
 
+<p>&nbsp;</p>
+
+<div class="category-stacked-area">
+  
 <div class="photo-stacked-wrap">
   <div class="photos">
     <img class="photo-lv-1" src="/images/stack2-photo1.png">
@@ -53,4 +50,15 @@ Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas 
   <p>Colourful Customs</p>
   <a class="cover" href="/nlb-photo-exhibition/colourful-customs/"></a>
 </div> 
+  
+<div class="photo-stacked-wrap">
+  <div class="photos">
+    <img class="photo-lv-1" src="/images/stack1-photo1.png">
+    <img class="photo-lv-2" src="/images/stack1-photo2.png">
+    <img class="photo-lv-3" src="/images/stack1-photo3.png">
+  </div>
+  <p>A City in Motion</p>
+  <a class="cover" href="/nlb-photo-exhibition/a-city-in-motion/"></a>
+</div>
+
 </div>
