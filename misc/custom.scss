@@ -362,7 +362,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 
 //fx-custom
-.navbar .navbar-item:hover a.sub-link {
+.navbar .navbar-item a.sub-link:hover {
     color: #e25f25 !important;
 }
 
