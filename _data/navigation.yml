@@ -19,5 +19,14 @@
     url: /nlb-photo-exhibition/colourful-customs/
   - title: A City in Motion
     url: /nlb-photo-exhibition/a-city-in-motion/
+- title: China Photo Exhibition
+  url: /#
+  sub-links:
+  - title: Sub Page 1
+    url: /#
+  - title: Sub Page 2
+    url: /#
+  - title: Sub Page 3
+    url: /#
 - title: Contact Us
   url: /contact-us/
