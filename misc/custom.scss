@@ -362,7 +362,9 @@ $desktop: 960px + (2 * $gap) !default;
 
 
 //fx-custom
-
+.navbar .navbar-item:hover a.sub-link {
+    color: #e25f25 !important;
+}
 
 .type-two .project-card {
     margin-top: 0rem !important;
