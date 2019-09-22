@@ -9,3 +9,4 @@ collection_name: nlb-photo-exhibition
 ![Street Hawkers](/images/all-walks-of-life/Sub1-6-street-hawkers-1400.jpg)
 ![Street Hawkers](/images/all-walks-of-life/Sub1-6-street-hawkers1200.jpg)
 ![Street Hawkers](/images/all-walks-of-life/Sub1-6-street-hawkers-110.jpg)
+![Street Hawkers](/images/all-walks-of-life/Sub1-6-street-hawkers.jpg)
