@@ -141,5 +141,5 @@ In the past, Singapore was known to have many fishing villages, mostly built alo
 In the past, Singapore was known to have many fishing villages, mostly built along coasts and rivers. As a livelihood or an important source of income for many, fishing was usually done inshore with lightly built boats, or sampans.  
 <p></p>
 <p></p>
-<hr>
+
 
