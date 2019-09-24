@@ -12,8 +12,14 @@ The colonial Singapore society was made up of a motley of ethnic and dialect gro
 <div class="type-two box-hov-style">
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/nlb-photo-exhibition/tropical-metropolis/the-earliest-thoroughfares/">
-				<img src="/images/The-Earliest-Thoroughfares-Boxed.jpg" alt="Tropical Metropolis - The Earliest Thoroughfares" class="project-image">
+			<a href="/nlb-photo-exhibition/places-of-power-and-worship/seats-of-power/">
+				<div class="photo-stacked-wrap">
+					  <div class="photos">
+ 						   <img class="photo-lv-1" src="/images/stack2-photo1.png">
+ 						   <img class="photo-lv-2" src="/images/stack2-photo2.png">
+  						   <img class="photo-lv-3" src="/images/stack2-photo3.png">
+					  </div>
+				</div> 
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>The Earliest<br/>Thorough&shy;fares</b></h5>
