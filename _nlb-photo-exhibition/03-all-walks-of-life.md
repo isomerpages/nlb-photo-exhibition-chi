@@ -5,6 +5,14 @@ permalink: /nlb-photo-exhibition/all-walks-of-life/
 breadcrumb: All Walks of Life
 collection_name: nlb-photo-exhibition
 ---
+<div class="photo-stacked-wrap-banner">
+  <div class="photos-banner">
+    <img class="photo-lv-1-banner" src="/images/power-and-worship/seats-photo-stack-1.png">
+    <img class="photo-lv-2-banner" src="/images/power-and-worship/seats-photo-stack-2.png">
+    <img class="photo-lv-3-banner" src="/images/power-and-worship/seats-photo-stack-3.png">
+  </div>
+</div>
+
 ### **All Walks of Life**
 
 Imagine walking around Singapore in the late 19th century or early 20th century, one would be amazed as he encounters people of every ethnic origin who hailed from all over the world, working and living alongside one another. Multiculturalism characterised Singapore back then as much as it remains the nation’s trademark today. In the early days where communities were clearly segregated by ethnicity and social economic status, distinct groups of people can be easily identified by their trades and occupations, leisure activities and cultural identities as reflected by their apparel.
