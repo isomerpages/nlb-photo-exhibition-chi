@@ -16,9 +16,9 @@ The colonial Singapore society was made up of a motley of ethnic and dialect gro
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img class="photo-lv-1" src="/images/power-and-worship/seats-photo-stack1.png">
-    <img class="photo-lv-2" src="/images/power-and-worship/seats-photo-stack2.png">
-    <img class="photo-lv-3" src="/images/power-and-worship/seats-photo-stack3.png">
+    <img class="photo-lv-1" src="/images/power-and-worship/seats-photo-stack-1.png">
+    <img class="photo-lv-2" src="/images/power-and-worship/seats-photo-stack-2.png">
+    <img class="photo-lv-3" src="/images/power-and-worship/seats-photo-stack-3.png">
   </div>
   <p>Seats of Power</p>
   <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/seats-of-power"></a>
@@ -26,9 +26,9 @@ The colonial Singapore society was made up of a motley of ethnic and dialect gro
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img class="photo-lv-1" src="/images/power-and-worship/worship-photo-stack1.png">
-    <img class="photo-lv-2" src="/images/power-and-worship/worship-photo-stack2.png">
-    <img class="photo-lv-3" src="/images/power-and-worship/worship-photo-stack3.png">
+    <img class="photo-lv-1" src="/images/power-and-worship/worship-photo-stack-1.png">
+    <img class="photo-lv-2" src="/images/power-and-worship/worship-photo-stack-2.png">
+    <img class="photo-lv-3" src="/images/power-and-worship/worship-photo-stack-3.png">
   </div>
   <p>Places of Worship</p>
   <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/places-of-worship/"></a>
