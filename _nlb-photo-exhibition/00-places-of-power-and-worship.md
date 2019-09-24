@@ -10,40 +10,28 @@ Singapore had appeared in different historical texts under different names, such
 
 The colonial Singapore society was made up of a motley of ethnic and dialect groups from different nationalities, and each group brought along their religious beliefs as they set foot on this land. Places of worship built by different groups began to sprout in various parts of the town, symbolising the growth of each ethnic or religious community. These places of worship often included architectural features unique to the community’s identity and culture. Over the years, these places of worship have developed into social spaces where people gather for community activities, such as festival celebrations, marriages and cultural appreciation. 
 <p>&nbsp;</p>
-<div class="type-two box-hov-style">
-	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/nlb-photo-exhibition/places-of-power-and-worship/seats-of-power/" class="project-link">
-				<div class="photo-stacked-wrap">
-					  <div class="photos">
- 						   <img class="photo-lv-1" src="/images/stack2-photo1.png">
- 						   <img class="photo-lv-2" src="/images/stack2-photo2.png">
-  						   <img class="photo-lv-3" src="/images/stack2-photo3.png">
-					  </div>
-				</div> 
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Seats of Power</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/nlb-photo-exhibition/places-of-power-and-worship/places-of-worship/" class="project-link">
-				<div class="photo-stacked-wrap">
-					  <div class="photos">
- 						   <img class="photo-lv-1" src="/images/stack2-photo1.png">
- 						   <img class="photo-lv-2" src="/images/stack2-photo2.png">
-  						   <img class="photo-lv-3" src="/images/stack2-photo3.png">
-					  </div>
-				</div> 
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Places of Worship</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		
-	</div>
+
+
+<div class="category-stacked-area">
+  
+<div class="photo-stacked-wrap">
+  <div class="photos">
+    <img class="photo-lv-1" src="/images/stack2-photo1.png">
+    <img class="photo-lv-2" src="/images/stack2-photo2.png">
+    <img class="photo-lv-3" src="/images/stack2-photo3.png">
+  </div>
+  <p>Seats of Power</p>
+  <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/seats-of-power"></a>
+</div> 
+  
+<div class="photo-stacked-wrap">
+  <div class="photos">
+    <img class="photo-lv-1" src="/images/stack1-photo1.png">
+    <img class="photo-lv-2" src="/images/stack1-photo2.png">
+    <img class="photo-lv-3" src="/images/stack1-photo3.png">
+  </div>
+  <p>Places of Worship</p>
+  <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/places-of-worship/"></a>
+</div>
+
 </div>
