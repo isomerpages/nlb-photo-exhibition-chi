@@ -555,6 +555,45 @@ img.photo-lv-2, img.photo-lv-3 {
     z-index:3;
 }
 
+/*for-banner*/
+.photo-stacked-wrap-banner .photos-banner {
+     position:relative;
+     margin: 0px 8%;
+}
+
+.photo-stacked-wrap-banner {
+    position:relative;
+    margin-bottom: 8%;
+}
+
+img.photo-lv-3-banner {
+    top: 1%;
+    left:0;
+    z-index: 1;
+    transform: rotate(-1deg);
+    transition: all 0.3s ease;
+}
+
+img.photo-lv-1-banner {
+    z-index: 3;
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+img.photo-lv-2-banner {
+    top: 1%;
+    right: 0;
+    transform: rotate(3deg);
+    z-index: 2;
+    transition: all 0.3s ease;
+}
+
+img.photo-lv-2-banner, img.photo-lv-3-banner {
+    position: absolute;
+}
+
+
+
 /*temporary*/
 section.bp-section.bg-newssection:nth-last-child(1) {
     display: none;
