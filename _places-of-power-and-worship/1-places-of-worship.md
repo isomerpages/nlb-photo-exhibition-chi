@@ -66,7 +66,7 @@ Constructed between 1898 and 1908, Siong Lim Temple is the oldest Buddhist monas
 <p></p>
 <hr>
 
-![Siong Lim Temple, 1910s](/images/power-and-worship/Sub2-6-siong-lim-temple.jpg)
+![Siong Lim Temple, 1910s](/images/power-and-worship/Sub2-6-siong-lim-temple-cr.jpg)
 <div class="custom-caption">
 <div><p>Siong Lim Temple, 1910s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
