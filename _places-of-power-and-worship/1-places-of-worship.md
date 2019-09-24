@@ -120,3 +120,101 @@ Built between 1824 and 1826, the original mosque was a brick structure with doub
 <p></p>
 <p></p>
 <hr>
+
+![Armenian Church of Saint Gregory the Illuminator, 1962](/images/power-and-worship/Sub2-11-armenian-church-of-saint-gregory.jpg)
+<div class="custom-caption">
+<div><p>Armenian Church of Saint Gregory the Illuminator, 1962</p></div>
+<div>Courtesy of National Archives of Singapore</div>
+<div>19990003429 - 0025</div>
+</div>
+This church was built in 1836 by the Armenians in Singapore. The Armenians were the first of the Christian community to erect a permanent place of worship, making this the oldest Christian Church in Singapore. The patron saint of the church is St. Gregory the Illuminator, the first monk of the Armenian Church. In 1909, it is believed to be the first building in Singapore to have electricity with the installations of fans and lights.
+<p></p>
+<p></p>
+<hr>
+
+![Cathedral of the Good Shepherd, 1900s](/images/power-and-worship/Sub2-12-cathedral-of-the-good-shepherd-cr.jpg)
+<div class="custom-caption">
+<div><p>Cathedral of the Good Shepherd, 1900s</p></div>
+<div>Lee Kip Lin Collection, courtesy of National Archives of Singapore</div>
+<div>19980005121 - 0088</div>
+</div>
+Built between 1843 and 1847, it is the oldest surviving Catholic church in Singapore, and the Cathedral was gazetted as a national monument in 1973. The Cathedral was constructed in 1846 by a French priest, Father Jean-Marie Beurel. The dedication of the church to the Good Shepherd was in memory of St. Laurent Imbert, the first priest to visit Singapore. As the oldest Roman Catholic Church in Singapore, it remains an important focal point of the Catholic Community.
+<p></p>
+<p></p>
+<hr>
+
+![Cathedral of the Good Shepherd, 1900s](/images/power-and-worship/Sub2-13-cathedral-of-the-good-shepherd.jpg)
+<div class="custom-caption">
+<div><p>Cathedral of the Good Shepherd, 1900s</p></div>
+<div>Courtesy of National Archives of Singapore</div>
+<div>19980005093 - 0108</div>
+</div>
+Built between 1843 and 1847, it is the oldest surviving Catholic church in Singapore, and the Cathedral was gazetted as a national monument in 1973. The Cathedral was constructed in 1846 by a French priest, Father Jean-Marie Beurel. The dedication of the church to the Good Shepherd was in memory of St. Laurent Imbert, the first priest to visit Singapore. As the oldest Roman Catholic Church in Singapore, it remains an important focal point of the Catholic Community.
+<p></p>
+<p></p>
+<hr>
+
+![Convent of the Holy Infant Jesus’ Chapel, 1900s](/images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
+<div class="custom-caption">
+<div><p>Convent of the Holy Infant Jesus’ Chapel, 1900s</p></div>
+<div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore </div>
+<div>19980005881 - 0013</div>
+</div>
+Convent of the Holy Infant Jesus (CHIJ) was a girls' school established at Victoria Street in 1854 by the French sisters of the Congregation of the Holy Infant Jesus. The convent building encompassed the English-medium convent school, a Chinese-medium school called St. Nicholas Girls' School, an orphanage, the nun's quarters and a chapel. The Gothic chapel was completed in 1903, and became the most beautiful feature on the premises with its spectacular display of stained-glass windows at the apse.
+<p></p>
+<p></p>
+<hr>
+
+![Interior of the Convent of the Holy Infant Jesus’ Chapel, 1900s](/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
+<div class="custom-caption">
+<div><p>Interior of the Convent of the Holy Infant Jesus’ Chapel, 1900s</p></div>
+<div>Arshak C Galstaun Collection, courtesy of National Archives of Singapore</div>
+<div>19980005108 – 0016</div>
+</div>
+Convent of the Holy Infant Jesus (CHIJ) was a girls' school established at Victoria Street in 1854 by the French sisters of the Congregation of the Holy Infant Jesus. The convent building encompassed the English-medium convent school, a Chinese-medium school called St. Nicholas Girls' School, an orphanage, the nun's quarters and a chapel. The Gothic chapel was completed in 1903, and became the most beautiful feature on the premises with its spectacular display of stained-glass windows at the apse.
+<p></p>
+<p></p>
+<hr>
+
+![St. Andrew’s Cathedral, 1910](/images/power-and-worship/Sub2-16-st-andrews-cathedral-cr.jpg)
+<div class="custom-caption">
+<div><p>St. Andrew’s Cathedral, 1910</p></div>
+<div>Courtesy of National Archives of Singapore</div>
+<div>19980005030 – 0028</div>
+</div>
+The site of this church near the Padang was selected by Sir Stamford Raffles in 1823. The church was named after the patron saint of Scotland because the local Scottish community contributed to the building fund. The original church was completed in 1836, however it’s spire was struck twice by lightning, rendering the building to be unsafe and demolished eventually. A new church in the neo-gothic style was completed on the original site in 1864, and remains standing today.
+<p></p>
+<p></p>
+<hr>
+
+![St. Andrew’s Cathedral, 1950s](/images/power-and-worship/Sub2-17-st-andrews-cathedral.jpg)
+<div class="custom-caption">
+<div><p>St. Andrew’s Cathedral, 1950s</p></div>
+<div>George Tricker Collection, courtesy of National Archives of Singapore</div>
+<div>20100000306 - 0033</div>
+</div>
+The site of this church near the Padang was selected by Sir Stamford Raffles in 1823. The church was named after the patron saint of Scotland because the local Scottish community contributed to the building fund. The original church was completed in 1836, however it’s spire was struck twice by lightning, rendering the building to be unsafe and demolished eventually. A new church in the neo-gothic style was completed on the original site in 1864, and remains standing today.
+<p></p>
+<p></p>
+<hr>
+
+![Sri Mariamman Temple, 1905](/images/power-and-worship/Sub2-18-sri-mariamman-temple-cr.jpg)
+<div class="custom-caption">
+<div><p>Sri Mariamman Temple, 1905</p></div>
+<div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
+<div>19980005882 - 0024</div>
+</div>
+The Sri Mariamman Temple on South Bridge Road is the oldest Hindu temple in Singapore. Naraina Pillai, an Indian pioneer, built a simple Hindu temple made of wood and attap in 1827. The present brick building replaced the wood and attap structure in 1844. This temple of early South Indians was a refuge for newly arrived immigrants, who would stay here till they found work and accommodations. It remains as the focal point for the Indian community activities today.
+<p></p>
+<p></p>
+<hr>
+
+![Sri Mariamman Temple, 1950s](/images/power-and-worship/Sub2-19-sri-mariamman-temple.jpg)
+<div class="custom-caption">
+<div><p>Sri Mariamman Temple, 1950s</p></div>
+<div>Nelson Collection, courtesy of National Archives of Singapore</div>
+<div>20140000166 – 0078</div>
+</div>
+The Sri Mariamman Temple on South Bridge Road is the oldest Hindu temple in Singapore. Naraina Pillai, an Indian pioneer, built a simple Hindu temple made of wood and attap in 1827. The present brick building replaced the wood and attap structure in 1844. This temple of early South Indians was a refuge for newly arrived immigrants, who would stay here till they found work and accommodations. It remains as the focal point for the Indian community activities today. 
+<p></p>
+<p></p>
