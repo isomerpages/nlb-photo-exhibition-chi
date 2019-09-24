@@ -557,13 +557,13 @@ img.photo-lv-2, img.photo-lv-3 {
 
 /*for-banner*/
 .photo-stacked-wrap-banner .photos-banner {
-     position:relative;
-     margin: 0px 8%;
+    position: relative;
+    margin: 0px 20%;
 }
 
 .photo-stacked-wrap-banner {
-    position:relative;
-    margin-bottom: 8%;
+    position: relative;
+    margin-bottom: 0%;
 }
 
 img.photo-lv-3-banner {
@@ -575,6 +575,7 @@ img.photo-lv-3-banner {
 }
 
 img.photo-lv-1-banner {
+    padding-top: 8%;
     z-index: 3;
     position: relative;
     transition: all 0.3s ease;
@@ -582,8 +583,8 @@ img.photo-lv-1-banner {
 
 img.photo-lv-2-banner {
     top: 1%;
-    right: 0;
-    transform: rotate(3deg);
+    right: -20%;
+    transform: rotate(5deg);
     z-index: 2;
     transition: all 0.3s ease;
 }
