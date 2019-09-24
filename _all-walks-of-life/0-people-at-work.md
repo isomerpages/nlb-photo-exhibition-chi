@@ -49,7 +49,7 @@ Samsui women, with their trademark red or sometimes blue headdress, were female 
 ![Samsui women having a meal at the worksite, 1954](/images/all-walks-of-life/Sub1-4-samsui-women-having-a-meal.jpg)
 <div class="custom-caption">
 <div><p>Samsui women having a meal at the worksite, 1954</p></div>
-<divMITA Collection, courtesy of National Archives of Singapore</div>
+<div>MITA Collection, courtesy of National Archives of Singapore</div>
 <div>19980001088 - 0026</div>
 </div>
 <p></p>
