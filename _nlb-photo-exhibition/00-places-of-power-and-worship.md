@@ -12,7 +12,7 @@ The colonial Singapore society was made up of a motley of ethnic and dialect gro
 <div class="type-two box-hov-style">
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/nlb-photo-exhibition/places-of-power-and-worship/seats-of-power/">
+			<a href="/nlb-photo-exhibition/places-of-power-and-worship/seats-of-power/" class="project-link">
 				<div class="photo-stacked-wrap">
 					  <div class="photos">
  						   <img class="photo-lv-1" src="/images/stack2-photo1.png">
@@ -22,30 +22,27 @@ The colonial Singapore society was made up of a motley of ethnic and dialect gro
 				</div> 
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>The Earliest<br/>Thorough&shy;fares</b></h5>
+					<h5><b>Seats of Power</b></h5>
 				</div>
 			</div>
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/nlb-photo-exhibition/tropical-metropolis/high-life-in-the-city/" class="project-link">
-				<img src="/images/High-Life-in-the-City-Boxed.jpg" alt="Tropical Metropolis - High Life in the City" class="project-image">
+			<a href="/nlb-photo-exhibition/places-of-power-and-worship/places-of-worship/" class="project-link">
+				<div class="photo-stacked-wrap">
+					  <div class="photos">
+ 						   <img class="photo-lv-1" src="/images/stack2-photo1.png">
+ 						   <img class="photo-lv-2" src="/images/stack2-photo2.png">
+  						   <img class="photo-lv-3" src="/images/stack2-photo3.png">
+					  </div>
+				</div> 
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>High Life<br/>in the City</b></h5>
+					<h5><b>Places of Worship</b></h5>
 				</div>
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/nlb-photo-exhibition/tropical-metropolis/away-from-the-bustle" class="project-link">
-				<img src="/images/Away-from-the-Bustle-Boxed.jpg" alt="Brunei: A Country Profile" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>Away from<br/>the Bustle</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
+		
 	</div>
 </div>
