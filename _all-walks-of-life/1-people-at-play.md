@@ -97,7 +97,7 @@ Being a tropical island, it is no surprise that swimming and beach-going became 
 <p></p>
 <hr>
 
-![Swimming competition, 1920-40](/images/all-walks-of-life/Sub2-8-a-family-at-a-beach-house-cr.jpg)
+![Swimming competition, 1920-40](/images/all-walks-of-life/Sub2-9-swimming-competition.jpg)
 <div class="custom-caption">
 <div><p>Swimming competition, 1930s</p></div>
 <div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
@@ -107,3 +107,14 @@ In the early days, recreational swimming was mostly practiced by European and lo
 <p></p>
 <p></p>
 <hr>
+
+![Hunting party at Choa Chu Kang Village, 1930](/images/all-walks-of-life/Sub2-10-hunting-party-rz.jpg)
+<div class="custom-caption">
+<div><p>Hunting party, 1930</p></div>
+<div>Tan Tuan Khoon Collection, courtesy of National Archives of Singapore</div>
+<div>19980002184 - 0005</div>
+</div>
+Tigers were sighted in the forested areas of Singapore during the mid-18th and early 19th centuries. They became a menace when the forests were cleared for roads and plantations, frequently attacking humans. Due to the high casualties, the government offered monetary rewards for every tiger killed. Hence, tiger hunting became a rewarding sport offering money and adventure. Seen here are men of the Straits Hunting Party, a club formed by Straits Chinese, with their prey at Choa Chu Kang Village.
+<p></p>
+<p></p>
+
