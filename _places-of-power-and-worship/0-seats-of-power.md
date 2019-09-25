@@ -98,7 +98,6 @@ Istana Tyersall, residence of Sultan Abu Bakar of Johor in Singapore, was comple
 <hr>
 
 ![Istana Kampong Glam, 1960s](/images/power-and-worship/Sub1-10-istana-kampong-glam-cr.jpg)
-<div>&nbsp;</div>
 ![Istana Kampong Glam, 1960s](/images/power-and-worship/Sub1-11-istana-kampong-glam-cr.jpg)
 <div class="custom-caption">
 <div><p>Istana Kampong Glam, 1960s</p></div>
