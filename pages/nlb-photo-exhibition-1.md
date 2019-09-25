@@ -33,7 +33,7 @@ Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas 
 
 <div class="category-block-wrap">
   <p>All Walks of Life</p>
-  <img class="cover" src="/images/all-walk-of-life-button.jpg">
+  <img class="cover" src="/images/all-walks-of-life-button.jpg">
   <a class="cover" href="/nlb-photo-exhibition/all-walks-of-life/"></a>
 </div>
 
