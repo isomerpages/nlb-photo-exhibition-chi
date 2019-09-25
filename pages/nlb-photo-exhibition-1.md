@@ -15,7 +15,7 @@ Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas 
 
 <div class="category-block-wrap">
   <p>Places of Power and Worship</p>
-  <img class="cover" src="/images/power-and-worship-banner.jpg">
+  <img class="cover" src="/images/power-and-worship-button.jpg">
   <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/"></a>
 </div>
 
@@ -33,7 +33,7 @@ Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas 
 
 <div class="category-block-wrap">
   <p>All Walks of Life</p>
-  <img class="cover" src="/images/all-walk-of-life-banner">
+  <img class="cover" src="/images/all-walk-of-life-button.jpg">
   <a class="cover" href="/nlb-photo-exhibition/all-walks-of-life/"></a>
 </div>
 
