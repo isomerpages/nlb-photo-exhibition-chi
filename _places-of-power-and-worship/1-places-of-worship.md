@@ -61,10 +61,6 @@ As early as 1826, a shrine is believed to have been on site, made of wood and at
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980005888 – 0048</div>
 </div>
-Constructed between 1898 and 1908, Siong Lim Temple is the oldest Buddhist monastery in Singapore and was gazetted as a national monument in 1980. The temple, also known as Lian Shan Shuang Lin Monastery, owes its foundation to Low Kim Pong, a successful Hokkien merchant who made a fortune in Singapore through his herbal and private banking businesses. The temple was built by China craftsmen, with its layout modelled after Xi Chan Si, a temple in Fuzhou, China.
-<p></p>
-<p></p>
-<hr>
 
 ![Siong Lim Temple, 1910s](/images/power-and-worship/Sub2-6-siong-lim-temple-cr.jpg)
 <div class="custom-caption">
@@ -105,10 +101,6 @@ Nagore Durgha Shrine at Telok Ayer Street was built between 1828 -1830. Original
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980005882 - 0090</div>
 </div>
-Built between 1824 and 1826, the original mosque was a brick structure with double tiered roof in the shape of a pyramid built by Sultan Hussein Shah, whom Raffles installed as Sultan of Singapore. In the early 20th century, decisions were made to erect a new mosque because the old one needed substantial repairs, and hence a new building was completed in 1928. Today the Mosque is the largest in Singapore, and is supported by Muslims of all communities.
-<p></p>
-<p></p>
-<hr>
 
 ![Interior of Sultan mosque, 1954](/images/power-and-worship/Sub2-10-interior-of-sultan-mosque-cr.jpg)
 <div class="custom-caption">
@@ -138,10 +130,6 @@ This church was built in 1836 by the Armenians in Singapore. The Armenians were 
 <div>Lee Kip Lin Collection, courtesy of National Archives of Singapore</div>
 <div>19980005121 - 0088</div>
 </div>
-Built between 1843 and 1847, it is the oldest surviving Catholic church in Singapore, and the Cathedral was gazetted as a national monument in 1973. The Cathedral was constructed in 1846 by a French priest, Father Jean-Marie Beurel. The dedication of the church to the Good Shepherd was in memory of St. Laurent Imbert, the first priest to visit Singapore. As the oldest Roman Catholic Church in Singapore, it remains an important focal point of the Catholic Community.
-<p></p>
-<p></p>
-<hr>
 
 ![Cathedral of the Good Shepherd, 1900s](/images/power-and-worship/Sub2-13-cathedral-of-the-good-shepherd.jpg)
 <div class="custom-caption">
@@ -160,10 +148,6 @@ Built between 1843 and 1847, it is the oldest surviving Catholic church in Singa
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore </div>
 <div>19980005881 - 0013</div>
 </div>
-Convent of the Holy Infant Jesus (CHIJ) was a girls' school established at Victoria Street in 1854 by the French sisters of the Congregation of the Holy Infant Jesus. The convent building encompassed the English-medium convent school, a Chinese-medium school called St. Nicholas Girls' School, an orphanage, the nun's quarters and a chapel. The Gothic chapel was completed in 1903, and became the most beautiful feature on the premises with its spectacular display of stained-glass windows at the apse.
-<p></p>
-<p></p>
-<hr>
 
 ![Interior of the Convent of the Holy Infant Jesus’ Chapel, 1900s](/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
 <div class="custom-caption">
@@ -182,10 +166,6 @@ Convent of the Holy Infant Jesus (CHIJ) was a girls' school established at Victo
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005030 – 0028</div>
 </div>
-The site of this church near the Padang was selected by Sir Stamford Raffles in 1823. The church was named after the patron saint of Scotland because the local Scottish community contributed to the building fund. The original church was completed in 1836, however it’s spire was struck twice by lightning, rendering the building to be unsafe and demolished eventually. A new church in the neo-gothic style was completed on the original site in 1864, and remains standing today.
-<p></p>
-<p></p>
-<hr>
 
 ![St. Andrew’s Cathedral, 1950s](/images/power-and-worship/Sub2-17-st-andrews-cathedral.jpg)
 <div class="custom-caption">
@@ -204,10 +184,6 @@ The site of this church near the Padang was selected by Sir Stamford Raffles in 
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980005882 - 0024</div>
 </div>
-The Sri Mariamman Temple on South Bridge Road is the oldest Hindu temple in Singapore. Naraina Pillai, an Indian pioneer, built a simple Hindu temple made of wood and attap in 1827. The present brick building replaced the wood and attap structure in 1844. This temple of early South Indians was a refuge for newly arrived immigrants, who would stay here till they found work and accommodations. It remains as the focal point for the Indian community activities today.
-<p></p>
-<p></p>
-<hr>
 
 ![Sri Mariamman Temple, 1950s](/images/power-and-worship/Sub2-19-sri-mariamman-temple.jpg)
 <div class="custom-caption">
