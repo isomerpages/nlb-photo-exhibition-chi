@@ -59,10 +59,6 @@ Boat Quay, a river embankment on the south bank of the Singapore River, is one o
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005095 - 0062</div>
 </div>
-After the old Government House on Government Hill (now Fort Canning) was torn down in 1859, a new Government House was completed in 1869. The Government House was the official residence for colonial governors, housing a total of 21 governors during colonial rule in Singapore. In 1959 it was renamed Istana (“Palace” in Malay) when Singapore attained self-governance. It is currently the official residence for presidents of Singapore, located along Orchard Road, Singapore's prime shopping district.  
-<p></p>
-<p></p>
-<hr>
 
 ![Government House, 1890s](/images/power-and-worship/Sub1-6-government-house-cr.jpg)
 <div class="custom-caption">
@@ -91,11 +87,6 @@ In the foreground of this photograph is the expansive grounds of the Government 
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005100 - 0077</div>
 </div>
-Istana Tyersall, residence of Sultan Abu Bakar of Johor in Singapore, was completed in 1892 and located in the Tanglin area (behind the Singapore Botanic Gardens). It was a luxurious, eastern palace of artistic design, spacious proportions and substantial construction. It came complete with a reception hall, dining area and a ballroom. It had marble floors and electric lights. In 1905, the house was burnt down due to a fire that was caused by faulty electrical wiring.
-<p></p>
-<p></p>
-<hr>
-
 ![Istana Tyersall, 1890s](/images/power-and-worship/Sub1-9-istana-tyersall.jpg)
 <div class="custom-caption">
 <div><p>Istana Tyersall, 1890s</p></div>
@@ -111,11 +102,6 @@ Istana Tyersall, residence of Sultan Abu Bakar of Johor in Singapore, was comple
 <div><p>Istana Kampong Glam, 1960s</p></div>
 <div>Lee Kip Lin Collection, courtesy of National Library Board</div>
 </div>
-Istana Kampong Glam was the seat and historic home of Malay Royalty in Singapore. The land was given to Sultan Hussein by Sir Stamford Raffles in 1822 and the Istana was built in 1840. Similar to much of Classical European architecture, Istana Kampong Glam was symmetrically planned, featuring classical elements such as round arches. Several features of traditional Malay architecture were also featured, aptly reflecting its function as the Sultan's palace.
-<p></p>
-<p></p>
-<hr>
-
 ![Istana Kampong Glam, 1960s](/images/power-and-worship/Sub1-11-istana-kampong-glam-cr.jpg)
 <div class="custom-caption">
 <div><p>Istana Kampong Glam, 1960s</p></div>
