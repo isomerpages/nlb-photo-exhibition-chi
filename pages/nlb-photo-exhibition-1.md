@@ -15,7 +15,7 @@ Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas 
 
 <div class="category-block-wrap">
   <p>Places of Power and Worship</p>
-  <img class="cover" src="/images/sample1-button.jpg">
+  <img class="cover" src="/images/power-and-worship-banner.jpg">
   <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/"></a>
 </div>
 
@@ -33,32 +33,22 @@ Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas 
 
 <div class="category-block-wrap">
   <p>All Walks of Life</p>
-  <img class="cover" src="/images/sample3-button.jpg">
+  <img class="cover" src="/images/all-walk-of-life-banner">
   <a class="cover" href="/nlb-photo-exhibition/all-walks-of-life/"></a>
+</div>
+
+<div class="category-block-wrap">
+  <p>Colourful Customs</p>
+  <img class="cover" src="/images/sample1-button.jpg">
+  <a class="cover" href="/nlb-photo-exhibition/colourful-customs/"></a>
+</div>
+
+<div class="category-block-wrap">
+  <p>A City in Motion</p>
+  <img class="cover" src="/images/sample3-button.jpg">
+  <a class="cover" href="/nlb-photo-exhibition/a-city-in-motion/"></a>
 </div>
 
 <p>&nbsp;</p>
 
-<div class="category-stacked-area">
-  
-<div class="photo-stacked-wrap">
-  <div class="photos">
-    <img class="photo-lv-1" src="/images/stack2-photo1.png">
-    <img class="photo-lv-2" src="/images/stack2-photo2.png">
-    <img class="photo-lv-3" src="/images/stack2-photo3.png">
-  </div>
-  <p>Colourful Customs</p>
-  <a class="cover" href="/nlb-photo-exhibition/colourful-customs/"></a>
-</div> 
-  
-<div class="photo-stacked-wrap">
-  <div class="photos">
-    <img class="photo-lv-1" src="/images/stack1-photo1.png">
-    <img class="photo-lv-2" src="/images/stack1-photo2.png">
-    <img class="photo-lv-3" src="/images/stack1-photo3.png">
-  </div>
-  <p>A City in Motion</p>
-  <a class="cover" href="/nlb-photo-exhibition/a-city-in-motion/"></a>
-</div>
 
-</div>
