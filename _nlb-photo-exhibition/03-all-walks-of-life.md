@@ -5,7 +5,7 @@ permalink: /nlb-photo-exhibition/all-walks-of-life/
 breadcrumb: All Walks of Life
 collection_name: nlb-photo-exhibition
 ---
-
+![Chinese coolies, 1900s](/images/all-walks-of-life/all-walks-of-life-banner.jpg)
 ### **All Walks of Life**
 
 Imagine walking around Singapore in the late 19th century or early 20th century, one would be amazed as he encounters people of every ethnic origin who hailed from all over the world, working and living alongside one another. Multiculturalism characterised Singapore back then as much as it remains the nation’s trademark today. In the early days where communities were clearly segregated by ethnicity and social economic status, distinct groups of people can be easily identified by their trades and occupations, leisure activities and cultural identities as reflected by their apparel.
