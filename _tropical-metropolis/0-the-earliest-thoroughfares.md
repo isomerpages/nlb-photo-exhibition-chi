@@ -43,7 +43,7 @@ Major commercial buildings occupied the waterfront at Collyer Quay. Seen here is
 <hr>
 
 
-![Singapore waterfront, 1930s](/images/Sub1-4-singapore-waterfront.jpg)
+![Singapore waterfront, 1930s](/images/Sub1-4-Singapore-Waterfront.jpg)
 <div class="custom-caption">
 <div><p>Singapore waterfront, 1930s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
