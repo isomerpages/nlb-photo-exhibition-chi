@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Memories of Two Cities : Singapore
+title: Memories of Two Cities &#58; Singapore
 permalink: /memories-of-two-cities-singapore/
-breadcrumb: Memories of Two Cities : Singapore
+breadcrumb: Memories of Two Cities &#58; Singapore
 ---
 ![NLB Photo Exhibition Banner](/images/nlb-photo-exhibition-page-banner.jpg)
 
