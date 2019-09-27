@@ -542,6 +542,8 @@ img.photo-lv-2, img.photo-lv-3 {
 
 .category-stacked-area {
     display: flex;
+    justify-content: center;
+    flex-direction: row;
 }
 
 .photo-stacked-wrap p {
@@ -598,6 +600,20 @@ img.photo-lv-2-banner, img.photo-lv-3-banner {
     position: absolute;
 }
 
+
+/*custom media query*/
+@media screen and (max-width: 768px) {
+.category-stacked-area {
+    flex-direction: column;
+}
+.photo-stacked-wrap {
+    flex: 0 0 100%;
+}	
+}
+
+
+
+/*Animation*/
 .photo-lv-1-banner{
   animation: anim1 ease 0.5s;
   animation-iteration-count: 1;
