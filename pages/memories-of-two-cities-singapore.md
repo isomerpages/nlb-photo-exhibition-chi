@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Memories of Two Cities = Singapore
+title: Memories of Two Cities Singapore
 permalink: /memories-of-two-cities-singapore/
 breadcrumb: Memories of Two Cities Singapore
 ---
