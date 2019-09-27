@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: NLB Photo Exhibition
-permalink: /nlb-photo-exhibition/
-breadcrumb: NLB Photo Exhibition
+title: Memories of Two Cities : Singapore
+permalink: /memories-of-two-cities-singapore/
+breadcrumb: Memories of Two Cities : Singapore
 ---
 ![NLB Photo Exhibition Banner](/images/nlb-photo-exhibition-page-banner.jpg)
 
