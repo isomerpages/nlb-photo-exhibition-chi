@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Tropical Metropolis
-permalink: /nlb-photo-exhibition/tropical-metropolis/
+permalink: /memories-of-two-cities-singapore/tropical-metropolis/
 breadcrumb: Tropical Metropolis
-collection_name: nlb-photo-exhibition
+collection_name: memories-of-two-cities-singapore
 ---
 ![NLB Photo Exhibition - Collyer Quay](/images/tropical-metropolis-banner.jpg)
 ### **Tropical Metropolis**
