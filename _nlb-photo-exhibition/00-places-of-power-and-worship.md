@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Places of Power and Worship
 permalink: /memories-of-two-cities:-singapore/places-of-power-and-worship/
 breadcrumb: Places of Power and Worship
-collection_name: memories-of-two-cities:-singapore
+collection_name: memories-of-two-cities-singapore
 ---
 
 ![View of Istana Tyersall from Botanical Gardens](/images/power-and-worship/power-and-worship-banner.jpg)
