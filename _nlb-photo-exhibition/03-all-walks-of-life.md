@@ -18,9 +18,9 @@ In this section, photographs of people at work and at leisure, as well as group 
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img class="photo-lv-1" src="/images/with-family-and-friends/work-photo-stack-1.png">
-    <img class="photo-lv-2" src="/images/with-family-and-friends/work-photo-stack-2.png">
-    <img class="photo-lv-3" src="/images/with-family-and-friends/work-photo-stack-3.png">
+    <img class="photo-lv-1" src="/images/all-walks-of-life/work-photo-stack-1.png">
+    <img class="photo-lv-2" src="/images/all-walks-of-life/work-photo-stack-2.png">
+    <img class="photo-lv-3" src="/images/all-walks-of-life/work-photo-stack-3.png">
   </div>
   <p>People at Work</p>
   <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/people-at-work"></a>
