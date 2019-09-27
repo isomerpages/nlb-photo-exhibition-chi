@@ -28,9 +28,9 @@ In this section, photographs of people at work and at leisure, as well as group 
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img class="photo-lv-1" src="/images/power-and-worship/play-photo-stack-1.png">
-    <img class="photo-lv-2" src="/images/power-and-worship/play-photo-stack-2.png">
-    <img class="photo-lv-3" src="/images/power-and-worship/play-photo-stack-3.png">
+    <img class="photo-lv-1" src="/images/all-walks-of-life/play-photo-stack-1.png">
+    <img class="photo-lv-2" src="/images/all-walks-of-life/play-photo-stack-2.png">
+    <img class="photo-lv-3" src="/images/all-walks-of-life/play-photo-stack-3.png">
   </div>
   <p>People at Play</p>
   <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/people-at-play/"></a>
@@ -42,9 +42,9 @@ In this section, photographs of people at work and at leisure, as well as group 
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img class="photo-lv-1" src="/images/power-and-worship/family-photo-stack-1.png">
-    <img class="photo-lv-2" src="/images/power-and-worship/family-photo-stack-2.png">
-    <img class="photo-lv-3" src="/images/power-and-worship/family-photo-stack-3.png">
+    <img class="photo-lv-1" src="/images/all-walks-of-life/family-photo-stack-1.png">
+    <img class="photo-lv-2" src="/images/all-walks-of-life/family-photo-stack-2.png">
+    <img class="photo-lv-3" src="/images/all-walks-of-life/family-photo-stack-3.png">
   </div>
   <p>With Family and Friends</p>
   <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/with-family-and-friends/"></a>
