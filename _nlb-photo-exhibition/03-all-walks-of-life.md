@@ -5,13 +5,6 @@ permalink: /nlb-photo-exhibition/all-walks-of-life/
 breadcrumb: All Walks of Life
 collection_name: nlb-photo-exhibition
 ---
-<div class="photo-stacked-wrap-banner">
-  <div class="photos-banner">
-    <img class="photo-lv-1-banner" src="/images/power-and-worship/seats-photo-stack-1.png">
-    <img class="photo-lv-2-banner" src="/images/power-and-worship/seats-photo-stack-2.png">
-    <img class="photo-lv-3-banner" src="/images/power-and-worship/seats-photo-stack-3.png">
-  </div>
-</div>
 
 ### **All Walks of Life**
 
@@ -21,38 +14,41 @@ In this section, photographs of people at work and at leisure, as well as group 
 
 <p>&nbsp;</p>
 
-<div class="type-two box-hov-style">
-	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/nlb-photo-exhibition/all-walks-of-life/people-at-work/">
-				<img src="/images/all-walks-of-life/Sub1-2-tamil-coolies-cr-boxed.jpg" alt="All Walks of Life - People at Work" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5><b>People at Work</b></h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/nlb-photo-exhibition/all-walks-of-life/people-at-play/" class="project-link">
-				<img src="/images/all-walks-of-life/sub2-3-malay-dancers-boxed-rz.jpg" alt="All Walks of Life - People at Play" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5>People at Play</h5>
-				</div>
-			</div>
-			</a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/nlb-photo-exhibition/all-walks-of-life/with-family-and-friends" class="project-link">
-				<img src="/images/all-walks-of-life/Sub3-10-eurasian-family-cr-boxed.jpg" alt="All Walks of Life - With Family and Friends" class="project-image">
-			<div class="project-card">
-				<div class="project-title margin--bottom--xs">
-					<h5>With Family and Friends</h5>
-				</div>
-			</div>
-			</a>
-		</div>
-	</div>
+<div class="category-stacked-area">
+  
+<div class="photo-stacked-wrap">
+  <div class="photos">
+    <img class="photo-lv-1" src="/images/power-and-worship/work-photo-stack-1.png">
+    <img class="photo-lv-2" src="/images/power-and-worship/work-photo-stack-2.png">
+    <img class="photo-lv-3" src="/images/power-and-worship/work-photo-stack-3.png">
+  </div>
+  <p>People at Work</p>
+  <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/people-at-work"></a>
+</div> 
+  
+<div class="photo-stacked-wrap">
+  <div class="photos">
+    <img class="photo-lv-1" src="/images/power-and-worship/play-photo-stack-1.png">
+    <img class="photo-lv-2" src="/images/power-and-worship/play-photo-stack-2.png">
+    <img class="photo-lv-3" src="/images/power-and-worship/play-photo-stack-3.png">
+  </div>
+  <p>People at Play</p>
+  <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/people-at-play/"></a>
+</div>
+
+</div>
+
+<div class="category-stacked-area">
+  
+<div class="photo-stacked-wrap">
+  <div class="photos">
+    <img class="photo-lv-1" src="/images/power-and-worship/family-photo-stack-1.png">
+    <img class="photo-lv-2" src="/images/power-and-worship/family-photo-stack-2.png">
+    <img class="photo-lv-3" src="/images/power-and-worship/family-photo-stack-3.png">
+  </div>
+  <p>With Family and Friends</p>
+  <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/with-family-and-friends/"></a>
+</div> 
+
 </div>
 
