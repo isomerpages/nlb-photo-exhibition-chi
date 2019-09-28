@@ -21,7 +21,7 @@ Modern Singapore is a metropolis on all counts. However, since the early 19th ce
     <img class="photo-lv-3" src="/images/thoroughfares-photo-stack-3.png">
   </div>
   <p>The Earliest<br>Thorough&shy;fares</p>
-  <a class="cover" href="/nlb-photo-exhibition/tropical-metropolis/the-earliest-thoroughfares/"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/tropical-metropolis/the-earliest-thoroughfares/"></a>
 </div> 
   
 <div class="photo-stacked-wrap">
@@ -31,7 +31,7 @@ Modern Singapore is a metropolis on all counts. However, since the early 19th ce
     <img class="photo-lv-3" src="/images/highlife-photo-stack-3.png">
   </div>
   <p>High life<br>in the City</p>
-  <a class="cover" href="/nlb-photo-exhibition/tropical-metropolis/high-life-in-the-city/"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/tropical-metropolis/high-life-in-the-city/"></a>
 </div>
 
 </div>
@@ -45,7 +45,7 @@ Modern Singapore is a metropolis on all counts. However, since the early 19th ce
     <img class="photo-lv-3" src="/images/bustle-photo-stack-3.png">
   </div>
   <p>Away From the Bustle</p>
-  <a class="cover" href="/nlb-photo-exhibition/tropical-metropolis/away-from-the-bustle"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/tropical-metropolis/away-from-the-bustle"></a>
 </div> 
 
 </div>
