@@ -22,15 +22,15 @@ hero-banner: /images/home-page-banner.jpg
 
 # Info Sections
 info-sections:
-  - section-title: abc
+  - section-title: 
     section-subtitle: NLB Photo Exhibition
-    section-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ligula leo, efficitur ac sagittis sed, ultricies ac nisi. Morbi quis odio libero. Sed et erat diam. Sed congue est a est auctor, luctus lacinia odio blandit. Orci varius natoque penatibus.
+    section-description:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ligula leo, efficitur ac sagittis sed, ultricies ac nisi. Morbi quis odio libero. Sed et erat diam. Sed congue est a est auctor, luctus lacinia odio blandit. Orci varius natoque penatibus.
     section-more-button: Find Out More
-    section-more-button-url: /memories-of-two-cities-singapore/
+    section-more-button-url: /nlb-photo-exhibition/
     section-image-path: /images/nlb-photo-exhibition-home.png
-  - section-title: abc
-    section-subtitle: Beijing
-    section-description: Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas at augue ac massa pretium posuere. Nulla pretium rutrum ante vel imperdiet. Aliquam viverra at dolor eu bibendum. Mauris a magna commodo, pretium tellus ac, tempus velit. Fusce semper consectetur finibus.
+  - section-title: 
+    section-subtitle: China Photo Exhibition
+    section-description: Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas at augue ac massa pretium posuere. Nulla pretium rutrum ante vel imperdiet. Aliquam viverra at dolor eu bibendum. Mauris a magna commodo, pretium tellus ac, tempus velit. Fusce semper consectetur finibus..
     section-more-button: Find Out More
-    section-more-button-url: /#
+    section-more-button-url: 
     section-image-path: /images/china-exhibition-home.png
