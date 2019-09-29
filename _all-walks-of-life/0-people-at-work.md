@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: People at Work
-permalink: /nlb-photo-exhibition/all-walks-of-life/people-at-work/
+permalink: /memories-of-two-cities-singapore/all-walks-of-life/people-at-work/
 breadcrumb: People at Work
 collection_name: all-walks-of-life
 ---
