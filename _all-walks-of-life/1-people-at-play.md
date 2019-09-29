@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: People at Play
-permalink: /nlb-photo-exhibition/all-walks-of-life/people-at-play/
+permalink: /memories-of-two-cities-singapore/all-walks-of-life/people-at-play/
 breadcrumb: People at Play
 collection_name: all-walks-of-life
 ---
