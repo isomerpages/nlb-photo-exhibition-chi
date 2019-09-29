@@ -16,37 +16,37 @@ Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas 
 <div class="category-block-wrap">
   <p>Places of Power and Worship</p>
   <img class="cover" src="/images/power-and-worship-button.jpg">
-  <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/places-of-power-and-worship/"></a>
 </div>
 
 <div class="category-block-wrap">
   <p>Tropical Metropolis</p>
   <img class="cover" src="/images/tropical-metropolis-button.jpg">
-  <a class="cover" href="/nlb-photo-exhibition/tropical-metropolis/"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/tropical-metropolis/"></a>
 </div>
 
 <div class="category-block-wrap">
   <p>Centres of Commerce</p>
   <img class="cover" src="/images/sample2-button.jpg">
-  <a class="cover" href="/nlb-photo-exhibition/centres-of-commerce/"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/centres-of-commerce/"></a>
 </div>
 
 <div class="category-block-wrap">
   <p>All Walks of Life</p>
   <img class="cover" src="/images/all-walks-of-life-button.jpg">
-  <a class="cover" href="/nlb-photo-exhibition/all-walks-of-life/"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/"></a>
 </div>
 
 <div class="category-block-wrap">
   <p>Colourful Customs</p>
   <img class="cover" src="/images/sample1-button.jpg">
-  <a class="cover" href="/nlb-photo-exhibition/colourful-customs/"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/colourful-customs/"></a>
 </div>
 
 <div class="category-block-wrap">
   <p>A City in Motion</p>
   <img class="cover" src="/images/sample3-button.jpg">
-  <a class="cover" href="/nlb-photo-exhibition/a-city-in-motion/"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/a-city-in-motion/"></a>
 </div>
 
 <p>&nbsp;</p>
