@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Places of Worship
-permalink: /nlb-photo-exhibition/places-of-power-and-worship/places-of-worship/
+permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/places-of-worship/
 breadcrumb: Places of Worship
 collection_name: places-of-power-and-worship
 ---
@@ -9,7 +9,7 @@ The colonial Singapore was a society made up of different ethnic groups, most of
 
 In this section, a selection of places of worship will be presented. Given the multi-ethnic fabric of colonial Singapore, major religions of the world were being represented here. Some of these places of worship began as modest structures where travellers would go to give thanks for a smooth journey upon reaching Singapore, while others have been gazetted to be preserved as national monuments today. Many of these places featured unique architectural designs to reflect the community’s identity, culture and heritage, and have developed over time to become social centres for community activities.
 <p></p>
-<p></p>
+![---](/images/partition.jpg)
 
 ![Thian Hock Keng Temple, 1900s](/images/power-and-worship/Sub2-1-thian-hock-keng-temple-cr.jpg)
 <div class="custom-caption">
