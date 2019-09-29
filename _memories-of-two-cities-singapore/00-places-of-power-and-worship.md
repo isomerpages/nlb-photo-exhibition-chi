@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Places of Power and Worship
-permalink: /nlb-photo-exhibition/places-of-power-and-worship/
+permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/
 breadcrumb: Places of Power and Worship
-collection_name: nlb-photo-exhibition
+collection_name: memories-of-two-cities-singapore
 ---
 
 ![View of Istana Tyersall from Botanical Gardens](/images/power-and-worship/power-and-worship-banner.jpg)
@@ -24,7 +24,7 @@ The colonial Singapore society was made up of a motley of ethnic and dialect gro
     <img class="photo-lv-3" src="/images/power-and-worship/seats-photo-stack-3.png">
   </div>
   <p>Seats of Power</p>
-  <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/seats-of-power"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/places-of-power-and-worship/seats-of-power"></a>
 </div> 
   
 <div class="photo-stacked-wrap">
@@ -34,7 +34,7 @@ The colonial Singapore society was made up of a motley of ethnic and dialect gro
     <img class="photo-lv-3" src="/images/power-and-worship/worship-photo-stack-3.png">
   </div>
   <p>Places of Worship</p>
-  <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/places-of-worship/"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/places-of-power-and-worship/places-of-worship/"></a>
 </div>
 
 </div>
