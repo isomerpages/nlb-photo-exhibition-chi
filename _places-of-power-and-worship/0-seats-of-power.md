@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Seats of Power
-permalink: /nlb-photo-exhibition/places-of-power-and-worship/seats-of-power/
+permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/seats-of-power/
 breadcrumb: Seats of Power
 collection_name: places-of-power-and-worship
 ---
@@ -9,7 +9,7 @@ Contrary to the common belief that Singapore was a quiet fishing town before the
 
 While the Malay royalty continued to reside at lavish palaces in Singapore during the 19th century, the British also established their presence by building a Government House on Bukit Larangan (Forbidden Hill), which was exclusive to the royalty in the past. The Government House was the residence of colonial governors until the 1850s, where the House was demolished to construct an artillery fort, and the hill was renamed Fort Canning Hill, which remains an important landmark in Singapore today. 
 <p></p>
-<p></p>
+![---](/images/partition.jpg)
 
 ![Fort Canning Entrance, 1925](/images/power-and-worship/Sub1-1-fort-canning-entrance-cr.jpg)
 <div class="custom-caption">
