@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Colourful Customs
-permalink: /nlb-photo-exhibition/colourful-customs/
+permalink: /memories-of-two-cities-singapore/colourful-customs/
 breadcrumb: Colourful Customs
-collection_name: nlb-photo-exhibition
+collection_name: memories-of-two-cities-singapore
 ---
