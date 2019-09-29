@@ -10,7 +10,7 @@ The founding of Singapore as a British trading port in 1819 led to an influx of 
 A large number of migrants from China and India came here as labourers, providing the much needed labour in building construction and various industries on the island. Among the indigenous Malays and others from the region, many worked as fishermen and farmers. Regardless of race, many migrants also worked as itinerant hawkers plying their trade from street to street. The Europeans came as administrators as merchants, working in government offices, banks and trading houses. They were later joined by English-educated locals working under them. The following images show people at work who contributed to the development of early Singapore. 
 
 <p></p>
-<p></p>
+![---](/images/partition.jpg)
 
 ![Chinese coolies, 1900s](/images/all-walks-of-life/Sub1-1-chinese-coolies-sm.jpg)
 <div class="custom-caption">
