@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: All Walks of Life
-permalink: /nlb-photo-exhibition/all-walks-of-life/
+permalink: /memories-of-two-cities-singapore/all-walks-of-life/
 breadcrumb: All Walks of Life
-collection_name: nlb-photo-exhibition
+collection_name: memories-of-two-cities-singapore
 ---
 ![Chinese coolies, 1900s](/images/all-walks-of-life/all-walks-of-life-banner.jpg)
 ### **All Walks of Life**
@@ -23,7 +23,7 @@ In this section, photographs of people at work and at leisure, as well as group 
     <img class="photo-lv-3" src="/images/all-walks-of-life/work-photo-stack-3.png">
   </div>
   <p>People at Work</p>
-  <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/people-at-work"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/places-of-power-and-worship/people-at-work"></a>
 </div> 
   
 <div class="photo-stacked-wrap">
@@ -33,7 +33,7 @@ In this section, photographs of people at work and at leisure, as well as group 
     <img class="photo-lv-3" src="/images/all-walks-of-life/play-photo-stack-3.png">
   </div>
   <p>People at Play</p>
-  <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/people-at-play/"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/places-of-power-and-worship/people-at-play/"></a>
 </div>
 
 </div>
@@ -47,7 +47,7 @@ In this section, photographs of people at work and at leisure, as well as group 
     <img class="photo-lv-3" src="/images/all-walks-of-life/family-photo-stack-3.png">
   </div>
   <p>With Family and Friends</p>
-  <a class="cover" href="/nlb-photo-exhibition/places-of-power-and-worship/with-family-and-friends/"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/places-of-power-and-worship/with-family-and-friends/"></a>
 </div> 
 
 </div>
