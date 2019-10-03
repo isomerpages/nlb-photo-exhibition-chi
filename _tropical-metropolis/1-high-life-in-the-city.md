@@ -89,8 +89,7 @@ From the turn of the century until the 1960s, High Street was a popular shopping
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005916 - 0038</div>
 </div>
-
-The Capitol Theatre, which opened in 1930, was regarded as one of the finest cinemas of its time. Spanning more than 2,100 square metres, the design of the theatre drew inspiration from the Roxy Theatre in New York, following its seating arrangements, lighting and general plan. At its opening, the theatre was hailed as having the most modern auditorium with the largest capacity in Asia.
+Capitol Theatre, which opened in 1930, was regarded as one of the finest cinemas of its time. Covering more than 2,100 m<sup>2</sup>, its design drew inspiration from New York’s Roxy Theatre, and followed its seating arrangements, lighting and general plan. At its opening, the theatre’s auditorium was hailed as the most modern and largest in Asia.
 
 <hr>
 
@@ -101,7 +100,7 @@ The Capitol Theatre, which opened in 1930, was regarded as one of the finest cin
 <div>19980005088 - 0066</div>
 </div>
 
-The Capitol Theatre could accommodate at least 1,600 viewers. The theatre’s stage was designed for film as well as stage productions. It was one of the first theatres of its day to have lifts and state-of-the-art lighting system.
+Capitol Theatre could accommodate at least 1,600 viewers. The theatre’s stage was designed for both film and stage productions. It was one of the first theatres of its day to have lifts and a state-of-the-art lighting system.
 
 <hr>
 
@@ -111,8 +110,7 @@ The Capitol Theatre could accommodate at least 1,600 viewers. The theatre’s st
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980006555 – 0032</div>
 </div>
-
-The Raffles Library and Museum was opened to the public in 1887 and was a key attraction to visitors and residents of Singapore. While the Library comprised of a reference library, a lending library and a reading room; the Museum presented its rich collection in the ethnological, geological, mineralogical, zoological and botanical specimens. The building is now part of the National Museum of Singapore.
+The Raffles Library and Museum was opened to the public in 1887 and quickly became a key attraction for visitors and residents of Singapore. The library comprised a reference library, lending library and reading room, and the museum housed a rich collection of ethnological, geological, mineralogical, zoological and botanical specimens. The building is now part of the National Museum of Singapore.
 
 <hr>
 
@@ -122,8 +120,7 @@ The Raffles Library and Museum was opened to the public in 1887 and was a key at
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980006555 – 0036</div>
 </div>
-
-This photograph shows the animal specimen exhibits at the Raffles Library and Museum in the 1900s. A diverse range of animal specimens could be found in the museum.
+This photograph shows the animal specimen exhibits at the Raffles Library and Museum in the 1900s. A diverse range of animal specimens could be found here.
 
 <hr>
 
@@ -133,8 +130,7 @@ This photograph shows the animal specimen exhibits at the Raffles Library and Mu
 <div>Wong Kwan Collection, courtesy of National Archives of Singapore.</div>
 <div>19980005861 - 0041</div>
 </div>
-
-The Great World was one of the major amusement parks that livened up the public’s leisure time in the 1950s and 1960s. The amusement park was developed in the 1930s to provide entertainment for low-income families. There were films and Chinese operas to watch, as well as wrestling and boxing matches.
+Great World was one of Singapore’s major amusement parks that livened up the public’s leisure time in the 1950s and 1960s. The amusement park was developed in the 1930s to provide entertainment for low-income families. Apart from games and rides, visitors could watch films and Chinese operas, as well as wrestling and boxing matches.
 
 <hr>
 
@@ -144,5 +140,4 @@ The Great World was one of the major amusement parks that livened up the public�
 <div>Donald Moore Collection, courtesy of National Archives of Singapore</div>
 <div>20140000146 - 0045</div>
 </div>
-
-The amusement parks were well-known for traditional opera performances of every description. People could watch Peking, Teochew and Cantonese operas, as well as Bangsawan (Malay opera). After the war, the park became popular once again, with carnival rides such as the Ghost Train, ferris wheel and carousel added to the suite of amusements for the crowd.
+The amusement parks were well-known for traditional opera performances of every description. People could watch Peking, Teochew and Cantonese operas, as well as _bangsawan_ (Malay opera). After the war, the park became popular once again, with carnival rides such as the Ghost Train, ferris wheel and carousel added to the suite of attractions for visitors.
