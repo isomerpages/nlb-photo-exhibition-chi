@@ -17,7 +17,7 @@ Singapore’s development into a major port was closely linked to its strategic 
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005094 - 0072</div>
 </div>
-Constructed in 1856, Johnston’s Pier was where most visitors first set foot on Singapore in her early days. Made of iron and wood, the pier had a 40-feet-wide platform which extended from shore into the sea. A red lamp used to hang at the end of the pier to warn ships as they entered the harbour, giving the pier its local name, ‘the red lamp’. It was demolished in 1935, replaced by nearby Clifford Pier which opened on 1933 to handle the increase in shipping traffic.
+Constructed in 1856, Johnston’s Pier was where most visitors first set foot on Singapore in her early days. Made of iron and wood, the pier had a 40-foot-wide platform that extended from shore into the sea. A red lamp used to hang at the end of the pier to warn ships as they entered the harbour, giving the pier its local name, ‘the red lamp’. It was demolished in 1935, replaced by nearby Clifford Pier, which opened on 1933 to handle the increase in shipping traffic.
 <p></p>
 <p></p>
 <hr>
@@ -27,7 +27,7 @@ Constructed in 1856, Johnston’s Pier was where most visitors first set foot on
 <div><p>Collyer Quay, 1880s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
-This view of Collyer Quay from Johnston's Pier shows the Singapore waterfront, which would have been many visitors’ first impressions of old Singapore. Collyer Quay was a street and seawall constructed in the 1860s. Lined with the offices of leading commercial firms, the quay served as a landing point for the unloading and storage of goods. The sampans in the foreground would bring goods from ships to warehouses along the Singapore River and passengers to Johnston’s pier.
+This view of Collyer Quay from Johnston's Pier shows the Singapore waterfront, which would have been the first impression of many visitors to old Singapore. Collyer Quay was a street and seawall constructed in the 1860s. Lined with the offices of leading commercial firms, the quay served as a landing point for the unloading and storage of goods. The _sampans_ in the foreground would bring goods from ships to warehouses along the Singapore River and passengers to Johnston’s Pier.
 <p></p>
 <p></p>
 <hr>
