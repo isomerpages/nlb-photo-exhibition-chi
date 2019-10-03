@@ -38,7 +38,7 @@ This view of Collyer Quay from Johnston's Pier shows the Singapore waterfront, w
 <div><p>Commercial Square, 1900s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
-Major commercial buildings occupied the waterfront at Collyer Quay. Seen here is the Hong Kong and Shanghai Banking Corporation building (centre), right across the Johnston’s Pier. The magnificent building was completed in 1892 and demolished in the 1920s to make way for a new building. The site remains the location of the bank’s headquarters in Singapore.
+Major commercial buildings occupied the waterfront at Collyer Quay. Seen here is the Hongkong and Shanghai Banking Corporation building (centre), right across Johnston’s Pier. The magnificent building was completed in 1892 and demolished in the 1920s to make way for a new building. The site remains the location of the bank’s headquarters in Singapore.
 <p></p>
 <p></p>
 <hr>
@@ -62,7 +62,7 @@ By the 1930s, many commercial buildings along Collyer Quay had been replaced by 
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980005879 – 0109</div>
 </div>
-The Fullerton Building has been a prominent landmark on the Singapore waterfront since its completion in 1928. The neoclassical façade  featuring Doric columns evokes grandeur and power. Most well remembered as the General Post Office, it also housed several government departments and had been witness to many Singapore’s nation building milestones. After major renovations between 1997 and 2000, it became The Fullerton Hotel on 1 January 2001.
+The Fullerton Building has been a prominent landmark on the Singapore waterfront since its completion in 1928. Its neoclassical façade featuring Doric columns evokes grandeur and power. Well-remembered as the General Post Office, it also housed several government departments. After major renovations between 1997 and 2000, it reopened as the Fullerton Hotel on 1 January 2001.
 <p></p>
 <p></p>
 <hr>
@@ -74,7 +74,7 @@ The Fullerton Building has been a prominent landmark on the Singapore waterfront
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005494 – 0016</div>
 </div>
-This area near the mouth the Singapore River is known as the Empress Place, where colonial era civic buildings were located. On the right are Cavenagh Bridge in the foreground and Anderson Bridge. On the left was the Empress Place Building which housed various government offices, and the Victoria Memorial Hall behind it. Further beyond is the Padang, a playing field for cricket which started in the 1820s.
+This area near the mouth the Singapore River is known as Empress Place, where colonial-era civic buildings were located. On the right is Cavenagh Bridge in the foreground and Anderson Bridge. On the left are Empress Place Building, which housed various government offices, and the Victoria Memorial Hall behind it. Further beyond is the Padang, a playing field for cricket that opened in the 1820s.
 <p></p>
 <p></p>
 <hr>
@@ -86,7 +86,7 @@ This area near the mouth the Singapore River is known as the Empress Place, wher
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005576 – 0046</div>
 </div>
-On the left in the foreground is the Dalhousie Obelisk, Singapore’s first public statue erected in 1850. In the middle is the Victoria Theatre and Memorial Hall, which is the oldest performing arts venue in Singapore. The Theatre, constructed in 1862, was then known as the Town Hall, and the adjoining Memorial Hall was erected in 1905 in memory of Queen Victoria. The Victoria Theatre and Memorial Hall were also used for public events and political meetings, making it a historic landmark in Singapore.
+On the left foreground is the Dalhousie Obelisk, Singapore’s first public statue erected in 1850. In the centre is the Victoria Theatre and Memorial Hall, the oldest performing arts venue in Singapore. The theatre, constructed in 1862, was then known as the Town Hall, and the adjoining Memorial Hall was erected in 1905 in memory of Queen Victoria. The Victoria Theatre and Memorial Hall were also used for public events and political meetings, making it a historic landmark.
 <p></p>
 <p></p>
 <hr>
@@ -97,7 +97,7 @@ On the left in the foreground is the Dalhousie Obelisk, Singapore’s first publ
 <div><p>Cavenagh Bridge, 1894</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
-Cavenagh Bridge is the oldest bridge across the Singapore River. Before it was built, one had to cross the river by ferry. Completed in 1869 to celebrate the 50th anniversary of the founding of Singapore, the bridge is named after William Orfeur Cavenagh, who was the last governor of the Straits Settlements (1859-1867) before Singapore became a crown colony. It now serves as a footbridge between the Fullerton Hotel Singapore and Empress Place.
+Completed in 1869 to celebrate the 50th anniversary of the founding of Singapore, the bridge is named after William Orfeur Cavenagh, who was the last governor of the Straits Settlements (1859–1867) before Singapore became a crown colony. It now serves as a footbridge between Fullerton Hotel and Empress Place.
 <p></p>
 <p></p>
 <hr>
@@ -108,7 +108,7 @@ Cavenagh Bridge is the oldest bridge across the Singapore River. Before it was b
 <div><p>High Street, 1890</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
-Cleared from part of the jungle near the shore, High Street was the first street in Singapore to be laid out in 1819. The street sits on high ground and is hence not prone to flooding. On the right is Hotel de l'Europe, one of the major hotels in early Singapore established in 1857. Before the 1970s, High Street was a popular shopping belt for the well-heeled residents and tourists.
+Cleared from part of the jungle near the shore in 1819, High Street was the first street to be laid out in Singapore. The street sits on high ground and is hence not prone to flooding. On the right is Hotel de l'Europe, one of early Singapore’s major hotels, established in 1857. Before the 1970s, High Street was a popular shopping belt for well-heeled residents and tourists.
 <p></p>
 <p></p>
 <hr>
@@ -120,7 +120,7 @@ Cleared from part of the jungle near the shore, High Street was the first street
 <div>Lim Kheng Chye Collection, Courtesy of National Archives Singapore.</div>
 <div>19980005879 - 0017</div>
 </div>
-North Bridge Road was one of the earliest roads to be constructed in Singapore. It was carved out of dense jungle and constructed by convict labourers. Also known as Seoh Poh (小坡), it is featured in Chinese writer Lao She’s (老舍) Xiaopo’s birthday (《小坡的生日》), a children’s fiction featuring a pair of siblings living in Singapore and their lives at North Bridge Road. The road remains as one of Singapore's main roads today.
+North Bridge Road was one of the earliest roads to be constructed in Singapore. It was carved out of dense jungle and constructed by convict labourers. Also known as _Seoh Poh_ (小坡), it is featured in Chinese writer Lao She’s (老舍) _Xiaopo’s Birthday _(小坡的生日, 1934), a children’s fiction featuring a pair of siblings living in Singapore and their lives at North Bridge Road. The road is still one of Singapore's main roads. 
 <p></p>
 <p></p>
 <hr>
@@ -131,7 +131,7 @@ North Bridge Road was one of the earliest roads to be constructed in Singapore. 
 <div><p>South Bridge Road, 1890s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
-South Bridge Road has been known by its name since early 1820s before a proper road was even constructed. It grew in importance as the link between the town and New Harbour, attracting wholesale and retail merchant traders, godowns, goldsmith shops and other import and export businesses to set up their businesses along this road. Being the main street of Chinatown, it was also known as Tua Poh (大坡) among the Chinese.
+South Bridge Road has been known by its name since early 1820s, before a proper road was even constructed. It grew in importance as the link between the town and New Harbour, attracting wholesale and retail merchant traders, godowns, goldsmiths and other import and export businesses to set up shop along this road. Being the main street of Chinatown, it was also known as _Tua Poh_ (大坡) among the Chinese.
 <p></p>
 <p></p>
 <hr>
@@ -142,7 +142,7 @@ South Bridge Road has been known by its name since early 1820s before a proper r
 <div><p>South Bridge Road, 1890s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
-While South Bridge Road is the main street in Chinatown, it is home to places of worship for other communities, showing the multi-cultural interface of public spaces in Singapore since the early days. Seen here is the Sri Mariamman Temple in the centre, a Hindu temple which was first constructed 1827, and Jamae Mosque on the right, which began in 1826. Both of these sites of worship are now Singapore’s national monuments.
+While South Bridge Road is the main street in Chinatown, it is home to places of worship for other communities, showing the multi-cultural nature of public spaces in Singapore since the early days. Seen here is the Sri Mariamman Temple in the centre, a Hindu temple that was first constructed 1827, and Jamae Mosque on the right, which was built in 1826. Both of these sites of worship are now national monuments.
 <p></p>
 <p></p>
 <hr>
