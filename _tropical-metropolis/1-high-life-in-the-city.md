@@ -6,7 +6,7 @@ breadcrumb: High Life in the City
 collection_name: tropical-metropolis
 ---
 
-As a port city on the major trade routes between Europe, India, Australia and China, early Singapore had long been exposed to cosmopolitan lifestyles and material culture. When the opening of the Suez Canal in 1869 brought an influx of tourists from Europe to Singapore, accommodation, retail and entertainment facilities flourished to cater for the needs of the international traveller. This section showcases what Singapore had to offer when high living was called for – from world-class hotels, modern department stores, shopping belts, as well as entertainment facilities to suit every taste and budget.
+As a port city on the major trade routes between Europe, India, Australia and China, early Singapore had long been exposed to cosmopolitan lifestyles and material culture. The opening of the Suez Canal in 1869 brought an influx of tourists from Europe to Singapore, and accommodation, retail and entertainment facilities flourished to cater for the needs of international travellers. This section showcases what Singapore had to offer when high living was called for – world-class hotels, modern department stores, shopping belts, as well as entertainment to suit every taste and budget.
 
 <p></p>
 ![---](/images/partition.jpg)
@@ -17,7 +17,7 @@ As a port city on the major trade routes between Europe, India, Australia and Ch
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005093 - 0055</div>
 </div>
-Raffles Hotel was established in 1887 by Armenian hoteliers, Sarkies brothers, and commenced operations as a 10-room hotel. Its seafront location made it very popular with European residents and travellers. When its new main building opened in 1899, it was among the earliest buildings in Singapore to have electric lighting and appliances. By the early 1900s, it had transformed into one of the largest grand hotels in Asia, renowned for its modern amenities and luxury.
+Raffles Hotel was established in 1887 by Armenian hoteliers the Sarkies brothers and commenced operations as a 10-room hotel. Its seafront location made it popular among European residents and travellers. Its new main building, which opened in 1899, was among the first in Singapore to have electric lighting and appliances. By the early 1900s, it had transformed into one of the largest grand hotels in Asia, renowned for its modern amenities and luxury. 
 
 <hr>
 
@@ -27,7 +27,7 @@ Raffles Hotel was established in 1887 by Armenian hoteliers, Sarkies brothers, a
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980005880 - 0104</div>
 </div>
-Raffles Hotel was renowned for parties and banquets at its Ballroom, where guests could enjoy fine dining and dance to music performed by a live band. Menu cards from the 1910s showed that the dishes served included clear turtle soup, baked fish in butter gravy, grilled fillet steak, and roasted pheasant. In the 1930s, after-dinner dances took place at the Ballroom till midnight from Monday to Saturday.
+Raffles Hotel was renowned for parties and banquets at its ballroom, where guests could enjoy fine dining and dance to music performed by a live band. Menu cards from the 1910s show that the dishes served include clear turtle soup, baked fish in butter gravy, grilled fillet steak, and roasted pheasant. In the 1930s, after-dinner dances took place at the ballroom till midnight from Monday to Saturday.
 
 <hr>
 
@@ -37,7 +37,7 @@ Raffles Hotel was renowned for parties and banquets at its Ballroom, where guest
 <div>Robert Feingold Collection, courtesy of National Archives of Singapore</div>
 <div>19980005107 - 0008</div>
 </div>
-English writer Rudyard Kipling (1865–1936), who visited Singapore in 1889, once said ‘feed at Raffles and sleep at the Hotel de l’Europe’, referring to the two leading hotels in the city then. Hotel de l’Europe began in 1857 as a modest establishment. It was renamed Grand Hotel de l’Europe in 1907, after a major redevelopment. During its heyday, it rivalled the Raffles Hotel in terms of luxury and service. The hotel closed in 1932.
+English writer Rudyard Kipling (1865–1936), who visited Singapore in 1889, once said ‘feed at Raffles and sleep at the Hotel de l’Europe’, referring to the two leading hotels in the city then. Hotel de l’Europe began in 1857 as a modest establishment. It was renamed Grand Hotel de l’Europe in 1907, after a major refurbishment. During its heyday, it rivalled the Raffles Hotel in terms of luxury and service. The hotel closed in 1932.
 
 <hr>
 
@@ -47,7 +47,7 @@ English writer Rudyard Kipling (1865–1936), who visited Singapore in 1889, onc
 <div>Collection of National Library Singapore</div>
 </div>
 
-Jewish businessman Nissim Nassim Adis bought over the Hotel de l’Europe in 1906 and rebuilt it at a cost of one million dollars. The rebuilt Grand Hotel de l’Europe was one of the best in Singapore, if not Asia, in the early 20th century. British novelist and biographer Horace Bleackley visited the Hotel in 1925, and claimed that its grill room was ‘the best restaurant probably in the continent of Asia’.
+Jewish businessman Nissim Nassim Adis bought the Hotel de l’Europe in 1906 and rebuilt it at a cost of S$1 million. The rebuilt Grand Hotel de l’Europe was one of the most luxurious in Singapore, if not Asia, in the early 20th century. British novelist and biographer Horace Bleackley visited the Hotel in 1925 and claimed its grill room was ‘the best restaurant probably in the continent of Asia’.
 
 <hr>
 
@@ -57,7 +57,7 @@ Jewish businessman Nissim Nassim Adis bought over the Hotel de l’Europe in 190
 <div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
 
-Founded in 1842, John Little was Singapore's oldest department store. Often advertised as ‘the finest store East of Suez’, it had departments for wines and spirits, provisions, home furnishing, watches and clocks, books and stationery, arms and ammunition, ladies and gentlemen’s outfitting, etc. Besides offering European merchandise, John Little also ran a car business, a motor garage, a furniture factory, a café and a beauty salon.
+Founded in 1842, John Little was Singapore's oldest department store. Often advertised as ‘the finest store East of Suez’, it had departments for wines and spirits, provisions, home furnishing, watches and clocks, books and stationery, arms and ammunition, ladies and gentlemen’s outfitting, and more. Besides offering European merchandise, John Little also ran a car business, motor garage, furniture factory, café and beauty salon.
 
 <hr>
 
@@ -68,7 +68,7 @@ Founded in 1842, John Little was Singapore's oldest department store. Often adve
 <div>19980005888 – 0037</div>
 </div>
 
-This photograph shows the main stairs of John Little’s new three-storey building which was completed in 1910. It depicts the grandeur and elegance of Singapore’s then foremost department store. The new John Little store must have elevated shopping in Singapore to the next level, with its sprawling space of 3.5 acres filled with goods sourced from all over the world.
+This photograph shows the main stairs of John Little’s new three-storey building, which was completed in 1910. It depicts the grandeur and elegance of Singapore’s then foremost department store. The new John Little store elevated shopping in Singapore to the next level, with its sprawling space of 3.5 acres filled with goods sourced from all over the world.
 
 <hr>
 
@@ -79,7 +79,7 @@ This photograph shows the main stairs of John Little’s new three-storey buildi
 <div>19980005883 – 0016</div>
 </div>
 
-From the turn of the century until the 1960s, High Street was a popular shopping street for highbrow products. Many Sindhi and Sikh merchants set up family-owned textile shops here, which were well-known for their imported European fabrics such as laces and brocade, and fine tailoring. This street continued to be Singapore’s premier shopping belt till the 1960s, with department stores such as Aurora, Chotirmall and Metro attracting shoppers for quality merchandise.
+From the turn of the century until the 1960s, High Street was a popular shopping street for upmarket products. Many Sindhi and Sikh merchants set up textile shops here, which were well-known for their imported European fabrics such as laces and brocade, and fine tailoring. This street continued to be Singapore’s premier shopping belt till the 1960s, with department stores such as Aurora, Chotirmall and Metro attracting shoppers for their quality merchandise.
 
 <hr>
 
