@@ -145,4 +145,4 @@ South Bridge Road has been known by its name since early 1820s, before a proper 
 While South Bridge Road is the main street in Chinatown, it is home to places of worship for other communities, showing the multi-cultural nature of public spaces in Singapore since the early days. Seen here is the Sri Mariamman Temple in the centre, a Hindu temple that was first constructed 1827, and Jamae Mosque on the right, which was built in 1826. Both of these sites of worship are now national monuments.
 <p></p>
 <p></p>
-<hr>
+
