@@ -120,7 +120,7 @@ Cleared from part of the jungle near the shore in 1819, High Street was the fir
 <div>Lim Kheng Chye Collection, Courtesy of National Archives Singapore.</div>
 <div>19980005879 - 0017</div>
 </div>
-North Bridge Road was one of the earliest roads to be constructed in Singapore. It was carved out of dense jungle and constructed by convict labourers. Also known as _Seoh Poh_ (小坡), it is featured in Chinese writer Lao She’s (老舍) _Xiaopo’s Birthday _(小坡的生日, 1934), a children’s fiction featuring a pair of siblings living in Singapore and their lives at North Bridge Road. The road is still one of Singapore's main roads. 
+North Bridge Road was one of the earliest roads to be constructed in Singapore. It was carved out of dense jungle and constructed by convict labourers. Also known as _Seoh Poh_ (小坡), it is featured in Chinese writer Lao She’s (老舍) _Xiaopo’s Birthday_ (小坡的生日, 1934), a children’s fiction featuring a pair of siblings living in Singapore and their lives at North Bridge Road. The road is still one of Singapore's main roads. 
 <p></p>
 <p></p>
 <hr>
