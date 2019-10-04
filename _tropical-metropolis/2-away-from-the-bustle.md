@@ -10,7 +10,7 @@ Residents of early Singapore sought respite from the bustle of city life and the
 ![---](/images/partition.jpg)
 
 
-![The Esplanade, 1920s](/images/Sub3-1-Esplanade.jpg)
+![View of the Esplanade, 1920s](/images/Sub3-1-Esplanade.jpg)
 <div class="custom-caption">
 <div><p>The Esplanade, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -20,7 +20,7 @@ Laid out in the 1820s, the Esplanade referred to the extensive open field known 
 
 <hr>
 
-![View of the Esplanade from the sea, c. 1920s](/images/Sub3-2-The-Esplanade.jpg)
+![View of the Esplanade from the sea, 1922-1930](/images/Sub3-2-The-Esplanade.jpg)
 <div class="custom-caption">
 <div><p>View of the Esplanade from the sea, c. 1920s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
