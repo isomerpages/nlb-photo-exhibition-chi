@@ -35,7 +35,7 @@ This view of Collyer Quay from Johnston's Pier shows the Singapore waterfront, w
 
 ![Commercial Square, 1900s](/images/Sub1-3-Commercial-Square.jpg)
 <div class="custom-caption">
-<div><p>Commercial Square, 1900s</p></div>
+<div><p>Collyer Quay, 1900s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
 Major commercial buildings occupied the waterfront at Collyer Quay. Seen here is the Hongkong and Shanghai Banking Corporation building (centre), right across Johnston’s Pier. The magnificent building was completed in 1892 and demolished in the 1920s to make way for a new building. The site remains the location of the bank’s headquarters in Singapore.
