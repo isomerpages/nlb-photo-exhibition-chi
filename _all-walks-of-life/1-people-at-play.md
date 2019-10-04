@@ -20,7 +20,7 @@ Chinese opera performed on the street was a popular form of entertainment in Sin
 <p></p>
 <hr>
 
-![Bangsawan opera,1930s](/images/all-walks-of-life/Sub2-2-bangsawan-opera-rz.jpg)
+![Bangsawan opera,1930s](/images/all-walks-of-life/Sub2-2-bangsawan-opera.jpg)
 <div class="custom-caption">
 <div><p>Bangsawan opera,1930s</p></div>
 <div>Mohd Amin bin Kadarisman Collection, Courtesy of National Archives of Singapore</div>
@@ -31,7 +31,7 @@ Bangsawan is a form of traditional Malay opera that comprises music, drama and d
 <p></p>
 <hr>
 
-![Malay dancers, 1910s](/images/all-walks-of-life/sub2-3-malay-dancers-rz.jpg)
+![Malay dancers, 1910s](/images/all-walks-of-life/sub2-3-malay-dancers.jpg)
 <div class="custom-caption">
 <div><p>Malay dancers, 1910s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -108,7 +108,7 @@ In the early days, recreational swimming was mostly practiced by European and lo
 <p></p>
 <hr>
 
-![Hunting party at Choa Chu Kang Village, 1930](/images/all-walks-of-life/Sub2-10-hunting-party-rz.jpg)
+![Hunting party at Choa Chu Kang Village, 1930](/images/all-walks-of-life/Sub2-10-hunting-party-cr.jpg)
 <div class="custom-caption">
 <div><p>Hunting party, 1930</p></div>
 <div>Tan Tuan Khoon Collection, courtesy of National Archives of Singapore</div>
