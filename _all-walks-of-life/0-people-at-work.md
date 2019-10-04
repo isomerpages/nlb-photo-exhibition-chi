@@ -12,7 +12,7 @@ A large number of migrants from China and India arrived as labourers, providing 
 <p></p>
 ![---](/images/partition.jpg)
 
-![Chinese coolies, 1900s](/images/all-walks-of-life/Sub1-1-chinese-coolies-sm.jpg)
+![Chinese coolies, 1900s](/images/all-walks-of-life/Sub1-1-chinese-coolies.jpg)
 <div class="custom-caption">
 <div><p>Chinese coolies, 1900s</p></div>
 <div>Boden-Kloss Collection, courtesy of National Archives of Singapore</div>
@@ -101,7 +101,7 @@ Indian hawkers who sold snacks often carried a basket containing their wares on 
 <hr>
 
 
-![Workers at a pepper plantation, 1890s](/images/all-walks-of-life/sub1-10-workers-at-a-pepper-plantation-sm.jpg)
+![Workers at a pepper plantation, 1890s](/images/all-walks-of-life/sub1-10-workers-at-a-pepper-plantation.jpg)
 <div class="custom-caption">
 <div><p>Workers at a pepper plantation, 1890s</p></div>
 <div>Gretchen Liu Collection, courtesy of National Archives of Singapore</div>
@@ -112,7 +112,7 @@ Gambier and pepper were two of the most important crops grown in Malaya in the 1
 <p></p>
 <hr>
 
-![Fishermen at seashore, 1909](/images/all-walks-of-life/Sub1-11-fishermen-at-seashore-sm.jpg)
+![Fishermen at seashore, 1909](/images/all-walks-of-life/Sub1-11-fishermen-at-seashore.jpg)
 <div class="custom-caption">
 <div><p>Fishermen at seashore, 1909</p></div>
 <div>Edward William Newell Collection, Courtesy of National Archives of Singapore</div>
@@ -123,7 +123,7 @@ In the past, Singapore was known to have many fishing villages, mostly located a
 <p></p>
 <hr>
 
-![Interior of office. The photo was taken between 1920 and 1929.](/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society-sm.jpg)
+![Interior of office. The photo was taken between 1920 and 1929.](/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society.jpg)
 <div class="custom-caption">
 <div><p>Offices of Netherlands Trading Society, Cecil Street, Singapore, c. 1925</p></div>
 <div>Collection ABN AMRO Art & History Department, Amsterdam, courtesy of National Archives of Singapore</div>
