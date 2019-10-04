@@ -5,7 +5,7 @@ permalink: /memories-of-two-cities-singapore/all-walks-of-life/people-at-play/
 breadcrumb: People at Play
 collection_name: all-walks-of-life
 ---
-Along with the influx of different migrant communities came numerous forms of leisure in early Singapore. The Chinese brought their traditional operas in various dialects; the Malays and Indians each introduced their own theatres, music and dances. The Europeans also had their fair share of influence on the leisure scene in Singapore. Western past-times, such as horse racing and social dancing, were integrated into local social life and became popular leisure pursuits of the well-heeled Asians. Being a tropical island with dense forests, old Singapore offered opportunities for recreational swimming and beach-going, as well as sports hunting for the adventurous. All in all, multi-racial communities created a rich and diverse leisure culture which is evident in the photographs presented here.
+Along with the influx of different migrant communities came numerous forms of leisure in early Singapore. The Chinese brought their traditional operas in various dialects; the Malays and Indians each introduced their own theatres, music and dances. The Europeans also had their fair share of influence on the leisure scene in Singapore. Western pastimes, such as horse racing and social dancing, were integrated into local social life, and became popular leisure pursuits of well-heeled Asians. Being a tropical island with dense forests, old Singapore offered opportunities for recreational swimming and beach-going, as well as sports hunting for the adventurous. All in all, multi-racial communities created a rich and diverse leisure culture, which is evident in the photographs presented here.
 
 ![---](/images/partition.jpg)
 
@@ -15,7 +15,7 @@ Along with the influx of different migrant communities came numerous forms of le
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980005893 – 0023</div>
 </div>
-Chinese opera performed on the street was a popular form of entertainment in Singapore. Opera performances often would be staged outdoors on temple grounds during the celebration of deities’ birthdays and traditional festivals. The main forms of Chinese opera performed in Singapore were from the three largest Chinese dialect groups: Hokkien, Teochew and Cantonese. 
+Chinese opera performed on the street was a popular form of entertainment in Singapore. Opera performances would often be staged outdoors on temple grounds during the celebration of deities’ birthdays and traditional festivals. The main forms of Chinese opera performed in Singapore were from the three largest Chinese dialect groups: Hokkien, Teochew and Cantonese.
 <p></p>
 <p></p>
 <hr>
@@ -26,7 +26,7 @@ Chinese opera performed on the street was a popular form of entertainment in Sin
 <div>Mohd Amin bin Kadarisman Collection, Courtesy of National Archives of Singapore</div>
 <div>19980005579 - 0004</div>
 </div>
-Bangsawan is a form of traditional Malay opera which comprises of music, drama and dance. Its stories usually revolve around Malay nobles and royalty. However, some its plots are based on Indian and English stories with performers from other races. Its popularity reached a peak before the Second World War and was a main source of entertainment for the Malay community in Singapore and Southeast Asia.
+Bangsawan is a form of traditional Malay opera that comprises music, drama and dance. Its stories usually revolve around Malay nobles and royalty. However, some plots are based on Indian and English stories and include performers from other races. Its popularity reached a peak before the Second World War. While bangsawan was the main form of entertainment for the Malay community in Singapore and maritime Southeast Asia, it was enjoyed by other communities as well.
 <p></p>
 <p></p>
 <hr>
@@ -37,7 +37,7 @@ Bangsawan is a form of traditional Malay opera which comprises of music, drama a
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980005117 - 0010</div>
 </div>
-Traditional dances were usually performed at festive events such as weddings, festivals and gatherings of the Malay community in Singapore. The dancers here perform the joget, where men and women dance to fast-paced rhythm accompanied by violin, gong, flute and drums. The dance is believed to have drawn influences from the Portuguese folk dance, which spread to the Malay Archipelago during the 16th century.
+Traditional dances were usually performed at celebrations such as weddings, festivals and gatherings of the Malay community in Singapore. A very popular dance was _joget_, where men and women danced to fast-paced rhythm accompanied by violin, gong, flute and drums. The dance is believed to be influenced by Portuguese folk dance, which spread to the Malay Archipelago during the 16th century. 
 <p></p>
 <p></p>
 <hr>
@@ -48,7 +48,7 @@ Traditional dances were usually performed at festive events such as weddings, fe
 <div>Lim Kheng Chye Collection, Courtesy of National Archives of Singapore</div>
 <div>19980005125 – 0034</div>
 </div>
-When Indian immigrants came to Singapore in the 19th century, they brought along with them their music and dance. As the arts are an important part of Hindu religious practices, such as during worship and processions, temples were the main venues for music and dance performances.
+When Indian immigrants came to Singapore in the 19th century, they brought along with them their music and dance traditions. As the arts are an important part of Hindu religious practices, such as during worship and processions, temples were the main venues for music and dance performances. 
 <p></p>
 <p></p>
 <hr>
@@ -59,7 +59,7 @@ When Indian immigrants came to Singapore in the 19th century, they brought along
 <div>Stanley T Tanner Collection, courtesy of National Archives of Singapore</div>
 <div>20150000002 - 0008</div>
 </div>
-Among the European residents and wealthy locals, dinner parties were an important social event and entertainment. During Christmas and New Year, lavish dinner and dance parties would be held at major hotels such as Raffles Hotel and Adelphi Hotel. Seen here are party-goers dressed up for a Christmas party.
+Dinner parties were important social events and entertainment for European residents and wealthy locals. During Christmas and New Year, lavish dinner and dance parties would be held at major hotels such as Raffles Hotel and Adelphi Hotel. Seen here are partygoers dressed up for a Christmas party.
 <p></p>
 <p></p>
 <hr>
@@ -70,7 +70,7 @@ Among the European residents and wealthy locals, dinner parties were an importan
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005803 – 0063</div>
 </div>
-From the 1920s to 1960s, tea dances were a popular social event, especially among the European community. The major hotels held dances at least twice a week in their ballrooms. In the later years, tea dances became a popular form of entertainment among local youths.
+Tea dances were once a popular social pastime in Singapore. In the 1920s, major hotels regularly held dances in their ballrooms, which were frequented by Europeans and wealthy Asians. It was popularised during the 1930s in the cabarets of amusement parks and among local youths in the 1960s.
 <p></p>
 <p></p>
 <hr>
@@ -81,7 +81,7 @@ From the 1920s to 1960s, tea dances were a popular social event, especially amon
 <div>Margaret Clarke Collection, courtesy of National Archives of Singapore</div>
 <div>19980005817 – 0037</div>
 </div>
-Horse-racing was introduced to Singapore by the British. Built in 1842, the first race course at Farrer Park was a sports and recreational hub for the elite society. The races were attended mostly by Europeans and Malay royalty, and later wealthy Chinese. The race was also a place to see and be seen, where affluent spectators, dressed in their finery, rub shoulders with one another. 
+Horse racing was introduced to Singapore by the British. Built in 1842, the first racecourse at Farrer Park was a sports and recreational hub for the elite society. The races were attended mostly by Europeans, Malay royalty and wealthy Chinese. The race was also a place to see and be seen, where affluent spectators, dressed in their finery, rubbed shoulders with one another. 
 <p></p>
 <p></p>
 <hr>
@@ -92,7 +92,7 @@ Horse-racing was introduced to Singapore by the British. Built in 1842, the firs
 <div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
 <div>19980002860 – 0093</div>
 </div>
-Being a tropical island, it is no surprise that swimming and beach-going became a popular leisure activity in Singapore. To cater for recreation, hoteliers and wealthy families built seaside bungalows along Singapore’s scenic eastern coasts. These resorts often had bathing pagars, which is an area enclosed by fences extending from the shore to the sea for swimming.
+Being a tropical island, it is no surprise that swimming and beach-going became a popular leisure activity in Singapore. To cater for recreation, hoteliers and wealthy families built seaside bungalows along Singapore’s scenic eastern coast. These resorts often had a bathing _pagar_, which is an enclosed area extending from the shore to the sea for swimming.
 <p></p>
 <p></p>
 <hr>
@@ -114,7 +114,7 @@ In the early days, recreational swimming was mostly practiced by European and lo
 <div>Tan Tuan Khoon Collection, courtesy of National Archives of Singapore</div>
 <div>19980002184 - 0005</div>
 </div>
-Tigers were sighted in the forested areas of Singapore during the mid-18th and early 19th centuries. They became a menace when the forests were cleared for roads and plantations, frequently attacking humans. Due to the high casualties, the government offered monetary rewards for every tiger killed. Hence, tiger hunting became a rewarding sport offering money and adventure. Seen here are men of the Straits Hunting Party, a club formed by Straits Chinese, with their prey at Choa Chu Kang Village.
+Tigers were often sighted in the forested areas of Singapore during the mid-18th and early 19th centuries. They became a menace when the forests were cleared for roads and plantations, frequently attacking humans. Due to the high number of casualties, the government offered a monetary reward for each tiger killed. Hence, tiger hunting became a rewarding sport offering money and adventure. Seen here are members of the Straits Hunting Party with their prey at Choa Chu Kang village. 
 <p></p>
 <p></p>
 
