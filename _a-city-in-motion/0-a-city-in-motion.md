@@ -317,4 +317,4 @@ Located along Keppel Road, it was a passenger station for trains ran by the Mala
 The Tanjong Pagar Railway Station was designed by local architectural firm Swan and Maclaren. It was based on studies of various English stations and drew upon a range of influences including the Art Deco, neoclassical and local styles of design.
 <p></p>
 <p></p>
-<hr>
+
