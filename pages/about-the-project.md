@@ -23,10 +23,9 @@ The Singapore component of the exhibition showcases XXX photos dated 1880s – 1
 
 Embark on this visual journey to old Beijing and Singapore, and relive the memories of these two fascinating cities.
 <hr>
-<p>&nbsp;</p>
 
-<h3><strong>About Capital Library of China</strong></h3>
-<div class="row">
+<h3 class="padding--bottom"><strong>About Capital Library of China</strong></h3>
+<div class="row padding--bottom--xl">
   <div class="col is-half">
     <p>The Capital Library of China is a major public library under the jurisdiction of Beijing municipality. It is open daily all year to provide a multi-faceted and full spectrum of information and cultural services to the public, including loan of collection, reference enquiries, talks and forums, exhibitions and other leisure activities. The Library is Beijing’s key knowledge and information hub, as well a centre for development of the city’s cultural and intellectual life.</p>
   </div>  
@@ -34,9 +33,9 @@ Embark on this visual journey to old Beijing and Singapore, and relive the memor
     <img src="/images/capital-library-of-china-building.jpg" alt="Capital Library of China Building">
   </div>
 </div>
-<p>&nbsp;</p>
 
-<h3><strong>About National Library, Singapore</strong></h3>
+
+<h3 class="padding--bottom"><strong>About National Library, Singapore</strong></h3>
 <div class="row reverse-col-on-desktop">
   <div class="col is-half">
     <p>The National Library of Singapore is a knowledge institution, entrusted and empowered to collect, preserve and make Singapore’s cultural and literary resource accessible to all. It is currently the premier resource for works about Singapore and Southeast Asia and provides the largest selection of reference works in multiple languages for the public. The Library actively engages the public through programmes, exhibitions, education outreach and digital platforms.</p>
