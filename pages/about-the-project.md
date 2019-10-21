@@ -22,7 +22,8 @@ Beneath its modern façade, Singapore can trace its history to more than 700 yea
 The Singapore component of the exhibition showcases XXX photos dated 1880s – 1960s, drawn from the collections of the National Library and the National Archives of Singapore, both institutions under the National Library Board of Singapore. The exhibition comprises six sections – Places of Power and Worship, A Tropical Metropolis, All Walks of Life, Colourful Customs, Centres of Commerce and A City in Motion. It transports the viewer to early Singapore, featuring its varied architecture, lively streetscapes, cosmopolitan society, and multi-cultural customs.   
 
 Embark on this visual journey to old Beijing and Singapore, and relive the memories of these two fascinating cities.
-
+<hr>
+<p>&nbsp;</p>
 
 <div class="row">
   <div class="col is-half">
