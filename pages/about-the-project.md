@@ -34,3 +34,12 @@ Embark on this visual journey to old Beijing and Singapore, and relive the memor
     <img src="/images/capital-library-of-china-building.jpg" alt="Capital Library of China Building">
   </div>
 </div>
+<div class="row reverse-col-on-desktop">
+  <div class="col is-half">
+    <h3>About National Library, Singapore</h3>
+    <p>The National Library of Singapore is a knowledge institution, entrusted and empowered to collect, preserve and make Singapore’s cultural and literary resource accessible to all. It is currently the premier resource for works about Singapore and Southeast Asia and provides the largest selection of reference works in multiple languages for the public. The Library actively engages the public through programmes, exhibitions, education outreach and digital platforms.</p>
+  </div>  
+  <div class="col is-half">
+    <img src="/images/national-library-of-sg-building.jpg" alt="National Library, Singapore Building">
+  </div>
+</div>
