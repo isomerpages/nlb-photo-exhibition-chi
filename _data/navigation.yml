@@ -28,7 +28,9 @@
     url: /#
   - title: Sub Page 3
     url: /#
-- title: Contact Us
-  url: /contact-us/
+#- title: Contact Us
+#  url: /contact-us/
+- title: About the Project
+  url: /about-the-project/
 - title: 中文
   url: /#
