@@ -24,4 +24,12 @@ The Singapore component of the exhibition showcases XXX photos dated 1880s – 1
 Embark on this visual journey to old Beijing and Singapore, and relive the memories of these two fascinating cities.
 
 
-
+<div class="row">
+  <div class="col is-half">
+    <h3>About Capital Library of China</h3>
+    <p>The Capital Library of China is a major public library under the jurisdiction of Beijing municipality. It is open daily all year to provide a multi-faceted and full spectrum of information and cultural services to the public, including loan of collection, reference enquiries, talks and forums, exhibitions and other leisure activities. The Library is Beijing’s key knowledge and information hub, as well a centre for development of the city’s cultural and intellectual life.</p>
+  </div>  
+  <div class="col is-half">
+    <img src="/images/capital-library-of-china-building.jpg" alt="Capital Library of China Building">
+  </div>
+</div>
