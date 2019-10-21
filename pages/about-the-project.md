@@ -22,3 +22,60 @@ Beneath its modern façade, Singapore can trace its history to more than 700 yea
 The Singapore component of the exhibition showcases XXX photos dated 1880s – 1960s, drawn from the collections of the National Library and the National Archives of Singapore, both institutions under the National Library Board of Singapore. The exhibition comprises six sections – Places of Power and Worship, A Tropical Metropolis, All Walks of Life, Colourful Customs, Centres of Commerce and A City in Motion. It transports the viewer to early Singapore, featuring its varied architecture, lively streetscapes, cosmopolitan society, and multi-cultural customs.   
 
 Embark on this visual journey to old Beijing and Singapore, and relive the memories of these two fascinating cities.
+
+
+<section class="bp-section">
+    <div class="bp-container"><div class="row is-hidden-desktop is-hidden-tablet-only">
+            <div class="col is-half padding--bottom">
+                <p class="padding--bottom eyebrow is-uppercase"></p>
+                <h1 class="has-text-secondary padding--bottom">
+                    <b>Memories of Two Cities - Singapore</b>
+                </h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ligula leo, efficitur ac sagittis sed, ultricies ac nisi. Morbi quis odio libero. Sed et erat diam. Sed congue est a est auctor, luctus lacinia odio blandit. Orci varius natoque penatibus.</p>
+                <a href="/memories-of-two-cities-singapore/" class="bp-sec-button margin--top padding--bottom">
+                    <div>
+                        <span>Find Out More</span>
+                        <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+                    </div>
+                </a>
+            </div>
+            <div class="col is-half">
+                <img src="/images/nlb-photo-exhibition-home.png" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ligula leo, efficitur ac sagittis sed, ultricies ac nisi. Morbi quis odio libero. Sed et erat diam. Sed congue est a est auctor, luctus lacinia odio blandit. Orci varius natoque penatibus.">
+            </div>
+        </div><div class="row is-hidden-mobile is-hidden-desktop">
+            <div class="col is-half">
+                <p class="padding--bottom eyebrow is-uppercase"></p>
+                <h1 class="has-text-secondary padding--bottom">
+                    <b>Memories of Two Cities - Singapore</b>
+                </h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ligula leo, efficitur ac sagittis sed, ultricies ac nisi. Morbi quis odio libero. Sed et erat diam. Sed congue est a est auctor, luctus lacinia odio blandit. Orci varius natoque penatibus.</p>
+                <a href="/memories-of-two-cities-singapore/" class="bp-sec-button margin--top padding--bottom">
+                    <div>
+                        <span>Find Out More</span>
+                        <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+                    </div>
+                </a>
+            </div>
+            <div class="col is-half is-half padding--top--xl padding--bottom--xl">
+                <img src="/images/nlb-photo-exhibition-home.png" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ligula leo, efficitur ac sagittis sed, ultricies ac nisi. Morbi quis odio libero. Sed et erat diam. Sed congue est a est auctor, luctus lacinia odio blandit. Orci varius natoque penatibus.">
+            </div>
+        </div><div class="row is-hidden-mobile is-hidden-tablet-only">
+            <div class="col is-half padding--top--xl padding--bottom--xl padding--left--xl padding--right--xl">
+                <p class="padding--bottom eyebrow is-uppercase"></p>
+                <h1 class="has-text-secondary padding--bottom">
+                    <b>Memories of Two Cities - Singapore</b>
+                </h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ligula leo, efficitur ac sagittis sed, ultricies ac nisi. Morbi quis odio libero. Sed et erat diam. Sed congue est a est auctor, luctus lacinia odio blandit. Orci varius natoque penatibus.</p>
+                <a href="/memories-of-two-cities-singapore/" class="bp-sec-button margin--top padding--bottom">
+                    <div>
+                        <span>Find Out More</span>
+                        <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+                    </div>
+                </a>
+            </div>
+            <div class="col is-half is-half padding--top--xl padding--bottom--xl">
+                <img src="/images/nlb-photo-exhibition-home.png" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ligula leo, efficitur ac sagittis sed, ultricies ac nisi. Morbi quis odio libero. Sed et erat diam. Sed congue est a est auctor, luctus lacinia odio blandit. Orci varius natoque penatibus.">
+            </div>
+        </div>
+    </div>
+</section>
