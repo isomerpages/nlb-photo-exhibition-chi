@@ -600,6 +600,15 @@ img.photo-lv-2-banner, img.photo-lv-3-banner {
     position: absolute;
 }
 
+/*about project page*/
+.reverse-col-on-desktop .col:nth-child(2) {
+    order: 1;
+}
+
+.reverse-col-on-desktop .col:nth-child(1) {
+    order: 2;
+}
+
 
 /*custom media query*/
 @media screen and (max-width: 768px) {
@@ -608,7 +617,13 @@ img.photo-lv-2-banner, img.photo-lv-3-banner {
 }
 .photo-stacked-wrap {
     flex: 0 0 100%;
-}	
+}
+.reverse-col-on-desktop .col:nth-child(2) {
+    order: 2;
+}
+.reverse-col-on-desktop .col:nth-child(1) {
+    order: 1;
+}
 }
 
 
