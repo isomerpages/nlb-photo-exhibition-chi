@@ -4,6 +4,7 @@ title: About the Project
 permalink: /about-the-project/
 breadcrumb: About the Project
 ---
+<center><sub>Brought to you by:</sub></center>
 ![National Library of Singapore and Capital Library of China Logo](/images/memory-intro-logo-banner.jpg)
 <div class="padding--bottom"></div>
 ‘Memories of Two Cities’ is an online pictorial exhibition jointly presented by the Capital Library of China and the National Library of Singapore, signifying the goodwill and partnership between the two institutions. Through historical photographs drawn from the collections of both institutions, this exhibition presents Beijing and Singapore in earlier time periods, where many of the places, scenes or customs have long vanished.
