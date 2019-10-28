@@ -16,7 +16,7 @@ Raffles Place and the surrounding areas have undergone tremendous changes over t
 
 ![---](/images/partition.jpg)
 
-![Fullerton Square, 1900s](/images/centres-of-commerce/Sub1-1-fullerton-square.jpg)
+![Fullerton Square, 1900s](/images/centres-of-commerce/Sub1-1-fullerton-square-cr.jpg)
 <div class="custom-caption">
 <div><p>Fullerton Square, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -27,7 +27,7 @@ Built in 1856, Collyer Quay was once the landing point for ships for the unloadi
 <p></p>
 <hr>
 
-![Battery Road, c. 1900](/images/centres-of-commerce/Sub1-2-fullerton-square-and-battery-road.jpg)
+![Battery Road, c. 1900](/images/centres-of-commerce/Sub1-2-fullerton-square-and-battery-road-rz.jpg)
 <div class="custom-caption">
 <div><p>Fullerton Square and Battery Road, c. 1900</p></div>
 <div>National Archives of the Netherlands Collection, courtesy of National Archives of Singapore</div>
@@ -90,7 +90,7 @@ In the early 20th century, Raffles Place was a bustling commercial area with nev
 <p></p>
 <hr>
 
-![Raffles Place seen from the Chartered Bank, 1920s](/images/centres-of-commerce/Sub1-8-raffles-place-seen-from-the-chartered-bank.jpg)
+![Raffles Place seen from the Chartered Bank, 1920s](/images/centres-of-commerce/Sub1-8-raffles-place-seen-from-the-chartered-bank-cr.jpg)
 <div class="custom-caption">
 <div><p>Raffles Place seen from the Chartered Bank, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -101,7 +101,7 @@ The square of Raffles Place was once an open-air carpark. On the southern end is
 <p></p>
 <hr>
 
-![Raffles Place, 1965](/images/centres-of-commerce/Sub1-9-raffles-place.jpg)
+![Raffles Place, 1965](/images/centres-of-commerce/Sub1-9-raffles-place-rz.jpg)
 <div class="custom-caption">
 <div><p>Raffles Place, 1965</p></div>
 <div>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore</div>
