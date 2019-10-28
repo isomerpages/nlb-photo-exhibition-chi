@@ -110,5 +110,3 @@ The square of Raffles Place was once an open-air carpark. On the southern end is
 The open-air carpark was transformed into a park by 1965, following the completion of an underground carpark. Named Raffles Place Park, it featured fountains and a giant flower clock. The tall building on the right behind the square is Bank of China, the tallest building in the area from 1954 to 1974. The underground carpark was demolished in the 1980s, to make way for the Raffles Place underground train station.
 <p></p>
 <p></p>
-<hr>
-
