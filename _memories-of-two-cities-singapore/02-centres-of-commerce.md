@@ -6,7 +6,7 @@ breadcrumb: Centres of Commerce
 collection_name: memories-of-two-cities-singapore
 ---
 
-![Raffles Place seen from the Chartered Bank, 1920s](/images/commerce-banner.jpg)
+![Raffles Place seen from the Chartered Bank, 1920s](/images/centres-of-commerce/commerce-banner.jpg)
 ### **Centres of Commerce**
 
 For centuries, the importance of Singapore and its surrounding waterways had long been due to its position as a significant port for
