@@ -27,7 +27,7 @@ Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas 
 
 <div class="category-block-wrap">
   <p>Centres of Commerce</p>
-  <img class="cover" src="/images/sample2-button.jpg">
+  <img class="cover" src="/images/centres-of-commerce-button.jpg">
   <a class="cover" href="/memories-of-two-cities-singapore/centres-of-commerce/"></a>
 </div>
 
@@ -45,7 +45,7 @@ Nullam augue libero, congue sed risus non, scelerisque tincidunt ante. Maecenas 
 
 <div class="category-block-wrap">
   <p>A City in Motion</p>
-  <img class="cover" src="/images/sample3-button.jpg">
+  <img class="cover" src="/images/city-in-motion-button.jpg">
   <a class="cover" href="/memories-of-two-cities-singapore/a-city-in-motion/"></a>
 </div>
 
