@@ -132,7 +132,7 @@ The trishaw was introduced during the Japanese occupation and it is a bicycle wi
 <div>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</div>
 <div>19980007239 - 0115</div>
 </div>
-Many of the early trishaw riders were Chinese immigrants belonging to the Henghua, Hokchia and Hokkien dialect groups, which originated from the Fujian province in China. They arrived mainly in the late 19<sup>th</sup> century and went into the relatively new rickshaw industry. Most of them were fluent in more than one language and dialect, including English.
+Many of the early trishaw riders were Chinese immigrants belonging to the Henghua, Hokchia and Hokkien dialect groups, which originated from the Fujian province in China. They arrived mainly in the late 19th century and went into the relatively new rickshaw industry. Most of them were fluent in more than one language and dialect, including English.
 <p></p>
 <p></p>
 <hr>
