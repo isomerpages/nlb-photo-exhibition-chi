@@ -9,7 +9,7 @@ permalink: /
 <script>
   function addReadMore() {
     var sgPara = document.querySelector('.bp-section:nth-child(5) p');  
-    var readMoreButton = document.createElement('div');
+    var readMoreButton = document.createElement('button');
     readMoreButton.innerHTML = 'Read More..';
     readMoreButton.setAttribute('class','read-more-button');
     readMoreButton.setAttribute('id','read-more-sg');
