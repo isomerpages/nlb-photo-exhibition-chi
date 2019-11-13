@@ -362,6 +362,14 @@ $desktop: 960px + (2 * $gap) !default;
 
 
 //fx-custom
+section.bg-hero {
+    background-position: center;
+}
+
+.bp-hero-body {
+    background: none;
+}
+
 .navbar .navbar-item a.sub-link:hover {
     color: #e25f25 !important;
 }
