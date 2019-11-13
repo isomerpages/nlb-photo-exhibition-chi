@@ -14,7 +14,7 @@ permalink: /
     readMoreButton.setAttribute('class','read-more-button');
     readMoreButton.setAttribute('id','read-more-sg');
     readMoreButton.setAttribute('onclick','expandSG()');
-    sgPara.appendChild('readMoreButton');
+    sgPara.appendChild(readMoreButton);
   }
   window.onload = function() {addReadMore();};
 </script>
