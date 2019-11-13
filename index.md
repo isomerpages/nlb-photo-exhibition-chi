@@ -16,5 +16,5 @@ permalink: /
     readMoreButton.setAttribute('onclick','expandSG()');
     sgPara.appendChild('readMoreButton');
   }
-  windows.onload = function() {addReadMore();};
+  window.onload = function() {addReadMore();};
 </script>
