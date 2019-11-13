@@ -23,7 +23,7 @@ Rickshaws, also known as Jinrikishas or jinrickshas, were imported from Japan vi
 <div>Andrew Tan Collection, courtesy of National Archives of Singapore</div>
 <div>19980005905 - 0066</div>
 </div>
-This is an image of a street in Chinatown, off South Bridge Road where most of the jinricksha pullers lived in tiny cubicles. Rickshaw pulling was a primary source of income for thousands of Chinese immigrants, majority of whom were illiterate peasants. Rickshaw-pulling was an easy means of earning a livelihood since it did not call for special skills. Henghua and Hockchew immigrants from south-eastern China dominated the rickshaw trade from the end of the 19<sup>th</sup> century. 
+This is an image of a street in Chinatown, off South Bridge Road where most of the jinricksha pullers lived in tiny cubicles. Rickshaw pulling was a primary source of income for thousands of Chinese immigrants, majority of whom were illiterate peasants. Rickshaw-pulling was an easy means of earning a livelihood since it did not call for special skills. Henghua and Hockchew immigrants from south-eastern China dominated the rickshaw trade from the end of the 19th century. 
 <p></p>
 <p></p>
 <hr>
@@ -34,7 +34,7 @@ This is an image of a street in Chinatown, off South Bridge Road where most of t
 <div>Boden-Kloss Collection, courtesy of National Archives of Singapore</div>
 <div>19980001861 – 0097</div>
 </div>
-Rickshaw pulling was a primary source of income for thousands of Chinese immigrants, majority of whom were illiterate peasants. Rickshaw-pulling was an easy means of earning a livelihood since it did not call for special skills. Henghua and Hockchew immigrants from south-eastern China dominated the rickshaw trade from the end of the 19<sup>th</sup> century. Some of them had a second job as construction coolies to supplement their income.
+Rickshaw pulling was a primary source of income for thousands of Chinese immigrants, majority of whom were illiterate peasants. Rickshaw-pulling was an easy means of earning a livelihood since it did not call for special skills. Henghua and Hockchew immigrants from south-eastern China dominated the rickshaw trade from the end of the 19th century. Some of them had a second job as construction coolies to supplement their income.
 <p></p>
 <p></p>
 <hr>
@@ -45,7 +45,7 @@ Rickshaw pulling was a primary source of income for thousands of Chinese immigra
 <div>Rijksmuseum Voor Volkenkunde (RMV) Collection, courtesy of National Archives of Singapore</div>
 <div>20050000661 – 0029</div>
 </div>
-The horse-drawn carriage was a common sight in Singapore in the 19<sup>th</sup> century. It was an English gentleman’s means of travel, an elite form of transportation for the upper classes, and it was the early equivalent of the private car too. Smaller carriages were later used for public hire, rather much like taxis today. These were called “hackneys” or “gharries”, which crowded the streets in the business area of town.
+The horse-drawn carriage was a common sight in Singapore in the 19th century. It was an English gentleman’s means of travel, an elite form of transportation for the upper classes, and it was the early equivalent of the private car too. Smaller carriages were later used for public hire, rather much like taxis today. These were called “hackneys” or “gharries”, which crowded the streets in the business area of town.
 <p></p>
 <p></p>
 <hr>
@@ -56,7 +56,7 @@ The horse-drawn carriage was a common sight in Singapore in the 19<sup>th</sup>�
 <div>Boden-Kloss Collection, courtesy of National Archives of Singapore</div>
 <div>19980005032 - 0051</div>
 </div>
-The horse-drawn carriage was a common sight in Singapore in the 19<sup>th</sup> century. It is an English gentleman’s means of travel, and an elite form of transportation for the upper classes, it was also the early equivalent of the private car. In the 19<sup>th</sup> century, it was considered fashionable to show off one’s smartly maintained horse and carriage by taking a turn around the Padang in the centre of town.
+The horse-drawn carriage was a common sight in Singapore in the 19th century. It is an English gentleman’s means of travel, and an elite form of transportation for the upper classes, it was also the early equivalent of the private car. In the 19th century, it was considered fashionable to show off one’s smartly maintained horse and carriage by taking a turn around the Padang in the centre of town.
 <p></p>
 <p></p>
 <hr>
@@ -67,7 +67,7 @@ The horse-drawn carriage was a common sight in Singapore in the 19<sup>th</sup>�
 <div>Morgan Betty Bassett Collection, courtesy of National Archives of Singapore</div>
 <div>20090000101 - 0031</div>
 </div>
-The horse-drawn carriage was a common sight in Singapore in the 19<sup>th</sup> century. It was an English gentleman’s means of travel, an elite form of transportation for the upper classes, and it was the early equivalent of the private car too. Smaller carriages were later used for public hire, rather much like taxis today. These were called “hackneys” or “gharries”, which crowded the streets in the business area of town. 
+The horse-drawn carriage was a common sight in Singapore in the 19th century. It was an English gentleman’s means of travel, an elite form of transportation for the upper classes, and it was the early equivalent of the private car too. Smaller carriages were later used for public hire, rather much like taxis today. These were called “hackneys” or “gharries”, which crowded the streets in the business area of town. 
 <p></p>
 <p></p>
 <hr>
@@ -78,7 +78,7 @@ The horse-drawn carriage was a common sight in Singapore in the 19<sup>th</sup>�
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980005882 – 0033</div>
 </div>
-Bullock-drawn carts were one of the earliest and most popular mode of transport in the 19<sup>th</sup> and early 20<sup>th</sup> century Singapore. It was commonly used for the transportation of goods for short distances. It carried goods from the wharves to town and many bullock carts could be seen around the boat quays bringing goods from the ships. It was also used as a conservancy vehicle for the transport of refuse.
+Bullock-drawn carts were one of the earliest and most popular mode of transport in the 19th and early 20th century Singapore. It was commonly used for the transportation of goods for short distances. It carried goods from the wharves to town and many bullock carts could be seen around the boat quays bringing goods from the ships. It was also used as a conservancy vehicle for the transport of refuse.
 <p></p>
 <p></p>
 <hr>
@@ -204,7 +204,7 @@ In 1896, Singapore’s first motor car was imported for Charles Burton Buckley, 
 <div>The Peranakan Association Collection, courtesy of National Archives of Singapore</div>
 <div>19990002486 - 025</div>
 </div>
-Despite the increasing number of private car owners in Singapore during the early to mid-20<sup>th</sup> century, they continued to be marketed as luxury goods and a symbol of wealth and prestige for privileged customers. This image depicts women’s rising status and their ability to afford and drive a car. As early as 1929, car companies targeted female customers by featuring the young, modern, independent and fashionable women in their advertisements.
+Despite the increasing number of private car owners in Singapore during the early to mid-20th century, they continued to be marketed as luxury goods and a symbol of wealth and prestige for privileged customers. This image depicts women’s rising status and their ability to afford and drive a car. As early as 1929, car companies targeted female customers by featuring the young, modern, independent and fashionable women in their advertisements.
 <p></p>
 <p></p>
 <hr>
