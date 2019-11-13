@@ -8,7 +8,7 @@ permalink: /
 
 <script>
   function addReadMore() {
-    var sgPara = document.querySelector('.bp-section p');  
+    var sgPara = document.querySelectorAll('.bp-section p')[0];  
     var readMoreButton = document.createElement('div');
     readMoreButton.innerHTML = 'Read More..';
     readMoreButton.setAttribute('class','read-more-button');
