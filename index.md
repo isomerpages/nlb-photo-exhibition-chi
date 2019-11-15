@@ -18,9 +18,21 @@ permalink: /
     readMoreButton.innerHTML = 'Read More..';
     readMoreButton.setAttribute('class','read-more-button');
     readMoreButton.setAttribute('id','read-more-sg');
-    readMoreButton.setAttribute('onclick','expandSG()');
+    /*readMoreButton.setAttribute('onclick','expandSG()');*/
     sgPara.parentNode.insertBefore( extraSGOnDesktop, sgPara.nextSibling );
     extraSGOnDesktop.parentNode.insertBefore( readMoreButton, extraSGOnDesktop.nextSibling );
   }
-  window.onload = function() {addReadMore();};
+  
+  function expandSG(){
+    var expandButton = document.getElementsByClassName('read-more-button');
+    var hiddenPara = document.getElementsByClassName('para-extension');
+    var i;
+    var j;
+    for (i=0 && j=0 ; i<hiddenPara.length && j<expandButton.length ; i++ , j++) {
+      expandButton[j].addEventListener('click', function(){hiddenPara[i].classList.toggle('show-this-para')});
+    }
+  }
+  
+  
+  window.onload = function() {addReadMore();expandSG();};
 </script>
