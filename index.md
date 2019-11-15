@@ -18,6 +18,18 @@ permalink: /
     readMoreButton.setAttribute('id','read-more-sg');
     sgPara.parentNode.insertBefore( extraSGOnDesktop, sgPara.nextSibling );
     extraSGOnDesktop.parentNode.insertBefore( readMoreButton, extraSGOnDesktop.nextSibling );
+  /**/
+    var sgParaTab = document.querySelector('.bp-section:nth-of-type(3) .row.is-hidden-mobile.is-hidden-desktop p:nth-of-type(2)');
+    var extraSGOnTab = document.createElement('div');
+    extraSGOnTab.setAttribute('class','para-extension');
+    extraSGOnTab.innerHTML=`<p>The Singapore component of the exhibition showcases 173 photographs from the 1880s to the 1960s, mainly drawn from the collections of the National Library and the National Archives of Singapore, both institutions under the National Library Board of Singapore. The exhibition comprises six sections – Places of Power and Worship, A Tropical Metropolis, All Walks of Life, Colourful Customs, Centres of Commerce, and A City in Motion. It transports the viewer to early Singapore, featuring its varied architecture, lively streetscapes, cosmopolitan society, and multi-cultural customs.</p>`;
+    var readMoreButtonTab = document.createElement('div');
+    readMoreButtonTab.innerHTML = 'Read More..';
+    readMoreButtonTab.setAttribute('class','read-more-button');
+    readMoreButtonTab.setAttribute('id','read-more-sg-tab');
+    sgParaTab.parentNode.insertBefore( extraSGOnTab, sgParaTab.nextSibling );
+    extraSGOnTab.parentNode.insertBefore( readMoreButtonTab, extraSGOnTab.nextSibling );
+  
   }
   
   function expandSG(){
