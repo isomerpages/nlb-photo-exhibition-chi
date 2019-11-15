@@ -35,8 +35,8 @@ permalink: /
   function expandSG(){
     var expandButton = document.getElementsByClassName('read-more-button');
     var hiddenPara = document.getElementsByClassName('para-extension');
-    expandButton[2].addEventListener('click', function(){hiddenPara[2].classList.toggle('show-this-para');
-                                                           expandButton[2].classList.toggle('show-less');
+    expandButton[1].addEventListener('click', function(){hiddenPara[1].classList.toggle('show-this-para');
+                                                           expandButton[1].classList.toggle('show-less');
                                                            });
     /*var i;
     var j;
