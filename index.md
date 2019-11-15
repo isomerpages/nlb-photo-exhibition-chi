@@ -40,7 +40,7 @@ permalink: /
     for (i = j = 0 ; i<hiddenPara.length && j<expandButton.length ; i++ , j++) {
       var toHiddenPara = document.getElementsByClassName('para-extension')[i];
       var toExpandButton = document.getElementsByClassName('read-more-button')[j];
-      toExpandButton.addEventListener('click', function(){toHiddenPara.classList.toggle('show-this-para');
+      expandButton[1].addEventListener('click', function(){toHiddenPara.classList.toggle('show-this-para');
                                                            toExpandButton.classList.toggle('show-less');
                                                            });
     }
