@@ -28,7 +28,7 @@ permalink: /
     var hiddenPara = document.getElementsByClassName('para-extension');
     var i;
     var j;
-    for (i=0 && j=0 ; i<hiddenPara.length && j<expandButton.length ; i++ , j++) {
+    for (i = j = 0 ; i<hiddenPara.length && j<expandButton.length ; i++ , j++) {
       expandButton[j].addEventListener('click', function(){hiddenPara[i].classList.toggle('show-this-para')});
     }
   }
