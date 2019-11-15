@@ -608,6 +608,20 @@ img.photo-lv-2-banner, img.photo-lv-3-banner {
     position: absolute;
 }
 
+/*read more button*/
+.para-extension p {
+    margin-bottom: 15px;
+}
+
+.para-extension {
+    display: none;
+    margin-top: 15px;
+}
+
+.para-extension.show-this-para{
+    display:block !important;
+}
+
 /*about project page*/
 .reverse-col-on-desktop .col:nth-child(2) {
     order: 1;
