@@ -628,6 +628,7 @@ div.read-more-button {
     margin-top: 10px;
     padding-bottom: 10px; 
     font-size:12pt;
+    display:table;
 }
 
 .read-more-button::before {
@@ -642,6 +643,11 @@ div.read-more-button {
 .read-more-button.show-less::before {
     content: 'Show Less..' !important;
     font-size: 12pt !important;
+}
+
+.read-more-button:hover {
+    cursor: pointer;
+    color: #e6723f;
 }
 
 /*about project page*/
