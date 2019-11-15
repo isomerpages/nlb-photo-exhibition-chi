@@ -40,6 +40,18 @@ permalink: /
     readMoreButtonMob.setAttribute('id','read-more-sg-mob');
     sgParaMob.parentNode.insertBefore( extraSGOnMob, sgParaMob.nextSibling );
     extraSGOnMob.parentNode.insertBefore( readMoreButtonMob, extraSGOnMob.nextSibling );
+  /**/
+  /*beijing*/
+      var BeiPara = document.querySelector('.bp-section:nth-of-type(4) .row.is-hidden-mobile.is-hidden-tablet-only p:nth-of-type(2)');
+    var extraBei = document.createElement('div');
+    extraBei.setAttribute('class','para-extension');
+    extraBei.innerHTML=`<p>The Beijing component of this exhibition is curated by the Beijing Local Document Center of the Library, featuring 194 photographs of pre-1949 Beijing. The images are presented in seven sections – Ancient City Walls, Street Scenes, Imperial Palaces and Gardens, Customs and Festivals, Trade and Commerce, Everyday Life, and Transportation. They depict the majestic palaces and city walls, scenic gardens, myriad streets and alleys, and unique customs of old Beijing.</p>`;
+    var readMoreButtonBei = document.createElement('div');
+    readMoreButtonBei.innerHTML = 'Read More..';
+    readMoreButtonBei.setAttribute('class','read-more-button');
+    readMoreButtonBei.setAttribute('id','read-more-sg-mob');
+    BeiPara.parentNode.insertBefore( extraBei, BeiPara.nextSibling );
+    extraBei.parentNode.insertBefore( readMoreButtonBei, extraBei.nextSibling );
   
   }
   
