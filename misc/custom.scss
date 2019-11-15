@@ -626,7 +626,22 @@ div.read-more-button {
     color: #e25f25;
     font-weight: bold;
     margin-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 10px; 
+    font-size:12pt;
+}
+
+.read-more-button::before {
+    content: '';
+    font-size: 0pt;
+}
+
+.read-more-button.show-less{
+    font-size:0pt !important;
+}
+
+.read-more-button.show-less::before {
+    content: 'Show Less..' !important;
+    font-size: 12pt !important;
 }
 
 /*about project page*/
