@@ -57,13 +57,13 @@ permalink: /
                                                            });*/
     var i;
     for (i = 0 ; i<hiddenPara.length ; i++ ) {
-      function(){
+      (function(){
       var toHiddenPara = document.getElementsByClassName('para-extension')[i];
       var toExpandButton = document.getElementsByClassName('read-more-button')[i];
       toExpandButton.addEventListener('click', function(){toHiddenPara.classList.toggle('show-this-para');
                                                            toExpandButton.classList.toggle('show-less');
                                                            });
-    }();}
+    }());}
   }
   
   
