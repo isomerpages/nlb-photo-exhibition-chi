@@ -42,7 +42,7 @@ permalink: /
     extraSGOnMob.parentNode.insertBefore( readMoreButtonMob, extraSGOnMob.nextSibling );
   /**/
   /*beijing*/
-      var BeiPara = document.querySelector('.bp-section:nth-of-type(4) .row.is-hidden-mobile.is-hidden-tablet-only p:nth-of-type(2)');
+    var BeiPara = document.querySelector('.bp-section:nth-of-type(4) .row.is-hidden-mobile.is-hidden-tablet-only p:nth-of-type(2)');
     var extraBei = document.createElement('div');
     extraBei.setAttribute('class','para-extension');
     extraBei.innerHTML=`<p>The Beijing component of this exhibition is curated by the Beijing Local Document Center of the Library, featuring 194 photographs of pre-1949 Beijing. The images are presented in seven sections – Ancient City Walls, Street Scenes, Imperial Palaces and Gardens, Customs and Festivals, Trade and Commerce, Everyday Life, and Transportation. They depict the majestic palaces and city walls, scenic gardens, myriad streets and alleys, and unique customs of old Beijing.</p>`;
@@ -52,6 +52,28 @@ permalink: /
     readMoreButtonBei.setAttribute('id','read-more-sg-mob');
     BeiPara.parentNode.insertBefore( extraBei, BeiPara.nextSibling );
     extraBei.parentNode.insertBefore( readMoreButtonBei, extraBei.nextSibling );
+  /**/
+    var BeiParaTab = document.querySelector('.bp-section:nth-of-type(4) .row.is-hidden-mobile.is-hidden-desktop p:nth-of-type(2)');
+    var extraBeiTab = document.createElement('div');
+    extraBeiTab.setAttribute('class','para-extension');
+    extraBeiTab.innerHTML=`<p>The Beijing component of this exhibition is curated by the Beijing Local Document Center of the Library, featuring 194 photographs of pre-1949 Beijing. The images are presented in seven sections – Ancient City Walls, Street Scenes, Imperial Palaces and Gardens, Customs and Festivals, Trade and Commerce, Everyday Life, and Transportation. They depict the majestic palaces and city walls, scenic gardens, myriad streets and alleys, and unique customs of old Beijing.</p>`;
+    var readMoreButtonBeiTab = document.createElement('div');
+    readMoreButtonBeiTab.innerHTML = 'Read More..';
+    readMoreButtonBeiTab.setAttribute('class','read-more-button');
+    readMoreButtonBeiTab.setAttribute('id','read-more-sg-mob');
+    BeiParaTab.parentNode.insertBefore( extraBeiTab, BeiParaTab.nextSibling );
+    extraBeiTab.parentNode.insertBefore( readMoreButtonBeiTab, extraBeiTab.nextSibling );
+    /**/
+    var BeiParaMob = document.querySelector('.bp-section:nth-of-type(4) .row.is-hidden-desktop.is-hidden-tablet-only p:nth-of-type(2)');
+    var extraBeiMob = document.createElement('div');
+    extraBeiMob.setAttribute('class','para-extension');
+    extraBeiMob.innerHTML=`<p>The Beijing component of this exhibition is curated by the Beijing Local Document Center of the Library, featuring 194 photographs of pre-1949 Beijing. The images are presented in seven sections – Ancient City Walls, Street Scenes, Imperial Palaces and Gardens, Customs and Festivals, Trade and Commerce, Everyday Life, and Transportation. They depict the majestic palaces and city walls, scenic gardens, myriad streets and alleys, and unique customs of old Beijing.</p>`;
+    var readMoreButtonBeiMob = document.createElement('div');
+    readMoreButtonBeiMob.innerHTML = 'Read More..';
+    readMoreButtonBeiMob.setAttribute('class','read-more-button');
+    readMoreButtonBeiMob.setAttribute('id','read-more-sg-mob');
+    BeiParaMob.parentNode.insertBefore( extraBeiMob, BeiParaMob.nextSibling );
+    extraBeiMob.parentNode.insertBefore( readMoreButtonBeiMob, extraBeiMob.nextSibling );
   
   }
   
