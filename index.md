@@ -29,7 +29,8 @@ permalink: /
     var i;
     var j;
     for (i = j = 0 ; i<hiddenPara.length && j<expandButton.length ; i++ , j++) {
-      expandButton[j].addEventListener('click', function(){document.getElementsByClassName('para-extension')[0].classList.toggle('show-this-para')});
+      var toHiddenPara = document.getElementsByClassName('para-extension')[i];
+      expandButton[j].addEventListener('click', function(){toHiddenPara.classList.toggle('show-this-para')});
     }
   }
   
