@@ -29,6 +29,17 @@ permalink: /
     readMoreButtonTab.setAttribute('id','read-more-sg-tab');
     sgParaTab.parentNode.insertBefore( extraSGOnTab, sgParaTab.nextSibling );
     extraSGOnTab.parentNode.insertBefore( readMoreButtonTab, extraSGOnTab.nextSibling );
+  /**/
+    var sgParaMob = document.querySelector('.bp-section:nth-of-type(3) .row.is-hidden-desktop.is-hidden-tablet-only p:nth-of-type(2)');
+    var extraSGOnMob = document.createElement('div');
+    extraSGOnMob.setAttribute('class','para-extension');
+    extraSGOnMob.innerHTML=`<p>The Singapore component of the exhibition showcases 173 photographs from the 1880s to the 1960s, mainly drawn from the collections of the National Library and the National Archives of Singapore, both institutions under the National Library Board of Singapore. The exhibition comprises six sections – Places of Power and Worship, A Tropical Metropolis, All Walks of Life, Colourful Customs, Centres of Commerce, and A City in Motion. It transports the viewer to early Singapore, featuring its varied architecture, lively streetscapes, cosmopolitan society, and multi-cultural customs.</p>`;
+    var readMoreButtonMob = document.createElement('div');
+    readMoreButtonMob.innerHTML = 'Read More..';
+    readMoreButtonMob.setAttribute('class','read-more-button');
+    readMoreButtonMob.setAttribute('id','read-more-sg-mob');
+    sgParaMob.parentNode.insertBefore( extraSGOnMob, sgParaMob.nextSibling );
+    extraSGOnMob.parentNode.insertBefore( readMoreButtonMob, extraSGOnMob.nextSibling );
   
   }
   
@@ -40,6 +51,9 @@ permalink: /
                                                            });
     expandButton[1].addEventListener('click', function(){hiddenPara[1].classList.toggle('show-this-para');
                                                            expandButton[1].classList.toggle('show-less');
+                                                           });
+    expandButton[2].addEventListener('click', function(){hiddenPara[2].classList.toggle('show-this-para');
+                                                           expandButton[2].classList.toggle('show-less');
                                                            });
     /*var i;
     var j;
