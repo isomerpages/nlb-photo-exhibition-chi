@@ -46,7 +46,7 @@ permalink: /
   function expandSG(){
     var expandButton = document.getElementsByClassName('read-more-button');
     var hiddenPara = document.getElementsByClassName('para-extension');
-    expandButton[0].addEventListener('click', function(){hiddenPara[0].classList.toggle('show-this-para');
+    /*expandButton[0].addEventListener('click', function(){hiddenPara[0].classList.toggle('show-this-para');
                                                            expandButton[0].classList.toggle('show-less');
                                                            });
     expandButton[1].addEventListener('click', function(){hiddenPara[1].classList.toggle('show-this-para');
@@ -54,16 +54,15 @@ permalink: /
                                                            });
     expandButton[2].addEventListener('click', function(){hiddenPara[2].classList.toggle('show-this-para');
                                                            expandButton[2].classList.toggle('show-less');
-                                                           });
-    /*var i;
-    var j;
+                                                           });*/
+    var i;
     for (i = 0 ; i<hiddenPara.length ; i++ ) {
       var toHiddenPara = document.getElementsByClassName('para-extension')[i];
       var toExpandButton = document.getElementsByClassName('read-more-button')[i];
       toExpandButton.addEventListener('click', function(){toHiddenPara.classList.toggle('show-this-para');
                                                            toExpandButton.classList.toggle('show-less');
                                                            });
-    }*/
+    }
   }
   
   
