@@ -8,13 +8,18 @@ permalink: /
 
 <script>
   function addReadMore() {
-    var sgPara = document.querySelector('.bp-section:nth-of-type(3) .row.is-hidden-mobile.is-hidden-tablet-only p:nth-of-type(2)');  
+    var sgPara = document.querySelector('.bp-section:nth-of-type(3) .row.is-hidden-mobile.is-hidden-tablet-only p:nth-of-type(2)');
+    var extraSGOnDesktop = document.createElement('p');
+    extraSGOnDesktop.setAttribute('class','para-extension');
+    extraSGOnDesktop.innerHTML=`Cultural diversity characterised early Singapore and was manifested in its physical and social landscapes,
+lending the city a unique charm. The Singapore component of the exhibition showcases 173 photographs from the 1880s to the 1960s, mainly drawn from the collections of the National Library and the National Archives of Singapore, both institutions under the National Library Board of Singapore. The exhibition comprises six sections – Places of Power and Worship, A Tropical Metropolis, All Walks of Life, Colourful Customs, Centres of Commerce, and A City in Motion.`;
     var readMoreButton = document.createElement('div');
     readMoreButton.innerHTML = 'Read More..';
     readMoreButton.setAttribute('class','read-more-button');
     readMoreButton.setAttribute('id','read-more-sg');
     readMoreButton.setAttribute('onclick','expandSG()');
-    sgPara.parentNode.insertBefore( readMoreButton, sgPara.nextSibling );;
+    sgPara.parentNode.insertBefore( extraSGOnDesktop, sgPara.nextSibling );
+    extraSGOnDesktop.parentNode.insertBefore( readMoreButton, extraSGOnDesktop.nextSibling );
   }
   window.onload = function() {addReadMore();};
 </script>
