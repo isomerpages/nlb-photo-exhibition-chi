@@ -61,7 +61,7 @@ permalink: /
       var toExpandButton = document.getElementsByClassName('read-more-button')[i];
       toExpandButton.addEventListener('click', function(){toHiddenPara.classList.toggle('show-this-para');
                                                            toExpandButton.classList.toggle('show-less');
-                                                           });
+                                                           }());
     }
   }
   
