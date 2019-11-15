@@ -8,7 +8,7 @@ permalink: /
 
 <script>
   function addReadMore() {
-    var sgPara = document.querySelector('.bp-section:nth-of-type(1) .row.is-hidden-mobile.is-hidden-tablet-only p:nth-of-type(2)');  
+    var sgPara = document.querySelector('.bp-section:nth-of-type(3) .row.is-hidden-mobile.is-hidden-tablet-only p:nth-of-type(2)');  
     var readMoreButton = document.createElement('div');
     readMoreButton.innerHTML = 'Read More..';
     readMoreButton.setAttribute('class','read-more-button');
