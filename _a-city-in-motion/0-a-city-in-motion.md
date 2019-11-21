@@ -39,7 +39,7 @@ Seen here is a street in Chinatown, where many Rickshaw pullers typically lived 
 <p></p>
 <hr>
 
-![A hackney drawn by a horse, 1800s](/images/city-in-motion/Sub1-4-hackney-drawn-by-a-horse-rz.jpg)
+![A hackney drawn by a horse, 1800s](/images/city-in-motion/Sub1-4-hackney-drawn-by-a-horse-cr.jpg)
 <div class="custom-caption">
 <div><p>Horse-drawn carriage, 1800s</p></div>
 <div>Collection of Nationaal Museum van Wereldculturen (Coll.no. RV-A128-0021), courtesy of National Archives of Singapore</div>
