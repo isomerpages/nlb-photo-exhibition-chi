@@ -37,7 +37,7 @@ The traditional Malay wedding ceremony would begin with the groom fetching the b
 <p></p>
 <hr>
 
-![A Straits Chinese wedding photo, 1925](/images/colourful-customs/Sub1-4-peranakan-wedding.jpg)
+![A Straits Chinese wedding photo, 1925](/images/colourful-customs/Sub1-4-peranakan-wedding-cr.jpg)
 <div class="custom-caption">
 <div><p>Peranakan wedding, 1925</p></div>
 <div>The Peranakan Association Collection, courtesy of National Archives of Singapore</div>
@@ -81,7 +81,7 @@ This couple’s costumes reflect Western influence on wedding customs in Singapo
 <p></p>
 <hr>
 
-![An Indian wedding held at a Hindu temple in Serangoon Road 1961](/images/colourful-customs/Sub1-8-indian-wedding-at-a-hindu-temple.jpg)
+![An Indian wedding held at a Hindu temple in Serangoon Road 1961](/images/colourful-customs/Sub1-8-indian-wedding-at-a-hindu-temple-rz.jpg)
 <div class="custom-caption">
 <div><p>Indian wedding at a Hindu temple, 1961</p></div>
 <div>Singapore Press Holdings Collection, courtesy of National Archives of Singapore</div>
@@ -92,7 +92,7 @@ The Indian community in Singapore practises a wide range of wedding customs, var
 <p></p>
 <hr>
 
-![An Indian wedding procession at the Sri Krishnan temple in Waterloo Street, 1962](/images/colourful-customs/Sub1-9-indian-wedding-procession-at-a-hindu-temple.jpg)
+![An Indian wedding procession at the Sri Krishnan temple in Waterloo Street, 1962](/images/colourful-customs/Sub1-9-indian-wedding-procession-at-a-hindu-temple-rz.jpg)
 <div class="custom-caption">
 <div><p>Indian wedding procession at a Hindu temple, 1962</p></div>
 <div>Singapore Press Holdings Collection, courtesy of National Archives of Singapore</div>
