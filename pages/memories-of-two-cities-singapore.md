@@ -9,7 +9,6 @@ breadcrumb: Memories of Two Cities Singapore
 Beneath its modern façade, Singapore has a long history that dates back more than 700 years to its time as a trading port in late 13th-century Southeast Asia. After the founding of a British trading post on the island in 1819, Singapore developed into a thriving entrepot where people from around the world came to live and work. Cultural diversity characterised early Singapore and was manifested in its physical and social landscapes, lending the city a unique charm.
 
 The Singapore component of the exhibition showcases 173 photographs from the 1880s to the 1960s, mainly drawn from the collections of the National Library and the National Archives of Singapore, both institutions under the National Library Board of Singapore. The exhibition comprises six sections – Places of Power and Worship, A Tropical Metropolis, All Walks of Life, Colourful Customs, Centres of Commerce, and A City in Motion. It transports the viewer to early Singapore, featuring its varied architecture, lively streetscapes, cosmopolitan society, and multi-cultural customs.
-
 <p>&nbsp;</p>
 
 
