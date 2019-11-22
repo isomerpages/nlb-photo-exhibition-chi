@@ -168,9 +168,9 @@ Prior to Deepavali, Hindu families clean and decorate their homes, where celebra
 <p></p>
 <hr>
 
-![Acting in a play 1930s](/images/colourful-customs/Sub2-15-nativity-play.jpg)
+![Acting in a Play 1930s](/images/colourful-customs/Sub2-15-nativity-play.jpg)
 <div class="custom-caption">
-<div><p>Nativity play, 1930s</p></div>
+<div><p>Nativity Play, 1930s</p></div>
 <div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
 <div>19980005526 – 0023</div>
 </div>
@@ -179,13 +179,24 @@ Christmas is a time for Christians to celebrate the birth of Jesus Christ. As pa
 <p></p>
 <hr>
 
-![Acting in a play 1930s](/images/colourful-customs/Sub2-16-nativity-play.jpg)
+![Christmas Meal, 1953](/images/colourful-customs/Sub2-16-christmas-meal-of-expatriates.jpg)
 <div class="custom-caption">
-<div><p>Nativity play, 1930s</p></div>
-<div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
-<div>19980005526 – 0023</div>
+<div><p>Christmas Meal of Expatriates, 1953</p></div>
+<div>Donald Moore Collection, courtesy of National Archives of Singapore</div>
+<div>20140000144 – 0016</div>
 </div>
-Christmas is a time for Christians to celebrate the birth of Jesus Christ. As part of the occasion, churches or religious groups often re-enact the nativity scene – the account of Jesus’s birth based on the Bible – as seen in this photograph.
+Apart from its religious significance to Christians, Christmas is also a time to deepen family bonds and renew friendships through gathering and feasting. To the expatriate community in Singapore, Christmas meals and parties would have been an essential part of the festivities.
+<p></p>
+<p></p>
+<hr>
+
+![Christmas carollers singing at Presbyterian Church ground, 1951](/images/colourful-customs/Sub2-17-christmas-carollers-singing-at-church.jpg)
+<div class="custom-caption">
+<div><p>Christmas Carollers Singing at Church, 1951</p></div>
+<div>Singapore Press Holdings Collection, courtesy of National Archives of Singapore</div>
+<div>PCD0450 – 0069</div>
+</div>
+Carolling is another tradition common in Singapore during Christmastime. During this period, carollers sing Christmas hymns and songs in churches and people’s homes to spread festive cheer. Today, carolling groups often perform in shopping malls and other public spaces in the lead up to Christmas.
 <p></p>
 <p></p>
 <hr>
