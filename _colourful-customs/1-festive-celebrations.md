@@ -26,7 +26,7 @@ The New Year Regatta was started by Europeans in 1834 as a boat race at the sea 
 <p></p>
 <hr>
 
-![Mattu Pongal, 1915](/images/colourful-customs/Sub2-2-mattu-pongal.jpg)
+![Mattu Pongal, 1915](/images/colourful-customs/Sub2-2-mattu-pongal-cr.jpg)
 <div class="custom-caption">
 <div><p>Mattu Pongal, 1915</p></div>
 <div>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</div>
