@@ -70,7 +70,7 @@ Chingay (妆艺) originated from an ancient Chinese practice where performers an
 <p></p>
 <hr>
 
-![Thaipusam celebration, 1930s](/images/colourful-customs/Sub2-6-thaipusam-celebration-cr.jpg)
+![Thaipusam celebration, 1930s](/images/colourful-customs/Sub2-6-thaipusam-celebration.jpg)
 <div class="custom-caption">
 <div><p>Thaipusam Celebration, 1930s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
