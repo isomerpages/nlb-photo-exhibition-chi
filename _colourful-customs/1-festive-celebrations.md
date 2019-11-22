@@ -113,7 +113,7 @@ On the morning of Hari Raya Puasa, it is customary for Muslim men to visit the m
 <p></p>
 <hr>
 
-![Malays celebrating Hari Raya Puasa, 1963](/images/colourful-customs/Sub2-10-malays-celebrating-hari-raya-puasa.jpg)
+![Malays celebrating Hari Raya Puasa, 1963](/images/colourful-customs/Sub2-10-malays-celebrating-hari-raya-puasa-rz.jpg)
 <div class="custom-caption">
 <div><p>Malays celebrating Hari Raya Puasa, 1963</p></div>
 <div>Singapore Press Holdings Collection, courtesy of National Archives of Singapore</div>
@@ -146,7 +146,7 @@ Eating mooncakes is an essential part of the Mid-Autumn Festival. The round past
 <p></p>
 <hr>
 
-![Hindu family at a temple for prayers during Deepavali, 1956](/images/colourful-customs/Sub2-13-hindu-family-at-a-temple-for-prayers-during-deepavali.jpg)
+![Hindu family at a temple for prayers during Deepavali, 1956](/images/colourful-customs/Sub2-13-hindu-family-at-a-temple-for-prayers-during-deepavali-rz.jpg)
 <div class="custom-caption">
 <div><p>Hindu family at a temple for prayers during Deepavali, 1956</p></div>
 <div>Singapore Press Holdings, courtesy of National Archives of Singapore</div>
@@ -157,7 +157,7 @@ Deepavali or Diwali, also known as the festival of lights, is celebrated by Hind
 <p></p>
 <hr>
 
-![Deepavali, 1963](/images/colourful-customs/Sub2-14-hindu-family-celebrating-deepavali-at-home.jpg)
+![Deepavali, 1963](/images/colourful-customs/Sub2-14-hindu-family-celebrating-deepavali-at-home-rz.jpg)
 <div class="custom-caption">
 <div><p>Hindu family celebrating Deepavali at home, 1963</p></div>
 <div>Singapore Press Holdings Collection, courtesy of National Archives of Singapore</div>
