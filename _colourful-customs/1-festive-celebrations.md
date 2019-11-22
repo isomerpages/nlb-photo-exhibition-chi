@@ -190,7 +190,7 @@ Apart from its religious significance to Christians, Christmas is also a time to
 <p></p>
 <hr>
 
-![Christmas carollers singing at Presbyterian Church ground, 1951](/images/colourful-customs/Sub2-17-christmas-carollers-singing-at-church.jpg)
+![Christmas carollers singing at Presbyterian Church ground, 1951](/images/colourful-customs/Sub2-17-christmas-carollers-singing-at-church-rz.jpg)
 <div class="custom-caption">
 <div><p>Christmas Carollers Singing at Church, 1951</p></div>
 <div>Singapore Press Holdings Collection, courtesy of National Archives of Singapore</div>
