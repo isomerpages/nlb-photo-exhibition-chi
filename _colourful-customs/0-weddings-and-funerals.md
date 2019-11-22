@@ -146,3 +146,14 @@ In this elaborate funeral cortege, the hearse is drawn by two horses and accompa
 <p></p>
 <p></p>
 <hr>
+
+![A Hindu funeral procession, 1938](/images/colourful-customs/Sub1-14-hindu-funeral-procession.jpg)
+<div class="custom-caption">
+<div><p>Hindu funeral procession, 1938</p></div>
+<div>National Museum of Singapore Collection</div>
+<div>2008-05822</div>
+</div>
+In a traditional Hindu funeral procession, the deceased’s family and friends would follow the hearse as it makes its way to the crematorium. Seen here, the elaborate hearse is decorated with intricate carvings and numerous garlands. The route the cortege takes typically passes places of significance to the deceased.
+<p></p>
+<p></p>
+<hr>
