@@ -70,7 +70,7 @@ Chingay (妆艺) originated from an ancient Chinese practice where performers an
 <p></p>
 <hr>
 
-![Thaipusam celebration, 1930s](/images/colourful-customs/Sub2-6-haipusam-celebration.jpg)
+![Thaipusam celebration, 1930s](/images/colourful-customs/Sub2-6-haipusam-celebration-cr.jpg)
 <div class="custom-caption">
 <div><p>Thaipusam Celebration, 1930s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -81,7 +81,7 @@ Thaipusam is a Hindu festival celebrated by the Tamil community. It is a day of 
 <p></p>
 <hr>
 
-![An Indian devotee at the Thaipusam festival, 1934](/images/colourful-customs/Sub2-7-kavadi-bearer-at-thaipusam-festival.jpg)
+![An Indian devotee at the Thaipusam festival, 1934](/images/colourful-customs/Sub2-7-kavadi-bearer-at-thaipusam-festival-rz.jpg)
 <div class="custom-caption">
 <div><p>Kavadi-bearer at Thaipusam festival, 1934</p></div>
 <div>Courtesy of National Archives of Singapore</div>
