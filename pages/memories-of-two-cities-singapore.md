@@ -39,7 +39,7 @@ The Singapore component of the exhibition showcases 173 photographs from the 188
 
 <div class="category-block-wrap">
   <p>Colourful Customs</p>
-  <img class="cover" src="/images/sample1-button.jpg">
+  <img class="cover" src="/images/colourful-customs-button.jpg">
   <a class="cover" href="/memories-of-two-cities-singapore/colourful-customs/"></a>
 </div>
 
