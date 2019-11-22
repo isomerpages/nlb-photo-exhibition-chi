@@ -7,7 +7,7 @@ collection_name: memories-of-two-cities-singapore
 ---
 
 ![Chinese coolies, 1900s](/images/colourful-customs/colourful-customs-banner.jpg)
-### **Colourful Customs**
+### **A Straits Chinese wedding, 1925**
 
 Singapore is known for its rich and colourful traditions and practices, thanks to the diversity of the communities that reside here. The myriad customs are given full expression on significant occasions such as weddings, funerals, and festive celebrations. As seen in the historical photographs in this section, they have been practised in Singapore since its early days.  
 
@@ -23,8 +23,8 @@ The rites of passage and festive traditions of the various communities are diver
     <img class="photo-lv-2" src="/images/colourful-customs/wedding-photo-stack-2.png">
     <img class="photo-lv-3" src="/images/colourful-customs/wedding-photo-stack-3.png">
   </div>
-  <p>People at Work</p>
-  <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/people-at-work"></a>
+  <p>Weddings and Funerals</p>
+  <a class="cover" href="/memories-of-two-cities-singapore/colourful-customs/weddings-and-funerals/"></a>
 </div> 
   
 <div class="photo-stacked-wrap">
@@ -33,8 +33,8 @@ The rites of passage and festive traditions of the various communities are diver
     <img class="photo-lv-2" src="/images/colourful-customs/festive-photo-stack-2.png">
     <img class="photo-lv-3" src="/images/colourful-customs/festive-photo-stack-3.png">
   </div>
-  <p>People at Play</p>
-  <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/people-at-play/"></a>
+  <p>Festive Celebrations</p>
+  <a class="cover" href="/memories-of-two-cities-singapore/colourful-customs/festive-celebrations/"></a>
 </div>
 
 </div>
