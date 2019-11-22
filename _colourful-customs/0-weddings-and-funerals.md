@@ -147,7 +147,7 @@ In this elaborate funeral cortege, the hearse is drawn by two horses and accompa
 <p></p>
 <hr>
 
-![A Hindu funeral procession, 1938](/images/colourful-customs/Sub1-14-hindu-funeral-procession.jpg)
+![A Hindu funeral procession, 1938](/images/colourful-customs/Sub1-14-hindu-funeral-procession-rz.jpg)
 <div class="custom-caption">
 <div><p>Hindu funeral procession, 1938</p></div>
 <div>National Museum of Singapore Collection</div>
