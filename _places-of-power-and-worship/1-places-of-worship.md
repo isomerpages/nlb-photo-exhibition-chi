@@ -5,9 +5,10 @@ permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/places-
 breadcrumb: Places of Worship
 collection_name: places-of-power-and-worship
 ---
-The colonial Singapore was a society made up of different ethnic groups, most of whom were immigrants hoping to pursue a better life here. The immigrants brought along their respective religious beliefs with them, so as to pray to the deities for comfort, hope and strength, which were important elements for those struggling to survive in a foreign land, while providing for their families back in their hometown.
+TMigrant society in early Singapore was characterised by religious diversity. Immigrants from China, India and the Malay Archipelago brought their religious beliefs and established their respective places of worship. Europeans and Western missionaries set up churches, schools and printing presses. Major religions of the world were represented on the island, with Buddhism, Taoism, Islam, Hinduism and Christianity as the major religions of the population. Apart from catering to the spiritual needs of immigrants, these institutions also served as social hubs, playing an important role in people’s lives.
 
-In this section, a selection of places of worship will be presented. Given the multi-ethnic fabric of colonial Singapore, major religions of the world were being represented here. Some of these places of worship began as modest structures where travellers would go to give thanks for a smooth journey upon reaching Singapore, while others have been gazetted to be preserved as national monuments today. Many of these places featured unique architectural designs to reflect the community’s identity, culture and heritage, and have developed over time to become social centres for community activities.
+The various religious communities gave Singapore a rich architectural landscape. Remarkable mosques, churches, Chinese and Hindu temples
+were built at major thoroughfares and became important landmarks. Many historic buildings of these institutions are now gazetted as national monuments and continue to serve as places of worship or community heritage centres.
 <p></p>
 ![---](/images/partition.jpg)
 
@@ -17,18 +18,18 @@ In this section, a selection of places of worship will be presented. Given the m
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005103 - 0003</div>
 </div>
-The temple was built sometime between 1819 and 1822 by some of the earliest Chinese immigrants. The shrine was used for sea travellers to pray or give thanks for a safe journey between China and Singapore. The present building was built between 1839 and 1842 with funding from the Hokkien community and support of wealthy patrons. The temple is one of the oldest and most important Hokkien and Fujian temple in Singapore.
+Thian Hock Keng (天福宫, ‘Temple of Heavenly Happiness’ in Chinese) on Telok Ayer Street is one of the oldest Chinese temples in Singapore. Its predecessor was a shrine dedicated to Ma Zu (妈祖), the goddess of the seas, on the shore of Telok Ayer Basin where the first immigrants landed. Upon arrival in Singapore, they visited the shrine to give thanks for their safe voyage. The present temple was built between 1839 and 1842 with donations mainly from Hokkien merchants and community leaders.
 <p></p>
 <p></p>
 <hr>
 
-![Thian Hock Keng Temple, 1900s](/images/power-and-worship/Sub2-2-thian-hock-keng-temple-cr.jpg)
+![Chongwen Ge beside Thian Hock Keng Temple, 1900s](/images/power-and-worship/Sub2-2-thian-hock-keng-temple-cr.jpg)
 <div class="custom-caption">
-<div><p>Thian Hock Keng Temple, 1900s</p></div>
+<div><p>Chongwen Ge beside Thian Hock Keng Temple, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005492 – 0003</div>
 </div>
-Thian Hock Keng, which means “Temple of Heavenly Happiness”, is located at Telok Ayer Street. The temple was dedicated to Ma Zu, the goddess of the seas. Built between 1839 to 1842, it is Singapore's oldest Chinese temple. On the left is Chong Wen Ge, "Institute for the Veneration of Literature", set up in 1849 by the Chinese community of Singapore. Thian Hock Keng and Chong Wen Ge were gazetted collectively as a national monument in 1973.
+Chongwen Ge (崇文阁, ‘Institute for the Veneration of Literature’ in Mandarin), Singapore’s first Chinese school established in 1849, occupied the pagoda on the left, completed in 1852. Hokkien Peranakan merchant Tan Kim Seng spearheaded the construction of the school at Thian Hock Keng Temple with contributions from the various Chinese dialect communities.
 <p></p>
 <p></p>
 <hr>
@@ -39,18 +40,19 @@ Thian Hock Keng, which means “Temple of Heavenly Happiness”, is located at T
 <div>Arthur B Reich Collection, courtesy of National Archives of Singapore</div>
 <div>20130002477 – 0030</div>
 </div>
-Thian Hock Keng is recognised as the most majestic Chinese temple in Singapore. It was built by China craftsmen according to traditional Chinese temple architectural styles. In 1907, Emperor Guang Xu of Qing Dynasty presented a plague and a silk scroll to the temple. The plague was inscribed with the Chinese characters 波靖南溟 (bo jing nan ming), which meant “gentle waves over the South Seas”, and was hung over the temple’s main altar until 1999.
+Thian Hock Keng was built by craftsmen from China in the traditional southern Fujian architectural style. In 1907, Emperor Guang Xu (光绪) of the Qing dynasty gifted a calligraphic silk scroll to the temple, which was made into a plaque. The plaque was inscribed
+with the Chinese characters “波靖南溟” (_bo jing nan ming_), which translates as “gentle waves over the South Seas”. This imperial gift was granted in recognition of the contributions made by the Singapore Hokkien community to flood relief efforts in Fujian province.
 <p></p>
 <p></p>
 <hr>
 
 ![Wak Hai Cheng Bio, a Teochew temple at Phillip street, 1955](/images/power-and-worship/Sub2-4-wak-hai-cheng-bio-cr.jpg)
 <div class="custom-caption">
-<div><p>Wak Hai Cheng Bio, a Teochew temple at Phillip street, 1955</p></div>
+<div><p>Yueh Hai Ching Temple, 1955</p></div>
 <div>Wong Kwan Collection, courtesy of National Archives of Singapore</div>
 <div>19980005860 - 0051</div>
 </div>
-As early as 1826, a shrine is believed to have been on site, made of wood and attap, where Teochew sailors and traders went to thank Ma Zu, the goddess of the seas, for a safe journey. The present temple was only constructed in the 1850s. The temple is built in a traditional Chinese architectural style. Along with Thian Hock Keng Temple, this temple also received an imperial signboard from Emperor Guang Xu of the Qing dynasty in 1907.
+Yueh Hai Ching Temple (粤海清庙) was established by local Teochew immigrants in 1826. The present temple was constructed in the 1850s and consists of two prayer halls – Shang Di Gong (上帝宫), dedicated to Xuan Tian Shang Di (玄天上帝), the patron deity of the Teochews, and Tian Hou Gong (天后宫), dedicated to Ma Zu (妈祖), the goddess of seas. The temple is known for the exquisite statues that adorn its rooftops. In 1899, Emperor Guang Xu (光绪) of the Qing dynasty bestowed a calligraphic scroll to the temple in recognition of its contribution towards flood relief efforts in China.
 <p></p>
 <p></p>
 <hr>
@@ -68,7 +70,7 @@ As early as 1826, a shrine is believed to have been on site, made of wood and at
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980005127 – 0109</div>
 </div>
-Constructed between 1898 and 1908, Siong Lim Temple is the oldest Buddhist monastery in Singapore and was gazetted as a national monument in 1980. The temple, also known as Lian Shan Shuang Lin Monastery, owes its foundation to Low Kim Pong, a successful Hokkien merchant who made a fortune in Singapore through his herbal and private banking businesses. The temple was built by China craftsmen, with its layout modelled after Xi Chan Si, a temple in Fuzhou, China.
+Temple (双林寺) is the oldest Buddhist monastery in Singapore. It was founded by Low Kim Pong (刘金榜), a successful merchant from Fujian, China, who made a fortune through Chinese medicine and banking businesses. Modelled after Xi Chan Si (西禅寺), a famous Buddhist temple in Fuzhou, Fujian, the temple incorporates the province’s different regional architectural styles.
 <p></p>
 <p></p>
 <hr>
@@ -79,7 +81,8 @@ Constructed between 1898 and 1908, Siong Lim Temple is the oldest Buddhist monas
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005825 - 0109</div>
 </div>
-Between 1826-1827, a Mosque was built by Ansar Saib and the Tamil Muslim pioneers of Singapore in South Bridge Road. The mosque is considered to be one of the oldest mosques in Singapore and one of several Muslim religious monuments built by the Tamil Muslims. The Jamae Mosque was also known as the Chulia Mosque. The Chulias were South Indian Muslims, and they were mostly merchants, traders, businessmen, shopkeepers and moneychangers.
+One of the oldest mosques in Singapore, Jamae Mosque on South Bridge Road was established between 1826 and 1827 by the Chulia community.
+The Chulias were Muslims from South India, many of whom worked as merchants, shopkeepers and moneylenders in Singapore. Also known as Chulia Mosque, the present building was built in the 1830s in the Indo-Islamic style, with distinctive twin minarets flanking the entrance.
 <p></p>
 <p></p>
 <hr>
@@ -90,7 +93,7 @@ Between 1826-1827, a Mosque was built by Ansar Saib and the Tamil Muslim pioneer
 <div>Morgan Betty Bassett Collection, courtesy of National Archives of Singapore</div>
 <div>19980005030 – 0114</div>
 </div>
-Nagore Durgha Shrine at Telok Ayer Street was built between 1828 -1830. Originally a shrine for a holy man named Shahul Hamid Durga of Nagore in South India, it was built by South Indian Muslim immigrants. The shrine is also known as Masjid Moulana Mohammad Ally, because it is used as a mosque for worship too. Besides religious purposes, it is also a cultural centre and a meeting place for the early Tamil Muslim pioneers.
+Nagore Durgha Shrine at Telok Ayer Street, dedicated to Shahul Hamid Durgha, a holy man of Nagore in South India, was built between 1828 and 1830 by South Indian Muslim immigrants. The shrine’s ornate architecture is a blend of Islamic and European elements. The gazetted National Monument is now home to the Nagore Dargah Indian Muslim Heritage Centre.
 <p></p>
 <p></p>
 <hr>
@@ -101,6 +104,10 @@ Nagore Durgha Shrine at Telok Ayer Street was built between 1828 -1830. Original
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980005882 - 0090</div>
 </div>
+The original Sultan Mosque, located next to the Istana (palace) at Kampong Glam, was built between 1824 and 1826 for Sultan Husain Shah as a royal mosque. By the 1920s, the mosque was in a state of disrepair. It was thus demolished and a new mosque was erected on the site between 1928 and 1932. The present Sultan Mosque was built in the Indo-Saracenic style that combines traditional Indian, Islamic and European elements.
+<p></p>
+<p></p>
+<hr>
 
 ![Interior of Sultan mosque, 1954](/images/power-and-worship/Sub2-10-interior-of-sultan-mosque-cr.jpg)
 <div class="custom-caption">
@@ -108,10 +115,6 @@ Nagore Durgha Shrine at Telok Ayer Street was built between 1828 -1830. Original
 <div>Donal Moore Collection, courtesy of National Archives of Singapore </div>
 <div>20140000144 – 0067</div>
 </div>
-Built between 1824 and 1826, the original mosque was a brick structure with double tiered roof in the shape of a pyramid built by Sultan Hussein Shah, whom Raffles installed as Sultan of Singapore. In the early 20th century, decisions were made to erect a new mosque because the old one needed substantial repairs, and hence a new building was completed in 1928. Today the Mosque is the largest in Singapore, and is supported by Muslims of all communities.
-<p></p>
-<p></p>
-<hr>
 
 ![Armenian Church of Saint Gregory the Illuminator, 1962](/images/power-and-worship/Sub2-11-armenian-church-of-saint-gregory.jpg)
 <div class="custom-caption">
@@ -119,17 +122,10 @@ Built between 1824 and 1826, the original mosque was a brick structure with doub
 <div>Courtesy of National Archives of Singapore</div>
 <div>19990003429 - 0025</div>
 </div>
-This church was built in 1836 by the Armenians in Singapore. The Armenians were the first of the Christian community to erect a permanent place of worship, making this the oldest Christian Church in Singapore. The patron saint of the church is St. Gregory the Illuminator, the first monk of the Armenian Church. In 1909, it is believed to be the first building in Singapore to have electricity with the installations of fans and lights.
+Built by the local Armenian community in 1836, the Armenian Church is the oldest surviving church in Singapore. The Armenians were among the earliest merchants and traders who came to Singapore after its founding as a British trading post in 1819. They were also the first Christian community to build a permanent place of worship here. Designed by prominent Irish architect G. D. Coleman, who built some of Singapore’s earliest public buildings, the building incorporated distinctive features of traditional Armenian churches.
 <p></p>
 <p></p>
 <hr>
-
-![Cathedral of the Good Shepherd, 1900s](/images/power-and-worship/Sub2-12-cathedral-of-the-good-shepherd-cr.jpg)
-<div class="custom-caption">
-<div><p>Cathedral of the Good Shepherd, 1900s</p></div>
-<div>Lee Kip Lin Collection, courtesy of National Archives of Singapore</div>
-<div>19980005121 - 0088</div>
-</div>
 
 ![Cathedral of the Good Shepherd, 1900s](/images/power-and-worship/Sub2-13-cathedral-of-the-good-shepherd.jpg)
 <div class="custom-caption">
@@ -137,28 +133,30 @@ This church was built in 1836 by the Armenians in Singapore. The Armenians were 
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005093 - 0108</div>
 </div>
-Built between 1843 and 1847, it is the oldest surviving Catholic church in Singapore, and the Cathedral was gazetted as a national monument in 1973. The Cathedral was constructed in 1846 by a French priest, Father Jean-Marie Beurel. The dedication of the church to the Good Shepherd was in memory of St. Laurent Imbert, the first priest to visit Singapore. As the oldest Roman Catholic Church in Singapore, it remains an important focal point of the Catholic Community.
+Completed in 1847, the cathedral is the oldest surviving Catholic church in Singapore. The building was initiated by a French priest, Father Jean-Marie Beurel, who obtained a plot of land along Bras Basah Road from the government. Its architecture was inspired by two London churches – Saint Paul’s in Covent Garden and Saint Martin-in-the-Fields at Trafalgar Square. It remains an important place of
+worship and is the Cathedral Church of the Roman Catholic Archdiocese of Singapore.
 <p></p>
 <p></p>
 <hr>
 
 ![Convent of the Holy Infant Jesus’ Chapel, 1900s](/images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
 <div class="custom-caption">
-<div><p>Convent of the Holy Infant Jesus’ Chapel, 1900s</p></div>
+<div><p>Chapel of the Convent of the Holy Infant Jesus, 1900s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore </div>
 <div>19980005881 - 0013</div>
 </div>
-
-![Interior of the Convent of the Holy Infant Jesus’ Chapel, 1900s](/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
-<div class="custom-caption">
-<div><p>Interior of the Convent of the Holy Infant Jesus’ Chapel, 1900s</p></div>
-<div>Arshak C Galstaun Collection, courtesy of National Archives of Singapore</div>
-<div>19980005108 – 0016</div>
-</div>
-Convent of the Holy Infant Jesus (CHIJ) was a girls' school established at Victoria Street in 1854 by the French sisters of the Congregation of the Holy Infant Jesus. The convent building encompassed the English-medium convent school, a Chinese-medium school called St. Nicholas Girls' School, an orphanage, the nun's quarters and a chapel. The Gothic chapel was completed in 1903, and became the most beautiful feature on the premises with its spectacular display of stained-glass windows at the apse.
+Established in 1854, the Convent of the Holy Infant Jesus (CHIJ) on Victoria Street was Singapore’s oldest Catholic girls&#39; school. The convent encompassed the English-medium convent school, a Chinese-medium school named St. Nicholas Girls&#39; School, an orphanage,
+nun&#39;s quarters, and chapel. The Gothic chapel, completed in 1903, features decorative flying buttresses and beautiful stained-glass windows.
 <p></p>
 <p></p>
 <hr>
+
+![Interior of the Convent of the Holy Infant Jesus’ Chapel, 1900s](/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
+<div class="custom-caption">
+<div><p>Interior of the Convent of the Holy Infant Jesus Chapel, 1900s</p></div>
+<div>Arshak C Galstaun Collection, courtesy of National Archives of Singapore</div>
+<div>19980005108 – 0016</div>
+</div>
 
 ![St. Andrew’s Cathedral, 1910](/images/power-and-worship/Sub2-16-st-andrews-cathedral-cr.jpg)
 <div class="custom-caption">
@@ -166,6 +164,10 @@ Convent of the Holy Infant Jesus (CHIJ) was a girls' school established at Victo
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005030 – 0028</div>
 </div>
+In 1823, Sir Stamford Raffles selected a site near the Padang to build an Anglican church. Named after the patron saint of Scotland, the Church of St. Andrew was constructed with strong financial support of the local Scottish community and was completed in 1836. However, the original building was struck twice by lightning and eventually demolished. In 1864, a new church in the neo-Gothic style was erected on the original site and subsequently elevated to a cathedral. St. Andrew’s Cathedral today is the oldest Anglican church in the country and the seat of the Anglican bishop of Singapore.
+<p></p>
+<p></p>
+<hr>
 
 ![St. Andrew’s Cathedral, 1950s](/images/power-and-worship/Sub2-17-st-andrews-cathedral.jpg)
 <div class="custom-caption">
@@ -173,10 +175,6 @@ Convent of the Holy Infant Jesus (CHIJ) was a girls' school established at Victo
 <div>George Tricker Collection, courtesy of National Archives of Singapore</div>
 <div>20100000306 - 0033</div>
 </div>
-The site of this church near the Padang was selected by Sir Stamford Raffles in 1823. The church was named after the patron saint of Scotland because the local Scottish community contributed to the building fund. The original church was completed in 1836, however it’s spire was struck twice by lightning, rendering the building to be unsafe and demolished eventually. A new church in the neo-gothic style was completed on the original site in 1864, and remains standing today.
-<p></p>
-<p></p>
-<hr>
 
 ![Sri Mariamman Temple, 1905](/images/power-and-worship/Sub2-18-sri-mariamman-temple-cr.jpg)
 <div class="custom-caption">
