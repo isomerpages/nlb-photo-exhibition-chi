@@ -63,6 +63,7 @@ Yueh Hai Ching Temple (粤海清庙) was established by local Teochew immigrants
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980005888 – 0048</div>
 </div>
+<hr>
 
 ![Siong Lim Temple, 1910s](/images/power-and-worship/Sub2-6-siong-lim-temple-cr.jpg)
 <div class="custom-caption">
@@ -115,6 +116,7 @@ The original Sultan Mosque, located next to the Istana (palace) at Kampong Glam,
 <div>Donal Moore Collection, courtesy of National Archives of Singapore </div>
 <div>20140000144 – 0067</div>
 </div>
+<hr>
 
 ![Armenian Church of Saint Gregory the Illuminator, 1962](/images/power-and-worship/Sub2-11-armenian-church-of-saint-gregory.jpg)
 <div class="custom-caption">
@@ -157,6 +159,7 @@ nun&#39;s quarters, and chapel. The Gothic chapel, completed in 1903, features d
 <div>Arshak C Galstaun Collection, courtesy of National Archives of Singapore</div>
 <div>19980005108 – 0016</div>
 </div>
+<hr>
 
 ![St. Andrew’s Cathedral, 1910](/images/power-and-worship/Sub2-16-st-andrews-cathedral-cr.jpg)
 <div class="custom-caption">
@@ -175,6 +178,7 @@ In 1823, Sir Stamford Raffles selected a site near the Padang to build an Anglic
 <div>George Tricker Collection, courtesy of National Archives of Singapore</div>
 <div>20100000306 - 0033</div>
 </div>
+<hr>
 
 ![Sri Mariamman Temple, 1905](/images/power-and-worship/Sub2-18-sri-mariamman-temple-cr.jpg)
 <div class="custom-caption">
