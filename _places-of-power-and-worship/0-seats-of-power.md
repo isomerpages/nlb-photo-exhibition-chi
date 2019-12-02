@@ -54,7 +54,7 @@ After the old Government House on Government Hill (now Fort Canning Hill) was de
 <p></p>
 <hr>
 
-![Government House, 1890s](/images/power-and-worship/Sub1-6-government-house-cr.jpg)
+![Government House, 1890s](/images/power-and-worship/Sub1-7-government-house.jpg)
 <div class="custom-caption">
 <div><p>Government House, 1899</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
