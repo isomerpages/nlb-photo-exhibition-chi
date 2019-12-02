@@ -182,6 +182,10 @@ In 1823, Sir Stamford Raffles selected a site near the Padang to build an Anglic
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980005882 - 0024</div>
 </div>
+Sri Mariamman Temple on South Bridge Road is the oldest Hindu temple in Singapore. Its original wood and attap structure, built by Indian community leader Naraina Pillai in 1827, was replaced by a brick building in 1843. Much of the present building is believed to date from the 1860s. The temple also served as a refuge for new migrants from South India, who would stay here until they found work and accommodation. It remains an important place of worship for the Hindu community in Singapore.
+<p></p>
+<p></p>
+<hr>
 
 ![Sri Mariamman Temple, 1950s](/images/power-and-worship/Sub2-19-sri-mariamman-temple.jpg)
 <div class="custom-caption">
@@ -189,6 +193,6 @@ In 1823, Sir Stamford Raffles selected a site near the Padang to build an Anglic
 <div>Nelson Collection, courtesy of National Archives of Singapore</div>
 <div>20140000166 – 0078</div>
 </div>
-The Sri Mariamman Temple on South Bridge Road is the oldest Hindu temple in Singapore. Naraina Pillai, an Indian pioneer, built a simple Hindu temple made of wood and attap in 1827. The present brick building replaced the wood and attap structure in 1844. This temple of early South Indians was a refuge for newly arrived immigrants, who would stay here till they found work and accommodations. It remains as the focal point for the Indian community activities today. 
+The six-tiered _gopuram_, or entrance tower of the temple, was built in 1925. The elaborately decorated tower featuring sculptures of Hindu deities is a landmark along South Bridge Road.
 <p></p>
 <p></p>
