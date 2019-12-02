@@ -5,9 +5,9 @@ permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/seats-o
 breadcrumb: Seats of Power
 collection_name: places-of-power-and-worship
 ---
-Contrary to the common belief that Singapore was a quiet fishing town before the 19th century, studies have shown that the history of Singapore could be traced back to at least the 14th century, where a flourishing trading settlement already existed. Strategically situated on maritime trade routes, Singapore was ruled by a number of rulers, including Parameswara, the Malacca Sultanate and Johor Sultanate, before the British arrived and made Singapore a trading post, followed by a colony in the 19th century.
+Singapore’s past kingdoms and empires have left their marks on the island over its 700 years of history. However, with development after the arrival of the British in the early 19th century, the traces of pre-colonial rulers were mostly lost.
 
-While the Malay royalty continued to reside at lavish palaces in Singapore during the 19th century, the British also established their presence by building a Government House on Bukit Larangan (Forbidden Hill), which was exclusive to the royalty in the past. The Government House was the residence of colonial governors until the 1850s, where the House was demolished to construct an artillery fort, and the hill was renamed Fort Canning Hill, which remains an important landmark in Singapore today. 
+The ancient palace grounds Bukit Larangan (‘Forbidden Hill’ in Malay, now Fort Canning Hill) had long been exclusive to the royalty and was a symbol of power. Sir Stamford Raffles built a bungalow on the hill in 1822, which eventually became Government House – the official residence of colonial governors. A new Government House was erected in the vicinity of Orchard Road in 1869. Meanwhile, the Malay royalty resided in Singapore at the Istana (‘palace’ in Malay) in Kampong Glam. Being seats of authority or royal households, these buildings were remarkable in both architectural features and historical significance.
 <p></p>
 ![---](/images/partition.jpg)
 
@@ -17,38 +17,28 @@ While the Malay royalty continued to reside at lavish palaces in Singapore durin
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005063 – 0116</div>
 </div>
-Fort Canning Hill, previously known as Bukit Larangan (Forbidden Hill) and Government Hill, has been a landmark in Singapore's earliest recorded history. A bungalow was built after Sir Stamford Raffles arrived in 1819, which became known as the Government House, and was the residence of subsequent colonial governors until the 1850s when the Fort was built. The entrance to Fort Canning consisted of a main gate with its distinctive Gothic archway located at the north side of the hill. 
+Fort Canning Hill, previously known as Bukit Larangan (Forbidden Hill) and Government Hill, was a landmark in Singapore&#39;s earliest recorded history. It is believed to be the site of a palace for Malay royalty and a burial ground for ancient kings. Sir Stamford Raffles built a bungalow on the hill in 1822, which became known as Government House and was the residence of subsequent colonial governors until the 1850s, when the Fort was built. The entrance to Fort Canning consisted of a main gate with a distinctive Gothic archway located at the north side of the hill. 
 <p></p>
 <p></p>
 <hr>
 
 ![Bunker at Fort Canning, 1925](/images/power-and-worship/Sub1-2-bunker-at-fort-canning-cr.jpg)
 <div class="custom-caption">
-<div><p>Fort Canning Entrance, 1925</p></div>
+<div><p>Bunker at Fort Canning, 1925</p></div>
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005063 – 0118</div>
 </div>
-Fort Canning is believed to be the site of a palace for Malayan royalty and a burial ground for ancient kings in the past. A bungalow was built in early 19th Century, which became known as the Government House, and was the residence of subsequent colonial governors until the 1850s when the Fort was built. In 1859, Government House was demolished to make way for an artillery fort. The Fort had never been used in any battle though. 
+Fort Canning was one of Singapore’s first British-built fortifications. Its purpose was to protect Singapore from a sea attack, oversee the security of the town, and serve as a refuge for European residents in the event of social disturbance. The fort was fully functional by 1864. During the period it was in service, it was never used for any battles. Fort Canning was decommissioned in 1907.
 <p></p>
 <p></p>
 <hr>
 
 ![View of town from Fort Canning Hill, 1870s](/images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill.jpg)
 <div class="custom-caption">
-<div><p>View of town from Fort Canning Hill, 1870s</p></div>
+<div><p>View from Fort Canning Hill, 1870s</p></div>
 <div>Lee Kip Lin Collection, courtesy of National Library Board</div>
 </div>
-Fort Canning Hill has always been an important landmark in Singapore's history. This photograph shows a view of the town taken around 1879 from the saluting battery on Fort Canning Hill, the cannons fired at the battery were to signal the time of day and alert the town to fires. The Raffles Institution can be seen on the extreme left and the St. Andrew's Cathedral can be seen in the middle of the photograph. 
-<p></p>
-<p></p>
-<hr>
-
-![View of Fort Canning from Boat Quay, 1890s](/images/power-and-worship/Sub1-4-view-of-fort-canning-from-boat-quay.jpg)
-<div class="custom-caption">
-<div><p>View of Fort Canning from Boat Quay, 1890s</p></div>
-<div>Lee Kip Lin Collection, courtesy of National Library Board</div>
-</div>
-Boat Quay, a river embankment on the south bank of the Singapore River, is one of the oldest and most historical areas in Singapore’s central region. For more than 150 years, warehouses thriving with economic activity lined the banks of north and south Boat Quay. This photograph shows rows of sampan (small wooden boats used to ferry passengers and goods across short distances on rivers) anchored at Boat Quay in the foreground, against the backdrop of Fort Canning.
+Fort Canning Hill commanded a panoramic view of Singapore town as seen from this photograph taken from the saluting battery on the hill. The cannons fired at the battery signalled the time of day and alerted the town to fires. St. Andrew’s Cathedral can be seen in the middle of the photograph. 
 <p></p>
 <p></p>
 <hr>
@@ -59,51 +49,30 @@ Boat Quay, a river embankment on the south bank of the Singapore River, is one o
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005095 - 0062</div>
 </div>
+After the old Government House on Government Hill (now Fort Canning Hill) was demolished in 1859, a new Government House located along Orchard Road was completed in 1869. It was the official residence for colonial governors, housing 21 governors in total. When Singapore attained self-governance in 1959 it was renamed Istana (‘palace’ in Malay). It is currently the official residence of the president of Singapore.
+<p></p>
+<p></p>
+<hr>
 
 ![Government House, 1890s](/images/power-and-worship/Sub1-6-government-house-cr.jpg)
 <div class="custom-caption">
-<div><p>Government House, 1890s</p></div>
-<div>Gretchen Liu Collection, courtesy of National Archives of Singapore</div>
-<div>19980006568 - 0050</div>
-</div>
-After the old Government House on Government Hill (now Fort Canning) was torn down in 1859, a new Government House was completed in 1869. The Government House was the official residence for colonial governors, housing a total of 21 governors during colonial rule in Singapore. In 1959 it was renamed Istana (“Palace” in Malay) when Singapore attained self-governance. It is currently the official residence for presidents of Singapore, located along Orchard Road, Singapore's prime shopping district.
-<p></p>
-<p></p>
-<hr>
-
-![Government House, 1899](/images/power-and-worship/Sub1-7-government-house.jpg)
-<div class="custom-caption">
 <div><p>Government House, 1899</p></div>
-<div>Lee Kip Lin Collection, courtesy of National Library Board</div>
+<div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
-In the foreground of this photograph is the expansive grounds of the Government House, located at Orchard Road, beautifully landscaped with many trees. Designed by the Colonial Engineer John Frederick Adolphus McNair, the stately Government House, which was completed in 1869, was to be the official residence of 21 London-appointed Colonial Governors. Today, this building is known as the Istana (“palace” in Malay), the official residence of the presidents of Singapore.
+Set in expansive, beautifully landscaped grounds, the Government House was designed by colonial engineer John Frederick Adolphus McNair, who was one of the most important architects in 19th century Singapore. Its architecture is similar to many 18th century neo-Palladian buildings in India built by the British.
 <p></p>
 <p></p>
 <hr>
 
-![View of Istana Tyersall from Botanical Gardens, late 19th - early 20th century](/images/power-and-worship/Sub1-8-view-of-istana-tyersall-from-botanical-garden-cr.jpg)
-<div class="custom-caption">
-<div><p>View of Istana Tyersall from Botanical Gardens, late 19th - early 20th century</p></div>
-<div>Courtesy of National Archives of Singapore</div>
-<div>19980005100 - 0077</div>
-</div>
-![Istana Tyersall, 1890s](/images/power-and-worship/Sub1-9-istana-tyersall.jpg)
-<div class="custom-caption">
-<div><p>Istana Tyersall, 1890s</p></div>
-<div>Lee Kip Lin Collection, courtesy of National Library Board</div>
-</div>
-Istana Tyersall, residence of Sultan Abu Bakar of Johor in Singapore, was completed in 1892 and located in the Tanglin area (behind the Singapore Botanic Gardens). It was a luxurious, eastern palace of artistic design, spacious proportions and substantial construction. It came complete with a reception hall, dining area and a ballroom. It had marble floors and electric lights. In 1905, the house was burnt down due to a fire that was caused by faulty electrical wiring.
-<p></p>
-<p></p>
-<hr>
 
 ![Istana Kampong Glam, 1960s](/images/power-and-worship/Sub1-10-istana-kampong-glam-cr.jpg)
 <br/>
 ![Istana Kampong Glam, 1960s](/images/power-and-worship/Sub1-11-istana-kampong-glam-cr.jpg)
 <div class="custom-caption">
 <div><p>Istana Kampong Glam, 1960s</p></div>
-<div>Lee Kip Lin Collection, courtesy of National Library Board</div>
+<div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
-Istana Kampong Glam was the seat and historic home of Malay Royalty in Singapore. The land was given to Sultan Hussein by Sir Stamford Raffles in 1822 and the Istana was built in 1840. Similar to much of Classical European architecture, Istana Kampong Glam was symmetrically planned, featuring classical elements such as round arches. Several features of traditional Malay architecture were also featured, aptly reflecting its function as the Sultan's palace.
+Singapore was part of the Johor-Riau sultanate, a Malay kingdom, from the 16th to 19th century. In 1819, Sir Stamford Raffles signed a treaty with the two local Malay rulers, Sultan Husain and Temenggung Abdul Rahman, to set up a trading post on Singapore island. Before the signing, Raffles proclaimed Tengku Husain, the elder son of the deceased Sultan Mahmud Shah of Johor, as the rightful heir to Johor. Sultan Husain built his palace in Kampong Glam. Originally, a timber structure, his son Tengku Mohammed Ali rebuilt the palace as a two-
+storey European-style building in 1843. Istana Kampong Glam is currently home to the Malay Heritage Centre.
 <p></p>
 <p></p>
