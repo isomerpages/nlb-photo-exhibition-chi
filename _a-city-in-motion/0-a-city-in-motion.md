@@ -20,7 +20,7 @@ Rickshaws, also known as jinrikishas or jinrickshas, were imported from Japan vi
 
 ![Rickshaws and Chinese shophouses in Singapore, c. 1910](/images/city-in-motion/Sub1-2-rickshaw-and-chinese-shophouses.jpg)
 <div class="custom-caption">
-<div><p>Rickshaws and Shophouses in Chinatown, 1910s</p></div>
+<div><p>Rickshaws and shophouses in Chinatown, 1910s</p></div>
 <div>Andrew Tan Collection, courtesy of National Archives of Singapore</div>
 <div>19980005905 - 0066</div>
 </div>
@@ -74,7 +74,7 @@ In 19th-century Singapore, taking an evening ride in one’s carriage around tow
 
 ![Bullock Cart, 1910](/images/city-in-motion/Sub1-7-Bullock-Cart.jpg)
 <div class="custom-caption">
-<div><p>Bullock Cart, 1910s</p></div>
+<div><p>Bullock cart, 1910s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980005882 – 0033</div>
 </div>
@@ -262,7 +262,7 @@ The Singapore-Kranji Railway, also known as the Singapore-Johor Railway, opened 
 
 ![Newton station, 1910](/images/city-in-motion/Sub1-25-newton-station.jpg)
 <div class="custom-caption">
-<div><p>Newton Station, 1910</p></div>
+<div><p>Newton station, 1910</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980006559 - 0115</div>
 </div>
