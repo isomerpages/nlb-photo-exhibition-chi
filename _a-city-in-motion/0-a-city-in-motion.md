@@ -119,7 +119,9 @@ The trishaw, which was introduced during the Japanese occupation (1942–1945), 
 <p></p>
 <hr>
 
+<div class="portrait-resize" markdown="1">
 ![A trishaw rider and his passenger, 1961](/images/city-in-motion/Sub1-12-a-trishaw-rider-and-his-passenger.jpg)
+</div>
 <div class="custom-caption">
 <div><p>Trishaw rider and passenger, 1961</p></div>
 <div>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</div>
@@ -129,7 +131,7 @@ The trishaw, which was introduced during the Japanese occupation (1942–1945), 
 <p></p>
 <hr>
 
-![A tram car, 1902](/images/city-in-motion/Sub1-13-a-tram-car-rz.jpg)
+![A tram car, 1902](/images/city-in-motion/Sub1-13-a-tram-car.jpg)
 <div class="custom-caption">
 <div><p>Tram car, 1900s</p></div>
 <div>F W York Collection, courtesy of National Archives of Singapore</div>
