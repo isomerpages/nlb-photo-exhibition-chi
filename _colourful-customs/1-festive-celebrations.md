@@ -199,4 +199,3 @@ Apart from its religious significance to Christians, Christmas is also a time to
 Carolling is another tradition common in Singapore during Christmastime. During this period, carollers sing Christmas hymns and songs in churches and people’s homes to spread festive cheer. Today, carolling groups often perform in shopping malls and other public spaces in the lead up to Christmas.
 <p></p>
 <p></p>
-<hr>
