@@ -62,7 +62,7 @@ By the 1930s, many commercial buildings along Collyer Quay had been replaced by 
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980005879 – 0109</div>
 </div>
-The Fullerton Building has been a prominent landmark on the Singapore waterfront since its completion in 1928. Its neoclassical façade featuring Doric columns evokes grandeur and power. Well-remembered as the General Post Office, it also housed several government departments. After major renovations between 1997 and 2000, it reopened as the Fullerton Hotel on 1 January 2001.
+The Fullerton Building has been a prominent landmark on the Singapore waterfront since its completion in 1928. Its neoclassical façade featuring Doric columns evokes grandeur and power. Well-remembered as the General Post Office, it also housed several government departments. After major renovations between 1997 and 2000, it reopened as the Fullerton Hotel in 2001.
 <p></p>
 <p></p>
 <hr>
