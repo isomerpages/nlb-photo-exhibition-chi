@@ -47,7 +47,7 @@ English writer Rudyard Kipling (1865–1936), who visited Singapore in 1889, onc
 <div>Collection of National Library Singapore</div>
 </div>
 
-Jewish businessman Nissim Nassim Adis bought the Hotel de l’Europe in 1906 and rebuilt it at a cost of S$1 million. The rebuilt Grand Hotel de l’Europe was one of the most luxurious in Singapore, if not Asia, in the early 20th century. British novelist and biographer Horace Bleackley visited the Hotel in 1925 and claimed its grill room was ‘the best restaurant probably in the continent of Asia’.
+Jewish businessman Nissim Nassim Adis bought the Hotel de l’Europe in 1906 and rebuilt it at a cost of one million Straits dollar. The rebuilt Grand Hotel de l’Europe was one of the most luxurious in Singapore, if not Asia, in the early 20th century. British novelist and biographer Horace Bleackley visited the Hotel in 1925 and claimed its grill room was ‘the best restaurant probably in the continent of Asia’.
 
 <hr>
 
@@ -140,4 +140,4 @@ Great World was one of Singapore’s major amusement parks that livened up the p
 <div>Donald Moore Collection, courtesy of National Archives of Singapore</div>
 <div>20140000146 - 0045</div>
 </div>
-The amusement parks were well-known for traditional opera performances of every description. People could watch Peking, Teochew and Cantonese operas, as well as _bangsawan_ (Malay opera). After the war, the park became popular once again, with carnival rides such as the Ghost Train, ferris wheel and carousel added to the suite of attractions for visitors.
+The amusement parks were well-known for traditional opera performances of every description. People could watch Peking, Teochew and Cantonese operas, as well as _bangsawan_ (Malay opera). After the war, the parks became popular once again, with carnival rides such as the Ghost Train, ferris wheel and carousel added to the suite of attractions for visitors.
