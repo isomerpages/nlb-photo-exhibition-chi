@@ -75,7 +75,7 @@ Constructed between 1898 and 1908, Siong Lim Temple (双林寺) is the oldest Bu
 <p></p>
 <hr>
 
-<p class="portrait-resize">
+<p class="portrait-resize" markdown="1">
 ![Jamae Mosque, 1930](/images/power-and-worship/Sub2-7-jamae-mosque-cr.jpg)
 </p>
 <div class="custom-caption">
@@ -100,7 +100,7 @@ Nagore Durgha Shrine at Telok Ayer Street, dedicated to Shahul Hamid Durgha, a h
 <p></p>
 <hr>
 
-<p class="portrait-resize">
+<p class="portrait-resize" markdown="1">
 ![Sultan Mosque, 1930s](/images/power-and-worship/Sub2-9-sultan-mosque-cr.jpg)
 </p>
 <div class="custom-caption">
@@ -113,7 +113,7 @@ The original Sultan Mosque, located next to the Istana (palace) at Kampong Glam,
 <p></p>
 <hr>
 
-<p class="portrait-resize">
+<p class="portrait-resize" markdown="1">
 ![Interior of Sultan mosque, 1954](/images/power-and-worship/Sub2-10-interior-of-sultan-mosque-cr.jpg)
 </p>
 <div class="custom-caption">
@@ -146,7 +146,7 @@ worship and is the Cathedral Church of the Roman Catholic Archdiocese of Singapo
 <p></p>
 <hr>
 
-<p class="portrait-resize">
+<p class="portrait-resize" markdown="1">
 ![Convent of the Holy Infant Jesus’ Chapel, 1900s](/images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
 </p>
 <div class="custom-caption">
@@ -160,7 +160,7 @@ nun&#39;s quarters, and chapel. The Gothic chapel, completed in 1903, features d
 <p></p>
 <hr>
 
-<p class="portrait-resize">
+<p class="portrait-resize" markdown="1">
 ![Interior of the Convent of the Holy Infant Jesus’ Chapel, 1900s](/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
 </p>
 <div class="custom-caption">
@@ -181,7 +181,7 @@ In 1823, Sir Stamford Raffles selected a site near the Padang to build an Anglic
 <p></p>
 <hr>
 
-<p class="portrait-resize">
+<p class="portrait-resize" markdown="1">
 ![St. Andrew’s Cathedral, 1950s](/images/power-and-worship/Sub2-17-st-andrews-cathedral.jpg)
 </p>
 <div class="custom-caption">
@@ -202,7 +202,7 @@ Sri Mariamman Temple on South Bridge Road is the oldest Hindu temple in Singapor
 <p></p>
 <hr>
 
-<p class="portrait-resize">
+<p class="portrait-resize" markdown="1">
 ![Sri Mariamman Temple, 1950s](/images/power-and-worship/Sub2-19-sri-mariamman-temple.jpg)
 </p>
 <div class="custom-caption">
