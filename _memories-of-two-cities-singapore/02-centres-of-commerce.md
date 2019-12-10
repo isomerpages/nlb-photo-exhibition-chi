@@ -25,7 +25,7 @@ This section features early Singapore’s key commercial centres.
     <img class="photo-lv-2" src="/images/centres-of-commerce/raffles-place-photo-stack-2.png">
     <img class="photo-lv-3" src="/images/centres-of-commerce/raffles-place-photo-stack-3.png">
   </div>
-  <p>The Earliest<br>Raffles Place</p>
+  <p>Raffles Place</p>
   <a class="cover" href="/memories-of-two-cities-singapore/centres-of-commerce/raffles-place/"></a>
 </div> 
   
