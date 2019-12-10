@@ -40,7 +40,9 @@ Founded in 1859, the Botanical Gardens (now Botanic Gardens) was intended for sc
 
 <hr>
 
+<p class="portrait-resize" markdown="1">
 ![Entrance of Botanical Gardens, 1900s](/images/Sub3-4-Entrance-Botanical-Garden.jpg)
+</p>
 <div class="custom-caption">
 <div><p>Entrance of Botanical Gardens, 1900s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -89,7 +91,9 @@ In the 1820s, Tanjong Katong, a coastal area in eastern Singapore, was part of l
  
 <hr>
 
+<p class="portrait-resize" markdown="1">
 ![Beach at Tanjong Katong, 1920s](/images/Sub3-9.jpg)
+</p>
 <div class="custom-caption">
 <div><p>Beach at Tanjong Katong, 1920s</p></div>
 <div>Marine Parade Community Centre Collection, courtesy of National Archives of Singapore</div>
