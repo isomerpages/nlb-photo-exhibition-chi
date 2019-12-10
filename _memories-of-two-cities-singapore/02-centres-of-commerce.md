@@ -9,11 +9,9 @@ collection_name: memories-of-two-cities-singapore
 ![Raffles Place seen from the Chartered Bank, 1920s](/images/centres-of-commerce/commerce-banner.jpg)
 ### **Centres of Commerce**
 
-For centuries, the importance of Singapore and its surrounding waterways had long been due to its position as a significant port for
-regional and international maritime trade. The mouth of the Singapore River leads to the Straits of Singapore, which together with the
-Straits of Melaka, were two major shipping routes linking the Indian Ocean to the South China Sea.
+The importance of Singapore and its surrounding waterways has for centuries been due to its role in regional and international maritime trade. The mouth of the Singapore River leads to the Straits of Singapore, which together with the Straits of Melaka, is a major shipping route linking the Indian Ocean to the South China Sea.
 
-When Singapore developed as a British trading port in the early 19th century, ships would moor at its harbour off the mouth of the Singapore River, where goods would be ferried to warehouses along the river, awaiting re-export. On the south bank of the river, Commercial Square (now Raffles Place) was established as the port city’s first business hub, with easy access to the harbour. By the mid-19th century, the New Harbour (now Keppel Harbour) at Tanjong Pagar emerged as the main port, driving Singapore’s economic progress.  
+When Singapore developed as a British trading port in the early 19th century, ships would moor at its harbour off the mouth of the Singapore River, where goods would be ferried to warehouses along the river before being re-exported. On the south bank of the river, Commercial Square (now Raffles Place) was established as the port city’s first business hub, providing easy access to the harbour. By the mid-19th century, the New Harbour (now Keppel Harbour) at Tanjong Pagar emerged as the main port, driving Singapore’s economic progress.
 
 This section features early Singapore’s key commercial centres.
 
