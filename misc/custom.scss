@@ -565,6 +565,11 @@ img.photo-lv-2, img.photo-lv-3 {
     z-index:3;
 }
 
+.portrait-resize img {
+    width: 70%;
+    margin-left: 0px;
+}
+
 /*for-banner*/
 .photo-stacked-wrap-banner .photos-banner {
     position: relative;
