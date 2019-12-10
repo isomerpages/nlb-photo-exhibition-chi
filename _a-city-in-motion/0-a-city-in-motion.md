@@ -51,9 +51,9 @@ Horse-drawn carriages were a common sight in Singapore in the 19th century. The 
 <p></p>
 <hr>
 
-<div class="portrait-resize" markdown="1">
+<p class="portrait-resize" markdown="1">
 ![A horse-drawn carriage, 1900s](/images/city-in-motion/Sub1-5-horse-drawn-carriage.jpg)
-</div>
+</p>
 <div class="custom-caption">
 <div><p>Horse-drawn carriage, 1900s</p></div>
 <div>Boden-Kloss Collection, courtesy of National Archives of Singapore</div>
@@ -119,9 +119,9 @@ The trishaw, which was introduced during the Japanese occupation (1942–1945), 
 <p></p>
 <hr>
 
-<div class="portrait-resize" markdown="1">
+<p class="portrait-resize" markdown="1">
 ![A trishaw rider and his passenger, 1961](/images/city-in-motion/Sub1-12-a-trishaw-rider-and-his-passenger.jpg)
-</div>
+</p>
 <div class="custom-caption">
 <div><p>Trishaw rider and passenger, 1961</p></div>
 <div>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</div>
