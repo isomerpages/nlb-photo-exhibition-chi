@@ -56,16 +56,16 @@ The Gardens introduced the Para rubber (_Hevea brasiliensis_) plant, which broug
 <div><p>Impounding Reservoir, 1890s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
-The Impounding Reservoir was Singapore's first water supply system, built in 1867 to meet the demand for fresh water. It started out as a small lake in the heart of the jungle and was later enlarged and renamed MacRitche Reservoir in 1922, after James MacRitche, the Municipal Engineer of Singapore from 1883 to 1895. The reservoir was regarded as one of the prettiest spots on the island and a pleasant place for visitors to take a leisurely stroll.
+The Impounding Reservoir was Singapore's first water supply system, built in 1867 to meet the demand for fresh water. It started out as a small lake in the heart of the jungle and was later enlarged and renamed MacRitchie Reservoir in 1922, after James MacRitchie, the Municipal Engineer of Singapore from 1883 to 1895. The reservoir was regarded as one of the prettiest spots on the island and a pleasant place for visitors to take a leisurely stroll.
  
 <hr>
 
 ![Thomson Road Reservoir, 1907](/images/Sub3-6.jpg)
 <div class="custom-caption">
 <div><p>Thomson Road Reservoir, 1907</p></div>
-<div>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</div>
+<div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
-Also known as the Impounding Reservoir, and later MacRitchie Reservoir, Thomson Road Reservoir was constructed in 1857 with funds generously donated by Chinese philanthropist Tan Kim Seng. The water intake tower and connecting bridge was a reflection of late 19th century technology and construction techniques, and have been identified as landmarks for conservation. 
+Also known as the Impounding Reservoir, and later renamed MacRitchie Reservoir in 1922. Thomson Road Reservoir was constructed in 1857 with funds generously donated by Chinese philanthropist Tan Kim Seng. The water intake tower and connecting bridge was a reflection of late 19th century technology and construction techniques, and have been identified as landmarks for conservation. 
 
 <hr>
 
