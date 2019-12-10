@@ -64,9 +64,13 @@ Set in expansive, beautifully landscaped grounds, the Government House was desig
 <p></p>
 <hr>
 
-
 ![Istana Kampong Glam, 1960s](/images/power-and-worship/Sub1-10-istana-kampong-glam-cr.jpg)
-<br/>
+<div class="custom-caption">
+<div><p>Istana Kampong Glam, 1960s</p></div>
+<div>Lee Kip Lin Collection, National Library Singapore</div>
+</div>
+<hr>
+
 ![Istana Kampong Glam, 1960s](/images/power-and-worship/Sub1-11-istana-kampong-glam-cr.jpg)
 <div class="custom-caption">
 <div><p>Istana Kampong Glam, 1960s</p></div>
