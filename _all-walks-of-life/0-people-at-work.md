@@ -29,7 +29,7 @@ Many impoverished Chinese migrants came to Singapore in the 19th century to wor
 <div>Morgan Betty Bassett Collection, courtesy of National Archives of Singapore </div>
 <div>20090000101 – 0011</div>
 </div>
-Originating from South India, Tamil coolies came to Singapore during the 19th century and generally worked at the docks and railway stations. In addition, Singapore also received Indian convicts, mainly from Bengal, Madras and Bombay, who served out their sentences while working as labourers. These convicts were a source of cheap labour needed for the construction of public roads, bridges and key public buildings in the early days.
+Originating from South India, Tamil coolies came to Singapore during the 19th century and generally worked at the docks or built railway lines. In addition, Singapore also received Indian convicts, mainly from Bengal, Madras and Bombay, who served out their sentences while working as labourers. These convicts were a source of cheap labour needed for the construction of public roads, bridges and key public buildings in the early days.
 <p></p>
 <p></p>
 <hr>
@@ -78,7 +78,9 @@ Hawkers were frequently found along busy streets and intersections peddling cook
 <p></p>
 <hr>
 
+<p class="portrait-resize" markdown="1">
 ![Malay hawker with his portable shop selling satay, Singapore, 1907](/images/all-walks-of-life/Sub1-7-satay-hawker-cr.jpg)
+</p>
 <div class="custom-caption">
 <div><p>Satay hawker, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -89,7 +91,9 @@ The Malay satay man, with his portable charcoal grill, was common in Singapore u
 <p></p>
 <hr>
 
+<p class="portrait-resize" markdown="1">
 ![Pavement based occupation – hawker selling tidbits (Kachang Putih), 1900](/images/all-walks-of-life/Sub1-8-hawker-selling-snacks-cr.jpg)
+</p>
 <div class="custom-caption">
 <div><p>Hawker selling snacks, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -115,7 +119,7 @@ Gambier and pepper were two of the most important crops grown in Malaya in the 1
 ![Fishermen at seashore, 1909](/images/all-walks-of-life/Sub1-11-fishermen-at-seashore.jpg)
 <div class="custom-caption">
 <div><p>Fishermen at seashore, 1909</p></div>
-<div>Edward William Newell Collection, Courtesy of National Archives of Singapore</div>
+<div>Edward William Newell Collection, courtesy of National Archives of Singapore</div>
 <div>19980005033 – 0118</div>
 </div>
 In the past, Singapore was known to have many fishing villages, mostly located along the coast. As a livelihood or an important source of income for many, fishing was usually done inshore with lightly built boats, such as the kolek or sampan. 
