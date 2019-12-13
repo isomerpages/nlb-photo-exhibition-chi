@@ -102,7 +102,7 @@ The square of Raffles Place was originally a garden before it was turned into a 
 <p></p>
 <hr>
 
-![Raffles Place, 1965](/images/centres-of-commerce/Sub1-9-raffles-place-rz.jpg)
+![Raffles Place, 1965](/images/centres-of-commerce/Sub1-9-raffles-place-1966-rz.jpg)
 <div class="custom-caption">
 <div><p>Raffles Place, 1966</p></div>
 <div>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</div>
