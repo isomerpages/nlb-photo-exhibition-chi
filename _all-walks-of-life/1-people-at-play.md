@@ -9,7 +9,9 @@ Along with the influx of different migrant communities came numerous forms of le
 
 ![---](/images/partition.jpg)
 
+<p class="portrait-resize" markdown="1">
 ![Chinese Wayang Actors, 1890s](/images/all-walks-of-life/Sub2-1-chinese-opera-actors.jpg)
+</p>
 <div class="custom-caption">
 <div><p>Chinese opera actors, 1890s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -23,7 +25,7 @@ Chinese opera performed on the street was a popular form of entertainment in Sin
 ![Bangsawan opera,1930s](/images/all-walks-of-life/Sub2-2-bangsawan-opera.jpg)
 <div class="custom-caption">
 <div><p>Bangsawan opera,1930s</p></div>
-<div>Mohd Amin bin Kadarisman Collection, Courtesy of National Archives of Singapore</div>
+<div>Mohd Amin bin Kadarisman Collection, courtesy of National Archives of Singapore</div>
 <div>19980005579 - 0004</div>
 </div>
 Bangsawan is a form of traditional Malay opera that comprises music, drama and dance. Its stories usually revolve around Malay nobles and royalty. However, some plots are based on Indian and English stories and include performers from other races. Its popularity reached a peak before the Second World War. While bangsawan was the main form of entertainment for the Malay community in Singapore and maritime Southeast Asia, it was enjoyed by other communities as well.
@@ -45,7 +47,7 @@ Traditional dances were usually performed at celebrations such as weddings, fest
 ![Indian musicians and dancing girl, 1900s](/images/all-walks-of-life/Sub2-4-indian-musicians-and-dancing-girl-cr.jpg)
 <div class="custom-caption">
 <div><p>Indian musicians and dancing girl, 1900s</p></div>
-<div>Lim Kheng Chye Collection, Courtesy of National Archives of Singapore</div>
+<div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980005125 – 0034</div>
 </div>
 When Indian immigrants came to Singapore in the 19th century, they brought along with them their music and dance traditions. As the arts are an important part of Hindu religious practices, such as during worship and processions, temples were the main venues for music and dance performances. 
@@ -75,9 +77,9 @@ Tea dances were once a popular social pastime in Singapore. In the 1920s, major 
 <p></p>
 <hr>
 
-![Photograph of guests during a race at Farrer Park Race Course, 1930](/images/all-walks-of-life/Sub2-7-spectators-at-farrer-park-race-course-cr.jpg)
+![Photograph of guests during a race at Farrer Park Racecourse, 1930](/images/all-walks-of-life/Sub2-7-spectators-at-farrer-park-race-course-cr.jpg)
 <div class="custom-caption">
-<div><p>Spectators at Farrer Park Race Course, 1930</p></div>
+<div><p>Spectators at Farrer Park Racecourse, 1930</p></div>
 <div>Margaret Clarke Collection, courtesy of National Archives of Singapore</div>
 <div>19980005817 – 0037</div>
 </div>
