@@ -37,7 +37,9 @@ The Tamil community celebrates Pongal, a four-day-long harvest festival to give 
 <p></p>
 <hr>
 
+<p class="portrait-resize" markdown="1">
 ![Reunion dinner during the eve of Chinese lunar new year, 1955](/images/colourful-customs/Sub2-3-reunion-dinner-on-the-eve-of-chinese-new-year.jpg)
+</p>
 <div class="custom-caption">
 <div><p>Reunion dinner on the eve of Chinese New Year, 1955</p></div>
 <div>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</div>
@@ -48,7 +50,9 @@ The Chinese partake in the reunion dinner on the eve of the new year in the luna
 <p></p>
 <hr>
 
+<p class="portrait-resize" markdown="1">
 ![A lion dance performed along Smith Street in Chinatown, 1951](/images/colourful-customs/Sub2-4-lion-dance-on-smith-street-chinatown.jpg)
+</p>
 <div class="custom-caption">
 <div><p>Lion dance on Smith Street, Chinatown, 1951</p></div>
 <div>Wong Kwan Collection, courtesy of National Archives of Singapore</div>
@@ -70,7 +74,9 @@ Chingay (妆艺) originated from an ancient Chinese practice where performers an
 <p></p>
 <hr>
 
+<p class="portrait-resize" markdown="1">
 ![Thaipusam celebration, 1930s](/images/colourful-customs/Sub2-6-thaipusam-celebration.jpg)
+</p>
 <div class="custom-caption">
 <div><p>Thaipusam Celebration, 1930s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -81,7 +87,9 @@ Thaipusam is a Hindu festival celebrated by the Tamil community. It is a day of 
 <p></p>
 <hr>
 
+<p class="portrait-resize" markdown="1">
 ![An Indian devotee at the Thaipusam festival, 1934](/images/colourful-customs/Sub2-7-kavadi-bearer-at-thaipusam-festival-cr.jpg)
+</p>
 <div class="custom-caption">
 <div><p>Kavadi-bearer at Thaipusam festival, 1934</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -113,7 +121,9 @@ On the morning of Hari Raya Puasa, it is customary for Muslim men to visit the m
 <p></p>
 <hr>
 
+<p class="portrait-resize" markdown="1">
 ![Malays celebrating Hari Raya Puasa, 1963](/images/colourful-customs/Sub2-10-malays-celebrating-hari-raya-puasa.jpg)
+</p>
 <div class="custom-caption">
 <div><p>Malays celebrating Hari Raya Puasa, 1963</p></div>
 <div>Singapore Press Holdings Collection, courtesy of National Archives of Singapore</div>
@@ -192,7 +202,7 @@ Apart from its religious significance to Christians, Christmas is also a time to
 
 ![Christmas carollers singing at Presbyterian Church ground, 1951](/images/colourful-customs/sub2-17-christmas-carollers-singing-at-church.jpg)
 <div class="custom-caption">
-<div><p>Christmas Carollers Singing at Church, 1951</p></div>
+<div><p>Christmas carollers singing at church, 1951</p></div>
 <div>Singapore Press Holdings Collection, courtesy of National Archives of Singapore</div>
 <div>PCD0450 – 0069</div>
 </div>
