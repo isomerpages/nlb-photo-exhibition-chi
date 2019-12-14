@@ -6,8 +6,8 @@ breadcrumb: Colourful Customs
 collection_name: memories-of-two-cities-singapore
 ---
 
-![Chinese coolies, 1900s](/images/colourful-customs/colourful-customs-banner.jpg)
-### **A Straits Chinese wedding, 1925**
+![A Straits Chinese wedding, 1925](/images/colourful-customs/colourful-customs-banner.jpg)
+### **Colourful Customs**
 
 Singapore is known for its rich and colourful traditions and practices, thanks to the diversity of the communities that reside here. The myriad customs are given full expression on significant occasions such as weddings, funerals, and festive celebrations. As seen in the historical photographs in this section, they have been practised in Singapore since its early days.  
 
