@@ -15,7 +15,9 @@ Raffles Place and its surrounding areas have undergone tremendous change over ti
 
 ![---](/images/partition.jpg)
 
+<p class="portrait-resize" markdown="1">
 ![Fullerton Square, 1900s](/images/centres-of-commerce/Sub1-1-fullerton-square-cr.jpg)
+</p>
 <div class="custom-caption">
 <div><p>Fullerton Square, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
