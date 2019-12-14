@@ -56,10 +56,12 @@ _Twakows_ were bumboats used to transport supplies and goods from anchored ships
 <p></p>
 <hr>
 
+<p class="portrait-resize" markdown="1">
 ![A twakow laden with cargo in Singapore River, 1925](/images/centres-of-commerce/Sub2-5-a-twakow-laden-with-cargo-in-singapore-harbour-cr.jpg)
+</p>
 <div class="custom-caption">
 <div><p>A <i>twakow</i> laden with cargo in Singapore harbour, 1925</p></div>
-<div>Edwin A. Brown Collection, National Library Singapore.</div>
+<div>Edwin A. Brown Collection, National Library Singapore</div>
 </div>
 <p></p>
 <p></p>
