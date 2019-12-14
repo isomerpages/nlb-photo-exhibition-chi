@@ -15,7 +15,7 @@ Renowned for its rich history and culture, Beijing was established more than 3,0
 
 The Beijing component of this exhibition is curated by the Beijing Local Document Center of the Library, featuring 194 photographs of pre-1949 Beijing. The images are presented in seven sections – Ancient City Walls, Street Scenes, Imperial Palaces and Gardens, Customs and Festivals, Trade and Commerce, Everyday Life, and Transportation. They depict the majestic palaces and city walls, scenic gardens, myriad streets and alleys, and unique customs of old Beijing.
 
-![Memories of Two Cities Singapore Banner](/images/memory-intro-sg-banner.jpg)
+![Memories of Two Cities Singapore Banner](/images/memory-intro-sg-banner-2.jpg)
 
 Beneath its modern façade, Singapore has a long history that dates back more than 700 years to its time as a trading port in late 13th-century Southeast Asia. After the founding of a British trading post on the island in 1819, Singapore developed into a thriving entrepot where people from around the world came to live and work. Cultural diversity characterised early Singapore and was manifested in its physical and social landscapes, lending the city a unique charm.
 
