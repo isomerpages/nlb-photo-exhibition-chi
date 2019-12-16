@@ -156,7 +156,9 @@ Eating mooncakes is an essential part of the Mid-Autumn Festival. The round past
 <p></p>
 <hr>
 
+<p class="portrait-resize" markdown="1">
 ![Hindu family at a temple for prayers during Deepavali, 1956](/images/colourful-customs/Sub2-13-hindu-family-at-a-temple-for-prayers-during-deepavali.jpg)
+</p>
 <div class="custom-caption">
 <div><p>Hindu family at a temple for prayers during Deepavali, 1956</p></div>
 <div>Singapore Press Holdings, courtesy of National Archives of Singapore</div>
@@ -167,7 +169,9 @@ Deepavali or Diwali, also known as the festival of lights, is celebrated by Hind
 <p></p>
 <hr>
 
+<p class="portrait-resize" markdown="1">
 ![Deepavali, 1963](/images/colourful-customs/Sub2-14-hindu-family-celebrating-deepavali-at-home.jpg)
+</p>
 <div class="custom-caption">
 <div><p>Hindu family celebrating Deepavali at home, 1963</p></div>
 <div>Singapore Press Holdings Collection, courtesy of National Archives of Singapore</div>
