@@ -1,7 +1,7 @@
-title: Title
-title-abbreviated: Title
+title: Memories of Two Cities
+title-abbreviated: Memories of Two Cities
 description: >- # this means to ignore newlines until "baseurl:"
-  Description
+  "‘Memories of Two Cities’ is a pictorial exhibition jointly presented by the Capital Library of China and the National Library of Singapore, signifying the goodwill and partnership between the two institutions."
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -27,13 +27,6 @@ paginate: 12
 homepage_hero_i_want_to: false
 homepage_resources: true
 
-# Feedback Form URL
-feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
-
-# FAQ URL
-faq_url: "/faq/"
-faq_url_external: false
-
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
@@ -41,7 +34,23 @@ custom_print_css_path: "/assets/css/print.css"
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 
 collections:
-  left-nav-one:
+  tropical-metropolis:
     output: true
   left-nav-two:
+    output: true
+  high-life-in-the-city:
+    output: true
+  away-from-the-bustle:
+    output: true
+  memories-of-two-cities-singapore:
+    output: true
+  all-walks-of-life:
+    output: true
+  places-of-power-and-worship:
+    output: true
+  a-city-in-motion:
+    output: true
+  centres-of-commerce:
+    output: true
+  colourful-customs:
     output: true
