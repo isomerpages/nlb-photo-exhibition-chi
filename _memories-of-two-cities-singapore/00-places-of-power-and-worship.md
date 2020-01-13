@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Places of Power and Worship
 permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/
-breadcrumb: Places of Power and Worship
+breadcrumb: 权贵与敬拜之地
 collection_name: memories-of-two-cities-singapore
 ---
 

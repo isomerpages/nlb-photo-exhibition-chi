@@ -23,14 +23,14 @@ hero-banner: /images/Memories-of-Two-Cities-1080p.jpg
 # Info Sections
 info-sections:
   - section-title: 
-    section-subtitle: Memories of Two Cities - Singapore
-    section-description: Singapore has a long history that dates back more than 700 years ago. After the founding of a British trading post on the island in 1819, Singapore developed into a thriving entrepot characterised by cultural diversity. The Singapore component of the exhibition showcases 173 photographs from the 1880s to the 1960s, mainly drawn from the collections of the National Library and the National Archives of Singapore.
+    section-subtitle: 双城往事 — 新加坡篇
+    section-description: 新加坡的历史可追溯至七百多年前。在1819年开埠成为英国的贸易站后，新加坡便逐渐发展成为一个繁荣的转口贸易枢纽,来自世界各地的人口汇集在此，孕育出多元文化的特色。“双城往事 — 新加坡篇”展示了173幅1880至1960年代的历史照片，主要来自新加坡国家图书馆与国家档案馆。
     section-more-button: Find Out More
     section-more-button-url: /memories-of-two-cities-singapore/
     section-image-path: /images/sg-exhibition-home.png
   - section-title: 
-    section-subtitle: Memories of Two Cities - Beijing
-    section-description: Renowned for its rich history and culture, Beijing was established more than 3,000 years ago, and has been as the capital of China for over 800 years. The glory and grandeur of the city and capital, as well as its historical aura, make up its unique cultural heritage. The Beijing component of this exhibition is curated by the Beijing Local Document Center of the Capital Library of China, featuring 194 photographs of pre-1949 Beijing.
+    section-subtitle: 双城往事 — 北京篇
+    section-description: 中国北京是一座建城三千多年、建都八百多年的历史文化名城。“城”的辉煌、“都”的风光，名胜古迹的灵气，凝聚成这座城市独一无二的历史底蕴。“双城往事 — 北京篇”由中国首都图书馆北京地方文献中心策划，共选取馆藏1949年以前的北京老照片194幅展出。
     section-more-button: Find Out More
     section-more-button-url: 
     section-image-path: /images/china-exhibition-home.png

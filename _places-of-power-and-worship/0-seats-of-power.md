@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Seats of Power
 permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/seats-of-power/
-breadcrumb: Seats of Power
+breadcrumb: 权力重地
 collection_name: places-of-power-and-worship
 ---
 在新加坡700年的历史中，过往王朝与帝国的统治者都在此地留下雪泥鸿爪。但是，英国人于19世纪初登陆新加坡后，随着城市发展，前殖民地时代统治者遗留的痕迹却似乎已消失殆尽。
@@ -11,7 +11,7 @@ collection_name: places-of-power-and-worship
 <p></p>
 ![---](/images/partition.jpg)
 
-![Fort Canning Entrance, 1925](/images/power-and-worship/Sub1-1-fort-canning-entrance-cr.jpg)
+![福康宁山正门，1925年](/images/power-and-worship/Sub1-1-fort-canning-entrance-cr.jpg)
 <div class="custom-caption">
 <div><p>福康宁山正门，1925年</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -22,7 +22,7 @@ collection_name: places-of-power-and-worship
 <p></p>
 <hr>
 
-![Bunker at Fort Canning, 1925](/images/power-and-worship/Sub1-2-bunker-at-fort-canning-cr.jpg)
+![福康宁山掩蔽壕，1925年](/images/power-and-worship/Sub1-2-bunker-at-fort-canning-cr.jpg)
 <div class="custom-caption">
 <div><p>福康宁山掩蔽壕，1925年</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -33,50 +33,49 @@ collection_name: places-of-power-and-worship
 <p></p>
 <hr>
 
-![View of town from Fort Canning Hill, 1870s](/images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill.jpg)
+![福康宁山的风景，1870年代](/images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill.jpg)
 <div class="custom-caption">
-<div><p>View from Fort Canning Hill, 1870s</p></div>
-<div>Lee Kip Lin Collection, courtesy of National Library Board</div>
+<div><p>福康宁山的风景，1870年代</p></div>
+<div>李急麟藏品，新加坡国家图书馆馆藏</div>
 </div>
-Fort Canning Hill commanded a panoramic view of Singapore town as seen from this photograph taken from the saluting battery on the hill. The cannons fired at the battery signalled the time of day and alerted the town to fires. St. Andrew’s Cathedral can be seen in the middle of the photograph. 
+这张从福康宁山上的炮台所拍摄的照片显示，从山上可鸟瞰新加坡市区，周遭景色一览无遗。炮台所发射的炮弹可报时，还能在市区发生火患时提供警报作用。照片中间的圣安德烈座堂是新加坡历史悠久的教堂之一。 
 <p></p>
 <p></p>
 <hr>
 
-![Government House, 1900s](/images/power-and-worship/Sub1-5-government-house.jpg)
+![总督府，1900年代](/images/power-and-worship/Sub1-5-government-house.jpg)
 <div class="custom-caption">
-<div><p>Government House, 1900s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>总督府，1900年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005095 - 0062</div>
 </div>
-After the old Government House on Government Hill (now Fort Canning Hill) was demolished in 1859, a new Government House located along Orchard Road was completed in 1869. It was the official residence for colonial governors, housing 21 governors in total. When Singapore attained self-governance in 1959 it was renamed Istana (‘palace’ in Malay). It is currently the official residence of the president of Singapore.
+坐落于皇家山（今福康宁山）的旧总督府在1859年被拆除后，新总督府于1869年在乌节路地带建成。它是殖民地政府总督的官邸，一共有21位总督在此居住办公。当新加坡于1959年成为自治邦时，总督府被重新命名为总统府（马来文Istana，即“王宫”）。如今，它是新加坡的总统官邸。
 <p></p>
 <p></p>
 <hr>
 
-![Government House, 1890s](/images/power-and-worship/Sub1-7-government-house.jpg)
+![总督府，1899年](/images/power-and-worship/Sub1-7-government-house.jpg)
 <div class="custom-caption">
-<div><p>Government House, 1899</p></div>
-<div>Lee Kip Lin Collection, National Library Singapore</div>
+<div><p>总督府，1899年</p></div>
+<div>李急麟藏品，新加坡国家图书馆馆藏</div>
 </div>
-Set in expansive, beautifully landscaped grounds, the Government House was designed by colonial engineer John Frederick Adolphus McNair, who was one of the most important architects in 19th century Singapore. Its architecture is similar to many 18th century neo-Palladian buildings in India built by the British.
+总督府坐落在广阔优美的地段，由殖民地政府工程师约翰麦克耐尔（John Frederick Adolphus McNair）设计。他也是新加坡于19世纪最重要的建筑师之一。总督府的建筑风格与许多18世纪英国人在印度建造的新帕拉底奥式建筑相似。
 <p></p>
 <p></p>
 <hr>
 
-![Istana Kampong Glam, 1960s](/images/power-and-worship/Sub1-10-istana-kampong-glam-cr.jpg)
+![甘榜格南王宫，1960年代](/images/power-and-worship/Sub1-10-istana-kampong-glam-cr.jpg)
 <div class="custom-caption">
-<div><p>Istana Kampong Glam, 1960s</p></div>
-<div>Lee Kip Lin Collection, National Library Singapore</div>
+<div><p>甘榜格南王宫，1960年代</p></div>
+<div>李急麟藏品，新加坡国家图书馆馆藏</div>
 </div>
 <hr>
 
-![Istana Kampong Glam, 1960s](/images/power-and-worship/Sub1-11-istana-kampong-glam-cr.jpg)
+![甘榜格南王宫，1960年代](/images/power-and-worship/Sub1-11-istana-kampong-glam-cr.jpg)
 <div class="custom-caption">
-<div><p>Istana Kampong Glam, 1960s</p></div>
-<div>Lee Kip Lin Collection, National Library Singapore</div>
+<div><p>甘榜格南王宫，1960年代</p></div>
+<div>李急麟藏品，新加坡国家图书馆馆藏</div>
 </div>
-Singapore was part of the Johor-Riau sultanate, a Malay kingdom, from the 16th to 19th century. In 1819, Sir Stamford Raffles signed a treaty with the two local Malay rulers, Sultan Husain and Temenggung Abdul Rahman, to set up a trading post on Singapore island. Before the signing, Raffles proclaimed Tengku Husain, the elder son of the deceased Sultan Mahmud Shah of Johor, as the rightful heir to Johor. Sultan Husain built his palace in Kampong Glam. Originally, a timber structure, his son Tengku Mohammed Ali rebuilt the palace as a two-
-storey European-style building in 1843. Istana Kampong Glam is currently home to the Malay Heritage Centre.
+新加坡曾经于16世纪至19世纪期间隶属柔佛 –廖内苏丹王朝。1819年，莱佛士爵士与两名本地的马来统治者胡先苏丹及天猛公阿都拉曼签署协议，让英国人在新加坡设立贸易站。在签署协议前，莱佛士宣布东姑胡先（已逝柔佛苏丹穆沙（Mahmud Shah）之长子）为柔佛正式的统治者。过后，胡先苏丹便在甘榜格南建设王宫。王宫原本为木造结构，胡先苏丹之子东姑莫哈末阿里（Tengku Mohammed Ali）于1843年将王宫改建成两层楼的欧式风格建筑。甘榜格南王宫现已成为马来传统文化馆的所在地。
 <p></p>
 <p></p>
