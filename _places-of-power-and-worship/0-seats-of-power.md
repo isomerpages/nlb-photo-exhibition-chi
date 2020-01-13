@@ -5,30 +5,30 @@ permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/seats-o
 breadcrumb: Seats of Power
 collection_name: places-of-power-and-worship
 ---
-Singapore’s past kingdoms and empires have left their marks on the island over its 700 years of history. However, with development after the arrival of the British in the early 19th century, the traces of pre-colonial rulers were mostly lost.
+在新加坡700年的历史中，过往王朝与帝国的统治者都在此地留下雪泥鸿爪。但是，英国人于19世纪初登陆新加坡后，随着城市发展，前殖民地时代统治者遗留的痕迹却似乎已消失殆尽。
 
-The ancient palace grounds Bukit Larangan (‘Forbidden Hill’ in Malay, now Fort Canning Hill) had long been exclusive to the royalty and was a symbol of power. Sir Stamford Raffles built a bungalow on the hill in 1822, which eventually became Government House – the official residence of colonial governors. A new Government House was erected in the vicinity of Orchard Road in 1869. Meanwhile, the Malay royalty resided in Singapore at the Istana (‘palace’ in Malay) in Kampong Glam. Being seats of authority or royal households, these buildings were remarkable in both architectural features and historical significance.
+“禁山” （马来文为Bukit Larangan，今福康宁山）自古以来就是皇宫所在地和皇家禁地，同时也是权力的象征。莱佛士爵士于1822年在山上建造了一栋洋房，它随后成为殖民地时期的总督府。到了1869年，新的总督府才在乌节路一带建成。同时，马来皇族则居住在位于甘榜格南的皇宫（马来文为Istana）。作为权力重地或皇族居所，这些建筑物不论在建筑风格或历史意义上都非常具代表性。
 <p></p>
 ![---](/images/partition.jpg)
 
 ![Fort Canning Entrance, 1925](/images/power-and-worship/Sub1-1-fort-canning-entrance-cr.jpg)
 <div class="custom-caption">
-<div><p>Fort Canning Entrance, 1925</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>福康宁山正门，1925年</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005063 – 0116</div>
 </div>
-Fort Canning Hill, previously known as Bukit Larangan (Forbidden Hill) and Government Hill, was a landmark in Singapore&#39;s earliest recorded history. It is believed to be the site of a palace for Malay royalty and a burial ground for ancient kings. Sir Stamford Raffles built a bungalow on the hill in 1822, which became known as Government House and was the residence of subsequent colonial governors until the 1850s, when the Fort was built. The entrance to Fort Canning consisted of a main gate with a distinctive Gothic archway located at the north side of the hill. 
+福康宁山，之前称为“禁山”（马来文Bukit Larangan）和“皇家山”，是新加坡有史以来最古老的地标。学者认为它是马来皇族王宫的所在地，也是古代国王的墓陵。莱佛士爵士于1822年在此建设一栋洋房，过后成为总督府即历届殖民地总督的官邸。1850年代，因兴建军用堡垒而迁移总督府。福康宁山的正门在山的北部，是一扇哥特式风格的拱门。
 <p></p>
 <p></p>
 <hr>
 
 ![Bunker at Fort Canning, 1925](/images/power-and-worship/Sub1-2-bunker-at-fort-canning-cr.jpg)
 <div class="custom-caption">
-<div><p>Bunker at Fort Canning, 1925</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>福康宁山掩蔽壕，1925年</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005063 – 0118</div>
 </div>
-Fort Canning was one of Singapore’s first British-built fortifications. Its purpose was to protect Singapore from a sea attack, oversee the security of the town, and serve as a refuge for European residents in the event of social disturbance. The fort was fully functional by 1864. During the period it was in service, it was never used for any battles. Fort Canning was decommissioned in 1907.
+福康宁是英国人在新加坡最早建造的军事堡垒之一，其用途是为了防卫来自海上的攻击，监督全城安全及在发生动乱时为本地的欧洲人提供庇护。该堡垒于1864年全面启用，但它不曾在任何战事中被使用，并于1907年停止运作。
 <p></p>
 <p></p>
 <hr>
