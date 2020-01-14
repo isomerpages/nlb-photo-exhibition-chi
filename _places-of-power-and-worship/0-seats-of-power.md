@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Seats of Power
+title: 权力重地
 permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/seats-of-power/
 breadcrumb: 权力重地
 collection_name: places-of-power-and-worship
