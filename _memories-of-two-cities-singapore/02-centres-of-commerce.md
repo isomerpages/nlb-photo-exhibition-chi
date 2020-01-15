@@ -7,7 +7,7 @@ collection_name: memories-of-two-cities-singapore
 ---
 
 ![从渣打银行俯瞰莱佛士坊，1920年代](/images/centres-of-commerce/commerce-banner.jpg)
-### **Centres of Commerce**
+### **经济动脉**
 
 在过去几个世纪以来，新加坡及其周围的水路航线一直在区域与国际海事贸易上扮演着重要的角色。新加坡河口延伸至新加坡海峡，连同马六甲海峡，共同形成了连接印度洋与南中国海的主要船运航线。
 

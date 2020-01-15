@@ -7,7 +7,7 @@ collection_name: memories-of-two-cities-singapore
 ---
 
 ![土生华人的婚礼，1925年](/images/colourful-customs/colourful-customs-banner.jpg)
-### **Colourful Customs**
+### **民俗与节庆**
 
 新加坡是个多元种族的社会，拥有丰富多彩的文化传统与习俗。这些多不胜数的民间习俗会在一些特别日子里展现，如婚礼、丧礼及传统节庆。从这个部分展示的历史图片中可见，这些民俗传统于早期新加坡就已经盛行，并且流传至今。 
 

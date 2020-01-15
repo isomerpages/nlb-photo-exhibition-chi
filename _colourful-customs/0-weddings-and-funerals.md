@@ -76,7 +76,7 @@ collection_name: colourful-customs
 ![华人婚礼的新人，1920年代 ](/images/colourful-customs/Sub1-7-chinese-wedding-couple.jpg)
 </p>
 <div class="custom-caption">
-<div><p>华人婚礼的新人，1920年代 /p></div>
+<div><p>华人婚礼的新人，1920年代</p></div>
 <div>Lee Brothers Studio藏品，由新加坡国家档案馆提供</div>
 <div>19980005829 – 0118</div>
 </div>
@@ -135,7 +135,7 @@ collection_name: colourful-customs
 
 ![华族丧礼，1900年代 ](/images/colourful-customs/Sub1-12-chinese-funeral.jpg)
 <div class="custom-caption">
-<div><p>华族丧礼，1900年代 </p></div>
+<div><p>华族丧礼，1900年代</p></div>
 <div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
 <div>19980005879 – 0039</div>
 </div>
