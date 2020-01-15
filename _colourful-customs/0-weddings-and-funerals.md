@@ -1,166 +1,166 @@
 ---
 layout: leftnav-page-content
-title: Weddings and Funerals
+title: 婚礼与丧礼
 permalink: /memories-of-two-cities-singapore/colourful-customs/weddings-and-funerals/
-breadcrumb: Weddings and Funerals
+breadcrumb: 婚礼与丧礼
 collection_name: colourful-customs
 ---
 
-In early Singapore, people accorded great importance to the observance of customs during life events such as weddings and funerals. Often, these events involved elaborate practices and attracted spectators.  
+在早期的新加坡，人们对婚礼与丧礼所需遵循的风俗礼节非常讲究。这些人生大事往往都涉及繁复的礼仪和铺张的场面，常引起人们停步围观。  
 
-Weddings were joyous occasions in which family, friends and even the whole neighbourhood partook. Colourful and elaborate processions were common. Likewise, processions were a part of funerals, even though they were sombre events. For the Chinese, the scale of these processions, often organised at great expense, reflected the wealth and social standing of the family. 
+婚礼是大喜之事，办喜事人家的亲朋戚友和左邻右舍都会参与庆祝。婚礼上常见色彩缤纷、阵容强大的迎娶队伍。而丧礼虽然气氛肃穆，但体面的送行仪队也同样不可或缺。对华人而言，婚礼与丧礼的排场显示家族的财富与社会地位，因此经常大费周章地筹备。 
 
-Rich in symbolism and meaning, rites of passage reinforced the traditional values or religious beliefs of the various communities. While most wedding and funeral customs in Singapore have simplified over time, some continue to be practised and are part of Singaporeans’ cultural identities. 
+意义深远的仪式，加强了个别族群的传统价值观与宗教信仰。随着时间的推移，如今新加坡的婚丧礼俗已大为简化，但一些传统习俗仍然流传至今，成了新加坡人文化认同的一部分。
 
 <p></p>
 ![---](/images/partition.jpg)
 
-![Malay Nights, 1938](/images/colourful-customs/Sub1-1-malay-wedding.jpg)
+![马来婚礼，1938年](/images/colourful-customs/Sub1-1-malay-wedding.jpg)
 <div class="custom-caption">
-<div><p>Malay wedding, 1938</p></div>
-<div>Robert Hebblewhite Collection, courtesy of National Archives of Singapore</div>
+<div><p>马来婚礼，1938年</p></div>
+<div>Robert Hebblewhite藏品，由新加坡国家档案馆提供</div>
 <div>20150000118 – 0065</div>
 </div>
-Traditional Malay weddings were generally grand events with many guests held over several days. The highlight of the wedding is the _bersanding_, or sitting-in-state ceremony, where the bridal couple sits on a throne placed on a dias, and is treated as king and queen for the day. During the ceremony, friends, relatives and guests offer their blessings and congratulations.
+传统的马来婚礼通常宴请多位宾客并且长达数日。婚礼的亮点在于新人会坐上设于平台上的“宝座”，并且享受如国王与王后般的待遇。在仪式的过程中，亲戚与宾客也会纷纷恭贺和祝福这对新人。
 <p></p>
 <p></p>
 <hr>
 
-![Malay wedding procession, 1930s](/images/colourful-customs/Sub1-2-malay-wedding-procession.jpg)
+![马来族的迎娶阵容，1930年代](/images/colourful-customs/Sub1-2-malay-wedding-procession.jpg)
 <div class="custom-caption">
-<div><p>Malay wedding procession, 1930s</p></div>
-<div>RAFSA Collection, courtesy of National Archives of Singapore</div>
+<div><p>马来族的迎娶阵容，1930年代</p></div>
+<div>RAFSA藏品，由新加坡国家档案馆提供</div>
 <div>20170000052 – 0177</div>
 </div>
-The traditional Malay wedding ceremony would begin with the groom fetching the bride from her home, usually accompanied by a _kompang_ (Malay drum) band, _bunga manggar_ (a decoration made from tinsel paper on a bamboo pole) carriers, friends and relatives. The band would sing verses from the Qur’an, seeking blessings for the couple, while the drumming lent an air of festivity to the occasion.
+传统的马来婚礼仪式是从新郎到女方家迎娶新娘开始。迎娶队伍包括“贡邦”（kompang）马来鼓乐队、手持“树花”人员（bunga manggar, 即由竹竿和闪亮彩纸做成的装饰）以及亲朋戚友。在鼓声的伴奏下，乐队还会唱出《古兰经》的经文，为新人祈福，也为婚礼增添喜庆氛围。
 <p></p>
 <p></p>
 <hr>
 
-![A Straits Chinese wedding photo, 1925](/images/colourful-customs/Sub1-4-peranakan-wedding-cr.jpg)
+![土生华人的婚礼，1925年](/images/colourful-customs/Sub1-4-peranakan-wedding-cr.jpg)
 <div class="custom-caption">
-<div><p>Peranakan wedding, 1925</p></div>
-<div>The Peranakan Association Collection, courtesy of National Archives of Singapore</div>
+<div><p>土生华人的婚礼，1925年</p></div>
+<div>土生华人协会藏品，由新加坡国家档案馆提供</div>
 <div>19990002484 – 002</div>
 </div>
-The Peranakans, or Straits Chinese, are descendants of Chinese immigrants who married local women of Malay or Indonesian heritage. Many trace their origins to 15th-century Malacca, where their ancestors came to trade and settled. The traditional Peranakan wedding largely followed Chinese traditions and lasted for 12 days, consisting of many ceremonies.
+土生华人，又称海峡华人，是华族移民与本区马来或印尼裔女性通婚所生的后代。他们的渊源可追溯至15世纪的马六甲，他们的祖先在那儿经商，并且定居。传统的土生华人婚礼主要根据华人的传统习俗，长达12天，并且遵循许多繁复的礼仪。
 <p></p>
 <p></p>
 <hr>
 
-![View of a Chinese wedding procession 1909](/images/colourful-customs/Sub1-5-peranakan-wedding-procession.jpg)
+![土生华人的迎娶阵容，1909年](/images/colourful-customs/Sub1-5-peranakan-wedding-procession.jpg)
 <div class="custom-caption">
-<div><p>Peranakan wedding procession, 1909</p></div>
-<div>Edward William Newell Collection, courtesy of National Archives of Singapore</div>
+<div><p>土生华人的迎娶阵容，1909年</p></div>
+<div>Edward William Newell藏品，由新加坡国家档案馆提供</div>
 <div>19980005033 - 0107</div>
 </div>
-On the day of the wedding ceremony, the groom would make his way to the bride’s home, accompanied by an entourage including a _pak chindek_ (ceremonial master), best men, page boy, musicians and men carrying umbrellas and lanterns. Important wedding rituals would be carried out, such as the _chinpang_ ceremony, or entering the bridal chamber and unveiling the bride.
+婚礼当天，新郎会到女方家迎娶新娘，迎娶队伍有礼仪师、伴郎、男花童、乐队及手持伞与灯笼的人员一同随行。土生华人最重要的婚礼仪式包括入洞房以及掀新娘盖头等。
 <p></p>
 <p></p>
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Peranakan wedding party, 1920s](/images/colourful-customs/Sub1-6-peranakan-wedding-party.jpg)
+![土生华人的新郎、新娘和花童，1920年代](/images/colourful-customs/Sub1-6-peranakan-wedding-party.jpg)
 </p>
 <div class="custom-caption">
-<div><p>Peranakan wedding party, 1920s</p></div>
-<div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
+<div><p>土生华人的新郎、新娘和花童，1920年代</p></div>
+<div>Lee Brothers Studio藏品，由新加坡国家档案馆提供</div>
 <div>19980005528 – 0040</div>
 </div>
-Peranakan wedding costumes feature brilliant colours and ornate decorations. The couple here is decked out in full wedding regalia and both of their outfits are exquisitely embroidered. The groom is dressed in a Chinese robe, over which a jacket is worn. The bride wears a tunic over a pleated skirt. Over her shoulder is a cape of small overlapping embroidered flaps, symbolising the feathers of a phoenix. An elaborate headdress crowns her head. The page boy and flower girl are dressed in costumes similar to what the couple is wearing.
+土生华人的婚礼服饰以色彩鲜艳、装饰精美著称。照片里的一对新人身穿全套传统礼服，绣工非常精致。新郎穿着中式长袍，外披马褂；新娘则身穿长袄配百褶裙，肩上披着绣花布片层叠的霞披，象征凤凰的羽毛，头戴一顶华丽的冠饰。男女花童的服饰则与新郎新娘相似。
 <p></p>
 <p></p>
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Studio photograph of a Chinese wedding couple, 1920](/images/colourful-customs/Sub1-7-chinese-wedding-couple.jpg)
+![华人婚礼的新人，1920年代 ](/images/colourful-customs/Sub1-7-chinese-wedding-couple.jpg)
 </p>
 <div class="custom-caption">
-<div><p>Chinese wedding couple, 1920s</p></div>
-<div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
+<div><p>华人婚礼的新人，1920年代 /p></div>
+<div>Lee Brothers Studio藏品，由新加坡国家档案馆提供</div>
 <div>19980005829 – 0118</div>
 </div>
-This couple’s costumes reflect Western influence on wedding customs in Singapore in the early 20th century. The groom is in a full Western suit while the bride’s dress is a Chinese-style gown topped off with a Western bridal veil. The adoption of Western wedding customs and attire in Singapore became increasingly popular in the early 20th century due to social and cultural changes, such as influence of Western education, fashion trends or Christianity.
+这对新人的礼服反映了20世纪初西方文化于对新加坡婚礼习俗的影响。新郎穿着全套西装，而新娘则穿着中西合璧的礼服，头戴西式婚纱。20世纪初，西式婚礼仪式与礼服在新加坡逐渐流行，这是因为受到社会与文化上的影响，如西式教育、时尚潮流与基督教的传布。
 <p></p>
 <p></p>
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![An Indian wedding held at a Hindu temple in Serangoon Road 1961](/images/colourful-customs/Sub1-8-indian-wedding-at-a-hindu-temple.jpg)
+![兴都庙里举办的印度婚礼，1961年](/images/colourful-customs/Sub1-8-indian-wedding-at-a-hindu-temple.jpg)
 </p>
 <div class="custom-caption">
-<div><p>Indian wedding at a Hindu temple, 1961</p></div>
-<div>Singapore Press Holdings Collection, courtesy of National Archives of Singapore</div>
+<div><p>兴都庙里举办的印度婚礼，1961年</p></div>
+<div>新加坡报业控股藏品，由新加坡国家档案馆提供</div>
 <div>PCD0224 – 0036</div>
 </div>
-The Indian community in Singapore practises a wide range of wedding customs, varying in traditions depending on the sub-ethnic group of the couple. Tamil Hindu weddings often take place in temples, with a priest presiding over the ceremonial rites. In the temple hall, a ceremonial fire is set up together with lamps, flowers and fruits. The couple would be seated at the front to receive blessings from the priest.
+新加坡的印度社群所采纳的婚礼仪式不尽相同，这取决于新人所属族群的传统习俗。淡米尔族兴都教徒的婚礼一般会在庙宇中举行，并由一名祭司主持仪式。庙宇的大厅内会摆放油灯、鲜花与水果，并点燃一把仪式之火。新人会坐在前方，接受祭司的祝福。
 <p></p>
 <p></p>
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![An Indian wedding procession at the Sri Krishnan temple in Waterloo Street, 1962](/images/colourful-customs/Sub1-9-indian-wedding-procession-at-a-hindu-temple.jpg)
+![兴都庙里的婚礼仪队，1962年](/images/colourful-customs/Sub1-9-indian-wedding-procession-at-a-hindu-temple.jpg)
 </p>
 <div class="custom-caption">
-<div><p>Indian wedding procession at a Hindu temple, 1962</p></div>
-<div>Singapore Press Holdings Collection, courtesy of National Archives of Singapore</div>
+<div><p>兴都庙里的婚礼仪队，1962年</p></div>
+<div>新加坡报业控股藏品，由新加坡国家档案馆提供</div>
 <div>PCD0224 – 0038</div>
 </div>
-Music is an integral element of Hindu weddings. The _thavil_ (a barrel-shaped drum) and _nadaswaram_ (a wind instrument) are particularly popular in South Indian Hindu weddings, as seen in the image. The sound of the _nadaswaram_ is deemed auspicious and together with the lively beats of the _thavil_, they produce joyous music that celebrate the occasion.
+音乐是兴都教徒婚礼中不可或缺的部分。如图中所示，一种名为“塔味鼓”（thavil）的双头鼓以及木管乐器“纳达斯瓦兰”（nadaswaram），都是南印度婚礼中常用的乐器。纳达斯瓦兰的旋律有吉祥之意，搭配塔味鼓的轻快节奏，为婚礼营造出欢乐喜庆的气氛。
 <p></p>
 <p></p>
 <hr>
 
-![Eurasian wedding group 1920s](/images/colourful-customs/Sub1-10-eurasian-wedding-studio-portrait.jpg)
+![欧亚人在照相馆拍摄的婚纱照，1920年代](/images/colourful-customs/Sub1-10-eurasian-wedding-studio-portrait.jpg)
 <div class="custom-caption">
-<div><p>Eurasian wedding studio portrait, 1920s</p></div>
-<div>Francis Lee Collection, courtesy of National Archives of Singapore</div>
+<div><p>欧亚人在照相馆拍摄的婚纱照，1920年代</p></div>
+<div>Francis Lee藏品，由新加坡国家档案馆提供</div>
 <div>19980002145 - 0025</div>
 </div>
-Eurasians, who are predominantly Christian, held their weddings in churches. Seen here, the groom is dressed in a three-piece suit and the bride in a calf-length gown and full wedding veil. The other men are also dressed in suits, while the women in short-sleeved dresses and hats, which were fashionable in the 1920s. The two flower girls’ outfits are complete with headdresses.
+欧亚人主要为基督徒，因此一般都会在教堂举行婚礼。图中，新郎身穿三件套西装，新娘则穿着长至小腿的礼服与长至曳地的头纱。其他男士也穿上了西装，而女士则身穿1920年代流行的短袖小礼服搭配西式帽。两位女花童也同样身穿小礼服，并且綴以头纱。
 <p></p>
 <p></p>
 <hr>
 
-![Malay funeral, Singapore 1900s](/images/colourful-customs/Sub1-11-malay-funeral.jpg)
+![马来丧礼，1900年代](/images/colourful-customs/Sub1-11-malay-funeral.jpg)
 <div class="custom-caption">
-<div><p>Malay funeral, 1900s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>马来丧礼，1900年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005096 - 0049</div>
 </div>
-Traditional Malay funerals, which follow Islamic rites in accordance with syariah (religious laws), were solemn and dignified affairs. During the funeral procession, family members and friends of the deceased, dressed in white or dark-coloured clothes, would accompany the hearse and walk quietly to the burial site.
+传统的马来丧礼会依据回教的宗教法，进行一场隆重肃穆的仪式。在给逝者送行的路途中，家属与亲友会穿上白色或深色衣物，一路伴随灵车，默默步行至下葬地点。
 <p></p>
 <p></p>
 <hr>
 
-![Chinese Funeral, Singapore 1900s](/images/colourful-customs/Sub1-12-chinese-funeral.jpg)
+![华族丧礼，1900年代 ](/images/colourful-customs/Sub1-12-chinese-funeral.jpg)
 <div class="custom-caption">
-<div><p>Chinese funeral, 1900s</p></div>
-<div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
+<div><p>华族丧礼，1900年代 </p></div>
+<div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
 <div>19980005879 – 0039</div>
 </div>
-Funeral rites were an important part of Chinese social life. They reflected the virtue of filial piety as well as the belief in the afterlife and a continued relationship between the living and the deceased. The funeral shown in this photograph is probably that of a wealthy Peranakan family. Straits Chinese funerals were usually elaborate affairs with a large procession and a richly decorated hearse.
+对华人而言，丧礼的仪式是非常重要的，因为它们不但展现孝道，也反映出人们对来世的信念以及家属与逝者之间关系的延续。图中所显示的丧礼应该是由富裕的土生华人家庭所办。土生华人的丧礼一般相当隆重，会出现强大的送行仪队，伴随着装饰考究的灵车一同前行。
 <p></p>
 <p></p>
 <hr>
 
-![Chinese funeral, 1911](/images/colourful-customs/Sub1-13-chinese-funeral.jpg)
+![华族丧礼，1910年代](/images/colourful-customs/Sub1-13-chinese-funeral.jpg)
 <div class="custom-caption">
-<div><p>Chinese funeral, 1910s</p></div>
-<div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
+<div><p>华族丧礼，1910年代</p></div>
+<div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
 <div>19980005888 – 0051</div>
 </div>
-In this elaborate funeral cortege, the hearse is drawn by two horses and accompanied by a band of musicians, the deceased’s immediate descendants, other family members and friends.
+在这个庞大的送葬队伍中，灵车由两匹骏马牵引，并且在乐队的奏乐中，由逝者的直系子孙和亲朋戚友一路伴随。
 <p></p>
 <p></p>
 <hr>
 
-![A Hindu funeral procession, 1938](/images/colourful-customs/Sub1-14-hindu-funeral-procession-cr.jpg)
+![兴都教送丧队伍，1938年](/images/colourful-customs/Sub1-14-hindu-funeral-procession-cr.jpg)
 <div class="custom-caption">
-<div><p>Hindu funeral procession, 1938</p></div>
-<div>National Museum of Singapore Collection</div>
+<div><p>兴都教送丧队伍，1938年</p></div>
+<div>新加坡国家博物馆藏品</div>
 <div>2008-05822</div>
 </div>
-In a traditional Hindu funeral procession, the deceased’s family and friends would follow the hearse as it makes its way to the crematorium. Seen here, the elaborate hearse is decorated with intricate carvings and numerous garlands. The route the cortege takes typically passes places of significance to the deceased.
+在传统的兴都教送葬队伍中，逝者的亲朋戚友会随着灵车一路步行至火葬场。图中显示了一辆以精细雕花和许多花环装饰的灵车。送行队伍的路线一般会绕过对逝者有特别意义的地方，以进行悼念。
 <p></p>
 <p></p>

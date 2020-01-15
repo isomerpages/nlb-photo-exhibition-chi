@@ -1,7 +1,7 @@
-title: Memories of Two Cities
-title-abbreviated: Memories of Two Cities
+title: 双城往事
+title-abbreviated: 双城往事
 description: >- # this means to ignore newlines until "baseurl:"
-  "‘Memories of Two Cities’ is a pictorial exhibition jointly presented by the Capital Library of China and the National Library of Singapore, signifying the goodwill and partnership between the two institutions."
+  "“双城往事”是一个由中国首都图书馆与新加坡国家图书馆联合呈献的线上图片展，这项合作象征了两家机构友好的伙伴关系。"
 url: "https://memoriesoftwocities.nlb.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings

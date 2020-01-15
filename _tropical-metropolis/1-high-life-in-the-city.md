@@ -1,143 +1,143 @@
 ---
 layout: leftnav-page-content
-title: High Life in the City
+title: 高档的都市生活
 permalink: /memories-of-two-cities-singapore/tropical-metropolis/high-life-in-the-city/
-breadcrumb: High Life in the City
+breadcrumb: 高档的都市生活
 collection_name: tropical-metropolis
 ---
 
-As a port city on the major trade routes between Europe, India, Australia and China, early Singapore had long been exposed to cosmopolitan lifestyles and material culture. The opening of the Suez Canal in 1869 brought an influx of tourists from Europe to Singapore, and accommodation, retail and entertainment facilities flourished to cater for the needs of international travellers. This section showcases what Singapore had to offer when high living was called for – world-class hotels, modern department stores, shopping belts, as well as entertainment to suit every taste and budget.
+新加坡作为位于欧洲、印度、澳大利亚及中国之间主要贸易航道上的一个港口城市，很早期就已接触到多元的生活方式和物质文化。随着苏伊士运河于1869年通航，大批的欧洲游客涌入新加坡，带动了酒店、零售业及娱乐设施的蓬勃发展，以迎合国际旅客的需求。这个部分展示早期新加坡提供的种种高档的生活享受，其中包括世界级的酒店、现代化的百货公司、购物街以及可迎合不同品味及消费能力的娱乐活动。
 
 <p></p>
 ![---](/images/partition.jpg)
 
-![Raffles Hotel, 1900s](/images/Sub2-1-Raffles-Hotel.jpg)
+![莱佛士酒店，1900年代](/images/Sub2-1-Raffles-Hotel.jpg)
 <div class="custom-caption">
-<div><p>Raffles Hotel, 1900s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>莱佛士酒店，1900年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005093 - 0055</div>
 </div>
-Raffles Hotel was established in 1887 by Armenian hoteliers the Sarkies brothers and commenced operations as a 10-room hotel. Its seafront location made it popular among European residents and travellers. Its new main building, which opened in 1899, was among the first in Singapore to have electric lighting and appliances. By the early 1900s, it had transformed into one of the largest grand hotels in Asia, renowned for its modern amenities and luxury. 
+莱佛士酒店于1887年开业，由亚美尼亚籍酒店业者沙奇兄弟创立，酒店最初只提供10个客房。位于海边的地段使它受到本地欧籍人士及游客的青睐。1899年，酒店的新大楼落成，是新加坡最早有电灯及电器设备的建筑之一。到了1900年代初期，它已成为亚洲最大的豪华酒店之一，并以现代化设施与奢华闻名遐迩。
 
 <hr>
 
-![Raffles Hotel Ballroom, 1900s](/images/Sub2-2-The-Ballroom-Set-Raffles-Hotel.jpg)
+![莱佛士酒店的宴会厅，1900年代](/images/Sub2-2-The-Ballroom-Set-Raffles-Hotel.jpg)
 <div class="custom-caption">
-<div><p>Raffles Hotel Ballroom, 1900s</p></div>
-<div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
+<div><p>莱佛士酒店的宴会厅，1900年代</p></div>
+<div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
 <div>19980005880 - 0104</div>
 </div>
-Raffles Hotel was renowned for parties and banquets at its ballroom, where guests could enjoy fine dining and dance to music performed by a live band. Menu cards from the 1910s show that the dishes served include clear turtle soup, baked fish in butter gravy, grilled fillet steak, and roasted pheasant. In the 1930s, after-dinner dances took place at the ballroom till midnight from Monday to Saturday.
+莱佛士酒店以它宴会厅内举办的舞会及晚宴闻名，客人们能够一边享用美酒佳肴，一边随着现场乐队所演奏的音乐翩翩起舞。1910年代的晚宴菜单中的菜式包括山瑞清汤、牛油汁焗鱼、烤牛扒及烤野鸡。到了1930年代，每星期一至六，晚宴后的舞会延续至午夜时分。
 
 <hr>
 
-![Grand Hotel de l’Europe, 1910s](/images/Sub2-3-Hotel-De-Europe.jpg)
+![欧洲大酒店，1910年代](/images/Sub2-3-Hotel-De-Europe.jpg)
 <div class="custom-caption">
-<div><p>Grand Hotel de l’Europe, 1910s</p></div>
-<div>Robert Feingold Collection, courtesy of National Archives of Singapore</div>
+<div><p>欧洲大酒店，1910年代</p></div>
+<div>Robert Feingold藏品，由新加坡国家档案馆提供</div>
 <div>19980005107 - 0008</div>
 </div>
-English writer Rudyard Kipling (1865–1936), who visited Singapore in 1889, once said ‘feed at Raffles and sleep at the Hotel de l’Europe’, referring to the two leading hotels in the city then. Hotel de l’Europe began in 1857 as a modest establishment. It was renamed Grand Hotel de l’Europe in 1907, after a major refurbishment. During its heyday, it rivalled the Raffles Hotel in terms of luxury and service. The hotel closed in 1932.
+于1889年到新加坡旅游的英国作家吉卜林（Rudyard Kipling, 1865年—1936年）曾说过：“吃在莱佛士酒店，睡在欧洲酒店”，指的就是当年叱咤狮城的这两家豪华酒店。欧洲酒店由1857年初创时的小酒店经过一番大整修后摇身成为1907年的“欧洲大酒店”。在其鼎盛时期，这家酒店的奢华与服务可媲美莱佛士酒店。欧洲大酒店却在1932年结束营业。
 
 <hr>
 
-![Dining Room at Grand Hotel de l’Europe, 1910s](/images/Sub2-4-Dining-Room.jpg)
+![欧洲大酒店的宴会厅，1910年代](/images/Sub2-4-Dining-Room.jpg)
 <div class="custom-caption">
-<div><p>Dining Room at Grand Hotel de l’Europe, 1910s</p></div>
-<div>Collection of National Library Singapore</div>
+<div><p>欧洲大酒店的宴会厅，1910年代</p></div>
+<div>新加坡国家图书馆馆藏</div>
 </div>
 
-Jewish businessman Nissim Nassim Adis bought the Hotel de l’Europe in 1906 and rebuilt it at a cost of one million Straits dollar. The rebuilt Grand Hotel de l’Europe was one of the most luxurious in Singapore, if not Asia, in the early 20th century. British novelist and biographer Horace Bleackley visited the Hotel in 1925 and claimed its grill room was ‘the best restaurant probably in the continent of Asia’.
+犹太商人阿迪斯(Nissim Nassim Adis)于1906年收购欧洲酒店，并斥资100万叻币将其重新打造，让它成为在新加坡，甚至全亚洲，二十世纪初最豪华的酒店之一。英国小说家兼自传家布莱克利(Horace Bleackley)于1925年入住该酒店时，声称它的西餐馆“堪称全亚洲最佳餐馆”。
 
 <hr>
 
-![Shopfront of John Little & Co., 1890s](/images/Sub2-5-Raffles-Square.jpg)
+![然利直百货公司的店面，1890年代](/images/Sub2-5-Raffles-Square.jpg)
 <div class="custom-caption">
-<div><p>Shopfront of John Little & Co., 1890s</p></div>
-<div>Lee Kip Lin Collection, National Library Singapore</div>
+<div><p>然利直百货公司的店面，1890年代</p></div>
+<div>李急麟的藏品，新加坡国家图书馆馆藏</div>
 </div>
 
-Founded in 1842, John Little was Singapore's oldest department store. Often advertised as ‘the finest store East of Suez’, it had departments for wines and spirits, provisions, home furnishing, watches and clocks, books and stationery, arms and ammunition, ladies and gentlemen’s outfitting, and more. Besides offering European merchandise, John Little also ran a car business, motor garage, furniture factory, café and beauty salon.
+成立于1842年，然利直(John Little)是新加坡历史最悠久的百货公司。被誉为“苏伊士运河以东的最佳百货公司”，它提供琳琅满目的专柜产品任君选择，其中就包括各种美酒、杂货、家居用品、钟表、书籍与文具、武器与弹药、男女服饰等。除了供应欧洲商品以外，然利直还经营汽车买卖、修车服务、家具工厂、咖啡座及美容院等等。
 
 <hr>
 
-![Interior of John Little, 1905](/images/Sub2-6-Interior-View-John-Little-and-Cos-Premises.jpg)
+![然利直百货公司的内部，1910年代](/images/Sub2-6-Interior-View-John-Little-and-Cos-Premises.jpg)
 <div class="custom-caption">
-<div><p>Interior of John Little, c.1910s</p></div>
-<div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
+<div><p>然利直百货公司的内部，1910年代</p></div>
+<div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
 <div>19980005888 – 0037</div>
 </div>
 
-This photograph shows the main stairs of John Little’s new three-storey building, which was completed in 1910. It depicts the grandeur and elegance of Singapore’s then foremost department store. The new John Little store elevated shopping in Singapore to the next level, with its sprawling space of 3.5 acres filled with goods sourced from all over the world.
+这张照片展示于1910年竣工的然利直百货公司崭新三层大楼的主要阶梯。它呈现新加坡当年最顶尖百货公司的气派与典雅。占地3.5英亩的新然利直百 货公司汇集来自世界各地的货品，提升了新加坡的购物体验。
 
 <hr>
 
-![High Street, 1924-1930](/images/Sub2-7-High-Street.jpg)
+![谐街，1920年代](/images/Sub2-7-High-Street.jpg)
 <div class="custom-caption">
-<div><p>High Street, 1920s</p></div>
-<div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
+<div><p>谐街，1920年代</p></div>
+<div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
 <div>19980005883 – 0016</div>
 </div>
 
-From the turn of the century until the 1960s, High Street was a popular shopping street for upmarket products. Many Sindhi and Sikh merchants set up textile shops here, which were well-known for their imported European fabrics such as laces and brocade, and fine tailoring. This street continued to be Singapore’s premier shopping belt till the 1960s, with department stores such as Aurora, Chotirmall and Metro attracting shoppers for their quality merchandise.
+从二十世纪初到1960年代，谐街是个热门的高档购物街。许多信德族及锡克族商人在此设立店铺，售卖的欧洲进口的布料如蕾丝与锦缎，并提供高级裁缝服务。这条街百货公司林立，如欧罗拉(Aurora)、Chotirmall及美罗，以高档商品吸引购物人潮。因此，谐街直到1960年代都保有本地购物第一街的荣衔。
 
 <hr>
 
-![Capitol Theatre, 1947](/images/Sub2-8-Capitol-Theatre.jpg)
+![首都戏院，1947年](/images/Sub2-8-Capitol-Theatre.jpg)
 <div class="custom-caption">
-<div><p>Capitol Theatre, 1947</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>首都戏院，1947年</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005916 - 0038</div>
 </div>
-Capitol Theatre, which opened in 1930, was regarded as one of the finest cinemas of its time. Covering more than 2,100 m<sup>2</sup>, its design drew inspiration from New York’s Roxy Theatre, and followed its seating arrangements, lighting and general plan. At its opening, the theatre’s auditorium was hailed as the most modern and largest in Asia.
+于1930年开幕的首都戏院被视为当年的最豪华戏院之一。占地超过2100平方米， 它的设计灵感来自纽约乐斯戏院 (Roxy Theatre)，不论是坐位、灯光及平面图都依据后者打造。开幕时，戏院的观影厅号称是亚洲最大、最现代化的观影厅。
 
 <hr>
 
-![Interior of Capitol Theatre, 1930](/images/Sub2-9.jpg)
+![首都戏院的内部，1930年](/images/Sub2-9.jpg)
 <div class="custom-caption">
-<div><p>Interior of Capitol Theatre, 1930</p></div>
-<div>H Nugent Buckeridge Collection, courtesy of National Archives of Singapore</div>
+<div><p>首都戏院的内部，1930年</p></div>
+<div>H Nugent Buckeridge藏品，由新加坡国家档案馆提供</div>
 <div>19980005088 - 0066</div>
 </div>
 
-Capitol Theatre could accommodate at least 1,600 viewers. The theatre’s stage was designed for both film and stage productions. It was one of the first theatres of its day to have lifts and a state-of-the-art lighting system.
+首都戏院可容纳超过1600名观众，戏院的舞台既可放映电影，也能用作舞台表演。它也是当年最早拥有电梯设备及先进灯光系统的戏院之一。
 
 <hr>
 
-![Raffles Library and Museum, 1900s](/images/Sub2-10-Raffles-Museum.jpg)
+![莱佛士图书馆与博物馆，1900年代](/images/Sub2-10-Raffles-Museum.jpg)
 <div class="custom-caption">
-<div><p>Raffles Library and Museum, 1900s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>莱佛士图书馆与博物馆，1900年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980006555 – 0032</div>
 </div>
-The Raffles Library and Museum was opened to the public in 1887 and quickly became a key attraction for visitors and residents of Singapore. The library comprised a reference library, lending library and reading room, and the museum housed a rich collection of ethnological, geological, mineralogical, zoological and botanical specimens. The building is now part of the National Museum of Singapore.
+莱佛士图书馆与博物馆于1887年对公众开放，并且迅速发展为新加坡的主要景点，吸引游客及本地居民造访。图书馆内设有参考书室、借阅图书室以及阅览室。博物馆则收藏了丰富的民族学、地质学、矿物学、动物学及植物学的标本。昔日的大楼现已成为新加坡国家博物馆的一部分。
 
 <hr>
 
-![Interior of Raffles Museum, 1900s](/images/Sub2-11-Raffles-Museum-Interior.jpg)
+![莱佛士图书馆与博物馆的内部，1900年代](/images/Sub2-11-Raffles-Museum-Interior.jpg)
 <div class="custom-caption">
-<div><p>Interior of Raffles Library and Museum, 1900s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>莱佛士图书馆与博物馆的内部，1900年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980006555 – 0036</div>
 </div>
-This photograph shows the animal specimen exhibits at the Raffles Library and Museum in the 1900s. A diverse range of animal specimens could be found here.
+照片呈现于1900年代在莱佛士图书馆与博物馆内展示的动物标本，种类繁多。
 
 <hr>
 
-![Great World Amusement Park, c. 1950](/images/Sub2-12-Great-World.jpg)
+![大世界游乐场，约1950年](/images/Sub2-12-Great-World.jpg)
 <div class="custom-caption">
-<div><p>Great World Amusement Park, c. 1950</p></div>
-<div>Wong Kwan Collection, courtesy of National Archives of Singapore.</div>
+<div><p>大世界游乐场，约1950年</p></div>
+<div>Wong Kwan藏品，由新加坡国家档案馆提供</div>
 <div>19980005861 - 0041</div>
 </div>
-Great World was one of Singapore’s major amusement parks that livened up the public’s leisure time in the 1950s and 1960s. The amusement park was developed in the 1930s to provide entertainment for low-income families. Apart from games and rides, visitors could watch films and Chinese operas, as well as wrestling and boxing matches.
+大世界是新加坡主要的游乐场之一，是1950和1960年代民众休闲娱乐的好去处 。该游乐场于1930年代开发兴建，为低收入家庭提供一个娱乐消遣的场所。除了各种游乐设施外，访客还可观赏电影与传统戏曲，甚至摔角和拳击比赛。
 
 <hr>
 
-![Chinese Opera in New World, 1955](/images/Sub2-13.jpg)
+![新世界游乐场内的传统戏曲，1955年](/images/Sub2-13.jpg)
 <div class="custom-caption">
-<div><p>Chinese Opera in New World, 1955</p></div>
-<div>Donald Moore Collection, courtesy of National Archives of Singapore</div>
+<div><p>新世界游乐场内的传统戏曲，1955年</p></div>
+<div>Donald Moore藏品，由新加坡国家档案馆提供</div>
 <div>20140000146 - 0045</div>
 </div>
-The amusement parks were well-known for traditional opera performances of every description. People could watch Peking, Teochew and Cantonese operas, as well as _bangsawan_ (Malay opera). After the war, the parks became popular once again, with carnival rides such as the Ghost Train, ferris wheel and carousel added to the suite of attractions for visitors.
+游乐场以各种传统戏曲著称，人们不但能够观赏到京剧、潮剧和粤剧，还能欣赏马来戏曲。二战结束后，游乐场恢复昔日光彩，并且添加了“幽灵列车”、摩天轮以及旋转木马等游乐设施，吸引访客。

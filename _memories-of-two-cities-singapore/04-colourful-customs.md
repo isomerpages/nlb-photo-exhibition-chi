@@ -1,17 +1,17 @@
 ---
 layout: leftnav-page-content
-title: Colourful Customs
+title: 民俗与节庆
 permalink: /memories-of-two-cities-singapore/colourful-customs/
-breadcrumb: Colourful Customs
+breadcrumb: 民俗与节庆
 collection_name: memories-of-two-cities-singapore
 ---
 
-![A Straits Chinese wedding, 1925](/images/colourful-customs/colourful-customs-banner.jpg)
+![土生华人的婚礼，1925年](/images/colourful-customs/colourful-customs-banner.jpg)
 ### **Colourful Customs**
 
-Singapore is known for its rich and colourful traditions and practices, thanks to the diversity of the communities that reside here. The myriad customs are given full expression on significant occasions such as weddings, funerals, and festive celebrations. As seen in the historical photographs in this section, they have been practised in Singapore since its early days.  
+新加坡是个多元种族的社会，拥有丰富多彩的文化传统与习俗。这些多不胜数的民间习俗会在一些特别日子里展现，如婚礼、丧礼及传统节庆。从这个部分展示的历史图片中可见，这些民俗传统于早期新加坡就已经盛行，并且流传至今。 
 
-The rites of passage and festive traditions of the various communities are diverse yet share many similarities. Traditional weddings and funerals were highly public events, often involving elaborate processions. Many traditional festivals in Singapore have religious origins – Hari Raya Aidilfitri, or celebration of the end of the fasting month for Muslims; Deepavali, the festival of lights for Hindus; Christmas celebrations for Christians and Chinese festivals that are based on folk beliefs. Usually celebrated with loved ones, many of the festivals are occasions for deepening family ties and renewing friendships.  
+不同族群的传统仪式和节庆习俗虽然各异，但其中却存在许多共同之处。传统的婚礼与丧礼都是高度公开的活动，并且经常有排场体面的仪队伴随。新加坡的许多传统节庆都源于宗教习俗，如开斋节（回教徒庆祝斋戒月结束的节日）、屠妖节（兴都教徒也称之为排灯节）、基督教的圣诞节以及与华人民间信仰相关的节庆。许多节日也是家庭巩固凝聚力和亲友联络感情的时机，因此亲朋戚友通常都会共度节庆。
 
 <p>&nbsp;</p>
 
@@ -23,7 +23,7 @@ The rites of passage and festive traditions of the various communities are diver
     <img class="photo-lv-2" src="/images/colourful-customs/wedding-photo-stack-2.png">
     <img class="photo-lv-3" src="/images/colourful-customs/wedding-photo-stack-3.png">
   </div>
-  <p>Weddings and Funerals</p>
+  <p>婚礼与丧礼</p>
   <a class="cover" href="/memories-of-two-cities-singapore/colourful-customs/weddings-and-funerals/"></a>
 </div> 
   
@@ -33,7 +33,7 @@ The rites of passage and festive traditions of the various communities are diver
     <img class="photo-lv-2" src="/images/colourful-customs/festive-photo-stack-2.png">
     <img class="photo-lv-3" src="/images/colourful-customs/festive-photo-stack-3.png">
   </div>
-  <p>Festive Celebrations</p>
+  <p>节庆活动</p>
   <a class="cover" href="/memories-of-two-cities-singapore/colourful-customs/festive-celebrations/"></a>
 </div>
 

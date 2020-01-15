@@ -1,103 +1,103 @@
 ---
 layout: leftnav-page-content
-title: Away from the Bustle
+title: 远离尘嚣
 permalink: /memories-of-two-cities-singapore/tropical-metropolis/away-from-the-bustle/
 breadcrumb: Away from the Bustle
 collection_name: tropical-metropolis
 ---
 
-Residents of early Singapore sought respite from the bustle of city life and the tropical heat. Singapore’s close proximity to the sea meant there were numerous spots where people could enjoy sea views and cool breezes, such as the Esplanade in the city centre and Tanjong Katong, a popular seaside destination on the east coast. As the city developed, public parks and recreational spaces were established as leisure spots for the public. The Botanical Gardens, Impounding Reservoir (now MacRitchie Reservoir) and other parks provided a quiet retreat and breather from hurried city life – a function they continue to serve today. 
+早期的新加坡居民需要暂避都市生活的喧嚣以及热带的溽暑。新加坡四面环海，人们可在许多地点欣赏美丽的海景及享受凉爽的海风，如市中心的滨海地带以及东海岸的景点丹绒加东。随着城市的发展，新加坡增设了不少让民众休闲的公园和设施，如植物园、蓄水池（现为麦里芝蓄水池）及其他公园，都为民众提供了休憩的去处，让他们能在忙碌的都市生活中喘一口气。至今，这些休闲空间和场所依然扮演着同样的角色。
 ![---](/images/partition.jpg)
 
 
-![View of the Esplanade, 1920s](/images/Sub3-1-Esplanade.jpg)
+![滨海地带，1920年代](/images/Sub3-1-Esplanade.jpg)
 <div class="custom-caption">
-<div><p>The Esplanade, 1920s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>滨海地带，1920年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005492 – 0064</div>
 </div>
-Laid out in the 1820s, the Esplanade referred to the extensive open field known as the Padang, and the shoreline that fronts the sea. The public space was used for military exercises, ceremonies and recreation. Apart from being a playing field for cricket and rugby, the Esplanade in the 19th century was also a hub for social life where people would gather for leisure and enjoy their evening strolls or rides in open horse-drawn carriages.
+于1820年代开辟而成的滨海地带(The Esplanade)是由大草场(Padang)及其边缘的海岸线组成，这个公共空间用作军事操演、庆典及休闲活动。19世纪的滨海地带除了作为打板球和橄榄球的场地外，也是人们聚集，并享受黄昏散步或乘坐马车兜风的好去处。
 
 <hr>
 
-![View of the Esplanade from the sea, 1922-1930](/images/Sub3-2-The-Esplanade.jpg)
+![从大海遥望滨海地带的景色，1920年代](/images/Sub3-2-The-Esplanade.jpg)
 <div class="custom-caption">
-<div><p>View of the Esplanade from the sea, c. 1920s</p></div>
-<div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
+<div><p>从大海遥望滨海地带的景色，1920年代</p></div>
+<div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
 <div>19980005881 - 0030</div>
 </div>
-An iconic landmark, older Singaporeans remember the Esplanade as a breezy recreational space that was lined with food hawkers such as Satay Club.
+滨海地带 (The Esplanade) 是一个具代表性的地标。老一辈的新加坡人对凉风习习，遍布美食小贩摊位（例如沙爹俱乐部）的滨海地带仍然记忆犹新。
 
 <hr>
 
-![Botanical Gardens, 1900s](/images/Sub3-3.jpg)
+![植物园，1900年代](/images/Sub3-3.jpg)
 <div class="custom-caption">
-<div><p>Botanical Gardens, 1900s</p></div>
-<div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
+<div><p>植物园，1900年代</p></div>
+<div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
 <div>20080000045 – 0027</div>
 </div>
-Founded in 1859, the Botanical Gardens (now Botanic Gardens) was intended for scientific research, ornamental and recreational use. Since the late 19th century, it has been a popular attraction in Singapore. The Botanic Gardens became Singapore’s first UNESCO World Heritage Site in July 2015.
+植物园成立于1859年，主要是为了进行植物的科学研究、美化市容，以及为民众提供一个娱乐休闲的场所。到了19世纪末，植物园已成为新加坡的热门景点。2015年7月它荣升为新加坡首个列入联合国教科文组织名录中的世界文化遗产。
 
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Entrance of Botanical Gardens, 1900s](/images/Sub3-4-Entrance-Botanical-Garden.jpg)
+![植物园入口，1900年代](/images/Sub3-4-Entrance-Botanical-Garden.jpg)
 </p>
 <div class="custom-caption">
-<div><p>Entrance of Botanical Gardens, 1900s</p></div>
-<div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
+<div><p>植物园入口，1900年代</p></div>
+<div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
 <div>20080000045 - 0006</div>
 </div>
 
-The Gardens introduced the Para rubber (_Hevea brasiliensis_) plant, which brought great prosperity to Southeast Asia with the growth of the rubber trade during the early 20th century. It also became a powerhouse for orchid hybridisation research, which put Singapore among the world’s leading orchid exporters.
+植物园引进的帕拉橡胶植物，带动了20世纪初东南亚橡胶业的发展，为本区域缔造巨大的经济利益。该园区也是胡姬花培植与研究的重地，让新加坡成为全球数一数二的胡姬花出口国。
 
 <hr>
 
-![Impounding Reservoir, 1890s](/images/Sub3-5-The-Water-Works.jpg)
+![蓄水池（Impounding Reservoir），1890年代](/images/Sub3-5-The-Water-Works.jpg)
 <div class="custom-caption">
-<div><p>Impounding Reservoir, 1890s</p></div>
-<div>Lee Kip Lin Collection, National Library Singapore</div>
+<div><p>蓄水池（Impounding Reservoir），1890年代</p></div>
+<div>李急麟藏品，新加坡国家图书馆馆藏</div>
 </div>
-The Impounding Reservoir was Singapore's first water supply system, built in 1867 to meet the demand for fresh water. It started out as a small lake in the heart of the jungle and was later enlarged and renamed MacRitchie Reservoir in 1922, after James MacRitchie, the Municipal Engineer of Singapore from 1883 to 1895. The reservoir was regarded as one of the prettiest spots on the island and a pleasant place for visitors to take a leisurely stroll.
+新加坡首个蓄水池兼水供系统建于1867 年，以应付淡水的需求量。蓄水池最初只是森林深处的一个小湖，后来逐步扩大延伸，并于1922年重新命名为麦里芝蓄水池，以纪念在1883至1895年间担任新加坡市政工程师的麦里芝 (James MacRitchie)。这座蓄水池也被视为全岛景色最怡人的景点之一，为访客提供一个悠闲漫步的好去处。
  
 <hr>
 
-![Thomson Road Reservoir, 1907](/images/Sub3-6.jpg)
+![汤申路蓄水池，1907年](/images/Sub3-6.jpg)
 <div class="custom-caption">
-<div><p>Thomson Road Reservoir, 1907</p></div>
-<div>Lee Kip Lin Collection, National Library Singapore</div>
+<div><p>汤申路蓄水池，1907年</p></div>
+<div>李急麟藏品，新加坡国家图书馆馆藏</div>
 </div>
-Also known as the Impounding Reservoir, and later renamed MacRitchie Reservoir in 1922. Thomson Road Reservoir was constructed in 1857 with funds generously donated by Chinese philanthropist Tan Kim Seng. The water intake tower and connecting bridge was a reflection of late 19th century technology and construction techniques, and have been identified as landmarks for conservation. 
+汤申路蓄水池早期被称为蓄水池 (Impounding Reservoir)，随后于1922年改名麦里芝蓄水池，是由华人慈善家陈金声于1857年慷慨捐造。蓄水池的纳水库与衔接桥见证了19世纪末科技与建筑技术的进步，目前已成为受保护的古迹。
 
 <hr>
 
-![Alkaff Lake Gardens, 1920s](/images/Sub3-7-Alkaff-Garden.jpg)
+![阿卡夫花园，1920年代](/images/Sub3-7-Alkaff-Garden.jpg)
 <div class="custom-caption">
-<div><p>Alkaff Lake Gardens, 1920s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>阿卡夫花园，1920年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19990003220 - 0029</div>
 </div>
-Opened in 1929, Alkaff Lake Gardens was a Japanese-style garden developed by the Alkaffs, a wealthy Arab family. As the first Japanese garden in Singapore, the Alkaff Gardens attracted both residents and tourists, with its beautiful lake where one could row boats, as well as landscaped paths, rentable tea houses, and picnic tables under shady trees.
+于1929年开幕的阿卡夫花园是一座由富裕的阿拉伯家族—阿卡夫氏所建造的日式花园。作为新加坡的首座日式花园，阿卡夫花园吸引了不少本地居民与外国旅客到访，人们可以在美丽的湖中划船，有庭院造景的小径上漫步，租赁茶馆品茶，以及在阴凉的树下野餐。
 
 <hr>
 
-![Tanjong Katong, 1920s](/images/Sub3-8-Tanjong-Katong-Singapore.jpg)
+![丹绒加东，1920年代](/images/Sub3-8-Tanjong-Katong-Singapore.jpg)
 <div class="custom-caption">
-<div><p>Tanjong Katong, 1920s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>丹绒加东，1920年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19990003220 – 0031</div>
 </div>
-In the 1820s, Tanjong Katong, a coastal area in eastern Singapore, was part of land set aside by Sir Stamford Raffles to be developed into a marine yard. By the 1860s, boat yards proliferated here, which gave rise to related businesses such as boathouses and beachside resorts. Tanjong Katong became well-known for sea bathing and attracted wealthy residents, who built their holiday villas here. The idyllic coconut groves and beach setting provided a quiet retreat from the bustling city life.
+丹绒加东是莱佛士于1820年代为发展造船厂而在新加坡东部划分的一个海岸地区。到了1860年代，许多船坞在此营业，并且带动其他相关商业活动，如船库及海边度假别墅。丹绒加东成了供人们弄潮的海水浴场，吸引富人在此建造的度假别墅。诗情画意的椰林及海滩，提供了一个远离尘嚣清幽环境 。
  
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Beach at Tanjong Katong, 1920s](/images/Sub3-9.jpg)
+!丹绒加东的海滩，1920年代(/images/Sub3-9.jpg)
 </p>
 <div class="custom-caption">
-<div><p>Beach at Tanjong Katong, 1920s</p></div>
-<div>Marine Parade Community Centre Collection, courtesy of National Archives of Singapore</div>
+<div><p>丹绒加东的海滩，1920年代</p></div>
+<div>马林百列民众俱乐部藏品，由新加坡国家档案馆提供</div>
 <div>19980005560 – 0100</div>
 </div>
-Tanjong Katong was an early landmark in Singapore. It used to be known for its boathouses and beachside retreats. The local folk song ‘Di-Tanjong Katong’ sings of the tranquil atmosphere of Tanjong Katong with blue waves washing ashore.
+丹绒加东是新加坡早期的地标，以其船库及海边度假别墅闻名。新加坡民谣《在丹绒加东》(Di Tanjong Katong) 就歌颂了丹绒加东海浪拍岸，安谧悠闲的氛围。
 

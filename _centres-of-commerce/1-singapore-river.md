@@ -1,109 +1,108 @@
 ---
 layout: leftnav-page-content
-title: Singapore River
+title: 新加坡河
 permalink: /memories-of-two-cities-singapore/centres-of-commerce/singapore-river/
-breadcrumb: Singapore River
+breadcrumb: 新加坡河
 collection_name: centres-of-commerce
 ---
-Singapore’s role in regional trade dates back to the 13th century, when it was known as Temasek, one of the port cities along the Straits of Melaka, serving as a collection centre for products marketed mainly to China and a redistribution centre for Chinese and other international products. In 1819, the British, who needed a port for the China trade, established a trading post in Singapore, due to its strategic location on major maritime trade routes and naturally deep harbour.
+新加坡在区域贸易中所扮演的角色可追溯至13世纪。当时它称为淡马锡，是马六甲海峡区域中的一座海港城市，扮演着货品集散中心的角色 — 汇集各地商品销至中国，同时将来自中国和其他地区的商品转销到各地。1819年，英国人需要一个据点以便与中国进行贸易，新加坡因着位处海上贸易航线要道，以及拥有天然深海港，而被英国人看中，在此成立一贸易站。
 
-The Singapore River, located within the Island’s commercial heart, was critical to the island’s development. For much of the 19th century, the river bustled with economic activity, with smaller vessels ferrying cargo between the riverbanks and ships docked at the harbour. The river became over-congested by the mid-1800s, and the creation of a port at New Harbour (Keppel Harbour) drew some shipping activity away from the river.
+新加坡河位于这座岛屿的商业中心，对本地的发展起着举足轻重的作用。在19世纪的大部分期间，这条河充满着繁忙的商业活动，欣欣向荣；川流不息的船只在河岸和停靠在海港的货船之间来回穿梭，接载货物。到了19世纪中期，新加坡河逐渐变得过度拥挤。因此新海港（岌巴海港）应运而生，以疏缓新加坡河上的货运交通。
 
-Today, the Singapore River is a popular spot for recreation and sightseeing, with many heritage sites in its vicinity.
+如今新加坡河是个休闲与观光的热门景点，周边仍有许多的历史古迹。
 <p></p>
 
 ![---](/images/partition.jpg)
 
-![Singapore River, 1880s](/images/centres-of-commerce/Sub2-1-singapore-river.jpg)
+![新加坡河，1880年代](/images/centres-of-commerce/Sub2-1-singapore-river.jpg)
 <div class="custom-caption">
-<div><p>Singapore River, 1880s</p></div>
-<div>Lee Kip Lin Collection, National Library Singapore</div>
+<div><p>新加坡河，1880年代</p></div>
+<div>李急麟藏品，新加坡国家图书馆馆藏</div>
 </div>
-Being the focal point of trading activities, the Singapore River was pivotal to the development of early Singapore as an entrepôt port. The city’s shipping and trading activities were mostly concentrated at the mouth of the river and along Boat Quay. The river bustled with bumboats and sampans ferrying, loading and unloading goods for import and re-export. Offices, shops, godowns (warehouses) and
-merchant houses were also set up along the river to facilitate these activities.
+新加坡河是本地贸易活动的命脉，在早期新加坡作为转口贸易港的发展上扮演着重要的角色。本地的航运及贸易活动主要聚集于新加坡河口及驳船码头一带。河上的运货船只及舢舨多不胜数，运载和装卸着大量的进出口商品。河边设有许多办事处、店铺、货仓及商行，推动贸易活动的运作与发展。
 <p></p>
 <p></p>
 <hr>
 
-![Singapore River, 1924](/images/centres-of-commerce/Sub2-2-singapore-river-cr.jpg)
+![新加坡河，1924年](/images/centres-of-commerce/Sub2-2-singapore-river-cr.jpg)
 <div class="custom-caption">
-<div><p>Singapore River, 1924</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>新加坡河，1924年</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005770 - 0045</div>
 </div>
 <p></p>
 <p></p>
 <hr>
 
-![Cargo Ship, 1904-1910](/images/centres-of-commerce/Sub2-3-cargo-ship-near-the-mouth-of-singapore-river.jpg)
+![新加坡河口海上的货船，1900年代](/images/centres-of-commerce/Sub2-3-cargo-ship-near-the-mouth-of-singapore-river.jpg)
 <div class="custom-caption">
-<div><p>Cargo Ship near the mouth of the Singapore River, 1900s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>新加坡河口海上的货船，1900年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005493 - 0060</div>
 </div>
 <p></p>
 <p></p>
 <hr>
 
-![Twakows on Singapore River, 1900s](/images/centres-of-commerce/Sub2-4-twakows-on-singapore-river-cr.jpg)
+![新加坡河上的大䑩，1900年代](/images/centres-of-commerce/Sub2-4-twakows-on-singapore-river-cr.jpg)
 <div class="custom-caption">
-  <div><p><i>Twakows</i> on the Singapore River, 1900s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+  <div><p>新加坡河上的大䑩，1900年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005576 - 0083</div>
 </div>
-_Twakows_ were bumboats used to transport supplies and goods from anchored ships to shore and vice versa. Bumboats along the Singapore River were operated mainly by Indians until the 1900s, when the Chinese, especially Hokkiens and Teochews, began to dominate the trade, calling the bumboats _twakows_ in their dialects.
+大䑩是指穿梭于河岸和锚定货船之间运输货物的连接船。直至1900年代，操作这些连接船的业主主要是印度人。后来，华人（尤其是福建与潮州人）取代他们主导这个行业，并以其方言称这些连接船为“大䑩”。
 <p></p>
 <p></p>
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![A twakow laden with cargo in Singapore River, 1925](/images/centres-of-commerce/Sub2-5-a-twakow-laden-with-cargo-in-singapore-harbour-cr.jpg)
+![新加坡海港中满载货物的大䑩，1925年](/images/centres-of-commerce/Sub2-5-a-twakow-laden-with-cargo-in-singapore-harbour-cr.jpg)
 </p>
 <div class="custom-caption">
-<div><p>A <i>twakow</i> laden with cargo in Singapore harbour, 1925</p></div>
-<div>Edwin A. Brown Collection, National Library Singapore</div>
+<div><p>新加坡海港中满载货物的大䑩，1925年</p></div>
+<div>Edwin A. Brown藏品，新加坡国家图书馆馆藏</div>
 </div>
 <p></p>
 <p></p>
 <hr>
 
-![View of Boat Quay at Singapore River, 1910s](/images/centres-of-commerce/Sub2-6-view-of-boat-quay-at-singapore-river-cr.jpg)
+![新加坡河上驳船码头的景象，1910年代](/images/centres-of-commerce/Sub2-6-view-of-boat-quay-at-singapore-river-cr.jpg)
 <div class="custom-caption">
-<div><p>View of Boat Quay at Singapore River, 1910s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>新加坡河上驳船码头的景象，1910年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005504 - 0066</div>
 </div>
-Boat Quay, located on the southern bank of the Singapore River, was one of the first commercial areas developed in Singapore. As early as 1823, offices, shops, godowns (warehouses) and jetties, which were run by European and Chinese merchants, were built along its banks. By the 1860s, many European businesses moved to the New Harbour (Keppel Harbour) area, leaving Boat Quay a predominantly Chinese domain.
+位于新加坡河南岸的驳船码头是本地最早发展的商业区之一。早在1823年，欧籍与华族商人便在此经商并设立办事处、店铺、货仓及码头。到了1860年代，许多欧洲人把商务活动都迁移至新海港（岌巴海港），让驳船码头逐渐成为一个以华人为主的商业区。
 <p></p>
 <p></p>
 <hr>
 
-![Boat Quay, 1927-1929](/images/centres-of-commerce/Sub2-7-boat-quay-cr.jpg)
+![驳船码头，1920年代](/images/centres-of-commerce/Sub2-7-boat-quay-cr.jpg)
 <div class="custom-caption">
-<div><p>Boat Quay, 1920s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>驳船码头，1920年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005826 - 0006</div>
 </div>
 <p></p>
 <p></p>
 <hr>
 
-![Clarke Quay along Singapore River, 1890s](/images/centres-of-commerce/Sub2-8-singapore-river-near-clarke-quay.jpg)
+![新加坡河上的克拉码头，1890年代](/images/centres-of-commerce/Sub2-8-singapore-river-near-clarke-quay.jpg)
 <div class="custom-caption">
-<div><p>Singapore River near Clarke Quay, 1890s</p></div>
-<div>Lee Kip Lin Collection</div>
+<div><p>新加坡河上的克拉码头，1890年代</p></div>
+<div>李急麟藏品，新加坡国家图书馆馆藏</div>
 </div>
-Located further upstream along the Singapore River from Boat Quay, Clarke Quay was also used as a dock to move cargo to and from the godowns (warehouses) and commercial houses along the river. Two and three-storey shophouses were typical buildings at the quays, with the upper floors used as living quarters and the ground floor housing shops and trading offices.
+离驳船码头不远，位于新加坡上游的克拉码头也是一个船坞，主要用于搬运进出河边货仓及商行的货物。码头上随处可见两层与三层楼的店屋，上层一般作为起居住所，而一楼则作为店铺或商行办事处之用。
 <p></p>
 <p></p>
 <hr>
 
-![Godown of Green Island Cement Company limited, 1930s](/images/centres-of-commerce/Sub2-9-godown-cr.jpg)
+![货仓，1930年代](/images/centres-of-commerce/Sub2-9-godown-cr.jpg)
 <div class="custom-caption">
-<div><p>Godown, 1930s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>货仓，1930年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980001448 - 0070</div>
 </div>
-Godowns, or warehouses, were important infrastructure for Singapore’s entrepôt trade. Most of them were located along the Singapore River to receive goods ferried from cargo ships docked along the straits. Besides warehouses, merchants also built their homes along the river, with private jetties used to load and unload goods.
+货仓是新加坡转口贸易业一个重要的基础设施。多数的货仓都设置于新加坡河边，以接收停靠在附近海域的货船所卸下的货物。除了货仓外，商人也会在河畔建造住宅和私人码头，以便装卸货品。
 <p></p>
 <p></p>
