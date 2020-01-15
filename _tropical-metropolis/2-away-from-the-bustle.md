@@ -92,7 +92,7 @@ collection_name: tropical-metropolis
 <hr>
 
 <p class="portrait-resize" markdown="1">
-!丹绒加东的海滩，1920年代(/images/Sub3-9.jpg)
+![丹绒加东的海滩，1920年代](/images/Sub3-9.jpg)
 </p>
 <div class="custom-caption">
 <div><p>丹绒加东的海滩，1920年代</p></div>
