@@ -1,139 +1,138 @@
 ---
 layout: leftnav-page-content
-title: People at Work
+title: 与亲朋留影
 permalink: /memories-of-two-cities-singapore/all-walks-of-life/people-at-work/
-breadcrumb: People at Work
+breadcrumb: 与亲朋留影
 collection_name: all-walks-of-life
 ---
-The founding of Singapore as a British trading port in 1819 led to an influx of immigrants from China, India and the Malay Archipelago, who came in search of work opportunities arising from the colony’s rapid growth. People of different trades and socio-economic status arrived, from administrators and merchants, to peddlers and labourers.
+新加坡于1819年成为英国的贸易站，因而吸引了大批来自中国、印度及马来群岛的移民到此寻求这个迅速发展的殖民地所带来的工作机会。来自各行各业和各社经阶层的人聚集于此，从事行政、商业、摊贩及劳工等工作。
 
-A large number of migrants from China and India arrived as labourers, providing the much-needed labour in building construction, agriculture, shipping and other industries on the island. Others came as merchants, shopkeepers and moneylenders. Among the indigenous Malays and their fellows from the region, many worked as fishermen, farmers, artisans, traders, and more. The Europeans came as administrators and merchants, working in government offices, banks and trading houses. They were often assisted by English-educated locals. The following images show people, who contributed to the development of early Singapore, at work. 
+大批来自中国及印度的移民到新加坡从事体力劳动的工作，以供应建筑业、农业、船务业及其他领域所需的大量劳工；一部分人则到此经商、开店或从事借贷业。本土及来自周边地区的马来人，许多成为渔夫、农夫、工匠、贸易商等。欧洲人则主要从事行政工作和经商，在政府部门、银行及贸易商行中工作。他们一般会雇用受英文教育的本地人作为下属。这组照片展示了为早期新加坡的发展作出贡献各行各业的人们。
 
 <p></p>
 ![---](/images/partition.jpg)
 
-![Chinese coolies, 1900s](/images/all-walks-of-life/Sub1-1-chinese-coolies.jpg)
+![华族苦力，1900年代](/images/all-walks-of-life/Sub1-1-chinese-coolies.jpg)
 <div class="custom-caption">
-<div><p>Chinese coolies, 1900s</p></div>
-<div>Boden-Kloss Collection, courtesy of National Archives of Singapore</div>
+<div><p>华族苦力，1900年代</p></div>
+<div>Boden-Kloss藏品，由新加坡国家档案馆提供</div>
 <div>19980001876 – 0063</div>
 </div>
-Many impoverished Chinese migrants came to Singapore in the 19th century to work as coolies – indentured labourers who were employed in construction, agriculture, shipping, mining and other sectors. They formed the backbone of early Singapore’s labour force. Mostly engaged in unskilled, hard labour, coolies worked under harsh circumstances. Coolies carrying cargo and commodities around the Singapore River and port were a common sight in the old days. 
+许多贫困的中国移民于19世纪来到新加坡从事苦力的工作（契约劳工），在建筑业、农业、船务业、采矿业里工作。他们是早期新加坡劳动队伍的主要成员。苦力们的工作都是出卖劳力的粗工，必须在艰难的环境下工作。苦力们在新加坡河畔与港口搬运货物是本地早期常见的景象。 
 <p></p>
 <p></p>
 <hr>
 
-![Tamil coolies, 1880s](/images/all-walks-of-life/Sub1-2-tamil-coolies-cr.jpg)
+![淡米尔族苦力 ，1880年代](/images/all-walks-of-life/Sub1-2-tamil-coolies-cr.jpg)
 <div class="custom-caption">
-<div><p>Tamil coolies, 1880s</p></div>
-<div>Morgan Betty Bassett Collection, courtesy of National Archives of Singapore </div>
+<div><p>淡米尔族苦力 ，1880年代</p></div>
+<div>Morgan Betty Bassett藏品，由新加坡国家档案馆提供</div>
 <div>20090000101 – 0011</div>
 </div>
-Originating from South India, Tamil coolies came to Singapore during the 19th century and generally worked at the docks or built railway lines. In addition, Singapore also received Indian convicts, mainly from Bengal, Madras and Bombay, who served out their sentences while working as labourers. These convicts were a source of cheap labour needed for the construction of public roads, bridges and key public buildings in the early days.
+来自南印度的淡米尔族苦力于19世纪来到新加坡，并且多数在码头工作或修筑铁路。此外，当年新加坡也引进来自印度的囚犯。他们主要来自孟加拉、马德拉斯与孟买，在本地一面做劳工，一面服刑。这些囚犯为早期修筑道路、桥梁及主要公共建筑提供廉价的劳工。
 <p></p>
 <p></p>
 <hr>
 
-![Samsui women, 1952](/images/all-walks-of-life/Sub1-3-samsui-women.jpg)
+![红头巾，1952年](/images/all-walks-of-life/Sub1-3-samsui-women.jpg)
 <div class="custom-caption">
-<div><p>Samsui women, 1952</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>红头巾，1952年</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19990003437 - 0033</div>
 </div>
-Samsui women, with their trademark red headdress, were female migrant workers mainly from Sanshui county in Guangdong province, China. They arrived in Singapore from the 1930s in search of employment. Many found work as general labourers in the construction industry, at tin mines and rubber estates.
+“红头巾” 是指来自中国广东省三水县在新加坡打工的女性，她们因头戴红色头巾而获得其名。红头巾于1930年代来新加坡谋生，多数在建筑工地、锡矿场及橡胶园做劳工。
 <p></p>
 <p></p>
 <hr>
 
 
-![Samsui women having a meal at the worksite, 1954](/images/all-walks-of-life/Sub1-4-samsui-women-having-a-meal.jpg)
+![红头巾在工地用餐，1954年](/images/all-walks-of-life/Sub1-4-samsui-women-having-a-meal.jpg)
 <div class="custom-caption">
-<div><p>Samsui women having a meal at the worksite, 1954</p></div>
-<div>MITA Collection, courtesy of National Archives of Singapore</div>
+<div><p>红头巾在工地用餐，1954年</p></div>
+<div>新闻与艺术部藏品，由新加坡国家档案馆提供</div>
 <div>19980001088 - 0026</div>
 </div>
 <p></p>
 <p></p>
 <hr>
 
-![Group of chinese hawkers, Singapore, 1915](/images/all-walks-of-life/Sub1-5-street-hawkers-cr.jpg)
+![街边小贩，1910年代](/images/all-walks-of-life/Sub1-5-street-hawkers-cr.jpg)
 <div class="custom-caption">
-<div><p>Street hawkers, 1910s</p></div>
-<div>Lee Kip Lin Collection, courtesy of National Archives of Singapore</div>
+<div><p>街边小贩，1910年代</p></div>
+<div>李急麟藏品，由新加坡国家档案馆提供</div>
 <div>19980005123 – 0020</div>
 </div>
-Working as an itinerant street hawker was a common occupation among unskilled early migrants, as it required little capital. Seen here are Chinese street hawkers plying their trade outside Telok Ayer Market, now a well-known hawker centre known as Lau Pa Sat (‘old market’ in Hokkien). Hawkers who operated food carts and stalls were once a familiar sight. From the 1970s onwards, they were moved to more sanitary modern hawker centres, which have become one of Singapore’s trademarks. 
+无一技之长的早期移民普遍从事街边小贩的工作，因为这只需少许资金便能营业。照片显示当年在直落亚逸菜市场外摆摊的华族小贩。如今，这个菜市场已成为著名的小贩中心“老巴刹”。在街边经营兜售食物推车或摊位的小贩曾经是本地常见的景象，自1970年代起，他们便搬到了较卫生的现代小贩中心营业。小贩中心后来成了新加坡的著名标记之一。 
 <p></p>
 <p></p>
 <hr>
 
-![Street Hawker, Singapore 1920s](/images/all-walks-of-life/Sub1-6-street-hawkers-cr.jpg)
+![街边小贩，1920年代](/images/all-walks-of-life/Sub1-6-street-hawkers-cr.jpg)
 <div class="custom-caption">
-<div><p>Street Hawkers, 1920s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>街边小贩，1920年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980007360 – 0043</div>
 </div>
-Hawkers were frequently found along busy streets and intersections peddling cooked food, drinks, snacks, vegetables, poultry, and sundries. Patrons would eat around the makeshift stalls with little or no comfort.  
+小贩们时常会在繁忙的街道旁与路口兜售熟食、饮料、小吃、蔬菜、家禽及杂物等。顾客们则在这些临时摊位前简陋的环境用餐。 
 <p></p>
 <p></p>
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Malay hawker with his portable shop selling satay, Singapore, 1907](/images/all-walks-of-life/Sub1-7-satay-hawker-cr.jpg)
+![沙爹小贩，1900年代](/images/all-walks-of-life/Sub1-7-satay-hawker-cr.jpg)
 </p>
 <div class="custom-caption">
-<div><p>Satay hawker, 1900s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>沙爹小贩，1900年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005915 – 0001</div>
 </div>
-The Malay satay man, with his portable charcoal grill, was common in Singapore until the 1970s. Satay is a dish of skewered meat – chicken, beef or mutton – that is grilled and served with peanut sauce.  
+挑着炭烤架沿街叫卖的马来族沙爹小贩直至1970年代都是新加坡的常见的一景。沙爹是由鸡肉、牛肉或羊肉做成的肉串，烧烤后搭配花生酱汁食用。  
 <p></p>
 <p></p>
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Pavement based occupation – hawker selling tidbits (Kachang Putih), 1900](/images/all-walks-of-life/Sub1-8-hawker-selling-snacks-cr.jpg)
+![售卖零食的小贩，1900年代](/images/all-walks-of-life/Sub1-8-hawker-selling-snacks-cr.jpg)
 </p>
 <div class="custom-caption">
-<div><p>Hawker selling snacks, 1900s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>售卖零食的小贩，1900年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980007415 - 0102</div>
 </div>
-Indian hawkers who sold snacks often carried a basket containing their wares on their head. Selling bread and cakes or _kacang puteh_ (‘assorted nuts’ in Malay), they plied their trade along pavements or outside cinemas. 
+印度族卖零食的小贩一般会把装有货品的篮子顶在头上,他们在路旁或戏院门口兜售面包、蛋糕或什锦花生豆类等小吃。 
 <p></p>
 <p></p>
 <hr>
 
 
-![Workers at a pepper plantation, 1890s](/images/all-walks-of-life/sub1-10-workers-at-a-pepper-plantation.jpg)
+![胡椒园的工人，1890年代](/images/all-walks-of-life/sub1-10-workers-at-a-pepper-plantation.jpg)
 <div class="custom-caption">
-<div><p>Workers at a pepper plantation, 1890s</p></div>
-<div>Gretchen Liu Collection, courtesy of National Archives of Singapore</div>
+<div><p>胡椒园的工人，1890年代</p></div>
+<div>Gretchen Liu藏品，由新加坡国家档案馆提供</div>
 <div>19980006568 - 0059</div>
 </div>
-Gambier and pepper were two of the most important crops grown in Malaya in the 19th century. The two crops were often cultivated together as they complemented each other. Gambier was in high demand in the dyeing and tanning industry, while pepper had long been an export commodity of Southeast Asia. In the 1840s, there were 600 gambier and pepper plantations in Singapore, which employed thousands of Chinese labourers.
+甘蜜与胡椒是19世纪马来亚最重要的两大农作物。这两种农作物通常会在一处栽种，因为它们能够发挥互补作用。甘蜜用于鞣皮和染布工业，有着很高的需求量；而胡椒自古以来就是东南亚的出口商品。在1840年代，新加坡已有600个甘蜜与胡椒种植园，并且雇用上千名华族劳工。
 <p></p>
 <p></p>
 <hr>
 
-![Fishermen at seashore, 1909](/images/all-walks-of-life/Sub1-11-fishermen-at-seashore.jpg)
+![海边的渔夫，1909年](/images/all-walks-of-life/Sub1-11-fishermen-at-seashore.jpg)
 <div class="custom-caption">
-<div><p>Fishermen at seashore, 1909</p></div>
-<div>Edward William Newell Collection, courtesy of National Archives of Singapore</div>
+<div><p>海边的渔夫，1909年</p></div>
+<div>Edward William Newell藏品，由新加坡国家档案馆提供</div>
 <div>19980005033 – 0118</div>
 </div>
-In the past, Singapore was known to have many fishing villages, mostly located along the coast. As a livelihood or an important source of income for many, fishing was usually done inshore with lightly built boats, such as the kolek or sampan. 
+过去，新加坡的海岸边有许多的渔村，捕鱼是许多人的生计或主要经济来源。渔夫们一般会利用轻型船只如马来帆船或舢板于近岸处的海域捕鱼。 
 <p></p>
 <p></p>
 <hr>
 
-![Interior of office. The photo was taken between 1920 and 1929.](/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society.jpg)
+![荷兰贸易商会办事处，丝丝街，约1925年](/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society.jpg)
 <div class="custom-caption">
-<div><p>Offices of Netherlands Trading Society, Cecil Street, Singapore, c. 1925</p></div>
-<div>Collection ABN AMRO Art & History Department, Amsterdam, courtesy of National Archives of Singapore</div>
-<div>20060000334 - 0108</div>
+<div><p>荷兰贸易商会办事处，丝丝街，约1925年</p></div>
+<div>阿姆斯特丹ABN AMRO艺术与历史部门藏品，由新加坡国家档案馆提供</div>
 </div>
-As a trading and commercial hub, Singapore was home to many European merchant houses, which were located at Raffles Place and Collyer Quay. Initially, it was mostly the Westerners employed in these establishments, but as Singapore’s workforce became more qualified, English-educated locals took on junior roles such as clerical officers.
+新加坡是个贸易与商业中心，许多欧洲贸易商行都在此设立据点，主要聚集在莱佛士坊及哥烈码头一带。起初，这些公司的雇员都以西方人为主，但随着新加坡劳动人口的学历逐渐提高，受英文教育的本地人也能够担任文员等初级职位。
 <p></p>
 <p></p>
 

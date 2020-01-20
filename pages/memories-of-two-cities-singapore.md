@@ -4,7 +4,7 @@ title: 双城往事 — 新加坡篇
 permalink: /memories-of-two-cities-singapore/
 breadcrumb: 双城往事 — 新加坡篇
 ---
-![NLB Photo Exhibition Banner](/images/nlb-photo-exhibition-page-banner.jpg)
+![双城往事 — 新加坡篇](/images/nlb-photo-exhibition-page-banner.jpg)
 
 新加坡虽有着现代化的市容，但它的历史可追溯至七百多年前的十三世纪末，当时它已经是东南亚的一个贸易海港。在1819年开埠成为英国的贸易站后，这座岛屿便逐渐发展成为一个繁荣的转口贸易枢纽。来自世界各地的人口汇集在此生活与工作，孕育出新加坡早期的多元文化，不论在城市景观还是人文风貌上都展现无遗，为这座国际都会增添了独特的魅力。
 
@@ -31,7 +31,7 @@ breadcrumb: 双城往事 — 新加坡篇
 </div>
 
 <div class="category-block-wrap">
-  <p>All Walks of Life</p>
+  <p>民生百态</p>
   <img class="cover" src="/images/all-walks-of-life-button.jpg">
   <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/"></a>
 </div>

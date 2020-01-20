@@ -1,122 +1,122 @@
 ---
 layout: leftnav-page-content
-title: People at Play
+title: 休闲娱乐的人们
 permalink: /memories-of-two-cities-singapore/all-walks-of-life/people-at-play/
-breadcrumb: People at Play
+breadcrumb: 休闲娱乐的人们
 collection_name: all-walks-of-life
 ---
-Along with the influx of different migrant communities came numerous forms of leisure in early Singapore. The Chinese brought their traditional operas in various dialects; the Malays and Indians each introduced their own theatres, music and dances. The Europeans also had their fair share of influence on the leisure scene in Singapore. Western pastimes, such as horse racing and social dancing, were integrated into local social life, and became popular leisure pursuits of well-heeled Asians. Being a tropical island with dense forests, old Singapore offered opportunities for recreational swimming and beach-going, as well as sports hunting for the adventurous. All in all, multi-racial communities created a rich and diverse leisure culture, which is evident in the photographs presented here.
+随着大批不同族群移民的到来，各种各样的休闲活动也传入了早期的新加坡。华人引进了不同方言的传统戏曲，而马来人与印度人也同样地把各自的戏剧、音乐与舞蹈带到新加坡。欧洲人对新加坡休闲娱乐的影响也不小，西方人的嗜好，如赛马及社交舞，融入了本地的社交生活，成了富裕的亚洲人热衷的休闲活动。早期的新加坡是个拥有茂密丛林的热带岛屿，适宜在沙滩戏水、游泳；喜欢冒险的人甚至还可以狩猎。总而言之，多元种族的社群创造出一个丰富多姿的休闲文化，可从此处展示的照片中显而易见。
 
 ![---](/images/partition.jpg)
 
 <p class="portrait-resize" markdown="1">
-![Chinese Wayang Actors, 1890s](/images/all-walks-of-life/Sub2-1-chinese-opera-actors.jpg)
+![传统戏曲演员，1890年代](/images/all-walks-of-life/Sub2-1-chinese-opera-actors.jpg)
 </p>
 <div class="custom-caption">
-<div><p>Chinese opera actors, 1890s</p></div>
-<div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
+<div><p>传统戏曲演员，1890年代</p></div>
+<div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
 <div>19980005893 – 0023</div>
 </div>
-Chinese opera performed on the street was a popular form of entertainment in Singapore. Opera performances would often be staged outdoors on temple grounds during the celebration of deities’ birthdays and traditional festivals. The main forms of Chinese opera performed in Singapore were from the three largest Chinese dialect groups: Hokkien, Teochew and Cantonese.
+观赏街边上演的传统戏曲是早期新加坡热门的娱乐活动，戏曲表演经常会配合庆祝神明诞辰或传统节日在庙宇外进行。新加坡常见的传统戏曲来自华族三大方言族群，分别为福建、潮州与广东戏曲。
 <p></p>
 <p></p>
 <hr>
 
-![Bangsawan opera,1930s](/images/all-walks-of-life/Sub2-2-bangsawan-opera.jpg)
+![马来Bangsawan传统戏曲，1930年代](/images/all-walks-of-life/Sub2-2-bangsawan-opera.jpg)
 <div class="custom-caption">
-<div><p>Bangsawan opera,1930s</p></div>
-<div>Mohd Amin bin Kadarisman Collection, courtesy of National Archives of Singapore</div>
+<div><p>马来Bangsawan传统戏曲，1930年代</p></div>
+<div>Mohd Amin bin Kadarisman藏品，由新加坡国家档案馆提供</div>
 <div>19980005579 - 0004</div>
 </div>
-Bangsawan is a form of traditional Malay opera that comprises music, drama and dance. Its stories usually revolve around Malay nobles and royalty. However, some plots are based on Indian and English stories and include performers from other races. Its popularity reached a peak before the Second World War. While bangsawan was the main form of entertainment for the Malay community in Singapore and maritime Southeast Asia, it was enjoyed by other communities as well.
+Bangsawan是一种马来传统戏曲，其中涵盖音乐、戏剧与舞蹈，剧情通常环绕着马来贵族及皇室。偶尔，有些剧情也会根据来自印度和英国的故事编写，并邀请其他种族的演员参与演出。其受欢迎程度于第二次世界大战前达到巅峰。虽然Bangsawan是新加坡及东南亚地区马来族群的主要娱乐活动，它也受到其他族群的欢迎。
 <p></p>
 <p></p>
 <hr>
 
-![Malay dancers, 1910s](/images/all-walks-of-life/sub2-3-malay-dancers.jpg)
+![马来族舞者，1910年代](/images/all-walks-of-life/sub2-3-malay-dancers.jpg)
 <div class="custom-caption">
-<div><p>Malay dancers, 1910s</p></div>
-<div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
+<div><p>马来族舞者，1910年代</p></div>
+<div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
 <div>19980005117 - 0010</div>
 </div>
-Traditional dances were usually performed at celebrations such as weddings, festivals and gatherings of the Malay community in Singapore. A very popular dance was _joget_, where men and women danced to fast-paced rhythm accompanied by violin, gong, flute and drums. The dance is believed to be influenced by Portuguese folk dance, which spread to the Malay Archipelago during the 16th century. 
+传统舞蹈一般会在新加坡马来族群的婚礼、节庆及聚会等场合表演。一个名为joget的舞蹈广受欢迎— 男男女女随着小提琴、锣、笛及鼓所演奏出的轻快旋律摇摆。这种舞蹈相信是受到16世纪传入马来群岛的葡萄牙民族舞蹈所影响。
 <p></p>
 <p></p>
 <hr>
 
-![Indian musicians and dancing girl, 1900s](/images/all-walks-of-life/Sub2-4-indian-musicians-and-dancing-girl-cr.jpg)
+![印度族乐手与女舞者，1900年代](/images/all-walks-of-life/Sub2-4-indian-musicians-and-dancing-girl-cr.jpg)
 <div class="custom-caption">
-<div><p>Indian musicians and dancing girl, 1900s</p></div>
-<div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
+<div><p>印度族乐手与女舞者，1900年代</p></div>
+<div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
 <div>19980005125 – 0034</div>
 </div>
-When Indian immigrants came to Singapore in the 19th century, they brought along with them their music and dance traditions. As the arts are an important part of Hindu religious practices, such as during worship and processions, temples were the main venues for music and dance performances. 
+当印度移民于19世纪来到新加坡时，他们带来了传统的音乐及舞蹈。由于表演艺术是兴都教习俗如朝拜与游行中重要的部分，庙宇便成了音乐与舞蹈表演的主要场地。 
 <p></p>
 <p></p>
 <hr>
 
-![Christmas Party, Singapore 1928 ](/images/all-walks-of-life/Sub2-5-fancy-dress-party.jpg)
+![化装舞会，1928年](/images/all-walks-of-life/Sub2-5-fancy-dress-party.jpg)
 <div class="custom-caption">
-<div><p>Fancy dress party, 1928</p></div>
-<div>Stanley T Tanner Collection, courtesy of National Archives of Singapore</div>
+<div><p>化装舞会，1928年</p></div>
+<div>Stanley T Tanner藏品，由新加坡国家档案馆提供</div>
 <div>20150000002 - 0008</div>
 </div>
-Dinner parties were important social events and entertainment for European residents and wealthy locals. During Christmas and New Year, lavish dinner and dance parties would be held at major hotels such as Raffles Hotel and Adelphi Hotel. Seen here are partygoers dressed up for a Christmas party.
+晚宴聚会是欧籍居民与本地富人的重要的社交和娱乐活动。在圣诞节及新年期间，奢华的晚宴与舞会都会在大酒店如莱佛士酒店及阿德菲酒店举行。图为一群盛装打扮圣诞舞会的出席者。
 <p></p>
 <p></p>
 <hr>
 
-![Raffles College “Let’s Dance” Session, 1948](/images/all-walks-of-life/Sub2-6-raffles-college-students-dancing.jpg)
+![莱佛士书院学生翩翩起舞，1948年](/images/all-walks-of-life/Sub2-6-raffles-college-students-dancing.jpg)
 <div class="custom-caption">
-<div><p>Raffles College students dancing, 1948</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>莱佛士书院学生翩翩起舞，1948年</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005803 – 0063</div>
 </div>
-Tea dances were once a popular social pastime in Singapore. In the 1920s, major hotels regularly held dances in their ballrooms, which were frequented by Europeans and wealthy Asians. It was popularised during the 1930s in the cabarets of amusement parks and among local youths in the 1960s.
+茶舞曾经是新加坡热门的社交休闲活动。1920年代，各大酒店经常在舞厅里举办舞会，吸引欧籍居民与亚洲富人出席。它于1930年代随着游乐场里设的舞厅开始盛行，并于1960年代在本地青少年中风靡一时。
 <p></p>
 <p></p>
 <hr>
 
-![Photograph of guests during a race at Farrer Park Racecourse, 1930](/images/all-walks-of-life/Sub2-7-spectators-at-farrer-park-race-course-cr.jpg)
+![花拉公园赛马场的观众，1930年](/images/all-walks-of-life/Sub2-7-spectators-at-farrer-park-race-course-cr.jpg)
 <div class="custom-caption">
-<div><p>Spectators at Farrer Park Racecourse, 1930</p></div>
-<div>Margaret Clarke Collection, courtesy of National Archives of Singapore</div>
+<div><p>花拉公园赛马场的观众，1930年</p></div>
+<div>Margaret Clarke藏品，由新加坡国家档案馆提供</div>
 <div>19980005817 – 0037</div>
 </div>
-Horse racing was introduced to Singapore by the British. Built in 1842, the first racecourse at Farrer Park was a sports and recreational hub for the elite society. The races were attended mostly by Europeans, Malay royalty and wealthy Chinese. The race was also a place to see and be seen, where affluent spectators, dressed in their finery, rubbed shoulders with one another. 
+赛马是由英国人引进新加坡的休闲活动。建于1842年，位于花拉公园的本地首个赛马场是一个权贵阶级从事体育及消遣活动的场所。观赏赛马的人士以欧洲人、马来皇室及华族富人为主。这些赛事也是上流社会的社交场合，出席者通常会精心打扮，互相认识交流。
 <p></p>
 <p></p>
 <hr>
 
-![Children at play along the beach in Singapore, 1930s](/images/all-walks-of-life/Sub2-8-a-family-at-a-beach-house-cr.jpg)
+![摄于海滨别墅的一家人，1920年代](/images/all-walks-of-life/Sub2-8-a-family-at-a-beach-house-cr.jpg)
 <div class="custom-caption">
-<div><p>A family at a beach house, 1920s</p></div>
-<div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
+<div><p>摄于海滨别墅的一家人，1920年代</p></div>
+<div>Lee Brothers Studio藏品，由新加坡国家档案馆提供</div>
 <div>19980002860 – 0093</div>
 </div>
-Being a tropical island, it is no surprise that swimming and beach-going became a popular leisure activity in Singapore. To cater for recreation, hoteliers and wealthy families built seaside bungalows along Singapore’s scenic eastern coast. These resorts often had a bathing _pagar_, which is an enclosed area extending from the shore to the sea for swimming.
+新加坡是一座热带岛屿，在海滩游泳与戏水自然而然成为人们喜爱的休闲活动。为了提供消遣，酒店业者与富裕家庭在风景宜人的东海岸建造别墅。这些度假屋一般会设有一个从海岸延伸至海中，由围栏包围的游泳区，以让人们可以安全地尽情享受游泳的乐趣。
 <p></p>
 <p></p>
 <hr>
 
-![Swimming competition, 1920-40](/images/all-walks-of-life/Sub2-9-swimming-competition.jpg)
+![游泳比赛，1930年代](/images/all-walks-of-life/Sub2-9-swimming-competition.jpg)
 <div class="custom-caption">
-<div><p>Swimming competition, 1930s</p></div>
-<div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
+<div><p>游泳比赛，1930年代</p></div>
+<div>Lee Brothers Studio藏品，由新加坡国家档案馆提供</div>
 <div>19980005530 – 0103</div>
 </div>
-In the early days, recreational swimming was mostly practiced by European and local elites. After the first public pool at Mount Emily opened in 1931, swimming became a popular recreational sport among the local population. Competitive swimmers also trained at the pool.
+在早期的新加坡，游泳主要是欧籍居民与本地富人的消遣活动。1931年，位于爱美丽山的本地首个公共泳池在开幕后，游泳逐渐成为本地人热衷的休闲体育活动。游泳比赛选手也会在此处进行训练。
 <p></p>
 <p></p>
 <hr>
 
-![Hunting party at Choa Chu Kang Village, 1930](/images/all-walks-of-life/Sub2-10-hunting-party-cr.jpg)
+![狩猎团，1930年](/images/all-walks-of-life/Sub2-10-hunting-party-cr.jpg)
 <div class="custom-caption">
-<div><p>Hunting party, 1930</p></div>
-<div>Tan Tuan Khoon Collection, courtesy of National Archives of Singapore</div>
+<div><p>狩猎团，1930年</p></div>
+<div>Tan Tuan Khoon藏品，由新加坡国家档案馆提供</div>
 <div>19980002184 - 0005</div>
 </div>
-Tigers were often sighted in the forested areas of Singapore during the mid-18th and early 19th centuries. They became a menace when the forests were cleared for roads and plantations, frequently attacking humans. Due to the high number of casualties, the government offered a monetary reward for each tiger killed. Hence, tiger hunting became a rewarding sport offering money and adventure. Seen here are members of the Straits Hunting Party with their prey at Choa Chu Kang village. 
+在18世纪中至19世纪初，老虎时常会在新加坡丛林地带出没。人们为了修筑道路和开辟种植园而砍伐森林时，常常被这些猛兽攻击，成了当时的灾害。由于伤亡人数太多，政府提供奖金鼓励人们灭虎。因此，猎杀老虎成了一门既可赚取奖金又可获得刺激感的体育活动。照片是“海峡狩猎团”会员与其猎物在蔡厝港村的合影。
 <p></p>
 <p></p>
 

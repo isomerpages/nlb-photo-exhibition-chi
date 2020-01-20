@@ -5,43 +5,43 @@ permalink: /about-the-project/
 breadcrumb: About the Project
 ---
 <div class="push-to-top"><center><sub>Presented by:</sub></center></div>
-![National Library of Singapore and Capital Library of China Logo](/images/memory-intro-logo-banner.jpg)
+![中国首都图书馆与新加坡国家图书馆](/images/memory-intro-logo-banner.jpg)
 <div class="padding--bottom"></div>
-‘Memories of Two Cities’ is a pictorial exhibition jointly presented by the Capital Library of China and the National Library of Singapore, signifying the goodwill and partnership between the two institutions. Through historical photographs drawn from the collections of both institutions, this exhibition presents Beijing and Singapore in earlier time periods, showcasing the many places, scenes and customs that have long vanished.
+“双城往事”是一个由中国首都图书馆与新加坡国家图书馆联合呈献的线上图片展，这项合作象征了两家机构友好的伙伴关系。通过两馆馆藏的历史照片，呈现早期北京与新加坡的人文面貌，回顾许多已经在时光中消失的地方、景象或习俗。
 
-![Memories of Two Cities Beijing Banner](/images/memory-intro-beijing-banner.jpg)
+![双城往事 — 北京篇](/images/memory-intro-beijing-banner.jpg)
 
-Renowned for its rich history and culture, Beijing was established more than 3,000 years ago, and has been as the capital of China for over 800 years. The glory and grandeur of the city and capital, as well as its historical aura, make up its unique cultural heritage. The charm of Beijing lies not only in its natural landscapes and architecture, but is also found in its streets, alleys, courtyards and marketplaces where people live their daily lives.
+中国北京是一座建城三千多年、建都八百多年的历史文化名城。“城”的辉煌、“都”的风光，名胜古迹的灵气，凝聚成这座城市独一无二的历史底蕴，北京的魅力，在山清水秀中、亭台楼榭间，也在百姓生活的街巷胡同、市井院落里。
 
-The Beijing component of this exhibition is curated by the Beijing Local Document Center of the Library, featuring 194 photographs of pre-1949 Beijing. The images are presented in seven sections – Ancient City Walls, Street Scenes, Imperial Palaces and Gardens, Customs and Festivals, Trade and Commerce, Everyday Life, and Transportation. They depict the majestic palaces and city walls, scenic gardens, myriad streets and alleys, and unique customs of old Beijing.
+本次展览北京部分由首都图书馆北京地方文献中心策划，共选取馆藏1949年以前的北京老照片164组194幅，并分成七个部分，即城垣古韵、街衢巷陌、苑囿景观、风俗节令、坐贾行商、市井生活、交通运输，展现北京巍峨壮丽的城垣宫殿，美轮美奂的苑囿风光，纵横交错的市街坊巷，独具特色的风土人情。
 
-![Memories of Two Cities Singapore Banner](/images/memory-intro-sg-banner-2.jpg)
+![双城往事 — 新加坡篇](/images/memory-intro-sg-banner-2.jpg)
 
-Beneath its modern façade, Singapore has a long history that dates back more than 700 years to its time as a trading port in late 13th-century Southeast Asia. After the founding of a British trading post on the island in 1819, Singapore developed into a thriving entrepot where people from around the world came to live and work. Cultural diversity characterised early Singapore and was manifested in its physical and social landscapes, lending the city a unique charm.
+新加坡虽有着现代化的市容，但它的历史可追溯至七百多年前的十三世纪末，当时它已经是东南亚的一个贸易海港。在1819年开埠成为英国的贸易站后，这座岛屿便逐渐发展成为一个繁荣的转口贸易枢纽。来自世界各地的人口汇集在此生活与工作，孕育出新加坡早期的多元文化，不论在城市景观还是人文风貌上都展现无遗，为这座国际都会增添了独特的魅力。
 
-The Singapore component of the exhibition showcases 173 photographs from the 1880s to the 1960s, mainly drawn from the collections of the National Library and the National Archives of Singapore, both institutions under the National Library Board of Singapore. The exhibition comprises six sections – Places of Power and Worship, A Tropical Metropolis, All Walks of Life, Colourful Customs, Centres of Commerce, and A City in Motion. It transports the viewer to early Singapore, featuring its varied architecture, lively streetscapes, cosmopolitan society, and multi-cultural customs.   
+本次展览新加坡部分展示了173幅1880至1960年代的历史照片，主要来自新加坡国家图书馆管理局旗下的国家图书馆与国家档案馆。展览共涵盖六个部分：权贵与敬拜之地、热带都会风情、民生百态、民俗与节庆、经济动脉以及车水马龙，透过老照片领人进入时光隧道，一窥早期新加坡多姿多彩的建筑风貌、熙熙攘攘的街景、包罗万象的都市生活以及多元文化的传统习俗。
 
-Embark on this visual journey to old Beijing and Singapore, and relive the memories of these two fascinating cities.
+请展开这趟视觉之旅，一睹老北京与早期新加坡的风貌，重温双城精彩无比的往昔回忆。
 <hr>
 
-<h3 class="padding--bottom"><strong>About Capital Library of China</strong></h3>
+<h3 class="padding--bottom"><strong>关于中国首都图书馆</strong></h3>
 <div class="row">
   <div class="col is-half">
-    <p>The Capital Library of China is a major public library under the jurisdiction of the Beijing municipality. It is open daily all year round and provides a multi-faceted and full spectrum of information and cultural services to the public, including loans, reference enquiries, talks and forums, exhibitions and other leisure activities. The Library is Beijing’s key knowledge and information hub, and is a centre for the development of the city’s cultural and intellectual life.</p>
+    <p>中国首都图书馆是北京市属大型公共图书馆，全年365天开馆，为全体社会大众提供文献借阅、信息咨询、讲座论坛、展览交流、文化休闲等全方位、多层次的文化信息服务，是北京市重要的知识信息枢纽和精神文明建设基地。</p>
   </div>  
   <div class="col is-half">
-    <img src="/images/capital-library-of-china-building.jpg" alt="Capital Library of China Building">
+    <img src="/images/capital-library-of-china-building.jpg" alt="中国首都图书馆">
   </div>
 </div>
 
 <hr>
 
-<h3 class="padding--bottom"><strong>About National Library, Singapore</strong></h3>
+<h3 class="padding--bottom"><strong>关于新加坡国家图书馆</strong></h3>
 <div class="row reverse-col-on-desktop">
   <div class="col is-half">
-    <p>The National Library of Singapore is a knowledge institution, entrusted and empowered to collect, preserve and make Singapore’s cultural and literary resource accessible to all. It is currently the premier resource for works about Singapore and Southeast Asia and provides the largest selection of reference works in multiple languages for the public. The Library actively engages the public through programmes, exhibitions, education outreach and digital platforms.</p>
+    <p>新加坡国家图书馆是一个负责收集、保存并提供新加坡文献资源给社会大众的知识机构。该馆目前是新加坡与东南亚文献的首要资料中心，为公众提供大量涵盖不同语文的参考资料。国家图书馆积极透过文化活动、展览、教育推广与数码平台，与公众搭建互动与交流的桥梁。</p>
   </div>  
   <div class="col is-half">
-    <img src="/images/national-library-of-sg-building.jpg" alt="National Library, Singapore Building">
+    <img src="/images/national-library-of-sg-building.jpg" alt="新加坡国家图书馆">
   </div>
 </div>

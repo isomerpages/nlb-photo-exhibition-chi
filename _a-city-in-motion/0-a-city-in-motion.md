@@ -1,320 +1,314 @@
 ---
 layout: leftnav-page-content
-title: A City in Motion
+title: 车水马龙
 permalink: /memories-of-two-cities-singapore/a-city-in-motion/a-city-in-motion/
-breadcrumb: A City in Motion
+breadcrumb: 车水马龙
 collection_name: a-city-in-motion
 ---
 
-![Rickshaw puller, c.1910](/images/city-in-motion/Sub1-1-rickshaw-puller.jpg)
+![人力车夫，1910年代](/images/city-in-motion/Sub1-1-rickshaw-puller.jpg)
 <div class="custom-caption">
-<div><p>Rickshaw puller, 1910s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>人力车夫，1910年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005754 - 0041</div>
 </div>
-Rickshaws, also known as jinrikishas or jinrickshas, were imported from Japan via Shanghai in the 1880s. Consisting of a small lightweight cart with large wheels pulled by a single man, these carriages were a common means of transportation throughout the
-19th and early 20th centuries. Rickshaws were popular as they were an inexpensive mode of transport, ideal for short journeys through crowded inner-city streets.
+人力车是1880年代从日本经上海引进新加坡的一种交通工具，车身由两个大轮子和一个座位组成。顾名思义，人力车是由一个人在前方拉行来驱动，是19世纪至20世纪初极为普遍的代步工具。搭乘人力车费用不高，因此广受欢迎，是穿梭于市内拥挤街道间的最佳短程交通工具。
 <p></p>
 <p></p>
 <hr>
 
-![Rickshaws and Chinese shophouses in Singapore, c. 1910](/images/city-in-motion/Sub1-2-rickshaw-and-chinese-shophouses.jpg)
+![牛车水街边的人力车与店屋，1910年](/images/city-in-motion/Sub1-2-rickshaw-and-chinese-shophouses.jpg)
 <div class="custom-caption">
-<div><p>Rickshaws and shophouses in Chinatown, 1910s</p></div>
-<div>Andrew Tan Collection, courtesy of National Archives of Singapore</div>
+<div><p>牛车水街边的人力车与店屋，1910年</p></div>
+<div>Andrew Tan藏品，由新加坡国家档案馆提供</div>
 <div>19980005905 - 0066</div>
 </div>
-Seen here is a street in Chinatown, where many Rickshaw pullers typically lived in tiny cubicles in shophouses. Requiring physical labour and no special skills, rickshaw pulling was the primary source of income for thousands of Chinese immigrants, the majority of whom were uneducated. Henghua and Hockchew immigrants from Fujian, China dominated the rickshaw trade from the late 19th century.
+图中所见是位于牛车水的店屋，不少店屋中设有狭小隔间，作为人力车夫们的栖身之所。做一名人力车夫仅需体力而非特别技能，成了许多未受教育的中国移民主要的谋生方式。自19世纪末以来，本地的人力车夫主要是来自福建兴化和福州的移民。
 <p></p>
 <p></p>
 <hr>
 
-![A rickshaw puller and his passengers, 1900s](/images/city-in-motion/Sub1-3-rickshaw-puller-and-his-passengers.jpg)
+![人力车夫与乘客，1900年代](/images/city-in-motion/Sub1-3-rickshaw-puller-and-his-passengers.jpg)
 <div class="custom-caption">
-<div><p>Rickshaw puller and passengers, 1900s</p></div>
-<div>Boden-Kloss Collection, courtesy of National Archives of Singapore</div>
+<div><p>人力车夫与乘客，1900年代</p></div>
+<div>Boden-Kloss藏品，由新加坡国家档案馆提供</div>
 <div>19980001861 – 0097</div>
 </div>
 <p></p>
 <p></p>
 <hr>
 
-![A hackney drawn by a horse, 1800s](/images/city-in-motion/Sub1-4-hackney-drawn-by-a-horse-cr.jpg)
+![马车，19世纪](/images/city-in-motion/Sub1-4-hackney-drawn-by-a-horse-cr.jpg)
 <div class="custom-caption">
-<div><p>Horse-drawn carriage, 1800s</p></div>
-<div>Collection of Nationaal Museum van Wereldculturen (Coll.no. RV-A128-0021), courtesy of National Archives of Singapore</div>
+<div><p>马车，19世纪</p></div>
+<div>荷兰Nationaal Museum van Wereldculturen 藏品（馆藏编号RV-A128-0021），由新加坡国家档案馆提供</div>
 <div>20050000661 – 0029</div>
 </div>
-Horse-drawn carriages were a common sight in Singapore in the 19th century. The early equivalent of a private-hire car, they were typically used by the wealthy. Smaller carriages were later used for public hire, much like the taxis of today. Known as
-“hackneys” or “gharries”, they crowded the streets in the business areas of town.
+马车是穿梭于19世纪的新加坡街道上常见的交通工具。它们犹如现今的私召车般供人传召，但通常只有富人会选择乘坐马车。后来，小型马车也供公众传召，类似现今的德士（出租车）。这类交通工具主要聚集于市内的商业区一带。
 <p></p>
 <p></p>
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![A horse-drawn carriage, 1900s](/images/city-in-motion/Sub1-5-horse-drawn-carriage.jpg)
+![马车，1900年代](/images/city-in-motion/Sub1-5-horse-drawn-carriage.jpg)
 </p>
 <div class="custom-caption">
-<div><p>Horse-drawn carriage, 1900s</p></div>
-<div>Boden-Kloss Collection, courtesy of National Archives of Singapore</div>
+<div><p>马车，1900年代</p></div>
+<div>Boden-Kloss藏品，由新加坡国家档案馆提供</div>
 <div>19980005032 - 0051</div>
 </div>
-In 19th-century Singapore, taking an evening ride in one’s carriage around town, especially at the Padang and Esplanade, was a popular leisure activity for the well-heeled.
+在19世纪的新加坡，傍晚时分在大草场（Padang），和滨海大道（Esplanade）一带乘坐自己的马车兜风，是不少富人喜爱的休闲活动。
 <p></p>
 <p></p>
 <hr>
 
-![Horse and carriage, 1880s](/images/city-in-motion/Sub1-6-horse-and-carriage.jpg)
+![马车，1880年代](/images/city-in-motion/Sub1-6-horse-and-carriage.jpg)
 <div class="custom-caption">
-<div><p>Horse and carriage, 1880s</p></div>
-<div>Morgan Betty Bassett Collection, courtesy of National Archives of Singapore</div>
+<div><p>马车，1880年代</p></div>
+<div>Morgan Betty Bassett藏品，由新加坡国家档案馆提供</div>
 <div>20090000101 - 0031</div>
 </div>
 <p></p>
 <p></p>
 <hr>
 
-![Bullock Cart, 1910](/images/city-in-motion/Sub1-7-Bullock-Cart.jpg)
+![牛车，1910年代](/images/city-in-motion/Sub1-7-Bullock-Cart.jpg)
 <div class="custom-caption">
-<div><p>Bullock cart, 1910s</p></div>
-<div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
+<div><p>牛车，1910年代</p></div>
+<div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
 <div>19980005882 – 0033</div>
 </div>
-Bullock-drawn carts were one of the earliest modes of transport in Singapore. Primarily used for carrying goods, they were also used to transport refuse in the 19th and early 20th century.
+牛车是新加坡最早的交通工具之一。从19世纪至20世纪初，牛车主要被用来运载货物，包括运输垃圾。
 <p></p>
 <p></p>
 <hr>
 
-![Water-car, 1906](/images/city-in-motion/Sub1-8-water-car.jpg)
+![牛车，1900年代](/images/city-in-motion/Sub1-8-water-car.jpg)
 <div class="custom-caption">
-<div><p>Bullock cart, 1900s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>牛车，1900年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005094 - 0102</div>
 </div>
-Bullock carts were also used to transport water. The place name for Chinatown, Kreta Ayer, translates to “bullock cart water” in Malay, draws from the bullock and ox carts that used to ply the streets carrying water to the early inhabitants of Singapore. Apart
-from domestic and commercial use, water was also used to settle dust raised by vehicles in the town’s streets.
+牛车也曾是运载水的交通工具。新加坡的“牛车水”这个地名源自马来文Kreta Ayer，即“运水牛车”的意思。牛车曾被用来将附近的井水运送给这区的居民，故此得名。牛车所运载的水，除了住家与商业用途以外，也被用来洒在街道上，减少尘埃。
 <p></p>
 <p></p>
 <hr>
 
-![Street Scene, 1900s](/images/city-in-motion/Sub1-9-street-scene.jpg)
+![街道上人力车、牛车与小贩的景象，1900年代](/images/city-in-motion/Sub1-9-street-scene.jpg)
 <div class="custom-caption">
-<div><p>Street scene with rickshaw, bullock cart and hawker, 1900s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>街道上人力车、牛车与小贩的景象，1900年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005505 – 0030</div>
 </div>
-Rickshaws and bullock carts were popular modes of transport in early Singapore. The use of bullock carts began to dwindle in the late 19th century with the introduction of mechanised transport. Rickshaws continued to be popular until they were replaced by bicycle-run trishaws in the 1940s. 
+人力车与牛车都是早期新加坡常见的交通工具。到了19世纪末，随着机械化交通工具的出现，牛车便逐渐被淘汰；而人力车则依然普遍使用，直至1940年代才被以脚踏车驱动的三轮车所取代。
 <p></p>
 <p></p>
 <hr>
 
-![Trishaw, 1950](/images/city-in-motion/Sub1-11-trishaw.jpg)
+![三轮车，1950年](/images/city-in-motion/Sub1-11-trishaw.jpg)
 <div class="custom-caption">
-<div><p>Trishaw, 1950</p></div>
-<div>Regina Lim Kheng Yeok Collection, courtesy of National Archives of Singapore</div>
+<div><p>三轮车，1950年</p></div>
+<div>Regina Lim Kheng Yeok藏品，由新加坡国家档案馆提供</div>
 <div>19980001362 - 0085</div>
 </div>
-The trishaw, which was introduced during the Japanese occupation (1942–1945), consists of a bicycle with a sidecar, powered by the cyclist. Compared to the rickshaw, it was a more efficient mode of transport and rose in popularity throughout the 1940s and 1950s. With the growth of motorcars, by the late 1970s, trishaws had become a service largely catering to tourists.
+三轮车是在日治时期（1942年至1945年期间）引进新加坡的交通工具。以一辆脚踏车（自行车）与安置在侧边的座位组成，由车夫骑着脚踏车来驱动。与人力车相比，三轮车是个比较省力的交通工具，因此很快便于1940至1950年代风行，成为常见的代步工具。到了1970年代末，由于汽车逐渐普遍而取代了三轮车，使它成为主要供游客用来观光的交通工具。
 <p></p>
 <p></p>
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![A trishaw rider and his passenger, 1961](/images/city-in-motion/Sub1-12-a-trishaw-rider-and-his-passenger.jpg)
+![三轮车夫与乘客，1961年 ](/images/city-in-motion/Sub1-12-a-trishaw-rider-and-his-passenger.jpg)
 </p>
 <div class="custom-caption">
-<div><p>Trishaw rider and passenger, 1961</p></div>
-<div>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</div>
+<div><p>三轮车夫与乘客，1961年 </p></div>
+<div>新闻与艺术部藏品，由新加坡国家档案馆提供</div>
 <div>19980007239 - 0115</div>
 </div>
 <p></p>
 <p></p>
 <hr>
 
-![A tram car, 1902](/images/city-in-motion/Sub1-13-a-tram-car.jpg)
+![有轨电车，1900年代](/images/city-in-motion/Sub1-13-a-tram-car.jpg)
 <div class="custom-caption">
-<div><p>Tram car, 1900s</p></div>
-<div>F W York Collection, courtesy of National Archives of Singapore</div>
+<div><p>有轨电车，1900年代</p></div>
+<div>F W York藏品，由新加坡国家档案馆提供</div>
 <div>19980005846 – 0065</div>
 </div>
-Launched in the 1880s, trams were one of the earliest modes of public transport in Singapore. The first trams were powered by steam. Electric trams were introduced to Singapore in 1905, with six tramway lines carrying passengers and cargo through the town.
-Despite heavy competition from rickshaws and bullock carts, trams carried an average of 11,000 passengers a day at the height of their service.
+于1880年代面世的有轨电车是新加坡最早的交通工具之一。首批有轨电车是由蒸汽驱动的，直至1905年，新加坡才引进由电力驱动的有轨电车。当时共有六条轨道跨越整个市区，供电车来回运载大量的乘客与货物。虽然面对来自人力车与牛车的激烈竞争，有轨电车在鼎盛时期每天平均运载约一万一千名乘客。
 <p></p>
 <p></p>
 <hr>
 
-![Tram car in motion along Tanjong Katong, 1910s](/images/city-in-motion/Sub1-14-tram-car-in-motion-along-tanjong-katong.jpg)
+![丹绒加东一带的电车，1910年代](/images/city-in-motion/Sub1-14-tram-car-in-motion-along-tanjong-katong.jpg)
 <div class="custom-caption">
-<div><p>Tram car in Tanjong Katong, 1910s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>丹绒加东一带的电车，1910年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005118 - 0049</div>
 </div>
-In 1902, municipal authorities passed the Tramways Ordinance, giving Singapore Electric Tramways exclusive rights to construct, equip and operate the island’s tram system. On 25 July 1905, the first car moved out of the MacKenzie Road depot, bound for Raffles Hotel. However, electric tramcars were eventually phased out by trolley buses in the 1920s.
+1902年，市政府通过《电车条例》，给予新加坡电车公司独家经营权，以建造、装备及运营全岛的电车系统。1905年7月25日，首辆电车从麦肯西路车厂出发，驶往莱佛士酒店。然而，有轨电车的好景不长，在1920年代便被无轨电车给取代了。
 <p></p>
 <p></p>
 <hr>
 
-![Local traffic, 1926-1930](/images/city-in-motion/Sub1-15-local-traffic.jpg)
+![禧街与史丹福路口的交通，1920年代](/images/city-in-motion/Sub1-15-local-traffic.jpg)
 <div class="custom-caption">
-<div><p>Traffic at the junction of Hill Street and Stamford Road, 1920s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>禧街与史丹福路口的交通，1920年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005493 - 0064</div>
 </div>
-Trolley buses were the first local bus services introduced by the Singapore Traction Company in 1929. The firm operated omnibus and trolley bus services that replaced electric trams. Similar to trams, trolley buses received power from overhead electric wires, but did not run on tracks, allowing them to manoeuvre around obstacles.
+无轨电车是新加坡电车公司于1929年推出的本地首项巴士服务。这家公司主要提供接驳巴士与无轨电车服务，进而取代了有轨电车。虽然与有轨电车一样，无轨电车的电力也是由车顶上的电线所供应，但它却无需在轨道上运行，因此可轻易避开障碍物，自由地在马路上穿行。
 <p></p>
 <p></p>
 <hr>
 
-![Commuters boarding trolley bus at Collyer Quay, 1946](/images/city-in-motion/Sub1-16-commuters-boarding-trolley-bus-at-collyer-quay.jpg)
+![在哥烈码头搭乘无轨电车的乘客，1946年](/images/city-in-motion/Sub1-16-commuters-boarding-trolley-bus-at-collyer-quay.jpg)
 <div class="custom-caption">
-<div><p>Commuters boarding a trolley bus at Collyer Quay, 1946</p></div>
-<div>Roland Craske Collection, courtesy of National Archives of Singapore</div>
+<div><p>在哥烈码头搭乘无轨电车的乘客，1946年</p></div>
+<div>Roland Craske藏品，由新加坡国家档案馆提供</div>
 <div>19980005038 - 0052</div>
 </div>
 <p></p>
 <p></p>
 <hr>
 
-![A trolley bus, 1930](/images/city-in-motion/Sub1-17-a-trolley-bus.jpg)
+![无轨电车，1930年](/images/city-in-motion/Sub1-17-a-trolley-bus.jpg)
 <div class="custom-caption">
-<div><p>Trolley bus, 1930</p></div>
-<div>J. A. Bennett Collection, courtesy of National Archives of Singapore</div>
+<div><p>无轨电车，1930年</p></div>
+<div>J. A. Bennett藏品，由新加坡国家档案馆提供</div>
 <div>19980005146 - 0047</div>
 </div>
-Trolley bus services began in 1929. After the Second World War, they were gradually replaced by motorbuses and finally ceased operation in 1962. 
+无轨电车服务于1929年投入运作，但在第二次世界大战后逐渐被公共汽车所取代。它于1962年停止服务，正式走入历史。
 <p></p>
 <p></p>
 <hr>
 
-![Car park at Bukit Timah race course, 1936](/images/city-in-motion/Sub1-18-car-park-at-bukit-timah-race-course.jpg)
+![武吉知马赛马场的停车场，1936年](/images/city-in-motion/Sub1-18-car-park-at-bukit-timah-race-course.jpg)
 <div class="custom-caption">
-<div><p>Car park at Bukit Timah Race Course, 1936</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>武吉知马赛马场的停车场，1936年</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005493 - 0005</div>
 </div>
-The first motorcar was brought into Singapore in 1894. It likely started a craze among wealthy automobile enthusiasts on the island. Cars only entered the consumer market in the 1920s, after the introduction of mass-producing assembly plants. From then on, the ownership and use of motorcars grew exponentially, replacing horse-drawn carriages by the 1930s. By 1940, there were over 11,000 private cars in Singapore.
+1894年，新加坡引进了首辆汽车，此举很可能在本地的富人当中引起驾驶汽车的热潮。但直至1920年代汽车组装工厂开始量产后，汽车才真正进入消费者市场。从此，拥有和驾驶汽车的人越来越多，并且于1930年代取代了马车，成为常用的交通工具。到了1940年，新加坡已有超过一万一千辆的私家车。
 <p></p>
 <p></p>
 <hr>
 
-![Passengers in a car at MacRitichie reservoir, 1920-1940](/images/city-in-motion/Sub1-20-passengers-in-a-car-at-macritichie-reservoir.jpg)
+![驱车到麦里芝蓄水池郊游， 1920年代](/images/city-in-motion/Sub1-20-passengers-in-a-car-at-macritichie-reservoir.jpg)
 <div class="custom-caption">
-<div><p>Outing by car at MacRitichie Reservoir, 1920s</p></div>
-<div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
+<div><p>驱车到麦里芝蓄水池郊游， 1920年代</p></div>
+<div>Lee Brothers Studio藏品，由新加坡国家档案馆提供</div>
 <div>20080000358 - 0136</div>
 </div>
-In the early 20th century, cars were marketed as a luxury good and a symbol of wealth and prestige for privileged customers. Only the elite in Singapore could afford car ownership and go on outings in their vehicles, like the group photographed here.
+在20世纪初，汽车被定位为奢侈品，是富裕和高尚的象征。在当时的新加坡，仅有上流社会人士有能力拥有汽车，如图中的人们般驾车到郊外兜风。
 <p></p>
 <p></p>
 <hr>
 
-![Vintage car with passengers at North Bridge Road, 1920s-1940s](/images/city-in-motion/Sub1-19-vintage-car-with-passengers-at-north-bridge-road.jpg)
+![驾车的女士与乘客，1920年代](/images/city-in-motion/Sub1-19-vintage-car-with-passengers-at-north-bridge-road.jpg)
 <div class="custom-caption">
-<div><p>Motor car with female driver and passengers, 1920s</p></div>
-<div>The Peranakan Association Collection, courtesy of National Archives of Singapore</div>
+<div><p>驾车的女士与乘客，1920年代</p></div>
+<div>土生华人协会藏品，由新加坡国家档案馆提供</div>
 <div>19990002486 - 025</div>
 </div>
-Women driving cars, as seen here, was a rare sight in early Singapore, and indicated the high socioeconomic status of the group.
+图中驾驶汽车的女性，在早期的新加坡非常罕见。这也凸显了这群女性的高尚社会地位和优越经济条件。
 <p></p>
 <p></p>
 <hr>
 
-![Traffic policeman, 1930-1934](/images/city-in-motion/Sub1-21-traffic-policeman.jpg)
+![交通警察，1930年代](/images/city-in-motion/Sub1-21-traffic-policeman.jpg)
 <div class="custom-caption">
-<div><p>Traffic policeman, 1930s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>交通警察，1930年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005494 - 0008</div>
 </div>
-The first traffic laws in Singapore were passed in 1911, the same year a special traffic police department was established. As the number of motorcars on the roads increased in the 1930s, traffic policemen became more important on the roads. Many of them could be
-seen in their distinctive uniforms directing traffic at busy road junctions.
+新加坡最早的交通法令于1911年制定，并于同年成立了一个特别的交通警察部门。随着汽车数量于1930年代逐渐攀升，交通警察在公路上扮演着关键的角色。许多身穿显眼制服的交通警察会站在繁忙的路段为往来的车辆和行人指挥交通。
 <p></p>
 <p></p>
 <hr>
 
-![Traffic constable, 1930s](/images/city-in-motion/Sub1-22-traffic-constable.jpg)
+![交通警察，1930年代 ](/images/city-in-motion/Sub1-22-traffic-constable.jpg)
 <div class="custom-caption">
-<div><p>Traffic policeman, 1930s</p></div>
-<div>Lee Kip Lin Collection, courtesy of National Archives of Singapore</div>
+<div><p>交通警察，1930年代 </p></div>
+<div>李急麟藏品，由新加坡国家档案馆提供</div>
 <div>19980005123 - 0092</div>
 </div>
-The early traffic police wore distinctive uniforms comprising a white long-sleeved shirt with white shorts and knee-high black boots, along with a hard hat and white gloves. Traffic police also carried a baton and long rectangular-shaped rattan boards on
-their backs, which helped them to direct traffic at road junctions.
+早期的交通警察会身穿白色长袖上衣与白色短裤的显眼制服，搭配黑色长靴、扣着徽章的帽子及白色手套，并且携带警棍和背上长方形藤编板，站在公路交界处执勤，指挥交通。
 <p></p>
 <p></p>
 <hr>
 
-![A traffic policeman guiding vehicles at road junction, 1950s](/images/city-in-motion/Sub1-23-a-traffic-policeman-guiding-vehicles-at-road-junction.jpg)
+![一名交通警察在公路交界处指挥交通，1950年代](/images/city-in-motion/Sub1-23-a-traffic-policeman-guiding-vehicles-at-road-junction.jpg)
 <div class="custom-caption">
-<div><p>A traffic policeman guiding vehicles at a junction, 1950s</p></div>
-<div>Singapore Police Force Collection, courtesy of National Archives of Singapore</div>
+<div><p>一名交通警察在公路交界处指挥交通，1950年代</p></div>
+<div>新加坡警察部队藏品，由新加坡国家档案馆提供</div>
 <div>19980005148 – 0017</div>
 </div>
 <p></p>
 <p></p>
 <hr>
 
-![Singapore-Kranji Railway, 1906](/images/city-in-motion/Sub1-24-singapore-kranji-railway.jpg)
+![新加坡—克兰芝铁路，1906年](/images/city-in-motion/Sub1-24-singapore-kranji-railway.jpg)
 <div class="custom-caption">
-<div><p>Singapore-Kranji Railway, 1906</p></div>
-<div>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore </div>
+<div><p>新加坡—克兰芝铁路，1906年</p></div>
+<div>Arshak C. Galstaun藏品，由新加坡国家档案馆提供</div>
 <div>19980005502 - 0031</div>
 </div>
-The Singapore-Kranji Railway, also known as the Singapore-Johor Railway, opened in 1903. Its construction was supervised by the Federated Malay States Railway (FMSR), which took charge of railway operations in Singapore from 1918.
+新加坡—克兰芝铁路（又称新加坡—柔佛铁路）于1903年启用。铁路的建设工程由马来联邦铁路局 （Federated Malay States Railway, 简称FMSR）监督完成， 1918年之后，FMSR便全面接手新加坡的铁路经营与运作。
 <p></p>
 <p></p>
 <hr>
 
-![Newton station, 1910](/images/city-in-motion/Sub1-25-newton-station.jpg)
+![纽顿车站，1910年](/images/city-in-motion/Sub1-25-newton-station.jpg)
 <div class="custom-caption">
-<div><p>Newton station, 1910</p></div>
-<div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
+<div><p>纽顿车站，1910年</p></div>
+<div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
 <div>19980006559 - 0115</div>
 </div>
-The Singapore-Kranji Railway opened in 1903 and ran between Tank Road and Kranji, with five stations along the line: Singapore (later renamed Tank Road), Newton, Cluny, Bukit Timah and Woodlands. An extension to the wharves in Pasir Panjang opened in 1907 and more stations were added to the line.
+新加坡—克兰芝铁路于1903年启用，在登路与克兰芝之间共设有5个车站，分别为新加坡站（后改名为登路站）、纽顿站、克鲁尼站、武吉知马站及兀兰站。这条路线于1907年延长并增设更多车站，一路延伸至位于巴西班让的码头。
 <p></p>
 <p></p>
 <hr>
 
-![Tank Road Station, 1923](/images/city-in-motion/Sub1-26-tank-road-station.jpg)
+![登路车站，1920年代](/images/city-in-motion/Sub1-26-tank-road-station.jpg)
 <div class="custom-caption">
-<div><p>Tank Road station, 1920s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>登路车站，1920年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005493 – 0062</div>
 </div>
-Tank Road railway station, located near Fort Canning, served as the main terminus for passengers embarking on rail travel from Singapore Town, and was the only terminus for passenger trains arriving from the Woodlands Jetty on the Singapore-Kranji Railway. The station opened in 1907, together with the extension of the original Singapore-Kranji railway line to Pasir Panjang.
+登路车站位于福康宁山脚，是搭乘火车的旅客从新加坡市区启程的总站，也是新加坡—克兰芝铁道上从兀兰码头通往市区的客运火车唯一终点站。该车站于1907年启用，同年，新加坡—克兰芝铁路线延长至巴西班让地区。
 <p></p>
 <p></p>
 <hr>
 
-![Bukit Timah railway station, 1905](/images/city-in-motion/Sub1-27-bukit-timah-railway-station-cr.jpg)
+![武吉知马车站，1900年代](/images/city-in-motion/Sub1-27-bukit-timah-railway-station-cr.jpg)
 <div class="custom-caption">
-<div><p>Bukit Timah station, 1900s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>武吉知马车站，1900年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005094 - 0090</div>
 </div>
-Bukit Timah railway station comprised simple, unadorned brick buildings with gable roofs. Together with the Alexandra and Tanglin Halt stations, the Bukit Timah station serviced the suburban areas of Singapore. In its later years, the station operated mainly as a freight interchange.
+武吉知马车站采用朴素石砖与山墙呈现简单的建筑风格，它与亚历山大车站及东陵福车站同为新加坡市郊的火车站。到了后期，武吉知马车站的用途，主要作为载货火车的转换站。
 <p></p>
 <p></p>
 <hr>
 
-![Tanjong Pagar railway station, 1940](/images/city-in-motion/Sub1-28-tanjong-pagar-railway-station.jpg)
+![丹戎巴葛火车站，1940年代](/images/city-in-motion/Sub1-28-tanjong-pagar-railway-station.jpg)
 <div class="custom-caption">
-<div><p>Tanjong Pagar station, 1940</p></div>
-<div>J. A. Bennett Collection, courtesy of National Archives of Singapore</div>
+<div><p>丹戎巴葛火车站，1940年代</p></div>
+<div>J. A. Bennett藏品，由新加坡国家档案馆提供</div>
 <div>19980005146 – 0054</div>
 </div>
-Located along Keppel Road, Tanjong Pagar railway station served trains operated by the Federated Malay States Railway (FMSR) that ran between Singapore and Malaya. The building opened in 1932 as the terminus for FMSR’s West Coast Line. The station was located directly opposite the Tanjong Pagar docks, which made the transfer of cargo between steamships and railway trains much easier.
+位于岌巴路的丹戎巴葛火车站，主要为由马来联邦铁路局（FMSR）运营、往返新加坡与马来亚的火车服务。火车站于1932年启用，是FMSR西岸线的终点站。由于火车站就在丹戎巴葛码头的正对面，因此这地利之便让货轮与火车之间的货物运输更为顺畅简易。
 <p></p>
 <p></p>
 <hr>
 
-![Tanjong Pagar railway station, 1930s](/images/city-in-motion/Sub1-29-railway-station.jpg)
+![丹戎巴葛火车站，1930年代](/images/city-in-motion/Sub1-29-railway-station.jpg)
 <div class="custom-caption">
-<div><p>Tanjong Pagar station, 1930s</p></div>
-<div>Courtesy of National Archives of Singapore</div>
+<div><p>丹戎巴葛火车站，1930年代</p></div>
+<div>由新加坡国家档案馆提供</div>
 <div>19980005026 - 0026</div>
 </div>
-Tanjong Pagar railway station was designed by leading architectural firm Swan &amp; Maclaren. The building was inspired by railways stations in England and incorporated Art Deco and Neo-Classical elements in its design.
+丹戎巴葛火车站是由当时首屈一指的建筑公司Swan & Maclaren所设计。这座建筑的设计受到欧洲火车站所启发，融入装饰艺术与新古典风格的设计元素。
 <p></p>
 <p></p>
 
