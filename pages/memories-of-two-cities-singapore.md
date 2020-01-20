@@ -43,7 +43,7 @@ breadcrumb: 双城往事 — 新加坡篇
 </div>
 
 <div class="category-block-wrap">
-  <p>A City in Motion</p>
+  <p>车水马龙</p>
   <img class="cover" src="/images/city-in-motion-button.jpg">
   <a class="cover" href="/memories-of-two-cities-singapore/a-city-in-motion/"></a>
 </div>
