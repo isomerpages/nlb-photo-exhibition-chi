@@ -11,7 +11,7 @@ breadcrumb: 关于展览
     <div class="sgds-container">
         <div class="row">
             <div class="col is-half">
-                <h6 class="has-text-centered">新加坡国家图书馆</h6>
+                <h6 class="has-text-right margin--xs">新加坡国家图书馆</h6>
             </div>
             <div class="col is-half">
             </div>
