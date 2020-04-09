@@ -4,7 +4,18 @@ title: 关于展览
 permalink: /about-the-project/
 breadcrumb: 关于展览
 ---
-<div class="push-to-top"><center><sub>主办机构:</sub></center></div>
+
+<nav class="sgds-breadcrumb has-succeeds-separator" aria-label="breadcrumbs">
+    <ul>
+        <li><a href="">HOME</a></li>
+        <li><a href="">LINK 1</a></li>
+        <li><a href="">LINK 2</a></li>
+    </ul>
+</nav>
+
+<div class="push-to-top"><center><sub><h3>主办机构:</h3></sub></center></div>
+新加坡国家图书馆
+
 ![中国首都图书馆与新加坡国家图书馆](/images/memory-intro-logo-banner.jpg)
 <div class="padding--bottom"></div>
 “双城往事”是一个由中国首都图书馆与新加坡国家图书馆联合呈献的线上图片展，这项合作象征了两家机构友好的伙伴关系。通过两馆馆藏的历史照片，呈现早期北京与新加坡的人文面貌，回顾许多已经在时光中消失的地方、景象或习俗。
