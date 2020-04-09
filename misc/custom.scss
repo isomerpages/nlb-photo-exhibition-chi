@@ -422,7 +422,7 @@ section.bg-hero {
 .custom-caption.style-two p {
     font-size: 11pt;
     line-height: 18pt;
-    color:#a2a2a2;
+    color:#000000;
 }
 
 .custom-caption.style-two {
@@ -433,6 +433,10 @@ section.bg-hero {
 
 .custom-caption.style-two>div:nth-last-child(1) {
     position: absolute;
+}
+
+.p {
+    font-weight: 500;
 }
 
 /*nlb subpages*/
