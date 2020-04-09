@@ -10,7 +10,7 @@ breadcrumb: 关于展览
 <section class="sgds-section">
     <div class="sgds-container">
         <div class="row">
-            <div class="col is-half">
+            <div class="col is-half padding--bottom--xs">
                 <h6 class="has-text-centered margin--xs">新加坡国家图书馆</h6>
             </div>
             <div class="col is-half">
@@ -21,7 +21,7 @@ breadcrumb: 关于展览
                 <img src="/images/memory-intro-logo-NL.jpg" alt="新加坡国家图书馆" class="center">
             </div>            
             <div class="col is-half margin--xs">
-                <img src="/images/memory-intro-logo-CLC.jpg" alt="中国首都图书馆" class="center">
+                <img src="/images/memory-intro-logo-CLC.jpg" alt="中国首都图书馆">
             </div>
         </div>
     </div>
