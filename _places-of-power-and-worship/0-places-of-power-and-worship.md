@@ -4,6 +4,7 @@ title: 权贵与敬拜之地
 permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/
 breadcrumb: 权贵与敬拜之地
 collection_name: memories-of-two-cities-singapore
+
 ---
 
 ![总督府，1899年](/images/power-and-worship/power-and-worship-banner.jpg)
