@@ -4,6 +4,8 @@ title: 权力重地
 permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/seats-of-power/
 breadcrumb: 权力重地
 collection_name: places-of-power-and-worship
+second_nav_title: "权贵与敬拜之地"
+
 ---
 在新加坡700年的历史中，过往王朝与帝国的统治者都在此地留下雪泥鸿爪。但是，英国人于19世纪初登陆新加坡后，随着城市发展，前殖民地时代统治者遗留的痕迹却似乎已消失殆尽。
 
