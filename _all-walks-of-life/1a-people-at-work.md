@@ -4,6 +4,8 @@ title: 与亲朋留影
 permalink: /memories-of-two-cities-singapore/all-walks-of-life/people-at-work/
 breadcrumb: 与亲朋留影
 collection_name: all-walks-of-life
+second_nav_title: "民生百态"
+
 ---
 新加坡于1819年成为英国的贸易站，因而吸引了大批来自中国、印度及马来群岛的移民到此寻求这个迅速发展的殖民地所带来的工作机会。来自各行各业和各社经阶层的人聚集于此，从事行政、商业、摊贩及劳工等工作。
 

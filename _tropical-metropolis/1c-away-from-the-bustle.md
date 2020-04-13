@@ -4,6 +4,8 @@ title: 远离尘嚣
 permalink: /memories-of-two-cities-singapore/tropical-metropolis/away-from-the-bustle/
 breadcrumb: Away from the Bustle
 collection_name: tropical-metropolis
+second_nav_title: "热带都会风情"
+
 ---
 
 早期的新加坡居民需要暂避都市生活的喧嚣以及热带的溽暑。新加坡四面环海，人们可在许多地点欣赏美丽的海景及享受凉爽的海风，如市中心的滨海地带以及东海岸的景点丹绒加东。随着城市的发展，新加坡增设了不少让民众休闲的公园和设施，如植物园、蓄水池（现为麦里芝蓄水池）及其他公园，都为民众提供了休憩的去处，让他们能在忙碌的都市生活中喘一口气。至今，这些休闲空间和场所依然扮演着同样的角色。

@@ -4,6 +4,8 @@ title: 丹戎巴葛海港
 permalink: /memories-of-two-cities-singapore/centres-of-commerce/harbour-at-tanjong-pagar/
 breadcrumb: 丹戎巴葛海港
 collection_name: centres-of-commerce
+second_nav_title: "经济动脉"
+
 ---
 直至19世纪中期，大部分的新加坡航运活动都围绕在新加坡河口。到了1850年代，新加坡河的航运交通愈发拥挤，因此有必要修建一座新的港口，以应付与日俱增的贸易活动。
 

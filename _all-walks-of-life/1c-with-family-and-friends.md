@@ -4,6 +4,8 @@ title: 与亲朋留影
 permalink: /memories-of-two-cities-singapore/all-walks-of-life/with-family-and-friends/
 breadcrumb: 与亲朋留影
 collection_name: all-walks-of-life
+second_nav_title: "民生百态"
+
 ---
 英国作家兼旅人伊莎贝拉·博得曾于1879年这么描述新加坡：“这座城市里，人们的衣着色彩斑斓、五花八门… 各种从中东到中国的东方服装都在街上展示。”由此可见，早期的新加坡已是一个文化万花筒，每个人的身份认同一般会体现在衣着服饰上。
 

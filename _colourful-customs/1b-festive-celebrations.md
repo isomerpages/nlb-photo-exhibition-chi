@@ -4,6 +4,8 @@ title: 节庆活动
 permalink: /memories-of-two-cities-singapore/colourful-customs/festive-celebrations/
 breadcrumb: 节庆活动
 collection_name: colourful-customs
+second_nav_title: "民俗与节庆"
+
 ---
 
 在新加坡生活的一大亮点，就是可以全年尽情体验多元种族与不同宗教社群的节庆活动。 

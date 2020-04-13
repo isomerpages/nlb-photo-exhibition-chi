@@ -4,6 +4,8 @@ title: 莱佛士坊
 permalink: /memories-of-two-cities-singapore/centres-of-commerce/raffles-place/
 breadcrumb: 莱佛士坊
 collection_name: centres-of-commerce
+second_nav_title: "经济动脉"
+
 ---
 莱佛士坊原名为“商业广场”（Commercial Square），是由莱佛士爵士于1822年划定为新加坡的商业区。它最初是一片沼泽地，为了建造商业广场，附近一座山丘被夷为平地以填补沼泽。
 
