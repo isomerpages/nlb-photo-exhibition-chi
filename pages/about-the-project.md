@@ -5,7 +5,7 @@ permalink: /about-the-project/
 breadcrumb: 关于展览
 ---
 
-<div class="push-to-top"><center><sub><h3>主办机构:</h3></sub></center></div>
+<div class="push-to-top"><center><h3>主办机构:</h3></center></div>
 
 <section class="sgds-section">
     <div class="sgds-container">
