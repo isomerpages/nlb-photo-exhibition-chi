@@ -1,16 +1,16 @@
 ---
 layout: leftnav-page-content
-title: All Walks of Life
+title: 民生百态
 permalink: /memories-of-two-cities-singapore/all-walks-of-life/
-breadcrumb: All Walks of Life
+breadcrumb: 民生百态
 collection_name: memories-of-two-cities-singapore
 ---
-![Chinese coolies, 1900s](/images/all-walks-of-life/all-walks-of-life-banner.jpg)
-### **All Walks of Life**
+![华族苦力，1900年代](/images/all-walks-of-life/all-walks-of-life-banner.jpg)
+### **民生百态**
 
-Imagine walking around Singapore in the late 19th century or early 20th century. One would be amazed to encounter people of every ethnic origin, hailing from all over the world, working and living alongside one another. Multiculturalism characterised Singapore back then as much as it remains the nation’s trademark today. In the early days, communities were clearly segregated by ethnicity and social economic status, and distinct groups of people could be easily identified by their occupation, and cultural identity, which were reflected by their apparel.
+试想自己于19世纪末、20世纪初的新加坡走一遭，您会因为遇到来自世界各地不同种族的人聚集于此一起工作和生活而感到惊奇。早期新加坡社会的多元文化，至今仍然是岛国的一大特色。在以往，各社群按照种族与社会经济阶层清楚划分，不同族群的身份可从其所从事的职业以及代表文化认同的衣着看出端倪。
 
-In this section, photographs of people at work and leisure, as well as group portraits taken in studios reveal the rich diversity and provide fascinating insights into early Singapore society.
+这个部分展示了当时人们工作与休闲的照片，以及他们在照相馆所拍摄的肖像，让人一窥早期新加坡多元文化社会的面貌。
 
 <p>&nbsp;</p>
 
@@ -22,7 +22,7 @@ In this section, photographs of people at work and leisure, as well as group por
     <img class="photo-lv-2" src="/images/all-walks-of-life/work-photo-stack-2.png">
     <img class="photo-lv-3" src="/images/all-walks-of-life/work-photo-stack-3.png">
   </div>
-  <p>People at Work</p>
+  <p>劳动的人们</p>
   <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/people-at-work"></a>
 </div> 
   
@@ -32,7 +32,7 @@ In this section, photographs of people at work and leisure, as well as group por
     <img class="photo-lv-2" src="/images/all-walks-of-life/play-photo-stack-2.png">
     <img class="photo-lv-3" src="/images/all-walks-of-life/play-photo-stack-3.png">
   </div>
-  <p>People at Play</p>
+  <p>休闲娱乐的人们</p>
   <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/people-at-play/"></a>
 </div>
 
@@ -46,7 +46,7 @@ In this section, photographs of people at work and leisure, as well as group por
     <img class="photo-lv-2" src="/images/all-walks-of-life/family-photo-stack-2.png">
     <img class="photo-lv-3" src="/images/all-walks-of-life/family-photo-stack-3.png">
   </div>
-  <p>With Family and Friends</p>
+  <p>与亲朋留影</p>
   <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/with-family-and-friends/"></a>
 </div> 
 

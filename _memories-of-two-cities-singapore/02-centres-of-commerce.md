@@ -1,19 +1,19 @@
 ---
 layout: leftnav-page-content
-title: Centres of Commerce
+title: 经济动脉
 permalink: /memories-of-two-cities-singapore/centres-of-commerce/
-breadcrumb: Centres of Commerce
+breadcrumb: 经济动脉
 collection_name: memories-of-two-cities-singapore
 ---
 
-![Raffles Place seen from the Chartered Bank, 1920s](/images/centres-of-commerce/commerce-banner.jpg)
-### **Centres of Commerce**
+![从渣打银行俯瞰莱佛士坊，1920年代](/images/centres-of-commerce/commerce-banner.jpg)
+### **经济动脉**
 
-The importance of Singapore and its surrounding waterways has for centuries been due to its role in regional and international maritime trade. The mouth of the Singapore River leads to the Straits of Singapore, which together with the Straits of Melaka, is a major shipping route linking the Indian Ocean to the South China Sea.
+在过去几个世纪以来，新加坡及其周围的水路航线一直在区域与国际海事贸易上扮演着重要的角色。新加坡河口延伸至新加坡海峡，连同马六甲海峡，共同形成了连接印度洋与南中国海的主要船运航线。
 
-When Singapore developed as a British trading port in the early 19th century, ships would moor at its harbour off the mouth of the Singapore River, where goods would be ferried to warehouses along the river before being re-exported. On the south bank of the river, Commercial Square (now Raffles Place) was established as the port city’s first business hub, providing easy access to the harbour. By the mid-19th century, the New Harbour (now Keppel Harbour) at Tanjong Pagar emerged as the main port, driving Singapore’s economic progress.
+当新加坡于19世纪初发展成为英国的贸易港口时，许多货船会停靠在位于新加坡河口外的港口，并将货物运送至河边的货仓中储存，以便再出口到其他地区。位于新加坡河的南岸，“商业广场”（Commercial Square, 现为莱佛士坊）是这座港口城市的首个商业枢纽，为出入港口提供便利。到了19世纪中期，坐落在丹戎巴葛的新海港（现为岌巴海港）取而代之，成为主要港口，推动了新加坡的经济发展。
 
-This section features early Singapore’s key commercial centres.
+这个部分将展示早期新加坡的主要商业中心的图片。
 
 <p>&nbsp;</p>
 
@@ -25,7 +25,7 @@ This section features early Singapore’s key commercial centres.
     <img class="photo-lv-2" src="/images/centres-of-commerce/raffles-place-photo-stack-2.png">
     <img class="photo-lv-3" src="/images/centres-of-commerce/raffles-place-photo-stack-3.png">
   </div>
-  <p>Raffles Place</p>
+  <p>莱佛士坊</p>
   <a class="cover" href="/memories-of-two-cities-singapore/centres-of-commerce/raffles-place/"></a>
 </div> 
   
@@ -35,7 +35,7 @@ This section features early Singapore’s key commercial centres.
     <img class="photo-lv-2" src="/images/centres-of-commerce/sg-river-photo-stack-2.png">
     <img class="photo-lv-3" src="/images/centres-of-commerce/sg-river-photo-stack-3.png">
   </div>
-  <p>Singapore River</p>
+  <p>新加坡河</p>
   <a class="cover" href="/memories-of-two-cities-singapore/centres-of-commerce/singapore-river/"></a>
 </div>
 
@@ -49,7 +49,7 @@ This section features early Singapore’s key commercial centres.
     <img class="photo-lv-2" src="/images/centres-of-commerce/harbour-photo-stack-2.png">
     <img class="photo-lv-3" src="/images/centres-of-commerce/harbour-photo-stack-3.png">
   </div>
-  <p>Harbour at Tanjong Pagar</p>
+  <p>丹戎巴葛海港</p>
   <a class="cover" href="/memories-of-two-cities-singapore/centres-of-commerce/harbour-at-tanjong-pagar"></a>
 </div> 
 

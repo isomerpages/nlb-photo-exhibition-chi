@@ -1,0 +1,83 @@
+---
+layout: leftnav-page-content
+title: 权力重地
+permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/seats-of-power/
+breadcrumb: 权力重地
+collection_name: places-of-power-and-worship
+second_nav_title: "权贵与敬拜之地"
+
+---
+在新加坡700年的历史中，过往王朝与帝国的统治者都在此地留下雪泥鸿爪。但是，英国人于19世纪初登陆新加坡后，随着城市发展，前殖民地时代统治者遗留的痕迹却似乎已消失殆尽。
+
+“禁山” （马来文为Bukit Larangan，今福康宁山）自古以来就是皇宫所在地和皇家禁地，同时也是权力的象征。莱佛士爵士于1822年在山上建造了一栋洋房，它随后成为殖民地时期的总督府。到了1869年，新的总督府才在乌节路一带建成。同时，马来皇族则居住在位于甘榜格南的皇宫（马来文为Istana）。作为权力重地或皇族居所，这些建筑物不论在建筑风格或历史意义上都非常具代表性。
+<p></p>
+![---](/images/partition.jpg)
+
+![福康宁山正门，1925年](/images/power-and-worship/Sub1-1-fort-canning-entrance-cr.jpg)
+<div class="custom-caption">
+<div><p>福康宁山正门，1925年</p></div>
+<div>由新加坡国家档案馆提供</div>
+<div>19980005063 – 0116</div>
+</div>
+福康宁山，之前称为“禁山”（马来文Bukit Larangan）和“皇家山”，是新加坡有史以来最古老的地标。学者认为它是马来皇族王宫的所在地，也是古代国王的墓陵。莱佛士爵士于1822年在此建设一栋洋房，过后成为总督府即历届殖民地总督的官邸。1850年代，因兴建军用堡垒而迁移总督府。福康宁山的正门在山的北部，是一扇哥特式风格的拱门。
+<p></p>
+<p></p>
+<hr>
+
+![福康宁山掩蔽壕，1925年](/images/power-and-worship/Sub1-2-bunker-at-fort-canning-cr.jpg)
+<div class="custom-caption">
+<div><p>福康宁山掩蔽壕，1925年</p></div>
+<div>由新加坡国家档案馆提供</div>
+<div>19980005063 – 0118</div>
+</div>
+福康宁是英国人在新加坡最早建造的军事堡垒之一，其用途是为了防卫来自海上的攻击，监督全城安全及在发生动乱时为本地的欧洲人提供庇护。该堡垒于1864年全面启用，但它不曾在任何战事中被使用，并于1907年停止运作。
+<p></p>
+<p></p>
+<hr>
+
+![福康宁山的风景，1870年代](/images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill.jpg)
+<div class="custom-caption">
+<div><p>福康宁山的风景，1870年代</p></div>
+<div>李急麟藏品，新加坡国家图书馆馆藏</div>
+</div>
+这张从福康宁山上的炮台所拍摄的照片显示，从山上可鸟瞰新加坡市区，周遭景色一览无遗。炮台所发射的炮弹可报时，还能在市区发生火患时提供警报作用。照片中间的圣安德烈座堂是新加坡历史悠久的教堂之一。 
+<p></p>
+<p></p>
+<hr>
+
+![总督府，1900年代](/images/power-and-worship/Sub1-5-government-house.jpg)
+<div class="custom-caption">
+<div><p>总督府，1900年代</p></div>
+<div>由新加坡国家档案馆提供</div>
+<div>19980005095 - 0062</div>
+</div>
+坐落于皇家山（今福康宁山）的旧总督府在1859年被拆除后，新总督府于1869年在乌节路地带建成。它是殖民地政府总督的官邸，一共有21位总督在此居住办公。当新加坡于1959年成为自治邦时，总督府被重新命名为总统府（马来文Istana，即“王宫”）。如今，它是新加坡的总统官邸。
+<p></p>
+<p></p>
+<hr>
+
+![总督府，1899年](/images/power-and-worship/Sub1-7-government-house.jpg)
+<div class="custom-caption">
+<div><p>总督府，1899年</p></div>
+<div>李急麟藏品，新加坡国家图书馆馆藏</div>
+</div>
+总督府坐落在广阔优美的地段，由殖民地政府工程师约翰麦克耐尔（John Frederick Adolphus McNair）设计。他也是新加坡于19世纪最重要的建筑师之一。总督府的建筑风格与许多18世纪英国人在印度建造的新帕拉底奥式建筑相似。
+<p></p>
+<p></p>
+<hr>
+
+![甘榜格南王宫，1960年代](/images/power-and-worship/Sub1-10-istana-kampong-glam-cr.jpg)
+<div class="custom-caption">
+<div><p>甘榜格南王宫，1960年代</p></div>
+<div>李急麟藏品，新加坡国家图书馆馆藏</div>
+</div>
+<hr>
+
+![甘榜格南王宫，1960年代](/images/power-and-worship/Sub1-11-istana-kampong-glam-cr.jpg)
+<div class="custom-caption">
+<div><p>甘榜格南王宫，1960年代</p></div>
+<div>李急麟藏品，新加坡国家图书馆馆藏</div>
+</div>
+新加坡曾经于16世纪至19世纪期间隶属柔佛 –廖内苏丹王朝。1819年，莱佛士爵士与两名本地的马来统治者胡先苏丹及天猛公阿都拉曼签署协议，让英国人在新加坡设立贸易站。在签署协议前，莱佛士宣布东姑胡先（已逝柔佛苏丹穆沙（Mahmud Shah）之长子）为柔佛正式的统治者。过后，胡先苏丹便在甘榜格南建设王宫。王宫原本为木造结构，胡先苏丹之子东姑莫哈末阿里（Tengku Mohammed Ali）于1843年将王宫改建成两层楼的欧式风格建筑。甘榜格南王宫现已成为马来传统文化馆的所在地。
+<p></p>
+<p></p>
