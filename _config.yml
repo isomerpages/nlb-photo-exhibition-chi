@@ -4,6 +4,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   "“双城往事”是一个由中国首都图书馆与新加坡国家图书馆联合呈献的线上图片展，这项合作象征了两家机构友好的伙伴关系。"
 url: "https://memoriesoftwocities.nlb.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
+# Analytics
+google_analytics: UA-50449401-30
+
 # Build settings
 markdown: kramdown
 remote_theme: isomerpages/isomerpages-template
