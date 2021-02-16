@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Beach at Tanjong Katong, 1920s
+title: 'Beach at Tanjong Katong, 1920s'
 permalink: /tropical-metropolis/away-from-the-bustle/beach-at-tanjong-katong-1920s/
-breadcrumb: Beach at Tanjong Katong, 1920s
-collection_name: away-from-the-bustle
+breadcrumb: 'Beach at Tanjong Katong, 1920s'
+
 ---
+
 
 ![Beach at Tanjong Katong, 1920s](/images/Sub3-9.jpg)
 <div class="custom-caption">
