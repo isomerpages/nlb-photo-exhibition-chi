@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Interior of John Little, c.1910s
+title: 'Interior of John Little, c.1910s'
 permalink: /tropical-metropolis/high-life-in-the-city/interior-of-john-little-1910s/
-breadcrumb: Interior of John Little, c.1910s
-collection_name: high-life-in-the-city
+breadcrumb: 'Interior of John Little, c.1910s'
+
 ---
+
 
 ![Interior of John Little, c.1910s](/images/Sub2-6-Interior-View-John-Little-and-Cos-Premises.jpg)
 <div class="custom-caption">
