@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Chinese Opera in New World, 1955
+title: 'Chinese Opera in New World, 1955'
 permalink: /tropical-metropolis/high-life-in-the-city/chinese-opera-in-new-world-1955/
-breadcrumb: Chinese Opera in New World, 1955
-collection_name: high-life-in-the-city
+breadcrumb: 'Chinese Opera in New World, 1955'
+
 ---
+
 
 ![Chinese Opera in New World, 1955](/images/Sub2-13.jpg)
 <div class="custom-caption">
