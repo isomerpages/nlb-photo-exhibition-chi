@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Interior of Raffles Library and Museum, 1900s
+title: 'Interior of Raffles Library and Museum, 1900s'
 permalink: /tropical-metropolis/high-life-in-the-city/interior-of-raffles-library-and-museum-1900s/
-breadcrumb: Interior of Raffles Library and Museum, 1900s
-collection_name: high-life-in-the-city
+breadcrumb: 'Interior of Raffles Library and Museum, 1900s'
+
 ---
+
 
 ![Interior of Raffles Library and Museum, 1900s](/images/Sub2-11-Raffles-Museum-Interior.jpg)
 <div class="custom-caption">
