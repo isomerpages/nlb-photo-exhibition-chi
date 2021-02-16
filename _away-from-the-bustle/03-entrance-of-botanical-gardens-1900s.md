@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Entrance of Botanical Gardens, 1900s
+title: 'Entrance of Botanical Gardens, 1900s'
 permalink: /tropical-metropolis/away-from-the-bustle/entrance-of-botanical-gardens-1900s/
-breadcrumb: Entrance of Botanical Gardens, 1900s
-collection_name: away-from-the-bustle
+breadcrumb: 'Entrance of Botanical Gardens, 1900s'
+
 ---
+
 
 ![Entrance of Botanical Gardens, 1900s](/images/Sub3-4-Entrance-Botanical-Garden.jpg)
 <div class="custom-caption">
