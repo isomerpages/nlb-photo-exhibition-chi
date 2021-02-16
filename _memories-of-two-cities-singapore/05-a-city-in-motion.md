@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: 车水马龙
 permalink: /memories-of-two-cities-singapore/a-city-in-motion/
 breadcrumb: 车水马龙
-collection_name: memories-of-two-cities-singapore
+
 ---
+
 
 ![禧街与史丹福路口的交通，1920年代](/images/city-in-motion/city-in-motion-banner.jpg)
 
