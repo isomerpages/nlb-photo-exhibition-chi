@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Shopfront of John Little & Co., 1890s
-permalink: /tropical-metropolis/high-life-in-the-city/shopfront-of-john-little-&-co-1890s/
-breadcrumb: Shopfront of John Little & Co., 1890s
-collection_name: high-life-in-the-city
+title: 'Shopfront of John Little & Co., 1890s'
+permalink: '/tropical-metropolis/high-life-in-the-city/shopfront-of-john-little-&-co-1890s/'
+breadcrumb: 'Shopfront of John Little & Co., 1890s'
+
 ---
+
 
 ![Shopfront of John Little & Co., 1890s](/images/Sub2-5-Raffles-Square.jpg)
 <div class="custom-caption">
