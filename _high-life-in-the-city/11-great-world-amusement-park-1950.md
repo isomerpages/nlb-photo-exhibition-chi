@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Great World Amusement Park, c. 1950
+title: 'Great World Amusement Park, c. 1950'
 permalink: /tropical-metropolis/high-life-in-the-city/great-world-amusement-park-1950/
-breadcrumb: Great World Amusement Park, c. 1950
-collection_name: high-life-in-the-city
+breadcrumb: 'Great World Amusement Park, c. 1950'
+
 ---
+
 
 ![Great World Amusement Park, c. 1950](/images/Sub2-12-Great-World.jpg)
 <div class="custom-caption">
