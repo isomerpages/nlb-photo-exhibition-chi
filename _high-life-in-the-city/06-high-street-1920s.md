@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: High Street, 1920s
+title: 'High Street, 1920s'
 permalink: /tropical-metropolis/high-life-in-the-city/high-street-1920s/
-breadcrumb: High Street, 1920s
-collection_name: high-life-in-the-city
+breadcrumb: 'High Street, 1920s'
+
 ---
+
 
 ![High Street, 1920s](/images/Sub2-7-High-Street.jpg)
 <div class="custom-caption">
