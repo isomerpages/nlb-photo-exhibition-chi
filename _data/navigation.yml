@@ -6,6 +6,7 @@
 
 - title: 双城往事 — 新加坡篇
   url: /memories-of-two-cities-singapore/
+  false_collection: true
   sub-links:
   - title: 权贵与敬拜之地
     url: /memories-of-two-cities-singapore/places-of-power-and-worship/
