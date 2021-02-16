@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
 title: 车水马龙的要道
 permalink: /memories-of-two-cities-singapore/tropical-metropolis/the-earliest-thoroughfares/
 breadcrumb: 车水马龙的要道
-collection_name: tropical-metropolis
-second_nav_title: "热带都会风情"
+third_nav_title: 热带都会风情
 
 ---
+
 新加坡能够发展成为重要的港口与其优越的地理位置和其自然的深水港息息相关。随着新加坡于1819年发展成了贸易站，新加坡河口便成了路经船只停靠的港口。因此，这座城市最早的要道便从该区域开始发展，逐步将哥烈码头及河的北岸演变成了商业与市政中心，并且还延伸出谐街、桥北路及桥南路等本地最早的主要街道。这个部分介绍富历史性市中心街景及标志性建筑。
 
 <p></p>
