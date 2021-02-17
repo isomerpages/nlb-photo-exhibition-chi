@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: 民俗与节庆
 permalink: /memories-of-two-cities-singapore/colourful-customs/
 breadcrumb: 民俗与节庆
-collection_name: memories-of-two-cities-singapore
+
 ---
+
 
 ![土生华人的婚礼，1925年](/images/colourful-customs/colourful-customs-banner.jpg)
 ### **民俗与节庆**

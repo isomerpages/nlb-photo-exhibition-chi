@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: View of the Esplanade from the sea, c. 1920s
+title: 'View of the Esplanade from the sea, c. 1920s'
 permalink: /tropical-metropolis/away-from-the-bustle/view-of-the-esplanade-from-the-sea-1920s/
-breadcrumb: View of the Esplanade from the sea, c. 1920s
-collection_name: away-from-the-bustle
+breadcrumb: 'View of the Esplanade from the sea, c. 1920s'
+
 ---
+
 
 ![View of the Esplanade from the sea, c. 1920s](/images/Sub3-2-The-Esplanade.jpg)
 <div class="custom-caption">

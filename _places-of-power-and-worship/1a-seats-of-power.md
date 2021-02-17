@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
 title: 权力重地
 permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/seats-of-power/
 breadcrumb: 权力重地
-collection_name: places-of-power-and-worship
-second_nav_title: "权贵与敬拜之地"
+third_nav_title: 权贵与敬拜之地
 
 ---
+
 在新加坡700年的历史中，过往王朝与帝国的统治者都在此地留下雪泥鸿爪。但是，英国人于19世纪初登陆新加坡后，随着城市发展，前殖民地时代统治者遗留的痕迹却似乎已消失殆尽。
 
 “禁山” （马来文为Bukit Larangan，今福康宁山）自古以来就是皇宫所在地和皇家禁地，同时也是权力的象征。莱佛士爵士于1822年在山上建造了一栋洋房，它随后成为殖民地时期的总督府。到了1869年，新的总督府才在乌节路一带建成。同时，马来皇族则居住在位于甘榜格南的皇宫（马来文为Istana）。作为权力重地或皇族居所，这些建筑物不论在建筑风格或历史意义上都非常具代表性。

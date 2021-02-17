@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Impounding Reservoir, 1890s
+title: 'Impounding Reservoir, 1890s'
 permalink: /tropical-metropolis/away-from-the-bustle/impounding-reservoir-1890s/
-breadcrumb: Impounding Reservoir, 1890s
-collection_name: away-from-the-bustle
+breadcrumb: 'Impounding Reservoir, 1890s'
+
 ---
+
 
 ![Impounding Reservoir, 1890s](/images/Sub3-5-The-Water-Works.jpg)
 <div class="custom-caption">

@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
 title: 车水马龙
 permalink: /memories-of-two-cities-singapore/a-city-in-motion/a-city-in-motion/
 breadcrumb: 车水马龙
-collection_name: a-city-in-motion
-second_nav_title: "车水马龙"
+third_nav_title: 车水马龙
 
 ---
+
 
 ![人力车夫，1910年代](/images/city-in-motion/Sub1-1-rickshaw-puller.jpg)
 <div class="custom-caption">

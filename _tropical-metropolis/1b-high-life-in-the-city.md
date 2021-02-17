@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
 title: 高档的都市生活
 permalink: /memories-of-two-cities-singapore/tropical-metropolis/high-life-in-the-city/
 breadcrumb: 高档的都市生活
-collection_name: tropical-metropolis
-second_nav_title: "热带都会风情"
+third_nav_title: 热带都会风情
 
 ---
+
 
 新加坡作为位于欧洲、印度、澳大利亚及中国之间主要贸易航道上的一个港口城市，很早期就已接触到多元的生活方式和物质文化。随着苏伊士运河于1869年通航，大批的欧洲游客涌入新加坡，带动了酒店、零售业及娱乐设施的蓬勃发展，以迎合国际旅客的需求。这个部分展示早期新加坡提供的种种高档的生活享受，其中包括世界级的酒店、现代化的百货公司、购物街以及可迎合不同品味及消费能力的娱乐活动。
 

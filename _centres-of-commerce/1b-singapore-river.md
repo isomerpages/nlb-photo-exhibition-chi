@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
 title: 新加坡河
 permalink: /memories-of-two-cities-singapore/centres-of-commerce/singapore-river/
 breadcrumb: 新加坡河
-collection_name: centres-of-commerce
-second_nav_title: "经济动脉"
+third_nav_title: 经济动脉
 
 ---
+
 新加坡在区域贸易中所扮演的角色可追溯至13世纪。当时它称为淡马锡，是马六甲海峡区域中的一座海港城市，扮演着货品集散中心的角色 &mdash; 汇集各地商品销至中国，同时将来自中国和其他地区的商品转销到各地。1819年，英国人需要一个据点以便与中国进行贸易，新加坡因着位处海上贸易航线要道，以及拥有天然深海港，而被英国人看中，在此成立一贸易站。
 
 新加坡河位于这座岛屿的商业中心，对本地的发展起着举足轻重的作用。在19世纪的大部分期间，这条河充满着繁忙的商业活动，欣欣向荣；川流不息的船只在河岸和停靠在海港的货船之间来回穿梭，接载货物。到了19世纪中期，新加坡河逐渐变得过度拥挤。因此新海港（岌巴海港）应运而生，以疏缓新加坡河上的货运交通。

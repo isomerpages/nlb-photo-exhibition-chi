@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Tanjong Katong, 1920s
+title: 'Tanjong Katong, 1920s'
 permalink: /tropical-metropolis/away-from-the-bustle/tanjong-katong-1920s/
-breadcrumb: Tanjong Katong, 1920s
-collection_name: away-from-the-bustle
+breadcrumb: 'Tanjong Katong, 1920s'
+
 ---
+
 
 ![Tanjong Katong, 1920s](/images/Sub3-8-Tanjong-Katong-Singapore.jpg)
 <div class="custom-caption">

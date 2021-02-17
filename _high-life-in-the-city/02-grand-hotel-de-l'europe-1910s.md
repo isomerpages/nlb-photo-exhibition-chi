@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Grand Hotel de l’Europe, 1910s
-permalink: /tropical-metropolis/high-life-in-the-city/grand-hotel-de-l'europe-1910s/
-breadcrumb: Grand Hotel de l’Europe, 1910s
-collection_name: high-life-in-the-city
+title: 'Grand Hotel de l’Europe, 1910s'
+permalink: '/tropical-metropolis/high-life-in-the-city/grand-hotel-de-l''europe-1910s/'
+breadcrumb: 'Grand Hotel de l’Europe, 1910s'
+
 ---
+
 
 ![Grand Hotel de l’Europe, 1910s](/images/Sub2-3-Hotel-De-Europe.jpg)
 <div class="custom-caption">

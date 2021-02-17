@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Capitol Theatre, 1947
+title: 'Capitol Theatre, 1947'
 permalink: /tropical-metropolis/high-life-in-the-city/capitol-theatre-1947/
-breadcrumb: Capitol Theatre, 1947
-collection_name: high-life-in-the-city
+breadcrumb: 'Capitol Theatre, 1947'
+
 ---
+
 
 ![Capitol Theatre, 1947](/images/Sub2-8-Capitol-Theatre.jpg)
 <div class="custom-caption">

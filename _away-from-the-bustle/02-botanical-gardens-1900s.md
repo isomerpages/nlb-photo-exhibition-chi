@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Botanical Gardens, 1900s
+title: 'Botanical Gardens, 1900s'
 permalink: /tropical-metropolis/away-from-the-bustle/botanical-gardens-1900s/
-breadcrumb: Botanical Gardens, 1900s
-collection_name: away-from-the-bustle
+breadcrumb: 'Botanical Gardens, 1900s'
+
 ---
+
 
 ![Botanical Gardens, 1900s](/images/Sub3-3.jpg)
 <div class="custom-caption">

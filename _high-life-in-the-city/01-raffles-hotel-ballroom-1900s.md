@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Raffles Hotel Ballroom, 1900s
+title: 'Raffles Hotel Ballroom, 1900s'
 permalink: /tropical-metropolis/high-life-in-the-city/raffles-hotel-ballroom-1900s/
-breadcrumb: Raffles Hotel Ballroom, 1900s
-collection_name: high-life-in-the-city
+breadcrumb: 'Raffles Hotel Ballroom, 1900s'
+
 ---
+
 
 ![Raffles Hotel Ballroom, 1900s](/images/Sub2-2-The-Ballroom-Set-Raffles-Hotel.jpg)
 <div class="custom-caption">

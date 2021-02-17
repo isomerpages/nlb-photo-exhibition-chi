@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: 热带都会风情
 permalink: /tropical-metropolis/
 breadcrumb: 热带都会风情
+
 ---
+
 ![新加坡外滩，1930年代](/images/tropical-metropolis-banner-2.jpg)
 ### **热带都会风情**
 

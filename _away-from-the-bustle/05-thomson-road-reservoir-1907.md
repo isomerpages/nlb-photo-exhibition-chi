@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Thomson Road Reservoir, 1907
+title: 'Thomson Road Reservoir, 1907'
 permalink: /tropical-metropolis/away-from-the-bustle/thomson-road-reservoir-1907/
-breadcrumb: Thomson Road Reservoir, 1907
-collection_name: away-from-the-bustle
+breadcrumb: 'Thomson Road Reservoir, 1907'
+
 ---
+
 
 ![Thomson Road Reservoir, 1907](/images/Sub3-6.jpg)
 <div class="custom-caption">

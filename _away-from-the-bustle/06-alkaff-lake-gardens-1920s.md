@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Alkaff Lake Gardens, 1920s
+title: 'Alkaff Lake Gardens, 1920s'
 permalink: /tropical-metropolis/away-from-the-bustle/alkaff-lake-gardens-1920s/
-breadcrumb: Alkaff Lake Gardens, 1920s
-collection_name: away-from-the-bustle
+breadcrumb: 'Alkaff Lake Gardens, 1920s'
+
 ---
+
 
 ![Alkaff Lake Gardens, 1920s](/images/Sub3-7-Alkaff-Garden.jpg)
 <div class="custom-caption">

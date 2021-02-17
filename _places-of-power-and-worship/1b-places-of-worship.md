@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
 title: 敬拜之地
 permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/places-of-worship/
 breadcrumb: 敬拜之地
-collection_name: places-of-power-and-worship
-second_nav_title: "权贵与敬拜之地"
+third_nav_title: 权贵与敬拜之地
 
 ---
+
 新加坡早期的移民社会拥有宗教多元化的特性。来自中国、印度及马来群岛的移民带着各自的宗教信仰来到新加坡，并设立各自的宗教机构与建筑。欧洲人与西方传教士也在此设立教堂、学校及印刷馆。世界的主要宗教都齐聚这岛上，其中以佛教、道教、回教、兴都教及基督教为本地人口的主要的宗教信仰。这些崇拜的场所，除了为移民提供精神支柱外，也成了人们的社交中心，在生活中扮演着重要的角色。
 
 各宗教社群为新加坡的景观赋予了丰富多元的建筑元素。风格独特的回教堂、基督教堂、华族寺庙与兴都庙于各大街道上耸立，成为本地的重要地标。许多历史性建筑现已被列为国家古迹，继续作为人们敬拜的场所或成为社群的传统文化中心。
