@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Interior of Capitol Theatre, 1930
+title: 'Interior of Capitol Theatre, 1930'
 permalink: /tropical-metropolis/high-life-in-the-city/interior-of-capitol-theatre-1930/
-breadcrumb: Interior of Capitol Theatre, 1930
-collection_name: high-life-in-the-city
+breadcrumb: 'Interior of Capitol Theatre, 1930'
+
 ---
+
 
 ![Interior of Capitol Theatre, 1930](/images/Sub2-9.jpg)
 <div class="custom-caption">

@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
 title: 劳动的人们
 permalink: /memories-of-two-cities-singapore/all-walks-of-life/people-at-work/
 breadcrumb: 劳动的人们
-collection_name: all-walks-of-life
-second_nav_title: "民生百态"
+third_nav_title: 民生百态
 
 ---
+
 新加坡于1819年成为英国的贸易站，因而吸引了大批来自中国、印度及马来群岛的移民到此寻求这个迅速发展的殖民地所带来的工作机会。来自各行各业和各社经阶层的人聚集于此，从事行政、商业、摊贩及劳工等工作。
 
 大批来自中国及印度的移民到新加坡从事体力劳动的工作，以供应建筑业、农业、船务业及其他领域所需的大量劳工；一部分人则到此经商、开店或从事借贷业。本土及来自周边地区的马来人，许多成为渔夫、农夫、工匠、贸易商等。欧洲人则主要从事行政工作和经商，在政府部门、银行及贸易商行中工作。他们一般会雇用受英文教育的本地人作为下属。这组照片展示了为早期新加坡的发展作出贡献各行各业的人们。

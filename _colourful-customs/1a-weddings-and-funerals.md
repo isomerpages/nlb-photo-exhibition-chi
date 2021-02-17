@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
 title: 婚礼与丧礼
 permalink: /memories-of-two-cities-singapore/colourful-customs/weddings-and-funerals/
 breadcrumb: 婚礼与丧礼
-collection_name: colourful-customs
-second_nav_title: "民俗与节庆"
+third_nav_title: 民俗与节庆
 
 ---
+
 
 在早期的新加坡，人们对婚礼与丧礼所需遵循的风俗礼节非常讲究。这些人生大事往往都涉及繁复的礼仪和铺张的场面，常引起人们停步围观。  
 

@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
 title: 丹戎巴葛海港
 permalink: /memories-of-two-cities-singapore/centres-of-commerce/harbour-at-tanjong-pagar/
 breadcrumb: 丹戎巴葛海港
-collection_name: centres-of-commerce
-second_nav_title: "经济动脉"
+third_nav_title: 经济动脉
 
 ---
+
 直至19世纪中期，大部分的新加坡航运活动都围绕在新加坡河口。到了1850年代，新加坡河的航运交通愈发拥挤，因此有必要修建一座新的港口，以应付与日俱增的贸易活动。
 
 位于丹戎巴葛新港口（现称岌巴海港），在过去几世纪以来一直被本区域的贸易商所使用。1848年，英国皇家海军军官亨利·岌巴（Henry Keppel）对海港进行探测，并建议公家及私人船运公司利用此海港。丹戎巴葛从此开始兴建码头，促使新海港的诞生。这也推动了该地区城市化的迅速发展，货仓、道路、商用建筑和住宅应运而生，以应付海港蓬勃发展的经济活动。

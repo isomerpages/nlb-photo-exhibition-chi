@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: 关于展览
 permalink: /about-the-project/
 breadcrumb: 关于展览
+
 ---
+
 
 <div class="push-to-top"><center><h3>主办机构:</h3></center></div>
 

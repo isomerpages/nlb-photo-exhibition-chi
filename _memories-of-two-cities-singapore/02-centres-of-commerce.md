@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: 经济动脉
 permalink: /memories-of-two-cities-singapore/centres-of-commerce/
 breadcrumb: 经济动脉
-collection_name: memories-of-two-cities-singapore
+
 ---
+
 
 ![从渣打银行俯瞰莱佛士坊，1920年代](/images/centres-of-commerce/commerce-banner.jpg)
 ### **经济动脉**

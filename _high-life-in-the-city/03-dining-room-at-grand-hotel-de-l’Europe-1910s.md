@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Dining Room at Grand Hotel de l’Europe, 1910s
+title: 'Dining Room at Grand Hotel de l’Europe, 1910s'
 permalink: /tropical-metropolis/high-life-in-the-city/dining-room-at-grand-hotel-de-l’Europe-1910s/
-breadcrumb: Dining Room at Grand Hotel de l’Europe, 1910s
-collection_name: high-life-in-the-city
+breadcrumb: 'Dining Room at Grand Hotel de l’Europe, 1910s'
+
 ---
+
 
 ![Dining Room at Grand Hotel de l’Europe, 1910s](/images/Sub2-4-Dining-Room.jpg)
 <div class="custom-caption">

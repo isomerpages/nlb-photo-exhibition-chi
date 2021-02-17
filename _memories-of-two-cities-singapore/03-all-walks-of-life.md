@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: 民生百态
 permalink: /memories-of-two-cities-singapore/all-walks-of-life/
 breadcrumb: 民生百态
-collection_name: memories-of-two-cities-singapore
+
 ---
+
 ![华族苦力，1900年代](/images/all-walks-of-life/all-walks-of-life-banner.jpg)
 ### **民生百态**
 

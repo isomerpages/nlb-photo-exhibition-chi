@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: The Esplanade, 1920s
+title: 'The Esplanade, 1920s'
 permalink: /tropical-metropolis/away-from-the-bustle/the-esplanade-1920s/
-breadcrumb: The Esplanade, 1920s
-collection_name: away-from-the-bustle
+breadcrumb: 'The Esplanade, 1920s'
+
 ---
+
 
 ![The Esplanade, 1920s](/images/Sub3-1-Esplanade.jpg)
 <div class="custom-caption">

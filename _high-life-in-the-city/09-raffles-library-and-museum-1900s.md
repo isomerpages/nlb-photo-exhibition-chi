@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Raffles Library and Museum, 1900s
+title: 'Raffles Library and Museum, 1900s'
 permalink: /tropical-metropolis/high-life-in-the-city/raffles-library-and-museum-1900s/
-breadcrumb: Raffles Library and Museum, 1900s
-collection_name: high-life-in-the-city
+breadcrumb: 'Raffles Library and Museum, 1900s'
+
 ---
+
 
 ![Raffles Library and Museum, 1900s](/images/Sub2-10-Raffles-Museum.jpg)
 <div class="custom-caption">

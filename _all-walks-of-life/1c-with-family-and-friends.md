@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
 title: 与亲朋留影
 permalink: /memories-of-two-cities-singapore/all-walks-of-life/with-family-and-friends/
 breadcrumb: 与亲朋留影
-collection_name: all-walks-of-life
-second_nav_title: "民生百态"
+third_nav_title: 民生百态
 
 ---
+
 英国作家兼旅人伊莎贝拉·博得（Isabella Bird）曾于1879年这么描述新加坡：“这座城市里，人们的衣着色彩斑斓、五花八门… 各种从中东到中国的东方服装都在街上展示。”由此可见，早期的新加坡已是一个文化万花筒，每个人的身份认同一般会体现在衣着服饰上。
 
 在早期的新加坡，一般上只有在特别的日子或仅有富人才有机会拍摄全家福或团体照。因此，这个部分所展示的照片都是当年新加坡不同族群的珍贵画面。不论是盛装打扮上照相馆拍摄的肖像，还是穿着日常服装在家中留影，它们都反映了新加坡丰富多元的文化与社会环境。

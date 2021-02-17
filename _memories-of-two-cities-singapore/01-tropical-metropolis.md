@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: 热带都会风情
 permalink: /memories-of-two-cities-singapore/tropical-metropolis/
 breadcrumb: 热带都会风情
-collection_name: memories-of-two-cities-singapore
+
 ---
+
 ![新加坡外滩，1930年代](/images/tropical-metropolis-banner.jpg)
 ### **热带都会风情**
 
