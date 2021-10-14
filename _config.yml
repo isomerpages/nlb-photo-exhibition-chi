@@ -56,8 +56,8 @@ defaults:
       values:
           layout: page
 colors:
-    primary-color: '#e25f25'
-    secondary-color: '#e25f25'
+    primary-color: '#cf4000'
+    secondary-color: '#cf4000'
     media-colors:
         - title: media-color-one
           color: '#49759a'
