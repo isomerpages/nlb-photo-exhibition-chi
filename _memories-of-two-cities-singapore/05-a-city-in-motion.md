@@ -6,7 +6,7 @@ breadcrumb: 车水马龙
 ---
 
 
-![禧街与史丹福路口的交通，1920年代](/images/city-in-motion/city-in-motion-banner.jpg)
+<img srcset="/images/city-in-motion/city-in-motion-banner_400w.jpg 400w, /images/city-in-motion/city-in-motion-banner.jpg 958w" sizes="(max-width: 400px) 40vw, 95vw" height="461" width="958" src="/images/city-in-motion/city-in-motion-banner_400w.jpg" alt="禧街与史丹福路口的交通，1920年代">
 
 ### **车水马龙** 
 从19世纪直至20世纪初，新加坡的陆路交通经历了巨大的变化。岛上的人最早是以马车与牛车代步，顾名思义，这两种交通工具都是以动物来驱动的。到了1880年代，街道上出现了源自日本由人力拉动的人力车，为居民提供一项方便且实惠的交通选择。一直到第二次世界大战后，人力车才被三轮车所取代。
@@ -21,11 +21,11 @@ breadcrumb: 车水马龙
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img class="photo-lv-1" src="/images/city-in-motion/city-photo-stack-1.png">
-    <img class="photo-lv-2" src="/images/city-in-motion/city-photo-stack-2.png">
-    <img class="photo-lv-3" src="/images/city-in-motion/city-photo-stack-3.png">
+    <img class="photo-lv-1" src="/images/city-in-motion/city-photo-stack-1.png" height="362" width="500" alt="三轮车，1950年">
+    <img class="photo-lv-2" src="/images/city-in-motion/city-photo-stack-2.png" height="362" width="500" alt="禧街与史丹福路口的交通，1920年代">
+    <img class="photo-lv-3" src="/images/city-in-motion/city-photo-stack-3.png" height="362" width="500" alt="驱车到麦里芝蓄水池郊游， 1920年代">
   </div>
   <p>车水马龙</p>
-  <a class="cover" href="/memories-of-two-cities-singapore/a-city-in-motion/a-city-in-motion"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/a-city-in-motion/a-city-in-motion" aria-label="进入展览: 车水马龙"></a>
 </div> 
   
