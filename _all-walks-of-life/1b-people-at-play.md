@@ -8,10 +8,10 @@ third_nav_title: 民生百态
 
 随着大批不同族群移民的到来，各种各样的休闲活动也传入了早期的新加坡。华人引进了不同方言的传统戏曲，而马来人与印度人也同样地把各自的戏剧、音乐与舞蹈带到新加坡。欧洲人对新加坡休闲娱乐的影响也不小，西方人的嗜好，如赛马及社交舞，融入了本地的社交生活，成了富裕的亚洲人热衷的休闲活动。早期的新加坡是个拥有茂密丛林的热带岛屿，适宜在沙滩戏水、游泳；喜欢冒险的人甚至还可以狩猎。总而言之，多元种族的社群创造出一个丰富多姿的休闲文化，可从此处展示的照片中显而易见。
 
-![---](/images/partition.jpg)
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
 <p class="portrait-resize" markdown="1">
-![传统戏曲演员，1890年代](/images/all-walks-of-life/Sub2-1-chinese-opera-actors.jpg)
+<img alt="传统戏曲演员，1890年代" src="/images/all-walks-of-life/Sub2-1-chinese-opera-actors_400w.jpg" width="700" height="1039" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/all-walks-of-life/Sub2-1-chinese-opera-actors_400w.jpg 400w, /images/all-walks-of-life/Sub2-1-chinese-opera-actors.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>传统戏曲演员，1890年代</p></div>
@@ -23,7 +23,7 @@ third_nav_title: 民生百态
 <p></p>
 <hr>
 
-![马来Bangsawan传统戏曲，1930年代](/images/all-walks-of-life/Sub2-2-bangsawan-opera.jpg)
+<img alt="马来Bangsawan传统戏曲，1930年代" src="/images/all-walks-of-life/Sub2-2-bangsawan-opera_400w.jpg" width="1000" height="716" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-2-bangsawan-opera_400w.jpg 400w, /images/all-walks-of-life/Sub2-2-bangsawan-opera_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>马来Bangsawan传统戏曲，1930年代</p></div>
 <div>Mohd Amin bin Kadarisman藏品，由新加坡国家档案馆提供</div>
@@ -34,7 +34,7 @@ Bangsawan是一种马来传统戏曲，其中涵盖音乐、戏剧与舞蹈，�
 <p></p>
 <hr>
 
-![马来族舞者，1910年代](/images/all-walks-of-life/sub2-3-malay-dancers.jpg)
+<img alt="马来族舞者，1910年代" src="/images/all-walks-of-life/sub2-3-malay-dancers_400w.jpg" width="1000" height="663" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/sub2-3-malay-dancers_400w.jpg 400w, /images/all-walks-of-life/sub2-3-malay-dancers_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>马来族舞者，1910年代</p></div>
 <div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
@@ -45,7 +45,7 @@ Bangsawan是一种马来传统戏曲，其中涵盖音乐、戏剧与舞蹈，�
 <p></p>
 <hr>
 
-![印度族乐手与女舞者，1900年代](/images/all-walks-of-life/Sub2-4-indian-musicians-and-dancing-girl-cr.jpg)
+<img alt="印度族乐手与女舞者，1900年代" src="/images/all-walks-of-life/Sub2-4-indian-musicians-and-dancing-girl-cr_400w.jpg" width="1000" height="638" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-4-indian-musicians-and-dancing-girl-cr_400w.jpg 400w, /images/all-walks-of-life/Sub2-4-indian-musicians-and-dancing-girl-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>印度族乐手与女舞者，1900年代</p></div>
 <div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
@@ -56,7 +56,7 @@ Bangsawan是一种马来传统戏曲，其中涵盖音乐、戏剧与舞蹈，�
 <p></p>
 <hr>
 
-![化装舞会，1928年](/images/all-walks-of-life/Sub2-5-fancy-dress-party.jpg)
+<img alt="化装舞会，1928年" src="/images/all-walks-of-life/Sub2-5-fancy-dress-party_400w.jpg" width="1000" height="770" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-5-fancy-dress-party_400w.jpg 400w, /images/all-walks-of-life/Sub2-5-fancy-dress-party_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>化装舞会，1928年</p></div>
 <div>Stanley T Tanner藏品，由新加坡国家档案馆提供</div>
@@ -67,7 +67,7 @@ Bangsawan是一种马来传统戏曲，其中涵盖音乐、戏剧与舞蹈，�
 <p></p>
 <hr>
 
-![莱佛士书院学生翩翩起舞，1948年](/images/all-walks-of-life/Sub2-6-raffles-college-students-dancing.jpg)
+<img alt="莱佛士书院学生翩翩起舞，1948年" src="/images/all-walks-of-life/Sub2-6-raffles-college-students-dancing_400w.jpg" width="1000" height="674" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-6-raffles-college-students-dancing_400w.jpg 400w, /images/all-walks-of-life/Sub2-6-raffles-college-students-dancing_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>莱佛士书院学生翩翩起舞，1948年</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -78,7 +78,7 @@ Bangsawan是一种马来传统戏曲，其中涵盖音乐、戏剧与舞蹈，�
 <p></p>
 <hr>
 
-![花拉公园赛马场的观众，1930年](/images/all-walks-of-life/Sub2-7-spectators-at-farrer-park-race-course-cr.jpg)
+<img alt="花拉公园赛马场的观众，1930年" src="/images/all-walks-of-life/Sub2-7-spectators-at-farrer-park-race-course-cr_400w.jpg" width="1000" height="674" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-7-spectators-at-farrer-park-race-course-cr_400w.jpg 400w, /images/all-walks-of-life/Sub2-7-spectators-at-farrer-park-race-course-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>花拉公园赛马场的观众，1930年</p></div>
 <div>Margaret Clarke藏品，由新加坡国家档案馆提供</div>
@@ -89,7 +89,7 @@ Bangsawan是一种马来传统戏曲，其中涵盖音乐、戏剧与舞蹈，�
 <p></p>
 <hr>
 
-![摄于海滨别墅的一家人，1920年代](/images/all-walks-of-life/Sub2-8-a-family-at-a-beach-house-cr.jpg)
+<img alt="摄于海滨别墅的一家人，1920年代" src="/images/all-walks-of-life/Sub2-8-a-family-at-a-beach-house-cr_400w.jpg" width="1000" height="746" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-8-a-family-at-a-beach-house-cr_400w.jpg 400w, /images/all-walks-of-life/Sub2-8-a-family-at-a-beach-house-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>摄于海滨别墅的一家人，1920年代</p></div>
 <div>Lee Brothers Studio藏品，由新加坡国家档案馆提供</div>
@@ -100,7 +100,7 @@ Bangsawan是一种马来传统戏曲，其中涵盖音乐、戏剧与舞蹈，�
 <p></p>
 <hr>
 
-![游泳比赛，1930年代](/images/all-walks-of-life/Sub2-9-swimming-competition.jpg)
+<img alt="游泳比赛，1930年代" src="/images/all-walks-of-life/Sub2-9-swimming-competition_400w.jpg" width="1000" height="677" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-9-swimming-competition_400w.jpg 400w, /images/all-walks-of-life/Sub2-9-swimming-competition_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>游泳比赛，1930年代</p></div>
 <div>Lee Brothers Studio藏品，由新加坡国家档案馆提供</div>
@@ -111,7 +111,7 @@ Bangsawan是一种马来传统戏曲，其中涵盖音乐、戏剧与舞蹈，�
 <p></p>
 <hr>
 
-![狩猎团，1930年](/images/all-walks-of-life/Sub2-10-hunting-party-cr.jpg)
+<img alt="狩猎团，1930年" src="/images/all-walks-of-life/Sub2-10-hunting-party-cr_400w.jpg" width="682" height="958" sizes="(max-width: 400px) 40vw, 95vw" srcset="/images/all-walks-of-life/Sub2-10-hunting-party-cr_400w.jpg 400w, /images/all-walks-of-life/Sub2-10-hunting-party-cr.jpg 958w">
 <div class="custom-caption">
 <div><p>狩猎团，1930年</p></div>
 <div>Tan Tuan Khoon藏品，由新加坡国家档案馆提供</div>
