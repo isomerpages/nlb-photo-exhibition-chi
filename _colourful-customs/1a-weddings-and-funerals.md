@@ -14,9 +14,9 @@ third_nav_title: 民俗与节庆
 意义深远的仪式，加强了个别族群的传统价值观与宗教信仰。随着时间的推移，如今新加坡的婚丧礼俗已大为简化，但一些传统习俗仍然流传至今，成了新加坡人文化认同的一部分。
 
 <p></p>
-![---](/images/partition.jpg)
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
-![马来婚礼，1938年](/images/colourful-customs/Sub1-1-malay-wedding.jpg)
+<img alt="马来婚礼，1938年" src="/images/colourful-customs/Sub1-1-malay-wedding_400w.jpg" width="1000" height="707" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub1-1-malay-wedding_400w.jpg 400w, /images/colourful-customs/Sub1-1-malay-wedding_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>马来婚礼，1938年</p></div>
 <div>Robert Hebblewhite藏品，由新加坡国家档案馆提供</div>
@@ -27,7 +27,7 @@ third_nav_title: 民俗与节庆
 <p></p>
 <hr>
 
-![马来族的迎娶阵容，1930年代](/images/colourful-customs/Sub1-2-malay-wedding-procession.jpg)
+<img alt="马来族的迎娶阵容，1930年代" src="/images/colourful-customs/Sub1-2-malay-wedding-procession_400w.jpg" width="1000" height="734" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub1-2-malay-wedding-procession_400w.jpg 400w, /images/colourful-customs/Sub1-2-malay-wedding-procession_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>马来族的迎娶阵容，1930年代</p></div>
 <div>RAFSA藏品，由新加坡国家档案馆提供</div>
@@ -38,7 +38,7 @@ third_nav_title: 民俗与节庆
 <p></p>
 <hr>
 
-![土生华人的婚礼，1925年](/images/colourful-customs/Sub1-4-peranakan-wedding-cr.jpg)
+<img alt="土生华人的婚礼，1925年" src="/images/colourful-customs/Sub1-4-peranakan-wedding-cr_400w.jpg" width="1000" height="835" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub1-4-peranakan-wedding-cr_400w.jpg 400w, /images/colourful-customs/Sub1-4-peranakan-wedding-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>土生华人的婚礼，1925年</p></div>
 <div>土生华人协会藏品，由新加坡国家档案馆提供</div>
@@ -49,7 +49,7 @@ third_nav_title: 民俗与节庆
 <p></p>
 <hr>
 
-![土生华人的迎娶阵容，1909年](/images/colourful-customs/Sub1-5-peranakan-wedding-procession.jpg)
+<img alt="土生华人的迎娶阵容，1909年" src="/images/colourful-customs/Sub1-5-peranakan-wedding-procession_400w.jpg" width="1000" height="673" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub1-5-peranakan-wedding-procession_400w.jpg 400w, /images/colourful-customs/Sub1-5-peranakan-wedding-procession_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>土生华人的迎娶阵容，1909年</p></div>
 <div>Edward William Newell藏品，由新加坡国家档案馆提供</div>
@@ -61,7 +61,7 @@ third_nav_title: 民俗与节庆
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![土生华人的新郎、新娘和花童，1920年代](/images/colourful-customs/Sub1-6-peranakan-wedding-party.jpg)
+<img alt="土生华人的新郎、新娘和花童，1920年代" src="/images/colourful-customs/Sub1-6-peranakan-wedding-party_400w.jpg" width="700" height="1050" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/colourful-customs/Sub1-6-peranakan-wedding-party_400w.jpg 400w, /images/colourful-customs/Sub1-6-peranakan-wedding-party.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>土生华人的新郎、新娘和花童，1920年代</p></div>
@@ -74,7 +74,7 @@ third_nav_title: 民俗与节庆
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![华人婚礼的新人，1920年代 ](/images/colourful-customs/Sub1-7-chinese-wedding-couple.jpg)
+<img alt="华人婚礼的新人，1920年代" src="/images/colourful-customs/Sub1-7-chinese-wedding-couple_400w.jpg" width="700" height="1026" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/colourful-customs/Sub1-7-chinese-wedding-couple_400w.jpg 400w, /images/colourful-customs/Sub1-7-chinese-wedding-couple.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>华人婚礼的新人，1920年代</p></div>
@@ -87,7 +87,7 @@ third_nav_title: 民俗与节庆
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![兴都庙里举办的印度婚礼，1961年](/images/colourful-customs/Sub1-8-indian-wedding-at-a-hindu-temple.jpg)
+<img alt="兴都庙里举办的印度婚礼，1961年" src="/images/colourful-customs/Sub1-8-indian-wedding-at-a-hindu-temple_400w.jpg" width="700" height="688" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/colourful-customs/Sub1-8-indian-wedding-at-a-hindu-temple_400w.jpg 400w, /images/colourful-customs/Sub1-8-indian-wedding-at-a-hindu-temple.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>兴都庙里举办的印度婚礼，1961年</p></div>
@@ -100,7 +100,7 @@ third_nav_title: 民俗与节庆
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![兴都庙里的婚礼仪队，1962年](/images/colourful-customs/Sub1-9-indian-wedding-procession-at-a-hindu-temple.jpg)
+<img alt="兴都庙里的婚礼仪队，1962年" src="/images/colourful-customs/Sub1-9-indian-wedding-procession-at-a-hindu-temple_400w.jpg" width="700" height="699" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/colourful-customs/Sub1-9-indian-wedding-procession-at-a-hindu-temple_400w.jpg 400w, /images/colourful-customs/Sub1-9-indian-wedding-procession-at-a-hindu-temple.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>兴都庙里的婚礼仪队，1962年</p></div>
@@ -112,7 +112,7 @@ third_nav_title: 民俗与节庆
 <p></p>
 <hr>
 
-![欧亚人在照相馆拍摄的婚纱照，1920年代](/images/colourful-customs/Sub1-10-eurasian-wedding-studio-portrait.jpg)
+<img alt="欧亚人在照相馆拍摄的婚纱照，1920年代" src="/images/colourful-customs/Sub1-10-eurasian-wedding-studio-portrait_400w.jpg" width="1000" height="784" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub1-10-eurasian-wedding-studio-portrait_400w.jpg 400w, /images/colourful-customs/Sub1-10-eurasian-wedding-studio-portrait_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>欧亚人在照相馆拍摄的婚纱照，1920年代</p></div>
 <div>Francis Lee藏品，由新加坡国家档案馆提供</div>
@@ -123,7 +123,7 @@ third_nav_title: 民俗与节庆
 <p></p>
 <hr>
 
-![马来丧礼，1900年代](/images/colourful-customs/Sub1-11-malay-funeral.jpg)
+<img alt="马来丧礼，1900年代" src="/images/colourful-customs/Sub1-11-malay-funeral_400w.jpg" width="1000" height="631" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub1-11-malay-funeral_400w.jpg 400w, /images/colourful-customs/Sub1-11-malay-funeral_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>马来丧礼，1900年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -134,7 +134,7 @@ third_nav_title: 民俗与节庆
 <p></p>
 <hr>
 
-![华族丧礼，1900年代 ](/images/colourful-customs/Sub1-12-chinese-funeral.jpg)
+<img alt="华族丧礼，1900年代" src="/images/colourful-customs/Sub1-12-chinese-funeral_400w.jpg" width="1000" height="660" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub1-12-chinese-funeral_400w.jpg 400w, /images/colourful-customs/Sub1-12-chinese-funeral_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>华族丧礼，1900年代</p></div>
 <div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
@@ -145,7 +145,7 @@ third_nav_title: 民俗与节庆
 <p></p>
 <hr>
 
-![华族丧礼，1910年代](/images/colourful-customs/Sub1-13-chinese-funeral.jpg)
+<img alt="华族丧礼，1910年代" src="/images/colourful-customs/Sub1-13-chinese-funeral_400w.jpg" width="1000" height="624" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub1-13-chinese-funeral_400w.jpg 400w, /images/colourful-customs/Sub1-13-chinese-funeral_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>华族丧礼，1910年代</p></div>
 <div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
@@ -156,7 +156,7 @@ third_nav_title: 民俗与节庆
 <p></p>
 <hr>
 
-![兴都教送丧队伍，1938年](/images/colourful-customs/Sub1-14-hindu-funeral-procession-cr.jpg)
+<img alt="兴都教送丧队伍，1938年" src="/images/colourful-customs/Sub1-14-hindu-funeral-procession-cr_400w.jpg" width="958" height="640" sizes="(max-width: 400px) 40vw, 95vw" srcset="/images/colourful-customs/Sub1-14-hindu-funeral-procession-cr_400w.jpg 400w, /images/colourful-customs/Sub1-14-hindu-funeral-procession-cr.jpg 958w">
 <div class="custom-caption">
 <div><p>兴都教送丧队伍，1938年</p></div>
 <div>新加坡国家博物馆藏品</div>
