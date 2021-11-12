@@ -101,7 +101,6 @@ third_nav_title: 民生百态
 
 <p class="portrait-resize" markdown="1">
 <img alt="印度族家庭，1890年代" src="/images/all-walks-of-life/Sub3-8-indian-family_400w.jpg" width="700" height="1054" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/all-walks-of-life/Sub3-8-indian-family_400w.jpg 400w, /images/all-walks-of-life/Sub3-8-indian-family.jpg 700w">
-<div class="custom-caption">
 </p>
 <div class="custom-caption">
 <div><p>印度族家庭，1890年代</p></div>
