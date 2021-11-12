@@ -14,9 +14,9 @@ third_nav_title: 民俗与节庆
 时代变迁，节日逐渐成了人们每年热烈期待及乐于庆祝的亮点活动。农历新年、开斋节、屠妖节与圣诞节等节日，至今仍是亲戚朋友齐聚一堂、共度欢庆的大日子。
 
 <p></p>
-![---](/images/partition.jpg)
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
-![新年帆船赛的马来船只，1915年](/images/colourful-customs/Sub2-1-view-of-malay-boats-at-the-new-year-regatta.jpg)
+<img alt="新年帆船赛的马来船只，1915年" src="/images/colourful-customs/Sub2-1-view-of-malay-boats-at-the-new-year-regatta_400w.jpg" width="1000" height="620" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub2-1-view-of-malay-boats-at-the-new-year-regatta_400w.jpg 400w, /images/colourful-customs/Sub2-1-view-of-malay-boats-at-the-new-year-regatta_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>新年帆船赛的马来船只，1915年</p></div>
 <div>Arshak C Galstaun藏品，由新加坡国家档案馆提供</div>
@@ -27,7 +27,7 @@ third_nav_title: 民俗与节庆
 <p></p>
 <hr>
 
-![丰收节，1915年](/images/colourful-customs/Sub2-2-mattu-pongal-cr.jpg)
+<img alt="丰收节，1915年" src="/images/colourful-customs/Sub2-2-mattu-pongal-cr_400w.jpg" width="1000" height="659" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub2-2-mattu-pongal-cr_400w.jpg 400w, /images/colourful-customs/Sub2-2-mattu-pongal-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>丰收节，1915年</p></div>
 <div>新闻与艺术部藏品，由新加坡国家档案馆提供</div>
@@ -39,7 +39,7 @@ third_nav_title: 民俗与节庆
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![除夕夜的团圆饭，1955年](/images/colourful-customs/Sub2-3-reunion-dinner-on-the-eve-of-chinese-new-year.jpg)
+<img alt="除夕夜的团圆饭，1955年" src="/images/colourful-customs/Sub2-3-reunion-dinner-on-the-eve-of-chinese-new-year_400w.jpg" width="700" height="697" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/colourful-customs/Sub2-3-reunion-dinner-on-the-eve-of-chinese-new-year_400w.jpg 400w, /images/colourful-customs/Sub2-3-reunion-dinner-on-the-eve-of-chinese-new-year.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>除夕夜的团圆饭，1955年</p></div>
@@ -52,7 +52,7 @@ third_nav_title: 民俗与节庆
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![牛车水史密斯街的舞狮表演，1951年](/images/colourful-customs/Sub2-4-lion-dance-on-smith-street-chinatown.jpg)
+<img alt="牛车水史密斯街的舞狮表演，1951年" src="/images/colourful-customs/Sub2-4-lion-dance-on-smith-street-chinatown_400w.jpg" width="700" height="1144" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/colourful-customs/Sub2-4-lion-dance-on-smith-street-chinatown_400w.jpg 400w, /images/colourful-customs/Sub2-4-lion-dance-on-smith-street-chinatown.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>牛车水史密斯街的舞狮表演，1951年</p></div>
@@ -64,7 +64,7 @@ third_nav_title: 民俗与节庆
 <p></p>
 <hr>
 
-![妆艺大游行，1900年代](/images/colourful-customs/Sub2-5-chingay-procession.jpg)
+<img alt="妆艺大游行，1900年代" src="/images/colourful-customs/Sub2-5-chingay-procession_400w.jpg" width="1000" height="669" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub2-5-chingay-procession_400w.jpg 400w, /images/colourful-customs/Sub2-5-chingay-procession_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>妆艺大游行，1900年代</p></div>
 <div>李急麟藏品，由新加坡国家档案馆提供</div>
@@ -76,7 +76,7 @@ third_nav_title: 民俗与节庆
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![大宝森节， 1930年代](/images/colourful-customs/Sub2-6-thaipusam-celebration.jpg)
+<img alt="大宝森节， 1930年代" src="/images/colourful-customs/Sub2-6-thaipusam-celebration_400w.jpg" width="700" height="1093" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/colourful-customs/Sub2-6-thaipusam-celebration_400w.jpg 400w, /images/colourful-customs/Sub2-6-thaipusam-celebration.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>大宝森节， 1930年代</p></div>
@@ -89,7 +89,7 @@ third_nav_title: 民俗与节庆
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![大宝森节背负卡瓦第的信徒，1934年](/images/colourful-customs/Sub2-7-kavadi-bearer-at-thaipusam-festival-cr.jpg)
+<img alt="大宝森节背负卡瓦第的信徒，1934年" src="/images/colourful-customs/Sub2-7-kavadi-bearer-at-thaipusam-festival-cr_400w.jpg" width="700" height="1116" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/colourful-customs/Sub2-7-kavadi-bearer-at-thaipusam-festival-cr_400w.jpg 400w, /images/colourful-customs/Sub2-7-kavadi-bearer-at-thaipusam-festival-cr.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>大宝森节背负卡瓦第的信徒，1934年</p></div>
@@ -101,7 +101,7 @@ third_nav_title: 民俗与节庆
 <p></p>
 <hr>
 
-![开斋节的节日购物，1965年](/images/colourful-customs/Sub2-8-hari-raya-aidilfitri-festive-shopping.jpg)
+<img alt="开斋节的节日购物，1965年" src="/images/colourful-customs/Sub2-8-hari-raya-aidilfitri-festive-shopping_400w.jpg" width="1000" height="666" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub2-8-hari-raya-aidilfitri-festive-shopping_400w.jpg 400w, /images/colourful-customs/Sub2-8-hari-raya-aidilfitri-festive-shopping_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>开斋节的节日购物，1965年</p></div>
 <div>新闻与艺术部藏品，由新加坡国家档案馆提供</div>
@@ -111,7 +111,7 @@ third_nav_title: 民俗与节庆
 <p></p>
 <p></p>
 
-![信徒在开斋节到回教堂做礼拜，1950年](/images/colourful-customs/Sub2-9-worshippers-at-a-mosque-during-hari-raya.jpg)
+<img alt="信徒在开斋节到回教堂做礼拜，1950年" src="/images/colourful-customs/Sub2-9-worshippers-at-a-mosque-during-hari-raya_400w.jpg" width="1000" height="662" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub2-9-worshippers-at-a-mosque-during-hari-raya_400w.jpg 400w, /images/colourful-customs/Sub2-9-worshippers-at-a-mosque-during-hari-raya_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>信徒在开斋节到回教堂做礼拜，1950年</p></div>
 <div>Arthur B Reich藏品，由新加坡国家档案馆提供</div>
@@ -123,7 +123,7 @@ third_nav_title: 民俗与节庆
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![庆祝开斋节的马来儿童，1963年](/images/colourful-customs/Sub2-10-malays-celebrating-hari-raya-puasa.jpg)
+<img alt="庆祝开斋节的马来儿童，1963年" src="/images/colourful-customs/Sub2-10-malays-celebrating-hari-raya-puasa_400w.jpg" width="700" height="699" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/colourful-customs/Sub2-10-malays-celebrating-hari-raya-puasa_400w.jpg 400w, /images/colourful-customs/Sub2-10-malays-celebrating-hari-raya-puasa.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>庆祝开斋节的马来儿童，1963年</p></div>
@@ -135,7 +135,7 @@ third_nav_title: 民俗与节庆
 <p></p>
 <hr>
 
-![中秋节售卖灯笼的摊位，1954年](/images/colourful-customs/Sub2-11-stall-selling-lanterns-for-the-mid-autumn-festival.jpg)
+<img alt="中秋节售卖灯笼的摊位，1954年" src="/images/colourful-customs/Sub2-11-stall-selling-lanterns-for-the-mid-autumn-festival_400w.jpg" width="1000" height="800" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub2-11-stall-selling-lanterns-for-the-mid-autumn-festival_400w.jpg 400w, /images/colourful-customs/Sub2-11-stall-selling-lanterns-for-the-mid-autumn-festival_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>中秋节售卖灯笼的摊位，1954年</p></div>
 <div>新闻与艺术部藏品，由新加坡国家档案馆提供</div>
@@ -146,7 +146,7 @@ third_nav_title: 民俗与节庆
 <p></p>
 <hr>
 
-![买月饼过中秋，1951年](/images/colourful-customs/Sub2-12-buying-mooncakes-for-mid-autumn-festival.jpg)
+<img alt="买月饼过中秋，1951年" src="/images/colourful-customs/Sub2-12-buying-mooncakes-for-mid-autumn-festival_400w.jpg" width="1000" height="800" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub2-12-buying-mooncakes-for-mid-autumn-festival_400w.jpg 400w, /images/colourful-customs/Sub2-12-buying-mooncakes-for-mid-autumn-festival_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>买月饼过中秋，1951年</p></div>
 <div>新闻与艺术部藏品，由新加坡国家档案馆提供</div>
@@ -158,7 +158,7 @@ third_nav_title: 民俗与节庆
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![兴都教家庭在屠妖节到庙里祈祷，1956年](/images/colourful-customs/Sub2-13-hindu-family-at-a-temple-for-prayers-during-deepavali.jpg)
+<img alt="兴都教家庭在屠妖节到庙里祈祷，1956年" src="/images/colourful-customs/Sub2-13-hindu-family-at-a-temple-for-prayers-during-deepavali_400w.jpg" width="700" height="701" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/colourful-customs/Sub2-13-hindu-family-at-a-temple-for-prayers-during-deepavali_400w.jpg 400w, /images/colourful-customs/Sub2-13-hindu-family-at-a-temple-for-prayers-during-deepavali.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>兴都教家庭在屠妖节到庙里祈祷，1956年</p></div>
@@ -171,7 +171,7 @@ third_nav_title: 民俗与节庆
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![兴都教家庭在家中庆祝屠妖节，1963年](/images/colourful-customs/Sub2-14-hindu-family-celebrating-deepavali-at-home.jpg)
+<img alt="兴都教家庭在家中庆祝屠妖节，1963年" src="/images/colourful-customs/Sub2-14-hindu-family-celebrating-deepavali-at-home_400w.jpg" width="700" height="697" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/colourful-customs/Sub2-14-hindu-family-celebrating-deepavali-at-home_400w.jpg 400w, /images/colourful-customs/Sub2-14-hindu-family-celebrating-deepavali-at-home.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>兴都教家庭在家中庆祝屠妖节，1963年</p></div>
@@ -183,7 +183,7 @@ third_nav_title: 民俗与节庆
 <p></p>
 <hr>
 
-![耶稣诞生话剧，1930年代](/images/colourful-customs/Sub2-15-nativity-play.jpg)
+<img alt="耶稣诞生话剧，1930年代" src="/images/colourful-customs/Sub2-15-nativity-play_400w.jpg" width="1000" height="655" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub2-15-nativity-play_400w.jpg 400w, /images/colourful-customs/Sub2-15-nativity-play_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>耶稣诞生话剧，1930年代</p></div>
 <div>Lee Brothers Studio藏品，由新加坡国家档案馆提供</div>
@@ -194,7 +194,7 @@ third_nav_title: 民俗与节庆
 <p></p>
 <hr>
 
-![Christmas Meal, 1953](/images/colourful-customs/Sub2-16-christmas-meal-of-expatriates.jpg)
+<img alt="本地外侨的圣诞聚餐，1953年" src="/images/colourful-customs/Sub2-16-christmas-meal-of-expatriates_400w.jpg" width="1000" height="795" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub2-16-christmas-meal-of-expatriates_400w.jpg 400w, /images/colourful-customs/Sub2-16-christmas-meal-of-expatriates_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>本地外侨的圣诞聚餐，1953年</p></div>
 <div>Donald Moore藏品，由新加坡国家档案馆提供</div>
@@ -205,7 +205,7 @@ third_nav_title: 民俗与节庆
 <p></p>
 <hr>
 
-![歌咏队在教堂献唱圣诞颂歌，1951年](/images/colourful-customs/sub2-17-christmas-carollers-singing-at-church.jpg)
+<img alt="歌咏队在教堂献唱圣诞颂歌，1951年" src="/images/colourful-customs/sub2-17-christmas-carollers-singing-at-church_400w.jpg" width="958" height="645" sizes="(max-width: 400px) 40vw, 95vw" srcset="/images/colourful-customs/sub2-17-christmas-carollers-singing-at-church_400w.jpg 400w, /images/colourful-customs/sub2-17-christmas-carollers-singing-at-church.jpg 958w">
 <div class="custom-caption">
 <div><p>歌咏队在教堂献唱圣诞颂歌，1951年</p></div>
 <div>新加坡报业控股藏品，由新加坡国家档案馆提供</div>
