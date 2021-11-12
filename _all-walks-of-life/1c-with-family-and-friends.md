@@ -64,7 +64,6 @@ third_nav_title: 民生百态
 
 <img alt="土生华人家庭，1920年代" src="/images/all-walks-of-life/Sub3-5-straits-chinese-family_400w.jpg" width="1000" height="675" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub3-5-straits-chinese-family_400w.jpg 400w, /images/all-walks-of-life/Sub3-5-straits-chinese-family_1000w.jpg 1000w">
 <div class="custom-caption">
-<div class="custom-caption">
 <div><p>土生华人家庭，1920年代</p></div>
 <div>Lee Brothers Studio藏品，由新加坡国家档案馆提供</div>
 <div>19980005529 – 0042</div>
