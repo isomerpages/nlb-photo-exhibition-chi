@@ -37,7 +37,6 @@ third_nav_title: 经济动脉
 
 <img alt="新加坡河口海上的货船，1900年代" src="/images/centres-of-commerce/Sub2-3-cargo-ship-near-the-mouth-of-singapore-river_400w.jpg" width="1000" height="643" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub2-3-cargo-ship-near-the-mouth-of-singapore-river_400w.jpg 400w, /images/centres-of-commerce/Sub2-3-cargo-ship-near-the-mouth-of-singapore-river_1000w.jpg 1000w">
 <div class="custom-caption">
-<div class="custom-caption">
 <div><p>新加坡河口海上的货船，1900年代</p></div>
 <div>由新加坡国家档案馆提供</div>
 <div>19980005493 - 0060</div>
