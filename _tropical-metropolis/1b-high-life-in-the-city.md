@@ -10,9 +10,9 @@ third_nav_title: 热带都会风情
 新加坡作为位于欧洲、印度、澳大利亚及中国之间主要贸易航道上的一个港口城市，很早期就已接触到多元的生活方式和物质文化。随着苏伊士运河于1869年通航，大批的欧洲游客涌入新加坡，带动了酒店、零售业及娱乐设施的蓬勃发展，以迎合国际旅客的需求。这个部分展示早期新加坡提供的种种高档的生活享受，其中包括世界级的酒店、现代化的百货公司、购物街以及可迎合不同品味及消费能力的娱乐活动。
 
 <p></p>
-![---](/images/partition.jpg)
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
-![莱佛士酒店，1900年代](/images/Sub2-1-Raffles-Hotel.jpg)
+<img alt="莱佛士酒店，1900年代" src="/images/Sub2-1-Raffles-Hotel_400w.jpg" width="1000" height="640" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-1-Raffles-Hotel_400w.jpg 400w, /images/Sub2-1-Raffles-Hotel_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>莱佛士酒店，1900年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -22,7 +22,7 @@ third_nav_title: 热带都会风情
 
 <hr>
 
-![莱佛士酒店的宴会厅，1900年代](/images/Sub2-2-The-Ballroom-Set-Raffles-Hotel.jpg)
+<img alt="莱佛士酒店的宴会厅，1900年代" src="/images/Sub2-2-The-Ballroom-Set-Raffles-Hotel_400w.jpg" width="1000" height="629" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-2-The-Ballroom-Set-Raffles-Hotel_400w.jpg 400w, /images/Sub2-2-The-Ballroom-Set-Raffles-Hotel_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>莱佛士酒店的宴会厅，1900年代</p></div>
 <div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
@@ -32,7 +32,7 @@ third_nav_title: 热带都会风情
 
 <hr>
 
-![欧洲大酒店，1910年代](/images/Sub2-3-Hotel-De-Europe.jpg)
+<img alt="欧洲大酒店，1910年代" src="/images/Sub2-3-Hotel-De-Europe_400w.jpg" width="1000" height="663" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-3-Hotel-De-Europe_400w.jpg 400w, /images/Sub2-3-Hotel-De-Europe_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>欧洲大酒店，1910年代</p></div>
 <div>Robert Feingold藏品，由新加坡国家档案馆提供</div>
@@ -42,7 +42,7 @@ third_nav_title: 热带都会风情
 
 <hr>
 
-![欧洲大酒店的宴会厅，1910年代](/images/Sub2-4-Dining-Room.jpg)
+<img alt="欧洲大酒店的宴会厅，1910年代" src="/images/Sub2-4-Dining-Room_400w.jpg" width="1000" height="795" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-4-Dining-Room_400w.jpg 400w, /images/Sub2-4-Dining-Room_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>欧洲大酒店的宴会厅，1910年代</p></div>
 <div>新加坡国家图书馆馆藏</div>
@@ -52,7 +52,7 @@ third_nav_title: 热带都会风情
 
 <hr>
 
-![然利直百货公司的店面，1890年代](/images/Sub2-5-Raffles-Square.jpg)
+<img alt="然利直百货公司的店面，1890年代" src="/images/Sub2-5-Raffles-Square_400w.jpg" width="1000" height="784" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-5-Raffles-Square_400w.jpg 400w, /images/Sub2-5-Raffles-Square_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>然利直百货公司的店面，1890年代</p></div>
 <div>李急麟的藏品，新加坡国家图书馆馆藏</div>
@@ -62,7 +62,7 @@ third_nav_title: 热带都会风情
 
 <hr>
 
-![然利直百货公司的内部，1910年代](/images/Sub2-6-Interior-View-John-Little-and-Cos-Premises.jpg)
+<img alt="然利直百货公司的内部，1910年代" src="/images/Sub2-6-Interior-View-John-Little-and-Cos-Premises_400w.jpg" width="1000" height="627" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-6-Interior-View-John-Little-and-Cos-Premises_400w.jpg 400w, /images/Sub2-6-Interior-View-John-Little-and-Cos-Premises_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>然利直百货公司的内部，1910年代</p></div>
 <div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
@@ -73,7 +73,7 @@ third_nav_title: 热带都会风情
 
 <hr>
 
-![谐街，1920年代](/images/Sub2-7-High-Street.jpg)
+<img alt="谐街，1920年代" src="/images/Sub2-7-High-Street_400w.jpg" width="1000" height="650" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-7-High-Street_400w.jpg 400w, /images/Sub2-7-High-Street_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>谐街，1920年代</p></div>
 <div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
@@ -84,7 +84,7 @@ third_nav_title: 热带都会风情
 
 <hr>
 
-![首都戏院，1947年](/images/Sub2-8-Capitol-Theatre.jpg)
+<img alt="首都戏院，1947年" src="/images/Sub2-8-Capitol-Theatre_400w.jpg" width="1000" height="650" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-8-Capitol-Theatre_400w.jpg 400w, /images/Sub2-8-Capitol-Theatre_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>首都戏院，1947年</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -94,7 +94,7 @@ third_nav_title: 热带都会风情
 
 <hr>
 
-![首都戏院的内部，1930年](/images/Sub2-9.jpg)
+<img alt="首都戏院的内部，1930年" src="/images/Sub2-9_400w.jpg" width="1000" height="798" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-9_400w.jpg 400w, /images/Sub2-9_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>首都戏院的内部，1930年</p></div>
 <div>H Nugent Buckeridge藏品，由新加坡国家档案馆提供</div>
@@ -105,7 +105,7 @@ third_nav_title: 热带都会风情
 
 <hr>
 
-![莱佛士图书馆与博物馆，1900年代](/images/Sub2-10-Raffles-Museum.jpg)
+<img alt="莱佛士图书馆与博物馆，1900年代" src="/images/Sub2-10-Raffles-Museum_400w.jpg" width="1000" height="648" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-10-Raffles-Museum_400w.jpg 400w, /images/Sub2-10-Raffles-Museum_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>莱佛士图书馆与博物馆，1900年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -115,7 +115,7 @@ third_nav_title: 热带都会风情
 
 <hr>
 
-![莱佛士图书馆与博物馆的内部，1900年代](/images/Sub2-11-Raffles-Museum-Interior.jpg)
+<img alt="莱佛士图书馆与博物馆的内部，1900年代" src="/images/Sub2-11-Raffles-Museum-Interior_400w.jpg" width="1000" height="614" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-11-Raffles-Museum-Interior_400w.jpg 400w, /images/Sub2-11-Raffles-Museum-Interior_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>莱佛士图书馆与博物馆的内部，1900年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -125,7 +125,7 @@ third_nav_title: 热带都会风情
 
 <hr>
 
-![大世界游乐场，约1950年](/images/Sub2-12-Great-World.jpg)
+<img alt="大世界游乐场，约1950年" src="/images/Sub2-12-Great-World_400w.jpg" width="1000" height="634" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-12-Great-World_400w.jpg 400w, /images/Sub2-12-Great-World_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>大世界游乐场，约1950年</p></div>
 <div>Wong Kwan藏品，由新加坡国家档案馆提供</div>
@@ -135,7 +135,7 @@ third_nav_title: 热带都会风情
 
 <hr>
 
-![新世界游乐场内的传统戏曲，1955年](/images/Sub2-13.jpg)
+<img alt="新世界游乐场内的传统戏曲，1955年" src="/images/Sub2-13_400w.jpg" width="1000" height="723" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-13_400w.jpg 400w, /images/Sub2-13_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>新世界游乐场内的传统戏曲，1955年</p></div>
 <div>Donald Moore藏品，由新加坡国家档案馆提供</div>
