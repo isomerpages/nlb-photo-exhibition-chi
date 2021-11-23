@@ -13,9 +13,9 @@ third_nav_title: 经济动脉
 岌巴海港至今仍是新加坡航运业的基地，扮演着非常重要的角色。
 <p></p>
 
-![---](/images/partition.jpg)
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
-![E新海港的入口，1890年代](/images/centres-of-commerce/Sub3-1-entrance-to-new-harbour.jpg)
+<img alt="新海港的入口，1890年代" src="/images/centres-of-commerce/Sub3-1-entrance-to-new-harbour_400w.jpg" width="1000" height="773" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub3-1-entrance-to-new-harbour_400w.jpg 400w, /images/centres-of-commerce/Sub3-1-entrance-to-new-harbour_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>新海港的入口，1890年代</p></div>
 <div>李急麟藏品，新加坡国家图书馆馆藏</div>
@@ -25,7 +25,7 @@ third_nav_title: 经济动脉
 <p></p>
 <hr>
 
-![新海港的半岛东方轮船公司码头，约1900年](/images/centres-of-commerce/Sub3-2-pno-wharf-at-new-harbour-rz.jpg)
+<img alt="新海港的半岛东方轮船公司码头，约1900年" src="/images/centres-of-commerce/Sub3-2-pno-wharf-at-new-harbour-rz_400w.jpg" width="1000" height="656" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub3-2-pno-wharf-at-new-harbour-rz_400w.jpg 400w, /images/centres-of-commerce/Sub3-2-pno-wharf-at-new-harbour-rz_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>新海港的半岛东方轮船公司码头，约1900年</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -36,7 +36,7 @@ third_nav_title: 经济动脉
 <p></p>
 <hr>
 
-![在维多利亚船坞进行维修的船只，1890年代](/images/centres-of-commerce/Sub3-3-vessels-being-repaired-in-victoria-dock.jpg)
+<img alt="在维多利亚船坞进行维修的船只，1890年代" src="/images/centres-of-commerce/Sub3-3-vessels-being-repaired-in-victoria-dock_400w.jpg" width="1000" height="778" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub3-3-vessels-being-repaired-in-victoria-dock_400w.jpg 400w, /images/centres-of-commerce/Sub3-3-vessels-being-repaired-in-victoria-dock_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>在维多利亚船坞进行维修的船只，1890年代</p></div>
 <div>李急麟藏品，新加坡国家图书馆馆藏</div>
@@ -46,7 +46,7 @@ third_nav_title: 经济动脉
 <p></p>
 <hr>
 
-![停靠在丹戎巴葛船坞公司码头的船只，约1910年](/images/centres-of-commerce/Sub3-4-ship-docked-at-wharf-of-tanjong-pagar-dock-cr.jpg)
+<img alt="停靠在丹戎巴葛船坞公司码头的船只，约1910年" src="/images/centres-of-commerce/Sub3-4-ship-docked-at-wharf-of-tanjong-pagar-dock-cr_400w.jpg" width="1000" height="617" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub3-4-ship-docked-at-wharf-of-tanjong-pagar-dock-cr_400w.jpg 400w, /images/centres-of-commerce/Sub3-4-ship-docked-at-wharf-of-tanjong-pagar-dock-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>停靠在丹戎巴葛船坞公司码头的船只，约1910年</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -57,7 +57,7 @@ third_nav_title: 经济动脉
 <p></p>
 <hr>
 
-![丹戎巴葛码头，1900年代](/images/centres-of-commerce/Sub3-5-tanjong-pagar-wharf-rz.jpg)
+<img alt="丹戎巴葛码头，1900年代" src="/images/centres-of-commerce/Sub3-5-tanjong-pagar-wharf-rz_400w.jpg" width="1000" height="708" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub3-5-tanjong-pagar-wharf-rz_400w.jpg 400w, /images/centres-of-commerce/Sub3-5-tanjong-pagar-wharf-rz_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>丹戎巴葛码头，1900年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -67,7 +67,7 @@ third_nav_title: 经济动脉
 <p></p>
 <hr>
 
-![宝德协会，约1902年](/images/centres-of-commerce/Sub3-6-boustead-institute-cr.jpg)
+<img alt="宝德协会，约1902年" src="/images/centres-of-commerce/Sub3-6-boustead-institute-cr_400w.jpg" width="1000" height="641" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub3-6-boustead-institute-cr_400w.jpg 400w, /images/centres-of-commerce/Sub3-6-boustead-institute-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>宝德协会，约1902年</p></div>
 <div>由新加坡国家档案馆提供</div>

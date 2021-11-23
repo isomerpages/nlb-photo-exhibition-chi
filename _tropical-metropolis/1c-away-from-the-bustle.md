@@ -8,10 +8,11 @@ third_nav_title: 热带都会风情
 
 
 早期的新加坡居民需要暂避都市生活的喧嚣以及热带的溽暑。新加坡四面环海，人们可在许多地点欣赏美丽的海景及享受凉爽的海风，如市中心的滨海地带以及东海岸的景点丹绒加东。随着城市的发展，新加坡增设了不少让民众休闲的公园和设施，如植物园、蓄水池（现为麦里芝蓄水池）及其他公园，都为民众提供了休憩的去处，让他们能在忙碌的都市生活中喘一口气。至今，这些休闲空间和场所依然扮演着同样的角色。
-![---](/images/partition.jpg)
+
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
 
-![滨海地带，1920年代](/images/Sub3-1-Esplanade.jpg)
+<img alt="滨海地带，1920年代" src="/images/Sub3-1-Esplanade_400w.jpg" width="1000" height="641" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-1-Esplanade_400w.jpg 400w, /images/Sub3-1-Esplanade_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>滨海地带，1920年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -21,7 +22,7 @@ third_nav_title: 热带都会风情
 
 <hr>
 
-![从大海遥望滨海地带的景色，1920年代](/images/Sub3-2-The-Esplanade.jpg)
+<img alt="从大海遥望滨海地带的景色，1920年代" src="/images/Sub3-2-The-Esplanade_400w.jpg" width="1000" height="615" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-2-The-Esplanade_400w.jpg 400w, /images/Sub3-2-The-Esplanade_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>从大海遥望滨海地带的景色，1920年代</p></div>
 <div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
@@ -31,7 +32,7 @@ third_nav_title: 热带都会风情
 
 <hr>
 
-![植物园，1900年代](/images/Sub3-3.jpg)
+<img alt="植物园，1900年代" src="/images/Sub3-3_400w.jpg" width="1000" height="635" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-3_400w.jpg 400w, /images/Sub3-3_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>植物园，1900年代</p></div>
 <div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
@@ -42,7 +43,7 @@ third_nav_title: 热带都会风情
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![植物园入口，1900年代](/images/Sub3-4-Entrance-Botanical-Garden.jpg)
+<img alt="植物园入口，1900年代" src="/images/Sub3-4-Entrance-Botanical-Garden_400w.jpg" width="700" height="1120" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-4-Entrance-Botanical-Garden_400w.jpg 400w, /images/Sub3-4-Entrance-Botanical-Garden.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>植物园入口，1900年代</p></div>
@@ -54,7 +55,7 @@ third_nav_title: 热带都会风情
 
 <hr>
 
-![蓄水池（Impounding Reservoir），1890年代](/images/Sub3-5-The-Water-Works.jpg)
+<img alt="蓄水池（Impounding Reservoir），1890年代" src="/images/Sub3-5-The-Water-Works_400w.jpg" width="1000" height="780" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-5-The-Water-Works_400w.jpg 400w, /images/Sub3-5-The-Water-Works_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>蓄水池（Impounding Reservoir），1890年代</p></div>
 <div>李急麟藏品，新加坡国家图书馆馆藏</div>
@@ -63,7 +64,7 @@ third_nav_title: 热带都会风情
  
 <hr>
 
-![汤申路蓄水池，1907年](/images/Sub3-6.jpg)
+<img alt="汤申路蓄水池，1907年" src="/images/Sub3-6_400w.jpg" width="1000" height="717" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-6_400w.jpg 400w, /images/Sub3-6_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>汤申路蓄水池，1907年</p></div>
 <div>李急麟藏品，新加坡国家图书馆馆藏</div>
@@ -72,7 +73,7 @@ third_nav_title: 热带都会风情
 
 <hr>
 
-![阿卡夫花园，1920年代](/images/Sub3-7-Alkaff-Garden.jpg)
+<img alt="阿卡夫花园，1920年代" src="/images/Sub3-7-Alkaff-Garden_400w.jpg" width="1000" height="626" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-7-Alkaff-Garden_400w.jpg 400w, /images/Sub3-7-Alkaff-Garden_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>阿卡夫花园，1920年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -82,7 +83,7 @@ third_nav_title: 热带都会风情
 
 <hr>
 
-![丹绒加东，1920年代](/images/Sub3-8-Tanjong-Katong-Singapore.jpg)
+<img alt="丹绒加东，1920年代" src="/images/Sub3-8-Tanjong-Katong-Singapore_400w.jpg" width="1000" height="640" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-8-Tanjong-Katong-Singapore_400w.jpg 400w, /images/Sub3-8-Tanjong-Katong-Singapore_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>丹绒加东，1920年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -93,7 +94,7 @@ third_nav_title: 热带都会风情
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![丹绒加东的海滩，1920年代](/images/Sub3-9.jpg)
+<img alt="丹绒加东的海滩，1920年代" src="/images/Sub3-9_400w.jpg" width="700" height="1005" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/Sub3-9_400w.jpg 400w, /images/Sub3-9.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>丹绒加东的海滩，1920年代</p></div>

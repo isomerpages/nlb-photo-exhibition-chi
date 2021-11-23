@@ -10,9 +10,9 @@ third_nav_title: 权贵与敬拜之地
 
 “禁山” （马来文为Bukit Larangan，今福康宁山）自古以来就是皇宫所在地和皇家禁地，同时也是权力的象征。莱佛士爵士于1822年在山上建造了一栋洋房，它随后成为殖民地时期的总督府。到了1869年，新的总督府才在乌节路一带建成。同时，马来皇族则居住在位于甘榜格南的皇宫（马来文为Istana）。作为权力重地或皇族居所，这些建筑物不论在建筑风格或历史意义上都非常具代表性。
 <p></p>
-![---](/images/partition.jpg)
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
-![福康宁山正门，1925年](/images/power-and-worship/Sub1-1-fort-canning-entrance-cr.jpg)
+<img alt="福康宁山正门，1925年" src="/images/power-and-worship/Sub1-1-fort-canning-entrance-cr_400w.jpg" width="1000" height="725" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-1-fort-canning-entrance-cr_400w.jpg 400w, /images/power-and-worship/Sub1-1-fort-canning-entrance-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>福康宁山正门，1925年</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -23,7 +23,7 @@ third_nav_title: 权贵与敬拜之地
 <p></p>
 <hr>
 
-![福康宁山掩蔽壕，1925年](/images/power-and-worship/Sub1-2-bunker-at-fort-canning-cr.jpg)
+<img alt="福康宁山掩蔽壕，1925年" src="/images/power-and-worship/Sub1-2-bunker-at-fort-canning-cr_400w.jpg" width="1000" height="725" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-2-bunker-at-fort-canning-cr_400w.jpg 400w, /images/power-and-worship/Sub1-2-bunker-at-fort-canning-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>福康宁山掩蔽壕，1925年</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -34,7 +34,7 @@ third_nav_title: 权贵与敬拜之地
 <p></p>
 <hr>
 
-![福康宁山的风景，1870年代](/images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill.jpg)
+<img alt="福康宁山的风景，1870年代" src="/images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill_400w.jpg" width="1000" height="772" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill_400w.jpg 400w, /images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>福康宁山的风景，1870年代</p></div>
 <div>李急麟藏品，新加坡国家图书馆馆藏</div>
@@ -44,7 +44,7 @@ third_nav_title: 权贵与敬拜之地
 <p></p>
 <hr>
 
-![总督府，1900年代](/images/power-and-worship/Sub1-5-government-house.jpg)
+<img alt="总督府，1900年代" src="/images/power-and-worship/Sub1-5-government-house_400w.jpg" width="1000" height="633" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-5-government-house_400w.jpg 400w, /images/power-and-worship/Sub1-5-government-house_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>总督府，1900年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -55,7 +55,7 @@ third_nav_title: 权贵与敬拜之地
 <p></p>
 <hr>
 
-![总督府，1899年](/images/power-and-worship/Sub1-7-government-house.jpg)
+<img alt="总督府，1899年" src="/images/power-and-worship/Sub1-7-government-house_400w.jpg" width="1000" height="779" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-7-government-house_400w.jpg 400w, /images/power-and-worship/Sub1-7-government-house_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>总督府，1899年</p></div>
 <div>李急麟藏品，新加坡国家图书馆馆藏</div>
@@ -65,14 +65,14 @@ third_nav_title: 权贵与敬拜之地
 <p></p>
 <hr>
 
-![甘榜格南王宫，1960年代](/images/power-and-worship/Sub1-10-istana-kampong-glam-cr.jpg)
+<img alt="甘榜格南王宫，1960年代" src="/images/power-and-worship/Sub1-10-istana-kampong-glam-cr_400w.jpg" width="1000" height="707" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-10-istana-kampong-glam-cr_400w.jpg 400w, /images/power-and-worship/Sub1-10-istana-kampong-glam-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>甘榜格南王宫，1960年代</p></div>
 <div>李急麟藏品，新加坡国家图书馆馆藏</div>
 </div>
 <hr>
 
-![甘榜格南王宫，1960年代](/images/power-and-worship/Sub1-11-istana-kampong-glam-cr.jpg)
+<img alt="甘榜格南王宫，1960年代" src="/images/power-and-worship/Sub1-11-istana-kampong-glam-cr_400w.jpg" width="1000" height="720" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-11-istana-kampong-glam-cr_400w.jpg 400w, /images/power-and-worship/Sub1-11-istana-kampong-glam-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>甘榜格南王宫，1960年代</p></div>
 <div>李急麟藏品，新加坡国家图书馆馆藏</div>

@@ -11,9 +11,9 @@ third_nav_title: 民生百态
 大批来自中国及印度的移民到新加坡从事体力劳动的工作，以供应建筑业、农业、船务业及其他领域所需的大量劳工；一部分人则到此经商、开店或从事借贷业。本土及来自周边地区的马来人，许多成为渔夫、农夫、工匠、贸易商等。欧洲人则主要从事行政工作和经商，在政府部门、银行及贸易商行中工作。他们一般会雇用受英文教育的本地人作为下属。这组照片展示了为早期新加坡的发展作出贡献各行各业的人们。
 
 <p></p>
-![---](/images/partition.jpg)
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
-![华族苦力，1900年代](/images/all-walks-of-life/Sub1-1-chinese-coolies.jpg)
+<img alt="华族苦力，1900年代" src="/images/all-walks-of-life/Sub1-1-chinese-coolies_400w.jpg" width="1000" height="798" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub1-1-chinese-coolies_400w.jpg 400w, /images/all-walks-of-life/Sub1-1-chinese-coolies_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>华族苦力，1900年代</p></div>
 <div>Boden-Kloss藏品，由新加坡国家档案馆提供</div>
@@ -24,7 +24,7 @@ third_nav_title: 民生百态
 <p></p>
 <hr>
 
-![淡米尔族苦力 ，1880年代](/images/all-walks-of-life/Sub1-2-tamil-coolies-cr.jpg)
+<img srcset="/images/all-walks-of-life/Sub1-2-tamil-coolies-cr_400w.jpg 400w, /images/all-walks-of-life/Sub1-2-tamil-coolies-cr_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="659" width="1000" src="/images/all-walks-of-life/Sub1-2-tamil-coolies-cr_400w.jpg" alt="淡米尔族苦力 ，1880年代">
 <div class="custom-caption">
 <div><p>淡米尔族苦力 ，1880年代</p></div>
 <div>Morgan Betty Bassett藏品，由新加坡国家档案馆提供</div>
@@ -35,7 +35,7 @@ third_nav_title: 民生百态
 <p></p>
 <hr>
 
-![红头巾，1952年](/images/all-walks-of-life/Sub1-3-samsui-women.jpg)
+<img srcset="/images/all-walks-of-life/Sub1-3-samsui-women_400w.jpg 400w, /images/all-walks-of-life/Sub1-3-samsui-women_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="672" width="1000" src="/images/all-walks-of-life/Sub1-3-samsui-women_400w.jpg" alt="红头巾，1952年">
 <div class="custom-caption">
 <div><p>红头巾，1952年</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -47,7 +47,7 @@ third_nav_title: 民生百态
 <hr>
 
 
-![红头巾在工地用餐，1954年](/images/all-walks-of-life/Sub1-4-samsui-women-having-a-meal.jpg)
+<img srcset="/images/all-walks-of-life/Sub1-4-samsui-women-having-a-meal_400w.jpg 400w, /images/all-walks-of-life/Sub1-4-samsui-women-having-a-meal_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="670" width="1000" src="/images/all-walks-of-life/Sub1-4-samsui-women-having-a-meal_400w.jpg" alt="红头巾在工地用餐，1954年">
 <div class="custom-caption">
 <div><p>红头巾在工地用餐，1954年</p></div>
 <div>新闻与艺术部藏品，由新加坡国家档案馆提供</div>
@@ -57,7 +57,7 @@ third_nav_title: 民生百态
 <p></p>
 <hr>
 
-![街边小贩，1910年代](/images/all-walks-of-life/Sub1-5-street-hawkers-cr.jpg)
+<img srcset="/images/all-walks-of-life/Sub1-5-street-hawkers-cr_400w.jpg 400w, /images/all-walks-of-life/Sub1-5-street-hawkers-cr_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="674" width="1000" src="/images/all-walks-of-life/Sub1-5-street-hawkers-cr_400w.jpg" alt="街边小贩，1910年代">
 <div class="custom-caption">
 <div><p>街边小贩，1910年代</p></div>
 <div>李急麟藏品，由新加坡国家档案馆提供</div>
@@ -68,7 +68,7 @@ third_nav_title: 民生百态
 <p></p>
 <hr>
 
-![街边小贩，1920年代](/images/all-walks-of-life/Sub1-6-street-hawkers-cr.jpg)
+<img srcset="/images/all-walks-of-life/Sub1-6-street-hawkers-cr_400w.jpg 400w, /images/all-walks-of-life/Sub1-6-street-hawkers-cr_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="642" width="1000" src="/images/all-walks-of-life/Sub1-6-street-hawkers-cr_400w.jpg" alt="街边小贩，1920年代">
 <div class="custom-caption">
 <div><p>街边小贩，1920年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -80,7 +80,7 @@ third_nav_title: 民生百态
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![沙爹小贩，1900年代](/images/all-walks-of-life/Sub1-7-satay-hawker-cr.jpg)
+<img srcset="/images/all-walks-of-life/Sub1-7-satay-hawker-cr_400w.jpg 400w, /images/all-walks-of-life/Sub1-7-satay-hawker-cr.jpg 700w" sizes="(max-width: 400px) 40vw, 70vw" height="1045" width="700" src="/images/all-walks-of-life/Sub1-7-satay-hawker-cr_400w.jpg" alt="沙爹小贩，1900年代">
 </p>
 <div class="custom-caption">
 <div><p>沙爹小贩，1900年代</p></div>
@@ -93,7 +93,7 @@ third_nav_title: 民生百态
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![售卖零食的小贩，1900年代](/images/all-walks-of-life/Sub1-8-hawker-selling-snacks-cr.jpg)
+<img srcset="/images/all-walks-of-life/Sub1-8-hawker-selling-snacks-cr_400w.jpg 400w, /images/all-walks-of-life/Sub1-8-hawker-selling-snacks-cr.jpg 700w" sizes="(max-width: 400px) 40vw, 70vw" height="1057" width="700" src="/images/all-walks-of-life/Sub1-8-hawker-selling-snacks-cr_400w.jpg" alt="售卖零食的小贩，1900年代">
 </p>
 <div class="custom-caption">
 <div><p>售卖零食的小贩，1900年代</p></div>
@@ -106,7 +106,7 @@ third_nav_title: 民生百态
 <hr>
 
 
-![胡椒园的工人，1890年代](/images/all-walks-of-life/sub1-10-workers-at-a-pepper-plantation.jpg)
+<img srcset="/images/all-walks-of-life/sub1-10-workers-at-a-pepper-plantation_400w.jpg 400w, /images/all-walks-of-life/sub1-10-workers-at-a-pepper-plantation_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="774" width="1000" src="/images/all-walks-of-life/sub1-10-workers-at-a-pepper-plantation_400w.jpg" alt="胡椒园的工人，1890年代">
 <div class="custom-caption">
 <div><p>胡椒园的工人，1890年代</p></div>
 <div>Gretchen Liu藏品，由新加坡国家档案馆提供</div>
@@ -117,7 +117,7 @@ third_nav_title: 民生百态
 <p></p>
 <hr>
 
-![海边的渔夫，1909年](/images/all-walks-of-life/Sub1-11-fishermen-at-seashore.jpg)
+<img srcset="/images/all-walks-of-life/Sub1-11-fishermen-at-seashore_400w.jpg 400w, /images/all-walks-of-life/Sub1-11-fishermen-at-seashore_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="713" width="1000" src="/images/all-walks-of-life/Sub1-11-fishermen-at-seashore_400w.jpg" alt="海边的渔夫，1909年">
 <div class="custom-caption">
 <div><p>海边的渔夫，1909年</p></div>
 <div>Edward William Newell藏品，由新加坡国家档案馆提供</div>
@@ -128,7 +128,7 @@ third_nav_title: 民生百态
 <p></p>
 <hr>
 
-![荷兰贸易商会办事处，丝丝街，约1925年](/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society.jpg)
+<img srcset="/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society_400w.jpg 400w, /images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society.jpg 958w" sizes="(max-width: 400px) 40vw, 95vw" height="722" width="958" src="/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society_400w.jpg" alt="荷兰贸易商会办事处，丝丝街，约1925年">
 <div class="custom-caption">
 <div><p>荷兰贸易商会办事处，丝丝街，约1925年</p></div>
 <div>阿姆斯特丹ABN AMRO艺术与历史部门藏品，由新加坡国家档案馆提供</div>

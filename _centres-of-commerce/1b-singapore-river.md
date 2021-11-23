@@ -13,9 +13,9 @@ third_nav_title: 经济动脉
 如今新加坡河是个休闲与观光的热门景点，周边仍有许多的历史古迹。
 <p></p>
 
-![---](/images/partition.jpg)
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
-![新加坡河，1880年代](/images/centres-of-commerce/Sub2-1-singapore-river.jpg)
+<img alt="新加坡河，1880年代" src="/images/centres-of-commerce/Sub2-1-singapore-river_400w.jpg" width="1000" height="770" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub2-1-singapore-river_400w.jpg 400w, /images/centres-of-commerce/Sub2-1-singapore-river_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>新加坡河，1880年代</p></div>
 <div>李急麟藏品，新加坡国家图书馆馆藏</div>
@@ -25,7 +25,7 @@ third_nav_title: 经济动脉
 <p></p>
 <hr>
 
-![新加坡河，1924年](/images/centres-of-commerce/Sub2-2-singapore-river-cr.jpg)
+<img alt="新加坡河，1924年" src="/images/centres-of-commerce/Sub2-2-singapore-river-cr_400w.jpg" width="1000" height="624" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub2-2-singapore-river-cr_400w.jpg 400w, /images/centres-of-commerce/Sub2-2-singapore-river-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>新加坡河，1924年</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -35,7 +35,7 @@ third_nav_title: 经济动脉
 <p></p>
 <hr>
 
-![新加坡河口海上的货船，1900年代](/images/centres-of-commerce/Sub2-3-cargo-ship-near-the-mouth-of-singapore-river.jpg)
+<img alt="新加坡河口海上的货船，1900年代" src="/images/centres-of-commerce/Sub2-3-cargo-ship-near-the-mouth-of-singapore-river_400w.jpg" width="1000" height="643" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub2-3-cargo-ship-near-the-mouth-of-singapore-river_400w.jpg 400w, /images/centres-of-commerce/Sub2-3-cargo-ship-near-the-mouth-of-singapore-river_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>新加坡河口海上的货船，1900年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -45,7 +45,7 @@ third_nav_title: 经济动脉
 <p></p>
 <hr>
 
-![新加坡河上的大䑩，1900年代](/images/centres-of-commerce/Sub2-4-twakows-on-singapore-river-cr.jpg)
+<img alt="新加坡河上的大䑩，1900年代" src="/images/centres-of-commerce/Sub2-4-twakows-on-singapore-river-cr_400w.jpg" width="1000" height="633" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub2-4-twakows-on-singapore-river-cr_400w.jpg 400w, /images/centres-of-commerce/Sub2-4-twakows-on-singapore-river-cr_1000w.jpg 1000w">
 <div class="custom-caption">
   <div><p>新加坡河上的大䑩，1900年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -57,7 +57,7 @@ third_nav_title: 经济动脉
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![新加坡海港中满载货物的大䑩，1925年](/images/centres-of-commerce/Sub2-5-a-twakow-laden-with-cargo-in-singapore-harbour-cr.jpg)
+<img alt="[新加坡海港中满载货物的大䑩，1925年" src="/images/centres-of-commerce/Sub2-5-a-twakow-laden-with-cargo-in-singapore-harbour-cr_400w.jpg" width="700" height="913" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/centres-of-commerce/Sub2-5-a-twakow-laden-with-cargo-in-singapore-harbour-cr_400w.jpg 400w, /images/centres-of-commerce/Sub2-5-a-twakow-laden-with-cargo-in-singapore-harbour-cr.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>新加坡海港中满载货物的大䑩，1925年</p></div>
@@ -67,7 +67,7 @@ third_nav_title: 经济动脉
 <p></p>
 <hr>
 
-![新加坡河上驳船码头的景象，1910年代](/images/centres-of-commerce/Sub2-6-view-of-boat-quay-at-singapore-river-cr.jpg)
+<img alt="新加坡河上驳船码头的景象，1910年代" src="/images/centres-of-commerce/Sub2-6-view-of-boat-quay-at-singapore-river-cr_400w.jpg" width="1000" height="616" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub2-6-view-of-boat-quay-at-singapore-river-cr_400w.jpg 400w, /images/centres-of-commerce/Sub2-6-view-of-boat-quay-at-singapore-river-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>新加坡河上驳船码头的景象，1910年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -78,7 +78,7 @@ third_nav_title: 经济动脉
 <p></p>
 <hr>
 
-![驳船码头，1920年代](/images/centres-of-commerce/Sub2-7-boat-quay-cr.jpg)
+<img alt="驳船码头，1920年代" src="/images/centres-of-commerce/Sub2-7-boat-quay-cr_400w.jpg" width="1000" height="680" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub2-7-boat-quay-cr_400w.jpg 400w, /images/centres-of-commerce/Sub2-7-boat-quay-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>驳船码头，1920年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -88,7 +88,7 @@ third_nav_title: 经济动脉
 <p></p>
 <hr>
 
-![新加坡河上的克拉码头，1890年代](/images/centres-of-commerce/Sub2-8-singapore-river-near-clarke-quay.jpg)
+<img alt="新加坡河上的克拉码头，1890年代" src="/images/centres-of-commerce/Sub2-8-singapore-river-near-clarke-quay_400w.jpg" width="1000" height="739" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub2-8-singapore-river-near-clarke-quay_400w.jpg 400w, /images/centres-of-commerce/Sub2-8-singapore-river-near-clarke-quay_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>新加坡河上的克拉码头，1890年代</p></div>
 <div>李急麟藏品，新加坡国家图书馆馆藏</div>
@@ -98,7 +98,7 @@ third_nav_title: 经济动脉
 <p></p>
 <hr>
 
-![货仓，1930年代](/images/centres-of-commerce/Sub2-9-godown-cr.jpg)
+<img alt="货仓，1930年代" src="/images/centres-of-commerce/Sub2-9-godown-cr_400w.jpg" width="1000" height="666" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub2-9-godown-cr_400w.jpg 400w, /images/centres-of-commerce/Sub2-9-godown-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>货仓，1930年代</p></div>
 <div>由新加坡国家档案馆提供</div>

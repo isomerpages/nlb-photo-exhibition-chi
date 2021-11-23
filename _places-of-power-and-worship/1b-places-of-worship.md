@@ -10,9 +10,9 @@ third_nav_title: 权贵与敬拜之地
 
 各宗教社群为新加坡的景观赋予了丰富多元的建筑元素。风格独特的回教堂、基督教堂、华族寺庙与兴都庙于各大街道上耸立，成为本地的重要地标。许多历史性建筑现已被列为国家古迹，继续作为人们敬拜的场所或成为社群的传统文化中心。
 <p></p>
-![---](/images/partition.jpg)
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
-![天福宫，1900年代](/images/power-and-worship/Sub2-1-thian-hock-keng-temple-cr.jpg)
+<img alt="天福宫，1900年代" src="/images/power-and-worship/Sub2-1-thian-hock-keng-temple-cr_400w.jpg" width="1000" height="653" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-1-thian-hock-keng-temple-cr_400w.jpg 400w, /images/power-and-worship/Sub2-1-thian-hock-keng-temple-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>天福宫，1900年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -23,7 +23,7 @@ third_nav_title: 权贵与敬拜之地
 <p></p>
 <hr>
 
-![天福宫旁的崇文阁，1900年代](/images/power-and-worship/Sub2-2-thian-hock-keng-temple-cr.jpg)
+<img alt="天福宫旁的崇文阁，1900年代" src="/images/power-and-worship/Sub2-2-thian-hock-keng-temple-cr_400w.jpg" width="1000" height="687" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-2-thian-hock-keng-temple-cr_400w.jpg 400w, /images/power-and-worship/Sub2-2-thian-hock-keng-temple-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>天福宫旁的崇文阁，1900年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -34,7 +34,7 @@ third_nav_title: 权贵与敬拜之地
 <p></p>
 <hr>
 
-![天福宫，1953年](/images/power-and-worship/Sub2-3-thian-hock-keng-temple.jpg)
+<img alt="天福宫，1953年" src="/images/power-and-worship/Sub2-3-thian-hock-keng-temple_400w.jpg" width="1000" height="747" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-3-thian-hock-keng-temple_400w.jpg 400w, /images/power-and-worship/Sub2-3-thian-hock-keng-temple_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>天福宫，1953年</p></div>
 <div>Arthur B Reich藏品，由新加坡国家档案馆提供</div>
@@ -45,7 +45,7 @@ third_nav_title: 权贵与敬拜之地
 <p></p>
 <hr>
 
-![粤海清庙，1955年](/images/power-and-worship/Sub2-4-wak-hai-cheng-bio-cr.jpg)
+<img alt="粤海清庙，1955年" src="/images/power-and-worship/Sub2-4-wak-hai-cheng-bio-cr_400w.jpg" width="1000" height="614" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-4-wak-hai-cheng-bio-cr_400w.jpg 400w, /images/power-and-worship/Sub2-4-wak-hai-cheng-bio-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>粤海清庙，1955年</p></div>
 <div>Wong Kwan藏品，由新加坡国家档案馆提供</div>
@@ -56,14 +56,14 @@ third_nav_title: 权贵与敬拜之地
 <p></p>
 <hr>
 
-![双林寺，1900年代](/images/power-and-worship/Sub2-5-siong-lim-temple.jpg)
+<img alt="双林寺，1900年代" src="/images/power-and-worship/Sub2-5-siong-lim-temple_400w.jpg" width="1000" height="633" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-5-siong-lim-temple_400w.jpg 400w, /images/power-and-worship/Sub2-5-siong-lim-temple_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>双林寺，1900年代</p></div>
 <div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
 <div>19980005888 – 0048</div>
 </div>
 
-![双林寺，1910年代](/images/power-and-worship/Sub2-6-siong-lim-temple-cr.jpg)
+<img alt="双林寺，1910年代" src="/images/power-and-worship/Sub2-6-siong-lim-temple-cr_400w.jpg" width="1000" height="625" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-6-siong-lim-temple-cr_400w.jpg 400w, /images/power-and-worship/Sub2-6-siong-lim-temple-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>双林寺，1910年代</p></div>
 <div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
@@ -75,7 +75,7 @@ third_nav_title: 权贵与敬拜之地
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![詹美回教堂，1930年](/images/power-and-worship/Sub2-7-jamae-mosque-cr.jpg)
+<img alt="詹美回教堂，1930年" src="/images/power-and-worship/Sub2-7-jamae-mosque-cr_400w.jpg" width="700" height="990" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/all-walks-of-life/Sub1-1-chinese-coolies_400w.jpg 400w, /images/power-and-worship/Sub2-7-jamae-mosque-cr.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>詹美回教堂，1930年</p></div>
@@ -87,7 +87,7 @@ third_nav_title: 权贵与敬拜之地
 <p></p>
 <hr>
 
-![纳歌德卡殿，1880年代](/images/power-and-worship/Sub2-8-nagore-durgha-shrine-cr.jpg)
+<img alt="纳歌德卡殿，1880年代" src="/images/power-and-worship/Sub2-8-nagore-durgha-shrine-cr_400w.jpg" width="1000" height="645" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-8-nagore-durgha-shrine-cr_400w.jpg 400w, /images/power-and-worship/Sub2-8-nagore-durgha-shrine-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>纳歌德卡殿，1880年代</p></div>
 <div>Morgan Betty Bassett藏品，由新加坡国家档案馆提供</div>
@@ -99,7 +99,7 @@ third_nav_title: 权贵与敬拜之地
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![苏丹回教堂，1930年代](/images/power-and-worship/Sub2-9-sultan-mosque-cr.jpg)
+<img alt="苏丹回教堂，1930年代" src="/images/power-and-worship/Sub2-9-sultan-mosque-cr_400w.jpg" width="700" height="1108" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-9-sultan-mosque-cr_400w.jpg 400w, /images/power-and-worship/Sub2-9-sultan-mosque-cr.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>苏丹回教堂，1930年代</p></div>
@@ -112,7 +112,7 @@ third_nav_title: 权贵与敬拜之地
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![苏丹回教堂内部，1954年](/images/power-and-worship/Sub2-10-interior-of-sultan-mosque-cr.jpg)
+<img alt="苏丹回教堂内部，1954年" src="/images/power-and-worship/Sub2-10-interior-of-sultan-mosque-cr_400w.jpg" width="700" height="993" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-10-interior-of-sultan-mosque-cr_400w.jpg 400w, /images/power-and-worship/Sub2-10-interior-of-sultan-mosque-cr.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>苏丹回教堂内部，1954年</p></div>
@@ -121,7 +121,7 @@ third_nav_title: 权贵与敬拜之地
 </div>
 <hr>
 
-![亚美尼亚教堂，1962年](/images/power-and-worship/Sub2-11-armenian-church-of-saint-gregory.jpg)
+<img alt="亚美尼亚教堂，1962年" src="/images/power-and-worship/Sub2-11-armenian-church-of-saint-gregory_400w.jpg" width="1000" height="666" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-11-armenian-church-of-saint-gregory_400w.jpg 400w, /images/power-and-worship/Sub2-11-armenian-church-of-saint-gregory_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>亚美尼亚教堂，1962年</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -132,7 +132,7 @@ third_nav_title: 权贵与敬拜之地
 <p></p>
 <hr>
 
-![善牧主教座堂，1900年代](/images/power-and-worship/Sub2-13-cathedral-of-the-good-shepherd.jpg)
+<img alt="善牧主教座堂，1900年代" src="/images/power-and-worship/Sub2-13-cathedral-of-the-good-shepherd_400w.jpg" width="1000" height="646" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-13-cathedral-of-the-good-shepherd_400w.jpg 400w, /images/power-and-worship/Sub2-13-cathedral-of-the-good-shepherd_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>善牧主教座堂，1900年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -144,7 +144,7 @@ third_nav_title: 权贵与敬拜之地
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![圣婴修道院教堂，1900年代](/images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
+<img alt="圣婴修道院教堂，1900年代" src="/images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr_400w.jpg" width="700" height="1098" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr_400w.jpg 400w, /images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>圣婴修道院教堂，1900年代</p></div>
@@ -157,7 +157,7 @@ third_nav_title: 权贵与敬拜之地
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![圣婴修道院教堂内部，1900年代](/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
+<img alt="圣婴修道院教堂内部，1900年代" src="/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr_400w.jpg" width="700" height="1057" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr_400w.jpg 400w, /images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>圣婴修道院教堂内部，1900年代</p></div>
@@ -166,7 +166,7 @@ third_nav_title: 权贵与敬拜之地
 </div>
 <hr>
 
-![圣安德烈座堂，1910年](/images/power-and-worship/Sub2-16-st-andrews-cathedral-cr.jpg)
+<img alt="圣安德烈座堂，1910年" src="/images/power-and-worship/Sub2-16-st-andrews-cathedral-cr_400w.jpg" width="1000" height="635" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-16-st-andrews-cathedral-cr_400w.jpg 400w, /images/power-and-worship/Sub2-16-st-andrews-cathedral-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>圣安德烈座堂，1910年</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -178,7 +178,7 @@ third_nav_title: 权贵与敬拜之地
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![圣安德烈座堂，1950年代](/images/power-and-worship/Sub2-17-st-andrews-cathedral.jpg)
+<img alt="圣安德烈座堂，1950年代" src="/images/power-and-worship/Sub2-17-st-andrews-cathedral_400w.jpg" width="700" height="980" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-17-st-andrews-cathedral_400w.jpg 400w, /images/power-and-worship/Sub2-17-st-andrews-cathedral.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>圣安德烈座堂，1950年代</p></div>
@@ -187,7 +187,7 @@ third_nav_title: 权贵与敬拜之地
 </div>
 <hr>
 
-![马里安曼兴都庙，1905年](/images/power-and-worship/Sub2-18-sri-mariamman-temple-cr.jpg)
+<img alt="马里安曼兴都庙，1905年" src="/images/power-and-worship/Sub2-18-sri-mariamman-temple-cr_400w.jpg" width="1000" height="645" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-18-sri-mariamman-temple-cr_400w.jpg 400w, /images/power-and-worship/Sub2-18-sri-mariamman-temple-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>马里安曼兴都庙，1905年</p></div>
 <div>Lim Kheng Chye 藏品，由新加坡国家档案馆提供</div>
@@ -199,7 +199,7 @@ third_nav_title: 权贵与敬拜之地
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![马里安曼兴都庙，1950年代](/images/power-and-worship/Sub2-19-sri-mariamman-temple.jpg)
+<img alt="马里安曼兴都庙，1950年代" src="/images/power-and-worship/Sub2-19-sri-mariamman-temple_400w.jpg" width="700" height="1151" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-19-sri-mariamman-temple_400w.jpg 400w, /images/power-and-worship/Sub2-19-sri-mariamman-temple.jpg 700w">
 </p>
 <div class="custom-caption">
 <div><p>马里安曼兴都庙，1950年代</p></div>

@@ -7,7 +7,7 @@ third_nav_title: 车水马龙
 ---
 
 
-![人力车夫，1910年代](/images/city-in-motion/Sub1-1-rickshaw-puller.jpg)
+<img srcset="/images/city-in-motion/Sub1-1-rickshaw-puller_400w.jpg 400w, /images/city-in-motion/Sub1-1-rickshaw-puller_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="603" width="1000" src="/images/city-in-motion/Sub1-1-rickshaw-puller_400w.jpg" alt="人力车夫，1910年代">
 <div class="custom-caption">
 <div><p>人力车夫，1910年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -18,7 +18,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![牛车水街边的人力车与店屋，1910年](/images/city-in-motion/Sub1-2-rickshaw-and-chinese-shophouses.jpg)
+<img srcset="/images/city-in-motion/Sub1-2-rickshaw-and-chinese-shophouses_400w.jpg 400w, /images/city-in-motion/Sub1-2-rickshaw-and-chinese-shophouses_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="633" width="1000" src="/images/city-in-motion/Sub1-2-rickshaw-and-chinese-shophouses_400w.jpg" alt="牛车水街边的人力车与店屋，1910年">
 <div class="custom-caption">
 <div><p>牛车水街边的人力车与店屋，1910年</p></div>
 <div>Andrew Tan藏品，由新加坡国家档案馆提供</div>
@@ -29,7 +29,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![人力车夫与乘客，1900年代](/images/city-in-motion/Sub1-3-rickshaw-puller-and-his-passengers.jpg)
+<img srcset="/images/city-in-motion/Sub1-3-rickshaw-puller-and-his-passengers_400w.jpg 400w, /images/city-in-motion/Sub1-3-rickshaw-puller-and-his-passengers_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="725" width="1000" src="/images/city-in-motion/Sub1-3-rickshaw-puller-and-his-passengers_400w.jpg" alt="人力车夫与乘客，1900年代">
 <div class="custom-caption">
 <div><p>人力车夫与乘客，1900年代</p></div>
 <div>Boden-Kloss藏品，由新加坡国家档案馆提供</div>
@@ -39,7 +39,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![马车，19世纪](/images/city-in-motion/Sub1-4-hackney-drawn-by-a-horse-cr.jpg)
+<img srcset="/images/city-in-motion/Sub1-4-hackney-drawn-by-a-horse-cr_400w.jpg 400w, /images/city-in-motion/Sub1-4-hackney-drawn-by-a-horse-cr.jpg 958w" sizes="(max-width: 400px) 40vw, 95vw" height="672" width="958" src="/images/city-in-motion/Sub1-4-hackney-drawn-by-a-horse-cr_400w.jpg" alt="马车，19世纪">
 <div class="custom-caption">
 <div><p>马车，19世纪</p></div>
 <div>荷兰Nationaal Museum van Wereldculturen 藏品（馆藏编号RV-A128-0021），由新加坡国家档案馆提供</div>
@@ -51,7 +51,7 @@ third_nav_title: 车水马龙
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![马车，1900年代](/images/city-in-motion/Sub1-5-horse-drawn-carriage.jpg)
+<img srcset="/images/city-in-motion/Sub1-5-horse-drawn-carriage_400w.jpg 400w, /images/city-in-motion/Sub1-5-horse-drawn-carriage.jpg 700w" sizes="(max-width: 400px) 40vw, 70vw" height="647" width="700" src="/images/city-in-motion/Sub1-5-horse-drawn-carriage_400w.jpg" alt="马车，1900年代">
 </p>
 <div class="custom-caption">
 <div><p>马车，1900年代</p></div>
@@ -63,7 +63,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![马车，1880年代](/images/city-in-motion/Sub1-6-horse-and-carriage.jpg)
+<img srcset="/images/city-in-motion/Sub1-6-horse-and-carriage_400w.jpg 400w, /images/city-in-motion/Sub1-6-horse-and-carriage_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="645" width="1000" src="/images/city-in-motion/Sub1-6-horse-and-carriage_400w.jpg" alt="马车，1880年代">
 <div class="custom-caption">
 <div><p>马车，1880年代</p></div>
 <div>Morgan Betty Bassett藏品，由新加坡国家档案馆提供</div>
@@ -73,7 +73,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![牛车，1910年代](/images/city-in-motion/Sub1-7-Bullock-Cart.jpg)
+<img srcset="/images/city-in-motion/Sub1-7-Bullock-Cart_400w.jpg 400w, /images/city-in-motion/Sub1-7-Bullock-Cart_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="645" width="1000" src="/images/city-in-motion/Sub1-7-Bullock-Cart_400w.jpg" alt="牛车，1910年代">
 <div class="custom-caption">
 <div><p>牛车，1910年代</p></div>
 <div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
@@ -84,7 +84,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![牛车，1900年代](/images/city-in-motion/Sub1-8-water-car.jpg)
+<img srcset="/images/city-in-motion/Sub1-8-water-car_400w.jpg 400w, /images/city-in-motion/Sub1-8-water-car_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="638" width="1000" src="/images/city-in-motion/Sub1-8-water-car_400w.jpg" alt="牛车，1900年代">
 <div class="custom-caption">
 <div><p>牛车，1900年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -95,7 +95,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![街道上人力车、牛车与小贩的景象，1900年代](/images/city-in-motion/Sub1-9-street-scene.jpg)
+<img srcset="/images/city-in-motion/Sub1-9-street-scene_400w.jpg 400w, /images/city-in-motion/Sub1-9-street-scene_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="619" width="1000" src="/images/city-in-motion/Sub1-9-street-scene_400w.jpg" alt="街道上人力车、牛车与小贩的景象，1900年代">
 <div class="custom-caption">
 <div><p>街道上人力车、牛车与小贩的景象，1900年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -106,7 +106,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![三轮车，1950年](/images/city-in-motion/Sub1-11-trishaw.jpg)
+<img srcset="/images/city-in-motion/Sub1-11-trishaw_400w.jpg 400w, /images/city-in-motion/Sub1-11-trishaw_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="658" width="1000" src="/images/city-in-motion/Sub1-11-trishaw_400w.jpg" alt="三轮车，1950年">
 <div class="custom-caption">
 <div><p>三轮车，1950年</p></div>
 <div>Regina Lim Kheng Yeok藏品，由新加坡国家档案馆提供</div>
@@ -118,7 +118,7 @@ third_nav_title: 车水马龙
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![三轮车夫与乘客，1961年 ](/images/city-in-motion/Sub1-12-a-trishaw-rider-and-his-passenger.jpg)
+<img srcset="/images/city-in-motion/Sub1-12-a-trishaw-rider-and-his-passenger_400w.jpg 400w, /images/city-in-motion/Sub1-12-a-trishaw-rider-and-his-passenger.jpg 700w" sizes="(max-width: 400px) 40vw, 70vw" height="1050" width="700" src="/images/city-in-motion/Sub1-11-trishaw_400w.jpg" alt="三轮车夫与乘客，1961年">
 </p>
 <div class="custom-caption">
 <div><p>三轮车夫与乘客，1961年 </p></div>
@@ -129,7 +129,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![有轨电车，1900年代](/images/city-in-motion/Sub1-13-a-tram-car.jpg)
+<img srcset="/images/city-in-motion/Sub1-13-a-tram-car_400w.jpg 400w, /images/city-in-motion/Sub1-13-a-tram-car_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="743" width="1000" src="/images/city-in-motion/Sub1-13-a-tram-car_400w.jpg" alt="有轨电车，1900年代">
 <div class="custom-caption">
 <div><p>有轨电车，1900年代</p></div>
 <div>F W York藏品，由新加坡国家档案馆提供</div>
@@ -140,7 +140,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![丹绒加东一带的电车，1910年代](/images/city-in-motion/Sub1-14-tram-car-in-motion-along-tanjong-katong.jpg)
+<img srcset="/images/city-in-motion/Sub1-14-tram-car-in-motion-along-tanjong-katong_400w.jpg 400w, /images/city-in-motion/Sub1-14-tram-car-in-motion-along-tanjong-katong_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="653" width="1000" src="/images/city-in-motion/Sub1-14-tram-car-in-motion-along-tanjong-katong_400w.jpg" alt="丹绒加东一带的电车，1910年代">
 <div class="custom-caption">
 <div><p>丹绒加东一带的电车，1910年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -151,7 +151,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![禧街与史丹福路口的交通，1920年代](/images/city-in-motion/Sub1-15-local-traffic.jpg)
+<img srcset="/images/city-in-motion/Sub1-15-local-traffic_400w.jpg 400w, /images/city-in-motion/Sub1-15-local-traffic_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="635" width="1000" src="/images/city-in-motion/Sub1-15-local-traffic_400w.jpg" alt="禧街与史丹福路口的交通，1920年代">
 <div class="custom-caption">
 <div><p>禧街与史丹福路口的交通，1920年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -162,7 +162,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![在哥烈码头搭乘无轨电车的乘客，1946年](/images/city-in-motion/Sub1-16-commuters-boarding-trolley-bus-at-collyer-quay.jpg)
+<img srcset="/images/city-in-motion/Sub1-16-commuters-boarding-trolley-bus-at-collyer-quay_400w.jpg 400w, /images/city-in-motion/Sub1-16-commuters-boarding-trolley-bus-at-collyer-quay_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="737" width="1000" src="/images/city-in-motion/Sub1-16-commuters-boarding-trolley-bus-at-collyer-quay_400w.jpg" alt="在哥烈码头搭乘无轨电车的乘客，1946年">
 <div class="custom-caption">
 <div><p>在哥烈码头搭乘无轨电车的乘客，1946年</p></div>
 <div>Roland Craske藏品，由新加坡国家档案馆提供</div>
@@ -172,7 +172,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![无轨电车，1930年](/images/city-in-motion/Sub1-17-a-trolley-bus.jpg)
+<img srcset="/images/city-in-motion/Sub1-17-a-trolley-bus_400w.jpg 400w, /images/city-in-motion/Sub1-17-a-trolley-bus_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="602" width="1000" src="/images/city-in-motion/Sub1-17-a-trolley-bus_400w.jpg" alt="无轨电车，1930年">
 <div class="custom-caption">
 <div><p>无轨电车，1930年</p></div>
 <div>J. A. Bennett藏品，由新加坡国家档案馆提供</div>
@@ -183,7 +183,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![武吉知马赛马场的停车场，1936年](/images/city-in-motion/Sub1-18-car-park-at-bukit-timah-race-course.jpg)
+<img srcset="/images/city-in-motion/Sub1-18-car-park-at-bukit-timah-race-course_400w.jpg 400w, /images/city-in-motion/Sub1-18-car-park-at-bukit-timah-race-course_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="621" width="1000" src="/images/city-in-motion/Sub1-18-car-park-at-bukit-timah-race-course_400w.jpg" alt="武吉知马赛马场的停车场，1936年">
 <div class="custom-caption">
 <div><p>武吉知马赛马场的停车场，1936年</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -194,7 +194,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![驱车到麦里芝蓄水池郊游， 1920年代](/images/city-in-motion/Sub1-20-passengers-in-a-car-at-macritichie-reservoir.jpg)
+<img srcset="/images/city-in-motion/Sub1-20-passengers-in-a-car-at-macritichie-reservoir_400w.jpg 400w, /images/city-in-motion/Sub1-20-passengers-in-a-car-at-macritichie-reservoir_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="720" width="1000" src="/images/city-in-motion/Sub1-20-passengers-in-a-car-at-macritichie-reservoir_400w.jpg" alt="驱车到麦里芝蓄水池郊游， 1920年代">
 <div class="custom-caption">
 <div><p>驱车到麦里芝蓄水池郊游， 1920年代</p></div>
 <div>Lee Brothers Studio藏品，由新加坡国家档案馆提供</div>
@@ -205,7 +205,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![驾车的女士与乘客，1920年代](/images/city-in-motion/Sub1-19-vintage-car-with-passengers-at-north-bridge-road.jpg)
+<img srcset="/images/city-in-motion/Sub1-19-vintage-car-with-passengers-at-north-bridge-road_400w.jpg 400w, /images/city-in-motion/Sub1-19-vintage-car-with-passengers-at-north-bridge-road_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="751" width="1000" src="/images/city-in-motion/Sub1-19-vintage-car-with-passengers-at-north-bridge-road_400w.jpg" alt="驾车的女士与乘客，1920年代">
 <div class="custom-caption">
 <div><p>驾车的女士与乘客，1920年代</p></div>
 <div>土生华人协会藏品，由新加坡国家档案馆提供</div>
@@ -216,7 +216,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![交通警察，1930年代](/images/city-in-motion/Sub1-21-traffic-policeman.jpg)
+<img srcset="/images/city-in-motion/Sub1-21-traffic-policeman_400w.jpg 400w, /images/city-in-motion/Sub1-21-traffic-policeman_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="629" width="1000" src="/images/city-in-motion/Sub1-21-traffic-policeman_400w.jpg" alt="交通警察，1930年代">
 <div class="custom-caption">
 <div><p>交通警察，1930年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -227,7 +227,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![交通警察，1930年代 ](/images/city-in-motion/Sub1-22-traffic-constable.jpg)
+<img srcset="/images/city-in-motion/Sub1-22-traffic-constable_400w.jpg 400w, /images/city-in-motion/Sub1-22-traffic-constable_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="686" width="1000" src="/images/city-in-motion/Sub1-22-traffic-constable_400w.jpg" alt="交通警察，1930年代">
 <div class="custom-caption">
 <div><p>交通警察，1930年代 </p></div>
 <div>李急麟藏品，由新加坡国家档案馆提供</div>
@@ -238,7 +238,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![一名交通警察在公路交界处指挥交通，1950年代](/images/city-in-motion/Sub1-23-a-traffic-policeman-guiding-vehicles-at-road-junction.jpg)
+<img srcset="/images/city-in-motion/Sub1-23-a-traffic-policeman-guiding-vehicles-at-road-junction_400w.jpg 400w, /images/city-in-motion/Sub1-23-a-traffic-policeman-guiding-vehicles-at-road-junction.jpg 958w" sizes="(max-width: 400px) 40vw, 95vw" height="753" width="958" src="/images/city-in-motion/Sub1-23-a-traffic-policeman-guiding-vehicles-at-road-junction_400w.jpg" alt="一名交通警察在公路交界处指挥交通，1950年代">
 <div class="custom-caption">
 <div><p>一名交通警察在公路交界处指挥交通，1950年代</p></div>
 <div>新加坡警察部队藏品，由新加坡国家档案馆提供</div>
@@ -248,7 +248,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![新加坡—克兰芝铁路，1906年](/images/city-in-motion/Sub1-24-singapore-kranji-railway.jpg)
+<img srcset="/images/city-in-motion/Sub1-24-singapore-kranji-railway_400w.jpg 400w, /images/city-in-motion/Sub1-24-singapore-kranji-railway_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="630" width="1000" src="/images/city-in-motion/Sub1-24-singapore-kranji-railway_400w.jpg" alt="新加坡—克兰芝铁路，1906年">
 <div class="custom-caption">
 <div><p>新加坡—克兰芝铁路，1906年</p></div>
 <div>Arshak C. Galstaun藏品，由新加坡国家档案馆提供</div>
@@ -259,7 +259,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![纽顿车站，1910年](/images/city-in-motion/Sub1-25-newton-station.jpg)
+<img srcset="/images/city-in-motion/Sub1-25-newton-station_400w.jpg 400w, /images/city-in-motion/Sub1-25-newton-station_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="638" width="1000" src="/images/city-in-motion/Sub1-25-newton-station_400w.jpg" alt="纽顿车站，1910年">
 <div class="custom-caption">
 <div><p>纽顿车站，1910年</p></div>
 <div>Lim Kheng Chye藏品，由新加坡国家档案馆提供</div>
@@ -270,7 +270,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![登路车站，1920年代](/images/city-in-motion/Sub1-26-tank-road-station.jpg)
+<img srcset="/images/city-in-motion/Sub1-26-tank-road-station_400w.jpg 400w, /images/city-in-motion/Sub1-26-tank-road-station_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="621" width="1000" src="/images/city-in-motion/Sub1-26-tank-road-station_400w.jpg" alt="登路车站，1920年代">
 <div class="custom-caption">
 <div><p>登路车站，1920年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -281,7 +281,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![武吉知马车站，1900年代](/images/city-in-motion/Sub1-27-bukit-timah-railway-station-cr.jpg)
+<img srcset="/images/city-in-motion/Sub1-27-bukit-timah-railway-station-cr_400w.jpg 400w, /images/city-in-motion/Sub1-27-bukit-timah-railway-station-cr_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="647" width="1000" src="/images/city-in-motion/Sub1-27-bukit-timah-railway-station-cr_400w.jpg" alt="武吉知马车站，1900年代">
 <div class="custom-caption">
 <div><p>武吉知马车站，1900年代</p></div>
 <div>由新加坡国家档案馆提供</div>
@@ -292,7 +292,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![丹戎巴葛火车站，1940年代](/images/city-in-motion/Sub1-28-tanjong-pagar-railway-station.jpg)
+<img srcset="/images/city-in-motion/Sub1-28-tanjong-pagar-railway-station_400w.jpg 400w, /images/city-in-motion/Sub1-28-tanjong-pagar-railway-station_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="641" width="1000" src="/images/city-in-motion/Sub1-28-tanjong-pagar-railway-station_400w.jpg" alt="丹戎巴葛火车站，1940年代">
 <div class="custom-caption">
 <div><p>丹戎巴葛火车站，1940年代</p></div>
 <div>J. A. Bennett藏品，由新加坡国家档案馆提供</div>
@@ -303,7 +303,7 @@ third_nav_title: 车水马龙
 <p></p>
 <hr>
 
-![丹戎巴葛火车站，1930年代](/images/city-in-motion/Sub1-29-railway-station.jpg)
+<img srcset="/images/city-in-motion/Sub1-29-railway-station_400w.jpg 400w, /images/city-in-motion/Sub1-29-railway-station_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="486" width="1000" src="/images/city-in-motion/Sub1-29-railway-station_400w.jpg" alt="丹戎巴葛火车站，1930年代">
 <div class="custom-caption">
 <div><p>丹戎巴葛火车站，1930年代</p></div>
 <div>由新加坡国家档案馆提供</div>
