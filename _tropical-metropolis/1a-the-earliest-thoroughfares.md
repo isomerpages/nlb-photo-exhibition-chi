@@ -95,7 +95,6 @@ third_nav_title: 热带都会风情
 
 <img alt="加文纳大桥，1894年" src="/images/Sub1-8-Cavenagh-Bridge_400w.jpg" width="1000" height="778" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub1-8-Cavenagh-Bridge_400w.jpg 400w, /images/Sub1-8-Cavenagh-Bridge_1000w.jpg 1000w">
 <div class="custom-caption">
-<div class="custom-caption">
 <div><p>加文纳大桥，1894年</p></div>
 <div>李急麟藏品，新加坡国家图书馆馆藏</div>
 </div>
