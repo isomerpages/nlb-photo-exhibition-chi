@@ -1,6 +1,6 @@
 ---
 title: 'Dining Room at Grand Hotel de l’Europe, 1910s'
-permalink: /tropical-metropolis/high-life-in-the-city/dining-room-at-grand-hotel-de-l’Europe-1910s/
+permalink: /tropical-metropolis/high-life-in-the-city/dining-room-at-grand-hotel-de-l’europe-1910s/
 breadcrumb: 'Dining Room at Grand Hotel de l’Europe, 1910s'
 
 ---
