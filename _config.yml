@@ -3,6 +3,7 @@ title-abbreviated: 双城往事
 description: '"“双城往事”是一个由中国首都图书馆与新加坡国家图书馆联合呈献的线上图片展，这项合作象征了两家机构友好的伙伴关系。"'
 url: 'https://memoriesoftwocities.nlb.gov.sg'
 google_analytics: UA-50449401-30
+google_analytics_ga4: G-0GPZ9E9N4G
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 plugins:
