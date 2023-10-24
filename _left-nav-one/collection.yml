@@ -1,0 +1,6 @@
+collections:
+  left-nav-one:
+    output: true
+    order:
+      - 'The Earliest Thoroughfares'.md
+      - 'Sub Page B'.md

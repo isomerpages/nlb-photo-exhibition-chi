@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem 'github-pages', '>= 228', group: :jekyll_plugins
+gem "isomer-jekyll", group: :jekyll_plugins
