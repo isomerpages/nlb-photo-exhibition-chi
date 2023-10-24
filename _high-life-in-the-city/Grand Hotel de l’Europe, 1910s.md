@@ -1,6 +1,6 @@
 ---
 title: 'Grand Hotel de l’Europe, 1910s'
-permalink: '/tropical-metropolis/high-life-in-the-city/grand-hotel-de-l''europe-1910s/'/
+permalink: /tropical-metropolis/high-life-in-the-city/grand-hotel-de-l''europe-1910s/'/
 breadcrumb: 'Grand Hotel de l’Europe, 1910s'
 
 ---

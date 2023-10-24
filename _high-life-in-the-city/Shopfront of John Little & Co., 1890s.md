@@ -1,6 +1,6 @@
 ---
 title: 'Shopfront of John Little & Co., 1890s'
-permalink: '/tropical-metropolis/high-life-in-the-city/shopfront-of-john-little-&-co-1890s/'/
+permalink: /tropical-metropolis/high-life-in-the-city/shopfront-of-john-little-&-co-1890s/'/
 breadcrumb: 'Shopfront of John Little & Co., 1890s'
 
 ---
