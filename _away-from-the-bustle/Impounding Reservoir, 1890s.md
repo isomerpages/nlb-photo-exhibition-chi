@@ -6,7 +6,7 @@ breadcrumb: 'Impounding Reservoir, 1890s'
 ---
 
 
-![Impounding Reservoir, 1890s](/images/Sub3-5-The-Water-Works.jpg)
+![Impounding Reservoir, 1890s](/images/sub3-5-the-water-works.jpg)
 <div class="custom-caption">
 <div><p>Impounding Reservoir, 1890s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>

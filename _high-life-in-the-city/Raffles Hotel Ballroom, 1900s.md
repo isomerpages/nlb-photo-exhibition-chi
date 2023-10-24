@@ -6,7 +6,7 @@ breadcrumb: 'Raffles Hotel Ballroom, 1900s'
 ---
 
 
-![Raffles Hotel Ballroom, 1900s](/images/Sub2-2-The-Ballroom-Set-Raffles-Hotel.jpg)
+![Raffles Hotel Ballroom, 1900s](/images/sub2-2-the-ballroom-set-raffles-hotel.jpg)
 <div class="custom-caption">
 <div><p>Raffles Hotel Ballroom, 1900s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>

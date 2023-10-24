@@ -6,7 +6,7 @@ breadcrumb: 'The Esplanade, 1920s'
 ---
 
 
-![The Esplanade, 1920s](/images/Sub3-1-Esplanade.jpg)
+![The Esplanade, 1920s](/images/sub3-1-esplanade.jpg)
 <div class="custom-caption">
 <div><p>The Esplanade, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>

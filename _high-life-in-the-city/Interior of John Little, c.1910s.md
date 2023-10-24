@@ -6,7 +6,7 @@ breadcrumb: 'Interior of John Little, c.1910s'
 ---
 
 
-![Interior of John Little, c.1910s](/images/Sub2-6-Interior-View-John-Little-and-Cos-Premises.jpg)
+![Interior of John Little, c.1910s](/images/sub2-6-interior-view-john-little-and-cos-premises.jpg)
 <div class="custom-caption">
 <div><p>Interior of John Little, c.1910s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>

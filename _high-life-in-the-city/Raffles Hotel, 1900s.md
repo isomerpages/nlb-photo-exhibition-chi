@@ -6,7 +6,7 @@ breadcrumb: 'Raffles Hotel, 1900s'
 ---
 
 
-![Raffles Hotel, 1900s](/images/Sub2-1-Raffles-Hotel.jpg)
+![Raffles Hotel, 1900s](/images/sub2-1-raffles-hotel.jpg)
 <div class="custom-caption">
 <div><p>Raffles Hotel, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>

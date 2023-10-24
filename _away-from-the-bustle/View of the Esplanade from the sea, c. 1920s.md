@@ -6,7 +6,7 @@ breadcrumb: 'View of the Esplanade from the sea, c. 1920s'
 ---
 
 
-![View of the Esplanade from the sea, c. 1920s](/images/Sub3-2-The-Esplanade.jpg)
+![View of the Esplanade from the sea, c. 1920s](/images/sub3-2-the-esplanade.jpg)
 <div class="custom-caption">
 <div><p>View of the Esplanade from the sea, c. 1920s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>

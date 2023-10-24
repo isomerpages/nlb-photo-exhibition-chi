@@ -6,7 +6,7 @@ breadcrumb: 'Alkaff Lake Gardens, 1920s'
 ---
 
 
-![Alkaff Lake Gardens, 1920s](/images/Sub3-7-Alkaff-Garden.jpg)
+![Alkaff Lake Gardens, 1920s](/images/sub3-7-alkaff-garden.jpg)
 <div class="custom-caption">
 <div><p>Alkaff Lake Gardens, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>

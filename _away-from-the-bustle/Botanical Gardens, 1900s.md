@@ -6,7 +6,7 @@ breadcrumb: 'Botanical Gardens, 1900s'
 ---
 
 
-![Botanical Gardens, 1900s](/images/Sub3-3.jpg)
+![Botanical Gardens, 1900s](/images/sub3-3.jpg)
 <div class="custom-caption">
 <div><p>Botanical Gardens, 1900s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>

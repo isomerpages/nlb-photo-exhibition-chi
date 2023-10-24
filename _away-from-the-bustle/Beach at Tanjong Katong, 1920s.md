@@ -6,7 +6,7 @@ breadcrumb: 'Beach at Tanjong Katong, 1920s'
 ---
 
 
-![Beach at Tanjong Katong, 1920s](/images/Sub3-9.jpg)
+![Beach at Tanjong Katong, 1920s](/images/sub3-9.jpg)
 <div class="custom-caption">
 <div><p>Beach at Tanjong Katong, 1920s</p></div>
 <div>Marine Parade Community Centre Collection, courtesy of National Archives of Singapore</div>

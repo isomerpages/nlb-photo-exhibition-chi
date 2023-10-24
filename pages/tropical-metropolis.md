@@ -16,7 +16,7 @@ breadcrumb: 热带都会风情
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/tropical-metropolis/the-earliest-thoroughfares/">
-				<img src="/images/The-Earliest-Thoroughfares-Boxed.jpg" alt="Tropical Metropolis - The Earliest Thoroughfares" class="project-image">
+				<img src="/images/the-earliest-thoroughfares-boxed.jpg" alt="Tropical Metropolis - The Earliest Thoroughfares" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>车水马龙的要道</b></h5>
@@ -26,7 +26,7 @@ breadcrumb: 热带都会风情
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/tropical-metropolis/high-life-in-the-city/" class="project-link">
-				<img src="/images/High-Life-in-the-City-Boxed.jpg" alt="Tropical Metropolis - High Life in the City" class="project-image">
+				<img src="/images/high-life-in-the-city-boxed.jpg" alt="Tropical Metropolis - High Life in the City" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>高档的都市生活</b></h5>
@@ -36,7 +36,7 @@ breadcrumb: 热带都会风情
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/tropical-metropolis/away-from-the-bustle" class="project-link">
-				<img src="/images/Away-from-the-Bustle-Boxed.jpg" alt="Brunei: A Country Profile" class="project-image">
+				<img src="/images/away-from-the-bustle-boxed.jpg" alt="Brunei: A Country Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>远离尘嚣</b></h5>

@@ -12,10 +12,10 @@ breadcrumb: 关于展览
     <div class="sgds-container">
         <div class="row margin--xs">
             <div class="col is-half margin--xs padding--xs">
-                <img src="/images/memory-intro-logo-NL.jpg" alt="新加坡国家图书馆" class="center">
+                <img src="/images/memory-intro-logo-nl.jpg" alt="新加坡国家图书馆" class="center">
             </div>            
             <div class="col is-half margin--xs padding--xs">
-                <img src="/images/memory-intro-logo-CLC.jpg" alt="中国首都图书馆">
+                <img src="/images/memory-intro-logo-clc.jpg" alt="中国首都图书馆">
             </div>
         </div>
         <div class="row">

@@ -6,7 +6,7 @@ breadcrumb: 'Grand Hotel de l’Europe, 1910s'
 ---
 
 
-![Grand Hotel de l’Europe, 1910s](/images/Sub2-3-Hotel-De-Europe.jpg)
+![Grand Hotel de l’Europe, 1910s](/images/sub2-3-hotel-de-europe.jpg)
 <div class="custom-caption">
 <div><p>Grand Hotel de l’Europe, 1910s</p></div>
 <div>Robert Feingold Collection, courtesy of National Archives of Singapore</div>

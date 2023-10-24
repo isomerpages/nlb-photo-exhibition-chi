@@ -6,7 +6,7 @@ breadcrumb: 'Thomson Road Reservoir, 1907'
 ---
 
 
-![Thomson Road Reservoir, 1907](/images/Sub3-6.jpg)
+![Thomson Road Reservoir, 1907](/images/sub3-6.jpg)
 <div class="custom-caption">
 <div><p>Thomson Road Reservoir, 1907</p></div>
 <div>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</div>

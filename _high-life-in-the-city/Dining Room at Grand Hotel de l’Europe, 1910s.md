@@ -6,7 +6,7 @@ breadcrumb: 'Dining Room at Grand Hotel de l’Europe, 1910s'
 ---
 
 
-![Dining Room at Grand Hotel de l’Europe, 1910s](/images/Sub2-4-Dining-Room.jpg)
+![Dining Room at Grand Hotel de l’Europe, 1910s](/images/sub2-4-dining-room.jpg)
 <div class="custom-caption">
 <div><p>Dining Room at Grand Hotel de l’Europe, 1910s</p></div>
 <div>Collection of National Library Singapore</div>

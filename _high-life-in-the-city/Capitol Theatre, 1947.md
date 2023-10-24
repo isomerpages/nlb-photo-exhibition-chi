@@ -6,7 +6,7 @@ breadcrumb: 'Capitol Theatre, 1947'
 ---
 
 
-![Capitol Theatre, 1947](/images/Sub2-8-Capitol-Theatre.jpg)
+![Capitol Theatre, 1947](/images/sub2-8-capitol-theatre.jpg)
 <div class="custom-caption">
 <div><p>Capitol Theatre, 1947</p></div>
 <div>Courtesy of National Archives of Singapore</div>

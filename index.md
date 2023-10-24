@@ -4,7 +4,7 @@ title: 'Memories of Two Cities'
 permalink: /
 sections:
     - hero:
-          background: /images/Memories-of-Two-Cities-1080p.jpg
+          background: /images/memories-of-two-cities-1080p.jpg
     - infopic:
           title: '双城往事 — 新加坡篇'
           subtitle: null

@@ -6,7 +6,7 @@ breadcrumb: 'High Street, 1920s'
 ---
 
 
-![High Street, 1920s](/images/Sub2-7-High-Street.jpg)
+![High Street, 1920s](/images/sub2-7-high-street.jpg)
 <div class="custom-caption">
 <div><p>High Street, 1920s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>

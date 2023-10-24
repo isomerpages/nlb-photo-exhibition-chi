@@ -6,7 +6,7 @@ breadcrumb: 'Interior of Raffles Library and Museum, 1900s'
 ---
 
 
-![Interior of Raffles Library and Museum, 1900s](/images/Sub2-11-Raffles-Museum-Interior.jpg)
+![Interior of Raffles Library and Museum, 1900s](/images/sub2-11-raffles-museum-interior.jpg)
 <div class="custom-caption">
 <div><p>Interior of Raffles Library and Museum, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>

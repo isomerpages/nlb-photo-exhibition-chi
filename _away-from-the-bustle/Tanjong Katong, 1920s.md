@@ -6,7 +6,7 @@ breadcrumb: 'Tanjong Katong, 1920s'
 ---
 
 
-![Tanjong Katong, 1920s](/images/Sub3-8-Tanjong-Katong-Singapore.jpg)
+![Tanjong Katong, 1920s](/images/sub3-8-tanjong-katong-singapore.jpg)
 <div class="custom-caption">
 <div><p>Tanjong Katong, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>

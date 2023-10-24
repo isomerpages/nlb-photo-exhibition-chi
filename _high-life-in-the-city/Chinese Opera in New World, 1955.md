@@ -6,7 +6,7 @@ breadcrumb: 'Chinese Opera in New World, 1955'
 ---
 
 
-![Chinese Opera in New World, 1955](/images/Sub2-13.jpg)
+![Chinese Opera in New World, 1955](/images/sub2-13.jpg)
 <div class="custom-caption">
 <div><p>Chinese Opera in New World, 1955</p></div>
 <div>Donald Moore Collection, courtesy of National Archives of Singapore</div>

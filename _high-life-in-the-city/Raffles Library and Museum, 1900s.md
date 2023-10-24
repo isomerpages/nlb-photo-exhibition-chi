@@ -6,7 +6,7 @@ breadcrumb: 'Raffles Library and Museum, 1900s'
 ---
 
 
-![Raffles Library and Museum, 1900s](/images/Sub2-10-Raffles-Museum.jpg)
+![Raffles Library and Museum, 1900s](/images/sub2-10-raffles-museum.jpg)
 <div class="custom-caption">
 <div><p>Raffles Library and Museum, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>

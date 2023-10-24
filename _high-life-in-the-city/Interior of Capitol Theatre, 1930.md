@@ -6,7 +6,7 @@ breadcrumb: 'Interior of Capitol Theatre, 1930'
 ---
 
 
-![Interior of Capitol Theatre, 1930](/images/Sub2-9.jpg)
+![Interior of Capitol Theatre, 1930](/images/sub2-9.jpg)
 <div class="custom-caption">
 <div><p>Interior of Capitol Theatre, 1930</p></div>
 <div>H Nugent Buckeridge Collection, courtesy of National Archives of Singapore</div>

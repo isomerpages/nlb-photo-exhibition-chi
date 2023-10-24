@@ -6,7 +6,7 @@ breadcrumb: 'Entrance of Botanical Gardens, 1900s'
 ---
 
 
-![Entrance of Botanical Gardens, 1900s](/images/Sub3-4-Entrance-Botanical-Garden.jpg)
+![Entrance of Botanical Gardens, 1900s](/images/sub3-4-entrance-botanical-garden.jpg)
 <div class="custom-caption">
 <div><p>Entrance of Botanical Gardens, 1900s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>

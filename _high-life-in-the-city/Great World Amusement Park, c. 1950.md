@@ -6,7 +6,7 @@ breadcrumb: 'Great World Amusement Park, c. 1950'
 ---
 
 
-![Great World Amusement Park, c. 1950](/images/Sub2-12-Great-World.jpg)
+![Great World Amusement Park, c. 1950](/images/sub2-12-great-world.jpg)
 <div class="custom-caption">
 <div><p>Great World Amusement Park, c. 1950</p></div>
 <div>Wong Kwan Collection, courtesy of National Archives of Singapore.</div>
