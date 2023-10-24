@@ -44,8 +44,8 @@ colors:
       color: '#00838f'
     - title: media-color-five
       color: '#00838f'
-staging: https://nlb-photo-exhibition-chi-staging.netlify.app
-prod: https://nlb-photo-exhibition-chi-prod.netlify.app
+staging: https://staging.d2cqa849pn1zyt.amplifyapp.com/
+prod: https://master.d2cqa849pn1zyt.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
