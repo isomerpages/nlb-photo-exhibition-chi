@@ -2,5 +2,5 @@ collections:
   left-nav-two:
     output: true
     order:
-      - 'Sub Page C'.md
-      - 'Sub Page D'.md
+      - Sub Page C.md
+      - Sub Page D.md

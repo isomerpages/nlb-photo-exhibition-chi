@@ -2,12 +2,12 @@ collections:
   away-from-the-bustle:
     output: true
     order:
-      - 'The Esplanade, 1920s'.md
-      - 'View of the Esplanade from the sea, c. 1920s'.md
-      - 'Botanical Gardens, 1900s'.md
-      - 'Entrance of Botanical Gardens, 1900s'.md
-      - 'Impounding Reservoir, 1890s'.md
-      - 'Thomson Road Reservoir, 1907'.md
-      - 'Alkaff Lake Gardens, 1920s'.md
-      - 'Tanjong Katong, 1920s'.md
-      - 'Beach at Tanjong Katong, 1920s'.md
+      - The Esplanade, 1920s.md
+      - View of the Esplanade from the sea, c. 1920s.md
+      - Botanical Gardens, 1900s.md
+      - Entrance of Botanical Gardens, 1900s.md
+      - Impounding Reservoir, 1890s.md
+      - Thomson Road Reservoir, 1907.md
+      - Alkaff Lake Gardens, 1920s.md
+      - Tanjong Katong, 1920s.md
+      - Beach at Tanjong Katong, 1920s.md

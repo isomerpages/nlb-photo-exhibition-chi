@@ -2,16 +2,16 @@ collections:
   high-life-in-the-city:
     output: true
     order:
-      - 'Raffles Hotel, 1900s'.md
-      - 'Raffles Hotel Ballroom, 1900s'.md
-      - 'Grand Hotel de l’Europe, 1910s'.md
-      - 'Dining Room at Grand Hotel de l’Europe, 1910s'.md
-      - 'Shopfront of John Little & Co., 1890s'.md
-      - 'Interior of John Little, c.1910s'.md
-      - 'High Street, 1920s'.md
-      - 'Capitol Theatre, 1947'.md
-      - 'Interior of Capitol Theatre, 1930'.md
-      - 'Raffles Library and Museum, 1900s'.md
-      - 'Interior of Raffles Library and Museum, 1900s'.md
-      - 'Great World Amusement Park, c. 1950'.md
-      - 'Chinese Opera in New World, 1955'.md
+      - Raffles Hotel, 1900s.md
+      - Raffles Hotel Ballroom, 1900s.md
+      - Grand Hotel de l’Europe, 1910s.md
+      - Dining Room at Grand Hotel de l’Europe, 1910s.md
+      - Shopfront of John Little & Co., 1890s.md
+      - Interior of John Little, c.1910s.md
+      - High Street, 1920s.md
+      - Capitol Theatre, 1947.md
+      - Interior of Capitol Theatre, 1930.md
+      - Raffles Library and Museum, 1900s.md
+      - Interior of Raffles Library and Museum, 1900s.md
+      - Great World Amusement Park, c. 1950.md
+      - Chinese Opera in New World, 1955.md
