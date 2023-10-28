@@ -1,0 +1,8 @@
+collections:
+  tropical-metropolis:
+    output: true
+    order:
+      - 热带都会风情/.keep
+      - 热带都会风情/车水马龙的要道.md
+      - 热带都会风情/高档的都市生活.md
+      - 热带都会风情/远离尘嚣.md

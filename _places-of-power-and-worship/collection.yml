@@ -1,0 +1,7 @@
+collections:
+  places-of-power-and-worship:
+    output: true
+    order:
+      - 权贵与敬拜之地/.keep
+      - 权贵与敬拜之地/权力重地.md
+      - 权贵与敬拜之地/敬拜之地.md

@@ -1,0 +1,24 @@
+logo: /images/memories-of-two-cities-logo.jpg
+links:
+    - title: '双城往事 — 新加坡篇'
+      url: /memories-of-two-cities-singapore/
+      false_collection: true
+      sublinks:
+            - title: 权贵与敬拜之地
+              url: /memories-of-two-cities-singapore/places-of-power-and-worship/
+            - title: 热带都会风情
+              url: /memories-of-two-cities-singapore/tropical-metropolis/
+            - title: 经济动脉
+              url: /memories-of-two-cities-singapore/centres-of-commerce/
+            - title: 民生百态
+              url: /memories-of-two-cities-singapore/all-walks-of-life/
+            - title: 民俗与节庆
+              url: /memories-of-two-cities-singapore/colourful-customs/
+            - title: 车水马龙
+              url: /memories-of-two-cities-singapore/a-city-in-motion/
+    - title: '双城往事 — 北京篇'
+      url: 'https://www.bjmem.com.cn/TwinsHistory/'
+    - title: 关于展览
+      url: /about-the-project/
+    - title: EN
+      url: 'https://memoriesoftwocities.nlb.gov.sg/'

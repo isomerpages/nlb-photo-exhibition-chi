@@ -1,0 +1,10 @@
+collections:
+  memories-of-two-cities-singapore:
+    output: true
+    order:
+      - 权贵与敬拜之地.md
+      - 热带都会风情.md
+      - 经济动脉.md
+      - 民生百态.md
+      - 民俗与节庆.md
+      - 车水马龙.md

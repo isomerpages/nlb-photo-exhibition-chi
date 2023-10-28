@@ -1,0 +1,8 @@
+collections:
+  all-walks-of-life:
+    output: true
+    order:
+      - 民生百态/.keep
+      - 民生百态/劳动的人们.md
+      - 民生百态/休闲娱乐的人们.md
+      - 民生百态/与亲朋留影.md

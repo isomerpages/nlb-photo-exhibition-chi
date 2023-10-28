@@ -1,0 +1,6 @@
+collections:
+  a-city-in-motion:
+    output: true
+    order:
+      - 车水马龙/.keep
+      - 车水马龙/车水马龙.md
