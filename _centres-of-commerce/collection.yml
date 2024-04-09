@@ -1,0 +1,8 @@
+collections:
+  centres-of-commerce:
+    output: true
+    order:
+      - 经济动脉/.keep
+      - 经济动脉/莱佛士坊.md
+      - 经济动脉/新加坡河.md
+      - 经济动脉/丹戎巴葛海港.md
