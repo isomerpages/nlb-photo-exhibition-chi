@@ -1,0 +1,54 @@
+title: 双城往事
+title-abbreviated: 双城往事
+description: '"“双城往事”是一个由中国首都图书馆与新加坡国家图书馆联合呈献的线上图片展，这项合作象征了两家机构友好的伙伴关系。"'
+url: 'https://memoriesoftwocities.nlb.gov.sg'
+google_analytics: UA-50449401-30
+google_analytics_ga4: G-0GPZ9E9N4G
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+paginate: 12
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+favicon: /images/memories-of-two-cities-icon.ico
+permalink: none
+baseurl: ""
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+colors:
+  primary-color: '#cf4000'
+  secondary-color: '#cf4000'
+  media-colors:
+    - title: media-color-one
+      color: '#49759a'
+    - title: media-color-two
+      color: '#744d9f'
+    - title: media-color-three
+      color: '#00838f'
+    - title: media-color-four
+      color: '#00838f'
+    - title: media-color-five
+      color: '#00838f'
+staging: https://staging.d2cqa849pn1zyt.amplifyapp.com/
+prod: https://master.d2cqa849pn1zyt.amplifyapp.com/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme

@@ -1,0 +1,7 @@
+collections:
+  colourful-customs:
+    output: true
+    order:
+      - 民俗与节庆/.keep
+      - 民俗与节庆/婚礼与丧礼.md
+      - 民俗与节庆/节庆活动.md
