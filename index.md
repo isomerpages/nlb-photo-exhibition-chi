@@ -21,5 +21,5 @@ sections:
       image: /images/china-exhibition-home.png
       alt: alt text
       button: 进入展览
-notification: Ending on 30 November 2024
+notification: 2024年11月30日结束
 ---
